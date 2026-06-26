@@ -1,0 +1,56 @@
+---
+layout: base.njk
+title: "Honest Reviews & Buying Guides"
+description: "NickPicks publishes independent product reviews and buying guides for home office, luxury beauty, fitness, kitchen, and pet tech. Find the best gear without the guesswork."
+permalink: /index.html
+eleventyExcludeFromCollections: true
+---
+
+<section class="hero">
+  <h1>Buy Less. Buy Better.</h1>
+  <p>Independent reviews and buying guides — home office, beauty, fitness, kitchen, and pet tech. No fluff, no paid rankings.</p>
+  <a href="#latest" class="btn-primary">Browse Reviews</a>
+</section>
+
+<section class="section" id="latest">
+  <div class="section-inner">
+    <h2 class="section-title">Latest Reviews &amp; Guides</h2>
+    <p class="section-subtitle">Recently published, thoroughly researched</p>
+
+    <div class="category-filters">
+      <a class="cat-badge active" href="/">All</a>
+      <a class="cat-badge" href="/categories/home-office/">Home Office</a>
+      <a class="cat-badge" href="/categories/luxury-beauty/">Luxury Beauty</a>
+      <a class="cat-badge" href="/categories/fitness/">Fitness</a>
+      <a class="cat-badge" href="/categories/kitchen/">Kitchen</a>
+      <a class="cat-badge" href="/categories/pet-tech/">Pet Tech</a>
+    </div>
+
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+      <article class="article-card">
+        <div class="card-body">
+          <span class="card-category">{{ article.data.category | categoryLabel }}</span>
+          <a href="{{ article.url }}" class="card-title" style="display:block">
+            <h3 class="card-title" style="font-size:1.05rem">{{ article.data.title }}</h3>
+          </a>
+          <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+          <div class="card-meta">
+            <span>{{ article.date | postDate }}</span>
+            <span>·</span>
+            <span>{{ article.data.readTime | default("8") }} min read</span>
+          </div>
+          <a href="{{ article.url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section" style="background: var(--color-surface);">
+  <div class="section-inner" style="text-align:center;max-width:600px">
+    <h2 class="section-title">Why Trust NickPicks?</h2>
+    <p style="color:var(--color-text-muted);margin-top:0.5rem">We read hundreds of reviews, compare specs, and cut through marketing copy to tell you which products are actually worth buying — and which ones to skip. Affiliate links help keep the site free; they never influence our rankings.</p>
+  </div>
+</section>

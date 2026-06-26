@@ -1,0 +1,14 @@
+{
+  "name": "affiliate-content-site",
+  "version": "1.0.0",
+  "description": "Amazon affiliate content website",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "watch": "eleventy --watch"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.2.0"
+  }
+}

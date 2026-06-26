@@ -1,0 +1,32 @@
+---
+layout: base.njk
+title: "Kitchen Reviews & Buying Guides"
+description: "Air fryers, instant pots, and kitchen essentials — the ones worth buying and the ones to skip."
+permalink: /categories/kitchen/index.html
+categorySlug: kitchen
+---
+<section class="section">
+  <div class="section-inner">
+    <h1 class="section-title">Kitchen</h1>
+    <p class="section-subtitle">Air fryers, instant pots, and kitchen essentials — the ones worth buying and the ones to skip.</p>
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.category == "kitchen" %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Kitchen</span>
+            <a href="{{ article.url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+            </div>
+            <a href="{{ article.url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

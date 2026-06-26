@@ -1,0 +1,16 @@
+{
+  "name": "NickPicks",
+  "tagline": "Honest Reviews & Buying Guides",
+  "description": "Independent product reviews and buying guides for home office, beauty, fitness, kitchen, and pet tech.",
+  "url": "https://nickpicks.com",
+  "siteUrl": "https://nickpicks.com",
+  "author": "NickPicks Editorial",
+  "twitterHandle": "@nickpicks",
+  "categories": [
+    { "slug": "home-office", "label": "Home Office" },
+    { "slug": "luxury-beauty", "label": "Luxury Beauty" },
+    { "slug": "fitness", "label": "Fitness" },
+    { "slug": "kitchen", "label": "Kitchen" },
+    { "slug": "pet-tech", "label": "Pet Tech" }
+  ]
+}

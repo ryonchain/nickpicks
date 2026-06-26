@@ -1,0 +1,50 @@
+---
+layout: base.njk
+---
+<div class="article-page-layout">
+
+  <article>
+    <header class="article-header">
+      <span class="category-tag"><a href="/categories/{{ category }}/">{{ category | categoryLabel }}</a></span>
+      <h1>{{ title }}</h1>
+      <div class="article-meta">
+        <span>{{ date | postDate }}</span>
+        <span>·</span>
+        <span>{{ readTime | default("8") }} min read</span>
+      </div>
+    </header>
+
+    <div class="disclosure-box">
+      <strong>Affiliate Disclosure:</strong> This article contains Amazon affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you. Our recommendations are always independent and based on merit.
+    </div>
+
+    <div class="article-body">
+      {{ content | safe }}
+    </div>
+  </article>
+
+  <aside class="sidebar">
+    <div class="sidebar-widget">
+      <h3>Related Articles</h3>
+      <ul class="sidebar-links">
+        {% set relatedArticles = collections.articlesByDate | selectattr("data.category", category) %}
+        {% for item in collections.articlesByDate %}
+          {% if item.data.category == category and item.url != page.url %}
+            <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="sidebar-widget">
+      <h3>Popular Guides</h3>
+      <ul class="sidebar-links">
+        {% for item in collections.articlesByDate | slice(0, 5) %}
+          {% if item.url != page.url %}
+            <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </aside>
+
+</div>
