@@ -5,7 +5,7 @@ layout: base.njk
 
   <article>
     <header class="article-header">
-      <span class="category-tag"><a href="/categories/{{ category }}/">{{ category | categoryLabel }}</a></span>
+      <span class="category-tag"><a href="{{ ('/categories/' ~ category ~ '/') | url }}">{{ category | categoryLabel }}</a></span>
       <h1>{{ title }}</h1>
       <div class="article-meta">
         <span>{{ date | postDate }}</span>
@@ -29,8 +29,8 @@ layout: base.njk
       <ul class="sidebar-links">
         {% set relatedArticles = collections.articlesByDate | selectattr("data.category", category) %}
         {% for item in collections.articlesByDate %}
-          {% if item.data.category == category and item.url != page.url %}
-            <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+          {% if item.data.category == category and (item.url | url) != page.url %}
+            <li><a href="{{ item.url | url }}">{{ item.data.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
@@ -39,8 +39,8 @@ layout: base.njk
       <h3>Popular Guides</h3>
       <ul class="sidebar-links">
         {% for item in collections.articlesByDate | slice(0, 5) %}
-          {% if item.url != page.url %}
-            <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+          {% if (item.url | url) != page.url %}
+            <li><a href="{{ item.url | url }}">{{ item.data.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>

@@ -18,12 +18,12 @@ eleventyExcludeFromCollections: true
     <p class="section-subtitle">Recently published, thoroughly researched</p>
 
     <div class="category-filters">
-      <a class="cat-badge active" href="/">All</a>
-      <a class="cat-badge" href="/categories/home-office/">Home Office</a>
-      <a class="cat-badge" href="/categories/luxury-beauty/">Luxury Beauty</a>
-      <a class="cat-badge" href="/categories/fitness/">Fitness</a>
-      <a class="cat-badge" href="/categories/kitchen/">Kitchen</a>
-      <a class="cat-badge" href="/categories/pet-tech/">Pet Tech</a>
+      <a class="cat-badge active" href="{{ '/' | url }}">All</a>
+      <a class="cat-badge" href="{{ '/categories/home-office/' | url }}">Home Office</a>
+      <a class="cat-badge" href="{{ '/categories/luxury-beauty/' | url }}">Luxury Beauty</a>
+      <a class="cat-badge" href="{{ '/categories/fitness/' | url }}">Fitness</a>
+      <a class="cat-badge" href="{{ '/categories/kitchen/' | url }}">Kitchen</a>
+      <a class="cat-badge" href="{{ '/categories/pet-tech/' | url }}">Pet Tech</a>
     </div>
 
     <div class="article-grid">
@@ -31,7 +31,7 @@ eleventyExcludeFromCollections: true
       <article class="article-card">
         <div class="card-body">
           <span class="card-category">{{ article.data.category | categoryLabel }}</span>
-          <a href="{{ article.url }}" class="card-title" style="display:block">
+          <a href="{{ article.url | url }}" class="card-title" style="display:block">
             <h3 class="card-title" style="font-size:1.05rem">{{ article.data.title }}</h3>
           </a>
           <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
@@ -40,7 +40,7 @@ eleventyExcludeFromCollections: true
             <span>·</span>
             <span>{{ article.data.readTime | default("8") }} min read</span>
           </div>
-          <a href="{{ article.url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
         </div>
       </article>
       {% endfor %}

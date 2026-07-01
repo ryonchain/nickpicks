@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: true
   <url><loc>{{ siteUrl }}/categories/pet-tech/</loc><priority>0.8</priority></url>
   {% for article in collections.articlesByDate %}
   <url>
-    <loc>{{ siteUrl }}{{ article.url }}</loc>
+    <loc>{{ siteUrl }}{{ article.url | stripPathPrefix }}</loc>
     <lastmod>{{ article.date | date("yyyy-MM-dd") }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

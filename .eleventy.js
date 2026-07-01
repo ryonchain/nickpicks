@@ -1,6 +1,5 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("public");
-  eleventyConfig.addPassthroughCopy("CNAME");
 
   // Date filters
   eleventyConfig.addFilter("postDate", (dateObj) => {
@@ -41,6 +40,11 @@ module.exports = function(eleventyConfig) {
     return end !== undefined ? arr.slice(start, end) : arr.slice(start);
   });
 
+  eleventyConfig.addFilter("stripPathPrefix", (url) => {
+    const prefix = "/nickpicks";
+    return url && url.startsWith(prefix) ? url.slice(prefix.length) || "/" : (url || "/");
+  });
+
   // Collections
   eleventyConfig.addCollection("articlesByDate", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/articles/*.md")
@@ -48,9 +52,10 @@ module.exports = function(eleventyConfig) {
   });
 
   // Global data
-  eleventyConfig.addGlobalData("siteUrl", "https://nickpicks.com");
+  eleventyConfig.addGlobalData("siteUrl", "https://ryonchain.github.io/nickpicks");
 
   return {
+    pathPrefix: "/nickpicks/",
     dir: {
       input: "src",
       output: "_site",

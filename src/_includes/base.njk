@@ -9,23 +9,23 @@
   <meta property="og:title" content="{{ title }} | NickPicks" />
   <meta property="og:description" content="{{ description | default('') }}" />
   <meta property="og:type" content="{% if layout == 'article.njk' %}article{% else %}website{% endif %}" />
-  <meta property="og:url" content="{{ siteUrl }}{{ page.url }}" />
+  <meta property="og:url" content="{{ siteUrl }}{{ page.url | stripPathPrefix }}" />
   <meta name="twitter:card" content="summary" />
-  <link rel="stylesheet" href="/style.css" />
-  <link rel="alternate" type="application/rss+xml" href="/feed.xml" title="NickPicks" />
+  <link rel="stylesheet" href="{{ '/style.css' | url }}" />
+  <link rel="alternate" type="application/rss+xml" href="{{ '/feed.xml' | url }}" title="NickPicks" />
 </head>
 <body>
 
 <header class="site-header">
   <div class="inner">
-    <a class="logo" href="/">Nick<span>Picks</span></a>
+    <a class="logo" href="{{ '/' | url }}">Nick<span>Picks</span></a>
     <nav aria-label="Main navigation">
       <ul class="nav-links">
-        <li><a href="/categories/home-office/">Home Office</a></li>
-        <li><a href="/categories/luxury-beauty/">Beauty</a></li>
-        <li><a href="/categories/fitness/">Fitness</a></li>
-        <li><a href="/categories/kitchen/">Kitchen</a></li>
-        <li><a href="/categories/pet-tech/">Pet Tech</a></li>
+        <li><a href="{{ '/categories/home-office/' | url }}">Home Office</a></li>
+        <li><a href="{{ '/categories/luxury-beauty/' | url }}">Beauty</a></li>
+        <li><a href="{{ '/categories/fitness/' | url }}">Fitness</a></li>
+        <li><a href="{{ '/categories/kitchen/' | url }}">Kitchen</a></li>
+        <li><a href="{{ '/categories/pet-tech/' | url }}">Pet Tech</a></li>
       </ul>
     </nav>
   </div>
@@ -45,20 +45,20 @@
       <div>
         <div class="footer-heading">Categories</div>
         <ul class="footer-links">
-          <li><a href="/categories/home-office/">Home Office</a></li>
-          <li><a href="/categories/luxury-beauty/">Luxury Beauty</a></li>
-          <li><a href="/categories/fitness/">Fitness</a></li>
-          <li><a href="/categories/kitchen/">Kitchen</a></li>
-          <li><a href="/categories/pet-tech/">Pet Tech</a></li>
+          <li><a href="{{ '/categories/home-office/' | url }}">Home Office</a></li>
+          <li><a href="{{ '/categories/luxury-beauty/' | url }}">Luxury Beauty</a></li>
+          <li><a href="{{ '/categories/fitness/' | url }}">Fitness</a></li>
+          <li><a href="{{ '/categories/kitchen/' | url }}">Kitchen</a></li>
+          <li><a href="{{ '/categories/pet-tech/' | url }}">Pet Tech</a></li>
         </ul>
       </div>
       <div>
         <div class="footer-heading">Site</div>
         <ul class="footer-links">
-          <li><a href="/">Home</a></li>
-          <li><a href="/about/">About</a></li>
-          <li><a href="/privacy/">Privacy Policy</a></li>
-          <li><a href="/affiliate-disclosure/">Affiliate Disclosure</a></li>
+          <li><a href="{{ '/' | url }}">Home</a></li>
+          <li><a href="{{ '/about/' | url }}">About</a></li>
+          <li><a href="{{ '/privacy/' | url }}">Privacy Policy</a></li>
+          <li><a href="{{ '/affiliate-disclosure/' | url }}">Affiliate Disclosure</a></li>
         </ul>
       </div>
     </div>
