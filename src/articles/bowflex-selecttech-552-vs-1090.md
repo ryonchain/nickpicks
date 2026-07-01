@@ -1,20 +1,12 @@
 ---
 layout: article.njk
-title: "Bowflex SelectTech 552 vs 1090: Which Adjustable Dumbbells Are Actually Worth It?"
-description: "We break down the real differences between the SelectTech 552 and 1090 — weight range, feel, price, and who should buy which."
+title: "Bowflex 552 vs 1090: Which Adjustable Dumbbells to Buy"
+description: "We compare the Bowflex SelectTech 552 vs 1090 head-to-head on weight range, increments, price, and size — so you buy the right set for your home gym."
 category: fitness
 date: 2026-06-11
 readTime: 7
 permalink: /articles/bowflex-selecttech-552-vs-1090/index.html
 ---
-
-**TITLE:** Bowflex SelectTech 552 vs 1090: Which Adjustable Dumbbells Are Actually Worth Buying?
-
-**META DESCRIPTION:** Bowflex 552 vs 1090 — compared head-to-head on weight range, price, size, and who each one is actually for. We cut through the marketing.
-
----
-
-> **Affiliate Disclosure:** This article contains Amazon affiliate links. If you buy through our links, we may earn a small commission at no extra cost to you.
 
 ## The Short Answer (If You're Already Sold on Adjustable Dumbbells)
 
@@ -26,9 +18,9 @@ Now, the longer version.
 
 ## Why Adjustable Dumbbells Are Worth the Investment
 
-A standard fixed dumbbell set from 5 to 90 lbs runs you thousands of dollars and takes up a wall of space. The SelectTech line replaces a full dumbbell rack with two units that dial into different weights in seconds.
+A standard fixed dumbbell set from 5 to 90 lbs runs you thousands of dollars and takes up a wall of space. The SelectTech line replaces a full dumbbell rack with two units that dial into different weights in seconds. A complete fixed dumbbell rack covering 5–90 lbs requires 15+ pairs — that's upward of $1,500–$2,000 in commercial-quality iron, plus a rack. The SelectTech replaces all of it with two units you can pick up in one hand. Beyond the cost, the time math matters: flipping a SelectTech dial takes under three seconds versus walking to a rack, pulling the right plates, and resetting — that adds up across a full workout. And floor space-wise, a full fixed rack occupies roughly 16 square feet of gym floor; both SelectTech units on a stand take about 2 square feet.
 
-For home gyms specifically, this is a game-changer. You're not renting commercial gym space — every square foot counts.
+For home gyms specifically, this is a game-changer. You're not renting commercial gym space — every square foot counts. If you also work from home, a well-organized [home office setup](/articles/best-home-office-setup-under-1000/) in the same space makes the investment in your home environment go even further.
 
 ---
 
@@ -87,7 +79,7 @@ But: Most home gym users realistically max out around 50–60 lbs on dumbbells. 
 - Beginners building strength progressively
 - Intermediate lifters (most exercises top out at 40–50 lbs)
 - Anyone training upper body in isolation movements (lateral raises, curls, flyes)
-- Home gym lifters who prioritize compact storage
+- Home gym lifters who prioritize compact storage and want the option to [work from the sofa](/articles/best-lap-desks-sofa-working-2026/) between sets
 
 ---
 
@@ -102,6 +94,20 @@ But: Most home gym users realistically max out around 50–60 lbs on dumbbells. 
 ## The Accessory You Need With Either Model
 
 A dedicated dumbbell stand makes both models significantly easier to use. The Bowflex SelectTech Stand — https://www.amazon.com — ASIN: B01N2JIPBM (~$99) stores both dumbbells at workout height, eliminating the need to squat down to a rack to change weights. It's a meaningful quality-of-life upgrade if you're using these daily.
+
+---
+
+## Quick Reference
+
+| Feature | 552 | 1090 |
+|---|---|---|
+| Price (pair) | ~$349 | ~$429 |
+| Weight range | 5–52.5 lbs | 10–90 lbs |
+| Increment steps | 2.5 lbs (to 25 lbs), then 5 lbs | 5 lbs throughout |
+| Dumbbell length | 15.75" | 17.5" |
+| Best for | Beginners to intermediate lifters | Experienced lifters needing 60–90 lbs |
+
+The table makes the decision straightforward: if you're working in the 5–52.5 lb range — which covers the vast majority of home gym exercises — the 552 hits every target at a lower price. The 1090 is a focused upgrade for experienced lifters who have genuinely maxed the ceiling.
 
 ---
 

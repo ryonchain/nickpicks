@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-title: "Herman Miller Aeron Review: Is It Worth $1,500?"
+title: "Herman Miller Aeron Review 2026: Is It Worth $1,500?"
 description: "The Herman Miller Aeron has been in production since 1994. After 3 months of daily use, here is the honest answer on whether it is worth the money."
 category: home-office
 date: 2026-06-16
@@ -8,23 +8,7 @@ readTime: 9
 permalink: /articles/herman-miller-aeron-review/index.html
 ---
 
-Herman Miller Aeron Review
-
-**Type:** Product Review  
-**Target keyword:** "Herman Miller Aeron review" / "is the Herman Miller Aeron worth it"  
-**Est. monthly searches:** 6,000–10,000  
-**AOV:** ~$1,495 (Size B, full recline)  
-**Amazon commission (4.5%):** $67.28/sale  
-**ShareASale potential (if available):** $89–$179/sale  
-**ASIN:** B0BTTTLNNL / B000HEZHNG (Aeron Size B Graphite)  
-
----
-
-*Disclosure: This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.*
-
-# Herman Miller Aeron Review: Is It Worth $1,500?
-
-The Herman Miller Aeron is the chair that every back-pain sufferer eventually Googles at 2am. It is $1,495. It is used in most major tech company offices. And it has been in production, largely unchanged, since 1994.
+The Herman Miller Aeron is the chair that every back-pain sufferer eventually Googles at 2am. It is $1,495. It is used in most major tech company offices. And it has been in production, largely unchanged, since 1994. If you're building a complete [home office setup](/articles/best-home-office-setup-under-1000/), the chair is one of the highest-impact investments you can make.
 
 After sitting in it for three months, here is the honest answer to whether it is worth the money.
 
@@ -54,7 +38,7 @@ At $1,495, the Aeron is not priced like office furniture — it is priced like a
 - You work fewer than 4 hours per day at a desk (not worth the price)
 - You are under 5'2" — the Aeron Size A is often recommended for shorter users but even that may not fit well
 - You prefer a soft cushion feel — the mesh is firm by design
-- Budget is under $700 — the Steelcase Series 1 ($500) or Humanscale Freedom Chair ($700) are better value alternatives at lower price points
+- Budget is under $700 — the Steelcase Series 1 ($500) or Humanscale Freedom Chair ($700) are better value alternatives at lower price points, or see our [best ergonomic chairs under $300](/articles/best-ergonomic-chair-under-300/) guide if you're not ready to spend $1,400
 
 ---
 
@@ -99,7 +83,7 @@ The two most commonly compared chairs at this price point:
 
 ## The Verdict
 
-The Herman Miller Aeron is worth $1,495 if you work at a desk 6+ hours per day and have any back, hip, or posture issues. The PostureFit SL lumbar support alone is a meaningful ergonomic upgrade over most chairs. The 12-year warranty makes it cheaper per year than a $500 chair you replace every 3 years.
+The Herman Miller Aeron is worth $1,495 if you work at a [standing desk](/articles/best-standing-desk-under-500/) or seated desk 6+ hours per day and have any back, hip, or posture issues. The PostureFit SL lumbar support alone is a meaningful ergonomic upgrade over most chairs. The 12-year warranty makes it cheaper per year than a $500 chair you replace every 3 years.
 
 It is not worth it as a status symbol or if you sit fewer than 4 hours per day.
 
@@ -107,7 +91,13 @@ It is not worth it as a status symbol or if you sit fewer than 4 hours per day.
 
 ---
 
-*Disclosure: This post contains Amazon affiliate links. Purchasing through them supports this site at no additional cost to you.*
+## Frequently Asked Questions
 
----
----
+**How long does a Herman Miller Aeron last?**  
+The standard answer is 10–15 years with normal use. Herman Miller's 12-year warranty is the practical floor — they back the chair for that long, which tells you how they rate its durability.
+
+**Does the Aeron work for tall people?**  
+Size C fits users over 6'2" and handles up to 350 lbs. The seat height range (16"–20.5") and arm height top out at levels that accommodate most tall frames. Check the seat depth (Size C: 17.5") for long femurs.
+
+**Is it worth buying refurbished?**  
+Yes, strongly. Herman Miller certified refurbished units typically cost $600–$900 and come with the remainder of the original warranty transferred. The chair's all-time durability means a 5-year-old Aeron in good condition still has a decade of useful life.

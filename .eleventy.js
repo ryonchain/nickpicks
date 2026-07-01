@@ -1,5 +1,6 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("public");
+  eleventyConfig.addPassthroughCopy("CNAME");
 
   // Date filters
   eleventyConfig.addFilter("postDate", (dateObj) => {

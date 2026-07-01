@@ -1,30 +1,12 @@
 ---
 layout: article.njk
-title: "Best Vitamin C Serums of 2026: 7 Dermatologist-Loved Picks, Ranked"
+title: "Best Vitamin C Serums 2026: Top 7 Dermatologist Picks"
 description: "Not all vitamin C serums are created equal. We rank the 7 best options by stability, bioavailability, and actual results — from budget to luxury."
 category: luxury-beauty
 date: 2026-06-12
 readTime: 9
 permalink: /articles/best-vitamin-c-serums-2026/index.html
 ---
-
-Best Vitamin C Serums Ranked by a Skincare Obsessive
-
-**Type:** Best-of Roundup  
-**Target keyword:** "best vitamin C serum" / "best vitamin C serum for face"  
-**Est. monthly searches:** 25,000–40,000  
-**Commercial intent:** High (very common purchase keyword; buyer comparing options)  
-**Commission at 10%:** ~$16.50–$27.00 per sale (avg product price $165–$270)  
-**Top ASINs:**  
-- SkinCeuticals C E Ferulic: B00AXN8ATU (~$165)  
-- SkinCeuticals Phloretin CF: B001AIT7CS (~$165)  
-- Paula's Choice C15 Super Booster: B005IHT94S (~$55)  
-
----
-
-*Disclosure: This post contains affiliate links. Purchasing through them supports this site at no additional cost to you.*
-
-# Best Vitamin C Serums of 2026: 7 Dermatologist-Loved Picks, Ranked
 
 Vitamin C is one of the few skincare ingredients with decades of peer-reviewed evidence behind it. It brightens hyperpigmentation, stimulates collagen, and protects against UV-induced oxidative damage — but only if you use the right formulation at the right concentration.
 
@@ -169,6 +151,4 @@ If you want the most proven formulation: **SkinCeuticals C E Ferulic** ([Amazon 
 If you have oily or acne-prone skin: **SkinCeuticals Phloretin CF** ([Amazon →](https://www.amazon.com/dp/B001AIT7CS)).  
 If you want results without the luxury price: **Paula's Choice C15** ([Amazon →](https://www.amazon.com/dp/B005IHT94S)).
 
----
-
-*Disclosure: This post contains Amazon affiliate links. Purchasing through them supports this site at no additional cost to you.*
+For a luxury moisturizer comparison at a similar price tier, see our [La Mer review](/articles/is-la-mer-worth-it-review/).
