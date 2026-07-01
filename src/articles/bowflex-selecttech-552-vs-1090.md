@@ -10,7 +10,7 @@ permalink: /articles/bowflex-selecttech-552-vs-1090/index.html
 
 ## The Short Answer (If You're Already Sold on Adjustable Dumbbells)
 
-If you're a beginner to intermediate lifter working up to about 52.5 lbs per dumbbell, get the **SelectTech 552** — https://www.amazon.com — ASIN: B001ARYU58. If you're an experienced lifter who regularly presses or rows 60–90 lbs, the **SelectTech 1090** is worth the extra investment — https://www.amazon.com — ASIN: B001ARYU2O.
+If you're a beginner to intermediate lifter working up to about 52.5 lbs per dumbbell, get the **[SelectTech 552](https://www.amazon.com/dp/B001ARYU58){rel="nofollow sponsored" target="_blank"}**. If you're an experienced lifter who regularly presses or rows 60–90 lbs, the **[SelectTech 1090](https://www.amazon.com/dp/B001ARYU2O){rel="nofollow sponsored" target="_blank"}** is worth the extra investment.
 
 Now, the longer version.
 
@@ -29,8 +29,7 @@ For home gyms specifically, this is a game-changer. You're not renting commercia
 - **Weight range:** 5–52.5 lbs per dumbbell (15 weight settings)
 - **Increment steps:** 2.5 lbs (up to 25 lbs), then 5 lbs increments
 - **Dumbbell length:** 15.75"
-- **Amazon price:** ~$349/pair — https://www.amazon.com
-- **ASIN:** B001ARYU58
+- **Amazon price:** ~$349/pair — [Check price on Amazon →](https://www.amazon.com/dp/B001ARYU58){rel="nofollow sponsored" target="_blank"}
 
 The 552 dials to weights in 2.5-lb increments up to 25 lbs, then jumps by 5 lbs to the max of 52.5 lbs. That granularity is ideal for progressive overload at the lighter end — important for shoulder exercises, isolation work, and beginners building a baseline.
 
@@ -41,8 +40,7 @@ The 552 dials to weights in 2.5-lb increments up to 25 lbs, then jumps by 5 lbs 
 - **Weight range:** 10–90 lbs per dumbbell (17 weight settings)
 - **Increment steps:** 5 lbs
 - **Dumbbell length:** 17.5"
-- **Amazon price:** ~$429/pair — https://www.amazon.com
-- **ASIN:** B001ARYU2O
+- **Amazon price:** ~$429/pair — [Check price on Amazon →](https://www.amazon.com/dp/B001ARYU2O){rel="nofollow sponsored" target="_blank"}
 
 The 1090 gives you an extra 37.5 lbs of max weight per hand over the 552. The tradeoff: it's heavier when set to lower weights and the handle is 2 inches longer — that changes the feel on some lifts.
 
@@ -93,7 +91,7 @@ But: Most home gym users realistically max out around 50–60 lbs on dumbbells. 
 
 ## The Accessory You Need With Either Model
 
-A dedicated dumbbell stand makes both models significantly easier to use. The Bowflex SelectTech Stand — https://www.amazon.com — ASIN: B01N2JIPBM (~$99) stores both dumbbells at workout height, eliminating the need to squat down to a rack to change weights. It's a meaningful quality-of-life upgrade if you're using these daily.
+A dedicated dumbbell stand makes both models significantly easier to use. The **[Bowflex SelectTech Stand on Amazon →](https://www.amazon.com/dp/B01N2JIPBM){rel="nofollow sponsored" target="_blank"}** (~$99) stores both dumbbells at workout height, eliminating the need to squat down to a rack to change weights. It's a meaningful quality-of-life upgrade if you're using these daily.
 
 ---
 

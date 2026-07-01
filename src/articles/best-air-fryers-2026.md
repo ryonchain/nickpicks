@@ -28,7 +28,7 @@ This guide cuts through the noise. We've ranked the six best air fryers of 2026 
 
 ### 1. Ninja AF101 Air Fryer — Best Overall Basket
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B07FDJMC9Q (~$99)
+**[Ninja AF101 on Amazon →](https://www.amazon.com/dp/B07FDJMC9Q){rel="nofollow sponsored" target="_blank"}** (~$99)
 
 The Ninja AF101 is the air fryer that's converted the most skeptics. At 4 quarts it's the right size for 1–3 people, heats to temp fast, and produces genuinely crispy fries in about 15 minutes with almost no oil.
 
@@ -48,7 +48,7 @@ The Ninja AF101 is the air fryer that's converted the most skeptics. At 4 quarts
 
 ### 2. Ninja DZ201 Foodi 8 Qt. 2-Basket — Best for Families
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B08GCG63NJ (~$169)
+**[Ninja DZ201 Foodi on Amazon →](https://www.amazon.com/dp/B08GCG63NJ){rel="nofollow sponsored" target="_blank"}** (~$169)
 
 This is the air fryer that changed how a lot of families cook. Two independent 4-quart baskets with separate temperature and time controls — the Smart Finish feature syncs them to finish at the same time. Cook chicken wings and sweet potato fries simultaneously without compromise.
 
@@ -68,7 +68,7 @@ This is the air fryer that changed how a lot of families cook. Two independent 4
 
 ### 3. Cosori Pro LE 5-Qt. Air Fryer — Best for Meal Preppers
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B09LGZT7VH (~$89)
+**[Cosori Pro LE on Amazon →](https://www.amazon.com/dp/B09LGZT7VH){rel="nofollow sponsored" target="_blank"}** (~$89)
 
 The Cosori Pro LE is the best air fryer under $100 for people who actually plan their meals. The companion app has 100+ guided recipes with precise time and temperature presets, and the square basket gives you more usable cooking surface than a round 5-qt.
 
@@ -88,7 +88,7 @@ The Cosori Pro LE is the best air fryer under $100 for people who actually plan 
 
 ### 4. Instant Vortex Plus 6-in-1 — Best Multi-Function
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B07TS7SQ94 (~$79)
+**[Instant Vortex Plus on Amazon →](https://www.amazon.com/dp/B07TS7SQ94){rel="nofollow sponsored" target="_blank"}** (~$79)
 
 From the makers of the Instant Pot, the Vortex Plus does six things well: air fry, bake, broil, roast, dehydrate, and reheat. If you want to replace multiple appliances with one unit, this is your pick.
 
@@ -108,7 +108,7 @@ From the makers of the Instant Pot, the Vortex Plus does six things well: air fr
 
 ### 5. Breville Smart Oven Air Fryer Pro — Best Air Fryer Oven
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B00XBOXS4Y (~$399)
+**[Breville Smart Oven Air Fryer Pro on Amazon →](https://www.amazon.com/dp/B00XBOXS4Y){rel="nofollow sponsored" target="_blank"}** (~$399)
 
 If you cook for a household of 4+ or want a true oven replacement, the Breville Smart Oven Air Fryer Pro is the premium option. 13 cooking functions, Element IQ heating that adjusts power distribution automatically, and enough interior space for a 9x13 pan.
 
@@ -128,7 +128,7 @@ If you cook for a household of 4+ or want a true oven replacement, the Breville 
 
 ### 6. Amazon Basics 2.2 Qt. Air Fryer — Best Compact
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B09KBCK2GB (~$39)
+**[Amazon Basics 2.2 Qt Air Fryer on Amazon →](https://www.amazon.com/dp/B09KBCK2GB){rel="nofollow sponsored" target="_blank"}** (~$39)
 
 For solo cooks or those who just want to crisp up leftovers, the Amazon Basics 2.2 Qt. is the most affordable entry point. It does one thing — air fry — and does it acceptably.
 

@@ -26,7 +26,7 @@ A monitor stand takes up a fixed amount of your desk footprint. A monitor arm gi
 
 ### Ergotron LX Single Monitor Arm — The Premium Standard
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B00BST5CCY (~$149)
+**[Ergotron LX on Amazon →](https://www.amazon.com/dp/B00BST5CCY){rel="nofollow sponsored" target="_blank"}** (~$149)
 
 The [Ergotron LX](/articles/ergotron-lx-monitor-arm-review/) is the reference point for consumer monitor arms. It's the arm that serious home office builders recommend, the one that shows up in every productivity YouTuber's desk setup, and the one that comes closest to matching what you'd find in a professional monitor configuration system.
 
@@ -53,7 +53,7 @@ The [Ergotron LX](/articles/ergotron-lx-monitor-arm-review/) is the reference po
 
 ### VIVO Dual Monitor Arm — The Value Challenger
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B00MIBN16O (~$49)
+**[VIVO Dual Monitor Arm on Amazon →](https://www.amazon.com/dp/B00MIBN16O){rel="nofollow sponsored" target="_blank"}** (~$49)
 
 VIVO's dual arm is the bestselling monitor mount in its category on Amazon. At roughly $49 for a dual-arm setup, it undercuts Ergotron's single arm pricing. That value equation is genuinely compelling if you're equipping a budget home office.
 
@@ -139,8 +139,8 @@ The Ergotron LX at ~$149 is the right call for a primary [home office](/articles
 
 Regardless of which arm you pick, these accessories improve the setup:
 
-- **Monitor calibration kit:** For color-accurate work — Amazon Basics Calibration Gray Card — https://www.amazon.com — ASIN: B00K7TM17C
-- **Desk grommets:** For routing cables cleanly through desk — Amazon Basics Desk Grommet — https://www.amazon.com — ASIN: B07DCYXQZQ
+- **Monitor calibration kit:** For color-accurate work — **[Amazon Basics Calibration Gray Card on Amazon →](https://www.amazon.com/dp/B00K7TM17C){rel="nofollow sponsored" target="_blank"}**
+- **Desk grommets:** For routing cables cleanly through desk — **[Amazon Basics Desk Grommet on Amazon →](https://www.amazon.com/dp/B07DCYXQZQ){rel="nofollow sponsored" target="_blank"}**
 
 ---
 

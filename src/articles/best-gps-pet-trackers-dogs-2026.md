@@ -32,7 +32,7 @@ More importantly: the emotional cost of a missing pet is not something you want 
 
 ### 1. Tractive GPS Dog Tracker — Best Overall
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B07CSMBPTH (~$49 device + $5–$13/month subscription)
+**[Tractive GPS Dog Tracker on Amazon →](https://www.amazon.com/dp/B07CSMBPTH){rel="nofollow sponsored" target="_blank"}** (~$49 device + $5–$13/month subscription)
 
 Tractive is the most popular GPS pet tracker in the world for a reason. Real-time tracking updates every 2–3 seconds, global coverage in 175+ countries, and a live location map that updates in the app instantly.
 
@@ -55,7 +55,7 @@ Tractive is the most popular GPS pet tracker in the world for a reason. Real-tim
 
 ### 2. Fi Series 3 Smart Dog Collar — Best Battery Life
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B0BQ8FRZ34 (~$149 + $9.99/month)
+**[Fi Series 3 Smart Dog Collar on Amazon →](https://www.amazon.com/dp/B0BQ8FRZ34){rel="nofollow sponsored" target="_blank"}** (~$149 + $9.99/month)
 
 The Fi Series 3 is the premium option — it's a full GPS collar (not an add-on tracker) with a claimed battery life of 3 months on LTE mode and even longer in GPS-only mode. The added durability and battery make it worth the higher upfront cost for high-activity dogs.
 
@@ -77,8 +77,8 @@ The Fi Series 3 is the premium option — it's a full GPS collar (not an add-on 
 
 ### 3. Apple AirTag (with Collar Holder) — Best for iPhone Users
 
-**Amazon affiliate link — AirTag:** https://www.amazon.com — ASIN: B0933BVK6T (~$29 each)
-**Amazon affiliate link — AirTag collar holder:** https://www.amazon.com — ASIN: B09JK5N85S (~$15)
+**[Apple AirTag on Amazon →](https://www.amazon.com/dp/B0933BVK6T){rel="nofollow sponsored" target="_blank"}** (~$29 each)
+**[AirTag Dog Collar Holder on Amazon →](https://www.amazon.com/dp/B09JK5N85S){rel="nofollow sponsored" target="_blank"}** (~$15)
 
 The AirTag isn't built for pets but it works — particularly for iPhone users already in the Apple ecosystem. Precision Finding will guide you to your dog with directional arrows when within Bluetooth range, and Find My network coverage means any iPhone user nearby pings your tag's location anonymously.
 
@@ -101,7 +101,7 @@ The AirTag isn't built for pets but it works — particularly for iPhone users a
 
 ### 4. Whistle Go Explore — Best for Vet Health Insights
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B08GJ11NXD (~$79 + $9.99–$14.99/month)
+**[Whistle Go Explore on Amazon →](https://www.amazon.com/dp/B08GJ11NXD){rel="nofollow sponsored" target="_blank"}** (~$79 + $9.99–$14.99/month)
 
 The Whistle Go Explore combines GPS tracking with health and wellness monitoring. It tracks activity, sleep quality, scratching, and licking patterns — giving you health baselines that can flag abnormal behavior before a vet visit reveals a problem.
 
@@ -123,7 +123,7 @@ The Whistle Go Explore combines GPS tracking with health and wellness monitoring
 
 ### 5. Jiobit Smart Tag — Best for Small Dogs
 
-**Amazon affiliate link:** https://www.amazon.com — ASIN: B07QBFBWJQ (~$79 + $8.99/month)
+**[Jiobit Smart Tag on Amazon →](https://www.amazon.com/dp/B07QBFBWJQ){rel="nofollow sponsored" target="_blank"}** (~$79 + $8.99/month)
 
 The Jiobit is the smallest and lightest GPS tracker on this list at just 0.44 oz — ideal for dogs under 20 lbs where a bulky unit would be uncomfortable. It uses a layered multi-network approach (GPS + LTE + Wi-Fi + Bluetooth) for stronger location accuracy indoors.
 
