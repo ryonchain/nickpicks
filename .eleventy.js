@@ -25,6 +25,7 @@ module.exports = function(eleventyConfig) {
       "kitchen": "Kitchen",
       "fitness": "Fitness",
       "pet-tech": "Pet Tech",
+      "smart-home": "Smart Home",
     };
     return labels[slug] || slug;
   });

@@ -11,6 +11,7 @@
     { "slug": "luxury-beauty", "label": "Luxury Beauty" },
     { "slug": "fitness", "label": "Fitness" },
     { "slug": "kitchen", "label": "Kitchen" },
-    { "slug": "pet-tech", "label": "Pet Tech" }
+    { "slug": "pet-tech", "label": "Pet Tech" },
+    { "slug": "smart-home", "label": "Smart Home" }
   ]
 }
