@@ -62,6 +62,29 @@
 }
 </script>
 {% endif %}
+
+{# FAQPage schema for articles with faqs frontmatter #}
+{% if faqs and faqs.length %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for faq in faqs %}
+    {
+      "@type": "Question",
+      "name": {{ faq.question | dump | safe }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ faq.answer | dump | safe }}
+      }
+    }{% if not loop.last %},{% endif %}
+
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
 {% endif %}
 
 {# ItemList for category pages (requires categorySlug frontmatter) #}

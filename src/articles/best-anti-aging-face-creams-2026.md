@@ -25,6 +25,15 @@ products:
   - name: "Neutrogena Rapid Wrinkle Repair"
     position: 6
     description: "Best Budget Retinol Cream"
+faqs:
+  - question: "At what age should I start using anti-aging cream?"
+    answer: "Prevention is easier than correction. Start with SPF in your 20s. Add a retinol or antioxidant serum in your late 20s to early 30s. Rich anti-aging creams are most impactful in your 40s+ when skin produces less natural oil and collagen."
+  - question: "Can I use retinol and vitamin C together?"
+    answer: "Yes, but separate them by time of day. Use vitamin C in the morning (antioxidant protection) and retinol at night (cell renewal). Using both at the same time can cause irritation and reduce effectiveness."
+  - question: "How long until I see results from anti-aging cream?"
+    answer: "Hydration: immediate. Niacinamide for dark spots and pores: 4–8 weeks. Retinol for wrinkles and texture: 3–6 months for meaningful results. Peptides for firmness: 8–12 weeks."
+  - question: "Why does luxury skincare cost so much?"
+    answer: "Premium packaging, brand heritage, clinical study investment, and sometimes genuinely better formulations. However, Olay Regenerist and Neutrogena Rapid Wrinkle Repair have beaten luxury creams in blind panel tests repeatedly. Price is not always correlated with results."
 ---
 
 Anti-aging face creams are one of the biggest skincare categories — and one of the most confusing. Every product promises miracles; few deliver. We evaluated 14 face creams across active ingredient quality, texture, user-testing results, and value to find the best options at every price point.

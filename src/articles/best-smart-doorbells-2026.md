@@ -30,6 +30,15 @@ products:
 layout: article.njk
 category: smart-home
 permalink: /articles/best-smart-doorbells-2026/index.html
+faqs:
+  - question: "Do smart doorbells work without Wi-Fi?"
+    answer: "No — all smart doorbells require Wi-Fi to stream video and send alerts. They store alerts locally (Eufy) or in the cloud (Ring, Nest, Arlo) but need internet to function."
+  - question: "What's the best smart doorbell without a subscription?"
+    answer: "The Eufy Security E340. It stores everything locally via the included HomeBase hub. No monthly fees, ever."
+  - question: "How long do battery doorbells last?"
+    answer: "Ring Doorbell 4: 6–12 weeks. Nest Doorbell (battery): 4–8 weeks. Arlo Wire-Free: up to 6 months (best in class)."
+  - question: "Do I need professional installation for a smart doorbell?"
+    answer: "No. All doorbells listed here include step-by-step apps and take 15–30 minutes to install with a screwdriver. Wired models need an existing doorbell transformer (included in most homes built after 1970)."
 ---
 
 A smart doorbell does two things: it deters package theft and lets you talk to whoever's at your door from anywhere in the world. But not all smart doorbells are equal — some have terrible night vision, others require a paid subscription to see recorded footage, and a few drain their battery in two weeks flat.

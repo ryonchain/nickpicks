@@ -7,6 +7,25 @@ date: 2026-07-02
 readTime: 10
 permalink: /articles/best-gaming-chairs-under-500-2026/index.html
 tags: ["gaming", "chair", "ergonomics", "home office", "setup"]
+products:
+  - name: "Secretlab TITAN Evo 2022"
+    position: 1
+    description: "Best Overall Gaming Chair"
+  - name: "Razer Iskur V2"
+    position: 2
+    description: "Best Lumbar Support + Style"
+  - name: "AndaSeat Kaiser 3"
+    position: 3
+    description: "Best Value Ergonomics"
+  - name: "DXRacer Formula Series"
+    position: 4
+    description: "Best Budget Entry"
+  - name: "Corsair T3 Rush"
+    position: 5
+    description: "Best Soft Fabric Alternative"
+  - name: "RESPAWN 110"
+    position: 6
+    description: "Best Budget Pick"
 ---
 
 *Affiliate disclosure: NickPicks earns a commission if you buy through our links, at no extra cost to you.*

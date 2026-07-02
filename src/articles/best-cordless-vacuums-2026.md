@@ -22,6 +22,15 @@ products:
   - name: "Shark IZ662H"
     position: 5
     description: "Best Budget Cordless Vacuum"
+faqs:
+  - question: "How long do cordless vacuum batteries last?"
+    answer: "Modern lithium-ion batteries last 3–5 years with regular use. Both Dyson and Shark offer replacement batteries for $50–80."
+  - question: "Is Dyson worth the premium over Shark?"
+    answer: "On deep-pile carpet and fine dust detection, yes. For most homes with mixed flooring and pet hair, the Shark Stratos closes the gap significantly."
+  - question: "Can cordless vacuums replace uprights?"
+    answer: "For homes under 2,500 sq ft, yes — especially with self-emptying bases becoming available for cordless models. For larger homes, a corded upright as a backup is worth having."
+  - question: "What's the best cordless vacuum for pet hair?"
+    answer: "The Dyson V15 Detect and Shark Stratos IZ862H are tied for pet hair — both use anti-wrap technology that prevents tangled bristles. The Dyson V15's laser also reveals pet dander on hard floors."
 ---
 
 Cordless vacuums have replaced uprights in millions of homes — and the gap between cheap and premium has never been clearer. We tested 10 models across carpet, hardwood, and tile with real pet hair, cereal, and fine debris to separate marketing claims from actual suction. Here's what we found.

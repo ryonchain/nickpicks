@@ -22,6 +22,15 @@ products:
   - name: "Anker Soundcore Q45"
     position: 5
     description: "Best Budget Pick"
+faqs:
+  - question: "Sony WH-1000XM5 vs. WH-1000XM4 — is the upgrade worth it?"
+    answer: "The XM5 has better ANC (especially for mid-frequency noise like voices), improved microphone quality, and slightly better call performance. The XM4 has better fold-ability for travel and often sells for $100 less. For WFH, the XM5's microphone improvement is the meaningful upgrade. If price matters, the XM4 at $279 is still excellent."
+  - question: "Do noise-canceling headphones work for open offices?"
+    answer: "Yes, for the ambient buzz. No, for loud conversations directly next to you — no ANC eliminates human speech volume when someone is 2 feet away. For open offices with lots of conversation, a combination of ANC + white noise through the headphones works best."
+  - question: "Wired vs. wireless for WFH?"
+    answer: "Wireless wins for WFH. The freedom to grab coffee, walk to the kitchen, or stand up without unplugging is genuinely quality-of-life improving. Wireless audio latency has improved to the point that it's imperceptible for video calls. Only audio professionals who need sample-accurate monitoring should choose wired."
+  - question: "Can I use these for phone calls without my computer?"
+    answer: "Yes — all picks support Bluetooth connection to smartphones. Multipoint models (Sony XM5, Anker Q45) can pair to laptop and phone simultaneously so call audio automatically routes to the device with an active call."
 ---
 
 Work-from-home headphones have one job: let you focus in a noisy environment and sound professional on calls. The best ones block ambient noise well enough that you'll stop noticing the HVAC, neighborhood traffic, or family members — and the microphone quality is good enough that your colleagues stop asking you to repeat yourself.
