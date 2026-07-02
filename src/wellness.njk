@@ -1,0 +1,29 @@
+---
+layout: base.njk
+title: "Wellness & Fitness Gear Reviews"
+description: "Home gym equipment, ergonomic tools, standing desks, and recovery gear — reviews that help you stay active, comfortable, and healthy while working from home."
+permalink: /wellness/index.html
+---
+<section class="section">
+  <div class="section-inner">
+    <h1 class="section-title">Wellness &amp; Fitness</h1>
+    <p class="section-subtitle">Home gym equipment, standing desks, ergonomic chairs, and recovery gear — everything that keeps you moving and feeling good.</p>
+    <div class="article-grid">
+      {% for article in collections.wellnessArticles %}
+      <article class="article-card">
+        <div class="card-body">
+          <span class="card-category">{{ article.data.category | categoryLabel }}</span>
+          <a href="{{ article.url | url }}" style="display:block">
+            <h2 class="card-title">{{ article.data.title }}</h2>
+          </a>
+          <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+          <div class="card-meta">
+            <span>{{ article.date | postDate }}</span>
+          </div>
+          <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -46,9 +46,29 @@ module.exports = function(eleventyConfig) {
     return url && url.startsWith(prefix) ? url.slice(prefix.length) || "/" : (url || "/");
   });
 
+  eleventyConfig.addFilter("whereCategory", (arr, category) => {
+    return (arr || []).filter(item => item.data && item.data.category === category);
+  });
+
   // Collections
   eleventyConfig.addCollection("articlesByDate", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/articles/*.md")
+      .sort((a, b) => b.date - a.date);
+  });
+
+  eleventyConfig.addCollection("wellnessArticles", function(collectionApi) {
+    const wellnessKeywords = ["ergonomic", "standing-desk", "standing desk", "massage", "treadmill", "sleep"];
+    return collectionApi.getFilteredByGlob("src/articles/*.md")
+      .filter(article => {
+        const category = article.data.category;
+        if (category === "fitness") return true;
+        if (category === "home-office") {
+          const title = (article.data.title || "").toLowerCase();
+          const url = (article.url || "").toLowerCase();
+          return wellnessKeywords.some(kw => title.includes(kw) || url.includes(kw));
+        }
+        return false;
+      })
       .sort((a, b) => b.date - a.date);
   });
 

@@ -1,0 +1,32 @@
+---
+layout: base.njk
+title: "Home Office Reviews & Buying Guides"
+description: "Best standing desks, ergonomic chairs, monitor arms, keyboards, and webcams — honest reviews to build the perfect home office without overspending."
+permalink: /home-office/index.html
+categorySlug: home-office
+---
+<section class="section">
+  <div class="section-inner">
+    <h1 class="section-title">Home Office</h1>
+    <p class="section-subtitle">Standing desks, ergonomic chairs, monitor arms, and everything you need to build a workspace that works — without overspending.</p>
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.category == "home-office" %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Home Office</span>
+            <a href="{{ article.url | url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+            </div>
+            <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

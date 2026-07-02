@@ -13,6 +13,7 @@
   <meta name="twitter:card" content="summary" />
   <link rel="stylesheet" href="{{ '/style.css' | url }}" />
   <link rel="alternate" type="application/rss+xml" href="{{ '/feed.xml' | url }}" title="NickPicks" />
+  {% include "structured-data.njk" %}
   {% if site.ga4MeasurementId and site.ga4MeasurementId != "G-XXXXXXXXXX" %}
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4MeasurementId }}"></script>
