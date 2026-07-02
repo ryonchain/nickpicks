@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Stand Mixers 2026: KitchenAid vs Bosch vs Cuisinart (Ranked by Real Bakers)"
-description: "Best stand mixers of 2026 ranked by motor power, bowl capacity, and attachment ecosystem. KitchenAid Artisan still leads — but two challengers offer better value."
+description: "Best stand mixers of 2026 ranked by motor power and attachment ecosystem. KitchenAid Artisan leads — see which challengers offer better value."
 category: kitchen
 date: 2026-07-02
 readTime: 10

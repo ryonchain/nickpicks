@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best USB-C Docking Stations in 2026: One Cable, Every Port"
-description: "The best USB-C docking stations in 2026 for remote workers and creators. One cable to power your monitor, keyboard, mouse, and drives — ranked by port count, speed, and value."
+description: "Best USB-C docking stations of 2026 for remote workers. One cable to power everything — ranked by port count, speed, and value. Find yours."
 category: home-office
 date: 2026-07-02
 readTime: 9

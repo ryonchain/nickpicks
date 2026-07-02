@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Gaming Headsets 2026: Wired vs Wireless vs Console-Specific (Ranked by Audio Quality)"
-description: "Best gaming headsets of 2026 ranked by sound stage, microphone quality, and build. SteelSeries Arctis Nova Pro Wireless leads — but two budget picks punch way above their price."
+description: "Best gaming headsets of 2026 ranked by sound stage and microphone quality. SteelSeries Arctis Nova Pro leads — plus two budget picks that overdeliver."
 category: home-office
 date: 2026-07-02
 readTime: 11

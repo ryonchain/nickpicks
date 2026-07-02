@@ -24,7 +24,7 @@ products:
     description: "~$250"
 faqs:
   - question: "What is the best standing desk under $500?"
-    answer: "The FlexiSpot E7 is the best standing desk under $500 — its dual-motor lift, 275 lb capacity, and height range of 22.8–48.4 inches covers users from 4'9" to 6'7" at a consistent $400 street price."
+    answer: "The FlexiSpot E7 is the best standing desk under $500 — its dual-motor lift, 275 lb capacity, and height range of 22.8–48.4 inches covers users from 4'9\" to 6'7\" at a consistent $400 street price."
   - question: "How do I set the correct standing desk height?"
     answer: "Stand naturally, let your arms fall to your sides, then bend your elbows to 90 degrees — the desk surface should meet your hands at that height. For most people, this is approximately hip-to-belly-button height while standing in shoes."
   - question: "Are standing desks worth buying?"

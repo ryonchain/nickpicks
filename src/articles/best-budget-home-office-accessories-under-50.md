@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Budget Home Office Accessories Under $50 in 2026: Big Upgrades, Small Spend"
-description: "The best home office upgrades under $50 in 2026 — cable management, monitor stands, USB hubs, and desk accessories that make work better for less than a restaurant dinner."
+description: "Best home office accessories under $50 in 2026. Cable management, monitor stands, USB hubs — upgrade your desk without spending a fortune."
 category: home-office
 date: 2026-07-01
 readTime: 9

@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Pro Home Office Setup Guide 2026: From $50 to $500 — Every Tier Ranked"
-description: "The ultimate pro home office setup guide for 2026. Build the right desk setup at $50, $150, or $300+ — every item ranked for productivity, ergonomics, and aesthetics."
+description: "Build the perfect home office in 2026. $50, $150, or $300+ desk setups — every item ranked for productivity and ergonomics. Start here."
 category: home-office
 date: 2026-07-02
 readTime: 12

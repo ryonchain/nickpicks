@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Anti-Aging Face Creams 2026: Dermatologist-Recommended Picks"
-description: "The best anti-aging face creams tested for wrinkle reduction, hydration, and skin texture. Our top picks range from drugstore heroes to luxury formulas worth the splurge."
+description: "Best anti-aging face creams of 2026 tested for wrinkle reduction and hydration. Drugstore to luxury — find the right pick for your skin."
 category: luxury-beauty
 date: 2026-07-01
 readTime: 11

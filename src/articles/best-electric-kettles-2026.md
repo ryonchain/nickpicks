@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Electric Kettles 2026: Pour-Over, Variable Temp, and Fast-Boil Picks"
-description: "From precision pour-over goosenecks to fast-boiling everyday kettles, we tested the best electric kettles of 2026. Our top picks for coffee enthusiasts, tea drinkers, and budget buyers."
+description: "Best electric kettles of 2026 tested for coffee and tea — precision goosenecks to fast-boiling everyday picks. Find the right kettle for you."
 category: kitchen
 date: 2026-07-01
 readTime: 10

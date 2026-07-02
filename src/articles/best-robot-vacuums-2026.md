@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Robot Vacuums 2026: Tested & Ranked for Every Home"
-description: "Looking for the best robot vacuum? We tested 12 models to find the top picks for pet hair, hardwood floors, carpets, and tight budgets. Our #1 pick handles hair tangles automatically."
+description: "Best robot vacuums of 2026 tested for pet hair, hardwood, and carpet. Our #1 pick handles tangles automatically — find the right model."
 category: smart-home
 date: 2026-07-01
 readTime: 10

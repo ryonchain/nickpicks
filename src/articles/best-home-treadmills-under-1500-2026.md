@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Home Treadmills Under $1500 in 2026: Expert Picks for Every Runner"
-description: "Looking for the best home treadmill under $1500? We compared 10 models for speed, incline, cushioning, and folding design. Our top pick fits a studio apartment and handles marathon training."
+description: "Best home treadmills under $1,500 compared for speed, incline, and folding design. Our top pick fits any apartment — find yours today."
 category: fitness
 date: 2026-07-01
 readTime: 12

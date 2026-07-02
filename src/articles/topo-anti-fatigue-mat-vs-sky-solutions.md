@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Topo Anti-Fatigue Mat vs Sky Solutions Standing Mat: Which Is Better?"
-description: "Topo vs Sky Solutions standing mat — we compare terrain design, fatigue reduction, thickness, size options, durability, and price so you pick the right anti-fatigue mat."
+description: "Topo vs Sky Solutions anti-fatigue mat compared: terrain design, thickness, durability, and price. Find the right standing mat for your desk."
 category: home-office
 date: 2026-07-01
 readTime: 8

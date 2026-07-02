@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Cordless Vacuums 2026: Dyson vs Shark (and Who Actually Wins)"
-description: "We tested 10 cordless vacuums head-to-head. The Dyson V15 Detect is the benchmark, but Shark's Stratos undercuts it by $200 with 90% of the performance. Here's the full breakdown."
+description: "Best cordless vacuums of 2026 tested head-to-head. Dyson vs Shark vs Bissell — find the top pick for pet hair, carpet, and hard floors."
 category: home-cleaning
 date: 2026-07-01
 readTime: 11

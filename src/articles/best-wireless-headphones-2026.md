@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Wireless Headphones 2026: Sony vs Apple vs Bose (Ranked)"
-description: "We tested 8 premium wireless headphones for ANC, sound quality, and comfort over 40 hours. Sony WH-1000XM5 remains king — but a $249 Bose challenger comes closer than ever."
+description: "Best wireless headphones of 2026 tested for ANC, sound quality, and comfort. Sony WH-1000XM5 leads — find the right pick for your budget."
 category: audio-tech
 date: 2026-07-01
 readTime: 12

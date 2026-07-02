@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Logitech MX Keys vs Keychron K4: Which Keyboard Wins in 2026?"
-description: "Logitech MX Keys vs Keychron K4 — low-profile quiet typing vs mechanical satisfaction. We compare switches, connectivity, battery, and use cases so you pick the right keyboard."
+description: "Logitech MX Keys vs Keychron K4: quiet typing vs mechanical feel compared for switches, connectivity, and battery. Find the right keyboard."
 category: home-office
 date: 2026-07-01
 readTime: 9

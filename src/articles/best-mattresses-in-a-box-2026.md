@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Mattresses in a Box 2026: Casper vs Purple vs Nectar vs Saatva (Tested)"
-description: "We researched every major bed-in-a-box brand to find the best mattress for every sleeper type in 2026. Firmness, pressure relief, cooling, and edge support all rated."
+description: "Best mattresses in a box of 2026 tested for firmness, cooling, and pressure relief. Find the right bed-in-a-box for your sleep style."
 category: home-office
 date: 2026-07-02
 readTime: 12

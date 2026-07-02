@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Headphones for Work From Home 2026: Sony, Bose, and Apple Compared"
-description: "The best work-from-home headphones need to block noise, last all day, and sound great on calls. We tested Sony WH-1000XM5, Bose QuietComfort 45, Apple AirPods Max, and 8 more. Our top picks for every budget."
+description: "Best work headphones tested: Sony WH-1000XM5, Bose QC45, AirPods Max and more. Top picks for every budget — find the right WFH headset."
 category: home-office
 date: 2026-07-01
 readTime: 13

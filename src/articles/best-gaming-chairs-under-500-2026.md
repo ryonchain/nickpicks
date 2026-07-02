@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Gaming Chairs Under $500 in 2026: Secretlab vs DXRacer vs Razer (Tested)"
-description: "We tested the top gaming chairs to find the best ergonomic and gaming-focused seating under $500. Lumbar support, build quality, reclining, and long-session comfort all rated."
+description: "Best gaming chairs under $500 tested for lumbar support, build quality, and long-session comfort. Find the top ergonomic seat for your setup."
 category: home-office
 date: 2026-07-02
 readTime: 10
@@ -36,7 +36,7 @@ faqs:
   - question: "How long do gaming chairs last?"
     answer: "Quality gaming chairs like Secretlab and AndaSeat use high-density foam that resists compression for 3–5 years of daily use. Budget chairs often compress and sag within 12–18 months. Secretlab offers a 5-year warranty."
   - question: "Which gaming chair is best for tall people?"
-    answer: "The Secretlab TITAN XL is the best for users 6'2" and above — it accommodates heights up to 6'9" and weights up to 395 lbs. The standard TITAN Evo fits most users up to 6'2" comfortably."
+    answer: "The Secretlab TITAN XL is the best for users 6'2\" and above — it accommodates heights up to 6'9\" and weights up to 395 lbs. The standard TITAN Evo fits most users up to 6'2\" comfortably."
 ---
 
 *Affiliate disclosure: NickPicks earns a commission if you buy through our links, at no extra cost to you.*

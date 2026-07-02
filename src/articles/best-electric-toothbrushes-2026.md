@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Electric Toothbrushes 2026: Oral-B vs Sonicare (Dentist-Tested)"
-description: "We tested 8 electric toothbrushes with input from two dental hygienists. The Oral-B io Series 9 is the best on the market — but a $50 Oral-B Pro 1000 removes just as much plaque."
+description: "Best electric toothbrushes of 2026 tested with dental hygienists. Oral-B io Series 9 leads — but $50 picks deliver the same plaque removal."
 category: health-wellness
 date: 2026-07-01
 readTime: 10

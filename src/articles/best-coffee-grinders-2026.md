@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Coffee Grinders in 2026: Espresso, Pour-Over, and French Press Ranked"
-description: "The best coffee grinders in 2026 for home espresso, pour-over, and French press. We tested burr grinders at every price point for grind consistency, retention, and ease of dial-in."
+description: "Best coffee grinders of 2026 tested for espresso, pour-over, and French press. Burr grinders ranked by grind consistency — find yours here."
 category: kitchen
 date: 2026-07-02
 readTime: 9

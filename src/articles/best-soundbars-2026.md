@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Soundbars in 2026: Dolby Atmos, Budget Picks, and Home Theater Upgrades"
-description: "The best soundbars in 2026 tested for sound quality, Dolby Atmos height effects, bass performance, and value. Recommendations from $100 budget bars to premium Sonos."
+description: "Best soundbars of 2026 tested for Dolby Atmos, bass, and value — from $100 budget bars to premium Sonos. Find the right soundbar for your TV."
 category: home-office
 date: 2026-07-02
 readTime: 10

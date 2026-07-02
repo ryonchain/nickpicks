@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Mechanical Keyboards for Home Office 2026: Quiet, Tactile, and Fast Picks"
-description: "The best mechanical keyboards for working from home balance typing feel with office-appropriate noise levels. We tested Keychron, Logitech MX, Das Keyboard, and 8 more for sound, feel, and productivity. Top picks for quiet home offices and open plans."
+description: "Best mechanical keyboards for home office in 2026. Keychron, Logitech MX, and more tested for typing feel and noise. Find your perfect match."
 category: home-office
 date: 2026-07-01
 readTime: 12

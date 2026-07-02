@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Espresso Machines Under $500 in 2026: From Beginner to Barista"
-description: "The best espresso machines under $500, tested for shot quality, ease of use, and steam wand performance. Our top pick makes cafe-quality espresso in under 60 seconds."
+description: "Best espresso machines under $500, tested for shot quality and steam wand performance. Our top pick makes cafe-quality espresso in 60 seconds."
 category: kitchen
 date: 2026-07-01
 readTime: 9

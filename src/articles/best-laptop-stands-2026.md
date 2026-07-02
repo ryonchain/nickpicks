@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Laptop Stands 2026: Ergonomic Picks for Home Office and Portable Use"
-description: "A laptop stand is the single cheapest ergonomic upgrade you can make — bringing the screen to eye level eliminates neck strain in minutes. We tested 12 stands for stability, adjustability, and portability. Our top picks for every setup."
+description: "Best laptop stands of 2026 — fix neck strain for under $50. Tested for stability, adjustability, and portability. Find the top pick for your setup."
 category: home-office
 date: 2026-07-01
 readTime: 10

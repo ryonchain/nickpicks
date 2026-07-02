@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Gas Grills Under $500 in 2026: Weber, Char-Broil, and What to Avoid"
-description: "Most gas grills under $500 look great in ads and fail within 3 seasons. We ranked the 6 best options on actual durability, heat output, and build quality — from a $179 2-burner to the Weber Spirit II."
+description: "Best outdoor grills under $500 ranked for durability and heat output — from a $179 2-burner to the Weber Spirit II. Find the right grill."
 category: kitchen
 date: 2026-07-01
 readTime: 10

@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Ergonomic Footrests for Desk 2026: Fix Your Posture, Reduce Back Pain"
-description: "The best ergonomic footrests for desk use in 2026 — tested for height adjustability, tilt, and all-day comfort. Top picks from $25 to $90 for work-from-home and office setups."
+description: "Best ergonomic footrests for desk use in 2026. Tested for height, tilt, and all-day comfort — top picks from $25 to $90. Find yours."
 category: home-office
 date: 2026-07-02
 readTime: 8

@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Yoga Mats 2026: Lululemon vs Manduka vs Liforme (Ranked by Grip, Cushion, and Durability)"
-description: "Best yoga mats of 2026 ranked by grip performance, joint cushioning, and long-term durability. The Lululemon Reversible mat wins for most practitioners — but the Manduka PRO is built to last a lifetime."
+description: "Best yoga mats of 2026 ranked by grip, cushioning, and durability. Lululemon Reversible leads — see if the Manduka PRO is worth the splurge."
 category: fitness
 date: 2026-07-02
 readTime: 9

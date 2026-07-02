@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best LED Desk Mat in 2026: RGB Lighting That Actually Looks Good"
-description: "The best LED desk mats in 2026 — RGB mouse pads with edge lighting that elevate any desk setup. Reviewed for brightness, size, build quality, and cable management."
+description: "Best LED desk mats of 2026 — RGB mouse pads with edge lighting. Reviewed for brightness, size, and build. Find the right desk mat upgrade."
 category: home-office
 date: 2026-07-09
 readTime: 8

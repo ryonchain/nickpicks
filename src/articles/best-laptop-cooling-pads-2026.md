@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Laptop Cooling Pads 2026: Stop Throttling, Stay Productive"
-description: "The best laptop cooling pads in 2026 — tested for airflow, noise, and build quality. Top picks from $25 to $80 that keep your CPU from throttling during long work sessions."
+description: "Best laptop cooling pads of 2026 — tested for airflow and noise. $25–$80 picks that prevent throttling during long sessions. Find yours."
 category: home-office
 date: 2026-07-02
 readTime: 8

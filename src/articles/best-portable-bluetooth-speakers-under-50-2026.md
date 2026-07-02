@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Portable Bluetooth Speakers Under $50 in 2026: 5 Top Picks"
-description: "The best portable Bluetooth speakers under $50 in 2026 — JBL Clip 4 vs Sony XB100 vs Anker Soundcore and more. Ranked by sound quality, battery life, and durability."
+description: "Best portable Bluetooth speakers under $50 in 2026. JBL Clip 4 vs Sony XB100 vs Anker ranked — find the best sound for your budget."
 category: tech
 date: 2026-07-02
 readTime: 8

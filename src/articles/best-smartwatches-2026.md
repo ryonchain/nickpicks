@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Smartwatches in 2026: Apple Watch vs Samsung vs Garmin vs Fitbit"
-description: "The best smartwatches in 2026 tested for health tracking, battery life, and app ecosystems. Our top pick depends on whether you use an iPhone or Android — here's how to choose."
+description: "Best smartwatches of 2026 tested for health tracking, battery, and app ecosystem. iPhone or Android — find the right smartwatch for you."
 category: fitness
 date: 2026-07-02
 readTime: 11

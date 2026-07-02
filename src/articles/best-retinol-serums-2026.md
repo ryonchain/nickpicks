@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Retinol Serums in 2026: 6 Picks from Drugstore to Luxury"
-description: "Retinol is the most-researched anti-aging ingredient available. Here are 6 retinol serums across every budget that actually work — with strength levels explained."
+description: "Best retinol serums of 2026 across every budget — strength levels explained. Find the right retinol for your skin type and goals."
 category: luxury-beauty
 date: 2026-07-01
 readTime: 11

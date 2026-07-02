@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Smart Thermostats 2026: Nest vs. Ecobee vs. Honeywell Compared"
-description: "Which smart thermostat saves the most money? We compared Nest, Ecobee, and Honeywell across energy savings, app quality, and smart home integration. Our top pick cuts heating bills by up to 23%."
+description: "Best smart thermostats of 2026: Nest vs Ecobee vs Honeywell compared for energy savings and integration. Find the pick that cuts your heating bill."
 category: smart-home
 date: 2026-07-01
 readTime: 10

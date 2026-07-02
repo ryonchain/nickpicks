@@ -1,6 +1,6 @@
 ---
 title: "Best Portable Air Conditioners in 2026: Single-Hose vs. Dual-Hose, BTU Ratings, and Top Picks"
-description: "We tested the top portable ACs to find the best units for bedrooms, offices, and apartments in 2026. BTU performance, noise levels, and energy efficiency all rated."
+description: "Best portable air conditioners of 2026 tested for BTU, noise, and efficiency. Top picks for bedrooms, offices, and apartments — find yours."
 date: 2026-07-02
 tags: ["home", "cooling", "summer", "appliances", "air conditioning"]
 layout: article.njk

@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Smart LED Desk Lamps 2026: App Control, Eye Care, and Ambiance"
-description: "The best smart LED desk lamps in 2026 — compared for color temperature range, brightness, app control, and eye care. Top picks from $35 to $200 for home office productivity."
+description: "Best smart LED desk lamps of 2026 compared for color temperature, brightness, and app control. $35–$200 picks for home office productivity."
 category: home-office
 date: 2026-07-02
 readTime: 9

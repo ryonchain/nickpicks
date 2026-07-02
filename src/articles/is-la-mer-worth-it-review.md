@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Is La Mer Worth It? An Honest Review After 30 Days"
-description: "La Mer costs $190 for 2 oz. After 30 days of daily use, here's what actually happened — and an honest verdict on who should and shouldn't spend the money."
+description: "Is La Mer worth it? After 30 days of daily use, here's what actually happened — and an honest verdict on who should actually buy it."
 category: luxury-beauty
 date: 2026-06-08
 readTime: 8

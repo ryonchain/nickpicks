@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Creator Desk Setup Under $300 in 2026: Build Your Pro Look for Less"
-description: "Build a professional creator desk setup for under $300 in 2026. Webcam, keyboard, desk mat, monitor arm — every item ranked and linked."
+description: "Build a professional creator desk setup for under $300 in 2026. Webcam, keyboard, monitor arm — every item ranked. Shop all picks."
 category: home-office
 date: 2026-07-02
 readTime: 10

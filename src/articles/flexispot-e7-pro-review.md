@@ -8,9 +8,9 @@ readTime: 8
 permalink: /articles/flexispot-e7-pro-review/index.html
 faqs:
   - question: "Is the FlexiSpot E7 Pro worth buying over the standard E7?"
-    answer: "The E7 Pro is worth the extra $100–$150 if you're under 5'4" (benefits from the lower 22.8" minimum height), over 6'4" (benefits from the wider frame option), or if you need the higher 355 lb lifting capacity for a heavy monitor and equipment setup."
+    answer: "The E7 Pro is worth the extra $100–$150 if you're under 5'4\" (benefits from the lower 22.8\" minimum height), over 6'4\" (benefits from the wider frame option), or if you need the higher 355 lb lifting capacity for a heavy monitor and equipment setup."
   - question: "What is the height range of the FlexiSpot E7 Pro?"
-    answer: "The FlexiSpot E7 Pro adjusts from 22.8 to 48.4 inches, covering users from approximately 4'9" to 6'7" in both sitting and standing positions. The lower minimum height is the main ergonomic advantage over the standard E7."
+    answer: "The FlexiSpot E7 Pro adjusts from 22.8 to 48.4 inches, covering users from approximately 4'9\" to 6'7\" in both sitting and standing positions. The lower minimum height is the main ergonomic advantage over the standard E7."
   - question: "How quiet is the FlexiSpot E7 Pro motor?"
     answer: "The E7 Pro runs at approximately 45 dB during height adjustment — comparable to a quiet library. This is inaudible to video call participants and quiet enough to transition positions during live meetings without distraction."
   - question: "Does the FlexiSpot E7 Pro come with a desktop?"

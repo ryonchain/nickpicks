@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Water Filter Pitchers in 2026: Brita vs ZeroWater vs Clearly Filtered"
-description: "Water filter pitchers vary widely in what they actually remove. We ranked the top 6 on contaminant removal, filter cost, and flow speed — from a $25 Brita to the $95 Clearly Filtered."
+description: "Best water filter pitchers of 2026 ranked for contaminant removal, filter cost, and flow speed — $25 Brita to $95 Clearly Filtered. Find yours."
 category: kitchen
 date: 2026-07-01
 readTime: 9

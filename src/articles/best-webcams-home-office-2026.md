@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best Webcams for Home Office in 2026: 6 Picks That Actually Make You Look Good on Video"
-description: "Your webcam is your face on every video call. These 6 picks — from budget 1080p to studio-quality 4K — make a real, visible difference in how you show up remotely."
+description: "Best home office webcams of 2026 — from budget 1080p to 4K. These 6 picks make a real difference in how you show up on video calls. Shop now."
 category: home-office
 date: 2026-07-01
 readTime: 10

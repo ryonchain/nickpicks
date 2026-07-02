@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Herman Miller Aeron Review 2026: Is It Worth $1,500?"
-description: "The Herman Miller Aeron has been in production since 1994. After 3 months of daily use, here is the honest answer on whether it is worth the money."
+description: "Herman Miller Aeron review: is it worth $1,400? After 3 months of daily use, here's the honest verdict — plus better-value alternatives to consider."
 category: home-office
 date: 2026-06-16
 readTime: 9
@@ -10,7 +10,7 @@ faqs:
   - question: "Is the Herman Miller Aeron worth $1,500?"
     answer: "For people working 6+ hours daily who have lower back pain or want a chair that lasts 10–15 years, yes. At $1,495 over 12 years the warranty covers, the cost is $124/year — cheaper annually than most $400 chairs that need replacement in 3–5 years."
   - question: "What sizes does the Herman Miller Aeron come in?"
-    answer: "The Aeron comes in three sizes: Size A (small, for users under 5'2" and under 130 lbs), Size B (medium, the most common size for users 5'2"–6'0" and 130–230 lbs), and Size C (large, for users over 6'0" or over 230 lbs)."
+    answer: "The Aeron comes in three sizes: Size A (small, for users under 5'2\" and under 130 lbs), Size B (medium, the most common size for users 5'2\"–6'0\" and 130–230 lbs), and Size C (large, for users over 6'0\" or over 230 lbs)."
   - question: "How does the Herman Miller Aeron support lumbar?"
     answer: "The Aeron uses PostureFit SL, which supports both the sacrum (lower spine) and lumbar (mid-back) independently via two adjustable pads behind the mesh back. This dual-support approach addresses the most common sources of seated lower back pain."
   - question: "Is the Herman Miller Aeron good for people with back pain?"

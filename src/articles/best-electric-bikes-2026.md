@@ -1,6 +1,6 @@
 ---
 title: "Best Electric Bikes in 2026: Commuter, Mountain & Folding E-Bikes Compared"
-description: "We researched every major electric bike category to find the best e-bikes for commuting, trail riding, and folding portability in 2026. Battery range, motor power, and value all rated."
+description: "Best electric bikes of 2026 for commuting, trail riding, and folding portability. Battery range and motor power rated — find your perfect e-bike."
 date: 2026-07-02
 tags: ["electric bike", "ebike", "commuting", "fitness", "outdoor"]
 layout: article.njk

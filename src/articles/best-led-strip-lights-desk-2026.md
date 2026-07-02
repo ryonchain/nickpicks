@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Best LED Strip Lights for Desk Setups in 2026: Top Picks for Ambiance and Bias Lighting"
-description: "The best LED strip lights for desk setups in 2026 — from basic USB-powered strips to smart RGBIC bias lighting. Picks for gaming setups, home offices, and streaming."
+description: "Best LED strip lights for desk setups in 2026 — from USB strips to smart RGBIC bias lighting. Top picks for gaming, home office, and streaming."
 category: home-office
 date: 2026-07-02
 readTime: 8
