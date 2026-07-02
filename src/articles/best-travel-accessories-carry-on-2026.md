@@ -216,7 +216,7 @@ See our guide to [best portable power stations](/articles/best-portable-power-st
 
 ---
 
-**Related Guide:** [noise-canceling earbuds](/articles/best-noise-canceling-earbuds-under-100/)
+**Related Guides:** [noise-canceling earbuds](/articles/best-noise-canceling-earbuds-under-100/) · [packing cubes for travel](/articles/best-packing-cubes-for-travel-2026/) · [backpacking backpacks](/articles/best-backpacking-backpacks-2026/)
 
 ## Frequently Asked Questions
 

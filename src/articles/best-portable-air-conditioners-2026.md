@@ -242,7 +242,7 @@ A 10,000 BTU unit uses roughly 900–1,000 watts. Running 8 hours/day at $0.15/k
 
 ---
 
-**Related Guides:** [smart thermostats](/articles/best-smart-thermostats-2026/) · [home office setup](/articles/best-home-office-setup-under-1000/)
+**Related Guides:** [smart thermostats](/articles/best-smart-thermostats-2026/) · [home office setup](/articles/best-home-office-setup-under-1000/) · [air purifiers](/articles/best-air-purifiers-2026/)
 
 ## Frequently Asked Questions
 

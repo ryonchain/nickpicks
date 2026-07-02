@@ -229,7 +229,7 @@ Most laptops from 2019+ with USB-C support DisplayPort Alt Mode. Check your lapt
 
 ---
 
-**Related Guides:** [laptop stands](/articles/best-laptop-stands-2026/) · [USB hubs for remote work](/articles/best-usb-hubs-remote-work-2026/)
+**Related Guides:** [laptop stands](/articles/best-laptop-stands-2026/) · [USB hubs for remote work](/articles/best-usb-hubs-remote-work-2026/) · [packing cubes for travel](/articles/best-packing-cubes-for-travel-2026/)
 
 ## Frequently Asked Questions
 

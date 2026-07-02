@@ -226,7 +226,7 @@ Ignore weight limits as just a number — they affect how quickly foam compresse
 **Best under $300:** Corsair T3 Rush (fabric) or DXRacer Formula (leather)  
 **Best under $200:** RESPAWN 110
 
-If you're pairing this with a monitor arm setup, check out our guide to the [best monitor arms for desk setups](/articles/best-monitor-arms-desk-setup-2026/) and [best mechanical keyboards for gaming](/articles/best-mechanical-keyboards-home-office-2026/).
+If you're pairing this with a monitor arm setup, check out our guide to the [best monitor arms for desk setups](/articles/best-monitor-arms-desk-setup-2026/) and [best mechanical keyboards for gaming](/articles/best-mechanical-keyboards-home-office-2026/). For a complete gaming peripheral setup, also see our picks for [best gaming mice](/articles/best-gaming-mice-2026/) and [best gaming headsets](/articles/best-gaming-headsets-2026/).
 
 ## Frequently Asked Questions
 

@@ -220,4 +220,4 @@ Budget buyers: the **Honeywell T9** at $199 with an included room sensor is the 
 
 ---
 
-**Related Guides:** [smart home devices](/articles/best-smart-home-devices-2026/) · [smart speakers](/articles/best-smart-speakers-2026/)
+**Related Guides:** [smart home devices](/articles/best-smart-home-devices-2026/) · [smart speakers](/articles/best-smart-speakers-2026/) · [smart plugs under $20](/articles/best-smart-plugs-under-20-2026/)

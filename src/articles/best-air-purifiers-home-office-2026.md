@@ -299,6 +299,7 @@ The 6-stage filtration system includes a customizable filter stage: choose betwe
 - [Best Home Office Setup Under $1,000](/articles/best-home-office-setup-under-1000/)
 - [Best Home Office Lighting Under $50](/articles/best-home-office-lighting-under-50/)
 - [Best Ergonomic Chair Under $300](/articles/best-ergonomic-chair-under-300/)
+- [Best Air Purifiers 2026 — Full Home Comparison](/articles/best-air-purifiers-2026/)
 
 ---
 

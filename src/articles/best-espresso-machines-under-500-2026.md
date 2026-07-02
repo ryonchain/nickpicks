@@ -195,7 +195,7 @@ Any dark or medium-dark roast ground fine. Dedicated espresso blends are labeled
 
 ---
 
-**Related Guides:** [coffee makers](/articles/best-coffee-makers-under-200-2026/) · [electric kettles](/articles/best-electric-kettles-2026/)
+**Related Guides:** [coffee makers](/articles/best-coffee-makers-under-200-2026/) · [electric kettles](/articles/best-electric-kettles-2026/) · [coffee grinders](/articles/best-coffee-grinders-2026/) · [coffee grinders under $100](/articles/best-coffee-grinders-under-100-2026/)
 
 ## Frequently Asked Questions
 

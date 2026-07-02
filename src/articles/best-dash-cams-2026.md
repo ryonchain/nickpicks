@@ -238,7 +238,7 @@ In the US, dash cams are legal in all 50 states. Placement requirements vary (Ca
 
 ---
 
-**Related Guides:** [home security cameras](/articles/best-home-security-cameras-under-100/) · [smart home devices](/articles/best-smart-home-devices-2026/)
+**Related Guides:** [home security cameras](/articles/best-home-security-cameras-under-100/) · [smart home devices](/articles/best-smart-home-devices-2026/) · [portable jump starters](/articles/best-portable-jump-starters-2026/)
 
 ## Frequently Asked Questions
 

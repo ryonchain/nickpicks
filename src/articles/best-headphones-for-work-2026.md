@@ -210,4 +210,4 @@ And if you're on a budget, the **Anker Soundcore Q45** at $79 outpunches its pri
 
 ---
 
-**Related Guides:** [home office setup](/articles/best-home-office-setup-under-1000/) · [webcams for home office](/articles/best-webcams-home-office-2026/) · [blue light blocking glasses](/articles/best-blue-light-blocking-glasses-2026/) · [ergonomic keyboards](/articles/best-ergonomic-keyboards-home-office-2026/)
+**Related Guides:** [home office setup](/articles/best-home-office-setup-under-1000/) · [webcams for home office](/articles/best-webcams-home-office-2026/) · [blue light blocking glasses](/articles/best-blue-light-blocking-glasses-2026/) · [ergonomic keyboards](/articles/best-ergonomic-keyboards-home-office-2026/) · [wireless earbuds under $100](/articles/best-wireless-earbuds-under-100-2026/)

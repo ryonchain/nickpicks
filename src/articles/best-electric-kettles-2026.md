@@ -237,4 +237,4 @@ If you just need fast hot water and don't care about temperature control, the **
 
 ---
 
-**Related Guides:** [coffee makers](/articles/best-coffee-makers-under-200-2026/) · [espresso machines](/articles/best-espresso-machines-under-500-2026/)
+**Related Guides:** [coffee makers](/articles/best-coffee-makers-under-200-2026/) · [espresso machines](/articles/best-espresso-machines-under-500-2026/) · [coffee grinders](/articles/best-coffee-grinders-2026/) · [coffee grinders under $100](/articles/best-coffee-grinders-under-100-2026/)

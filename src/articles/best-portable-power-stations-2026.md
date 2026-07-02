@@ -274,7 +274,7 @@ All units on this list accept solar input, but maximum solar wattage varies sign
 
 ---
 
-**Related Guides:** [smart home devices](/articles/best-smart-home-devices-2026/) · [home security cameras](/articles/best-home-security-cameras-under-100/)
+**Related Guides:** [smart home devices](/articles/best-smart-home-devices-2026/) · [home security cameras](/articles/best-home-security-cameras-under-100/) · [camping tents](/articles/best-camping-tents-2026/) · [portable jump starters](/articles/best-portable-jump-starters-2026/)
 
 ## Frequently Asked Questions
 

@@ -231,7 +231,7 @@ Don't wait for a break-in to secure your home. A $35–$90 camera pays for itsel
 
 ---
 
-**Related Guides:** [smart doorbells](/articles/best-smart-doorbells-2026/) · [smart home devices](/articles/best-smart-home-devices-2026/)
+**Related Guides:** [smart doorbells](/articles/best-smart-doorbells-2026/) · [smart home devices](/articles/best-smart-home-devices-2026/) · [indoor security cameras](/articles/best-indoor-security-cameras-2026/)
 
 ## Frequently Asked Questions
 

@@ -237,7 +237,7 @@ Size, sound quality, and built-in sensors. The Echo has a bigger speaker and a Z
 
 ---
 
-**Related Guides:** [smart home devices](/articles/best-smart-home-devices-2026/) · [smart thermostats](/articles/best-smart-thermostats-2026/)
+**Related Guides:** [smart home devices](/articles/best-smart-home-devices-2026/) · [smart thermostats](/articles/best-smart-thermostats-2026/) · [soundbars](/articles/best-soundbars-2026/)
 
 ## Frequently Asked Questions
 

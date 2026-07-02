@@ -194,7 +194,7 @@ See our full [smart home beginner's guide](/articles/best-smart-home-devices-202
 
 ---
 
-**Related Guide:** [smart speakers](/articles/best-smart-speakers-2026/)
+**Related Guides:** [smart speakers](/articles/best-smart-speakers-2026/) · [smart plugs under $20](/articles/best-smart-plugs-under-20-2026/) · [automatic pet feeders](/articles/best-automatic-pet-feeders-2026/) · [soundbars](/articles/best-soundbars-2026/)
 
 ## Frequently Asked Questions
 

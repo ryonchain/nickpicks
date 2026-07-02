@@ -138,3 +138,7 @@ The Teslyar Under Desk Headphone Holder uses 3M adhesive — no drilling, no scr
 The most impactful two-purchase combination for under-desk organization: a **cable management tray** to get the power strip off the floor, and a **pull-out drawer** for small daily supplies. If you're using a [standing desk](/articles/best-standing-desk-under-500/), make sure to leave extra cable slack so the tray travels freely with the desk surface as it raises. Total cost: $50–$80. Desk surface recovered: significant. If video calls are frequent and the monitor base takes too much surface space, a **keyboard tray** to stow the keyboard under the desk gives back the most real estate.
 
 [Shop under-desk storage on Amazon →](https://www.amazon.com/s?k=under+desk+storage+organizer+drawer){rel="nofollow sponsored" target="_blank"}
+
+---
+
+**Related Guides:** [closet organizers](/articles/best-closet-organizers-2026/) · [mesh desk organizers](/articles/best-mesh-desk-organizers-2026/) · [cable management for desks](/articles/best-cable-management-desk-2026/)

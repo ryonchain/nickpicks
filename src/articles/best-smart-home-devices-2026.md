@@ -201,7 +201,7 @@ See our guide to the [best smart thermostats 2026](/articles/best-smart-thermost
 
 ---
 
-**Related Guides:** [smart speakers](/articles/best-smart-speakers-2026/) · [smart thermostats](/articles/best-smart-thermostats-2026/) · [robot vacuums](/articles/best-robot-vacuums-2026/) · [LED strip lights for desks](/articles/best-led-strip-lights-desk-2026/)
+**Related Guides:** [smart speakers](/articles/best-smart-speakers-2026/) · [smart thermostats](/articles/best-smart-thermostats-2026/) · [robot vacuums](/articles/best-robot-vacuums-2026/) · [LED strip lights for desks](/articles/best-led-strip-lights-desk-2026/) · [smart plugs under $20](/articles/best-smart-plugs-under-20-2026/) · [indoor security cameras](/articles/best-indoor-security-cameras-2026/)
 
 ## Frequently Asked Questions
 

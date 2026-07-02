@@ -233,7 +233,7 @@ If you're setting up a home office, check out our [best home office setup under 
 
 ---
 
-**Related Guide:** [espresso machines](/articles/best-espresso-machines-under-500-2026/)
+**Related Guides:** [espresso machines](/articles/best-espresso-machines-under-500-2026/) · [coffee grinders](/articles/best-coffee-grinders-2026/) · [coffee grinders under $100](/articles/best-coffee-grinders-under-100-2026/) · [electric kettles](/articles/best-electric-kettles-2026/)
 
 ## Frequently Asked Questions
 

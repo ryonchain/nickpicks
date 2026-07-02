@@ -204,7 +204,7 @@ Check out our guide to the [best home office setup under $1,000](/articles/best-
 
 ---
 
-**Related Guide:** [mechanical keyboards](/articles/best-mechanical-keyboards-home-office-2026/)
+**Related Guides:** [mechanical keyboards](/articles/best-mechanical-keyboards-home-office-2026/) · [gaming mice](/articles/best-gaming-mice-2026/) · [gaming headsets](/articles/best-gaming-headsets-2026/)
 
 ## Frequently Asked Questions
 

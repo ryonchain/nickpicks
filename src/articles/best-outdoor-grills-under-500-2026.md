@@ -229,7 +229,7 @@ If cooking surface is your priority above all else, the **Nexgrill 4-Burner** at
 
 Consider the **Blackstone 28"** if your household wants more cooking versatility. For everyday breakfast, lunch, and dinner outside, it gets more daily use than a traditional grill for most owners.
 
-For more kitchen picks, see our [best air fryers in 2026](/articles/best-air-fryers-2026/) and [best espresso machines under $500](/articles/best-espresso-machines-under-500-2026/).
+For more kitchen picks, see our [best air fryers in 2026](/articles/best-air-fryers-2026/) and [best espresso machines under $500](/articles/best-espresso-machines-under-500-2026/). For outdoor adventures to pair with your grilling, check out our guides to [best camping tents](/articles/best-camping-tents-2026/) and [best backpacking backpacks](/articles/best-backpacking-backpacks-2026/).
 
 ---
 

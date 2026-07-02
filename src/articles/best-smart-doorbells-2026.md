@@ -227,4 +227,4 @@ No. All doorbells listed here include step-by-step apps and take 15–30 minutes
 
 ---
 
-**Related Guides:** [home security cameras](/articles/best-home-security-cameras-under-100/) · [smart home devices](/articles/best-smart-home-devices-2026/)
+**Related Guides:** [home security cameras](/articles/best-home-security-cameras-under-100/) · [smart home devices](/articles/best-smart-home-devices-2026/) · [indoor security cameras](/articles/best-indoor-security-cameras-2026/)

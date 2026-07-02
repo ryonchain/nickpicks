@@ -235,7 +235,7 @@ If you're a single-person household blending one smoothie per day, the **NutriBu
 
 The **Ninja Professional** at $59–$89 handles the majority of smoothie and cocktail needs at half the NutriBullet price if you have multiple people or need the larger capacity.
 
-For more kitchen upgrades, check out our [best coffee makers under $200](/articles/best-coffee-makers-under-200-2026/) and [best air fryers in 2026](/articles/best-air-fryers-2026/).
+For more kitchen upgrades, check out our [best coffee makers under $200](/articles/best-coffee-makers-under-200-2026/) and [best air fryers in 2026](/articles/best-air-fryers-2026/). Also see our picks for [best stand mixers](/articles/best-stand-mixers-2026/) and [best immersion blenders under $50](/articles/best-immersion-blenders-under-50-2026/).
 
 ---
 
