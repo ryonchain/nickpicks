@@ -46,6 +46,7 @@
         <li><a href="{{ '/categories/fitness/' | url }}">Fitness</a></li>
         <li><a href="{{ '/categories/kitchen/' | url }}">Kitchen</a></li>
         <li><a href="{{ '/categories/pet-tech/' | url }}">Pet Tech</a></li>
+        <li><a href="{{ '/best-sellers/' | url }}" class="nav-best-sellers">Best Sellers</a></li>
       </ul>
     </nav>
   </div>
@@ -76,11 +77,22 @@
         <div class="footer-heading">Site</div>
         <ul class="footer-links">
           <li><a href="{{ '/' | url }}">Home</a></li>
+          <li><a href="{{ '/best-sellers/' | url }}">Best Sellers</a></li>
           <li><a href="{{ '/about/' | url }}">About</a></li>
           <li><a href="{{ '/contact/' | url }}">Contact</a></li>
           <li><a href="{{ '/privacy/' | url }}">Privacy Policy</a></li>
           <li><a href="{{ '/affiliate-disclosure/' | url }}">Affiliate Disclosure</a></li>
         </ul>
+      </div>
+      <div>
+        <div class="footer-heading">Newsletter</div>
+        <p class="footer-about" style="margin-bottom:0.75rem">Weekly desk setup finds &amp; top picks — straight to your inbox.</p>
+        <form class="newsletter-form newsletter-form--footer" action="https://app.beehiiv.com/subscribe" method="POST" target="_blank">
+          <!-- TODO: Replace action URL and publication_id with your Beehiiv/Mailchimp/ConvertKit subscribe endpoint -->
+          <input type="hidden" name="publication_id" value="YOUR_PUBLICATION_ID" />
+          <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" />
+          <button type="submit">Subscribe</button>
+        </form>
       </div>
     </div>
     <div class="footer-disclaimer">
