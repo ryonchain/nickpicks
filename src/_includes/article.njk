@@ -1,11 +1,17 @@
 ---
 layout: base.njk
 ---
+
+{# Pagefind metadata: title and description are indexed from these hidden elements #}
+<span data-pagefind-meta="title" style="display:none">{{ title }}</span>
+<span data-pagefind-meta="description" style="display:none">{{ description }}</span>
+{% if ogImage %}<meta data-pagefind-meta="image[content]" content="{{ ogImage }}" />{% endif %}
+
 <div class="article-page-layout">
 
-  <article>
+  <article data-pagefind-body>
     <header class="article-header">
-      <span class="category-tag"><a href="{{ ('/categories/' ~ category ~ '/') | url }}">{{ category | categoryLabel }}</a></span>
+      <span class="category-tag"><a href="{{ (category | categoryHub) | url }}">{{ category | categoryLabel }}</a></span>
       <h1>{{ title }}</h1>
       <div class="article-meta">
         <span>{{ date | postDate }}</span>
@@ -14,7 +20,7 @@ layout: base.njk
       </div>
     </header>
 
-    <div class="disclosure-box">
+    <div class="disclosure-box" data-pagefind-ignore>
       <strong>Affiliate Disclosure:</strong> This article contains Amazon affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you. Our recommendations are always independent and based on merit.
     </div>
 

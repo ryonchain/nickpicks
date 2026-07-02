@@ -1,9 +1,9 @@
 ---
 layout: base.njk
-title: "Best Home Office Products — Curated Picks for Your Desk Setup"
-description: "Standing desks, ergonomic chairs, monitor arms, webcams, keyboards, and everything you need to build a home office that actually works — without overspending. Honest picks, tested and ranked."
-permalink: /home-office/index.html
-categorySlug: home-office
+title: "Best Fitness Equipment for Home and Gym"
+description: "Dumbbells, resistance bands, yoga mats, treadmills, exercise bikes, and fitness gear reviewed for real people with real budgets. Find the equipment that actually gets used."
+permalink: /fitness/index.html
+categorySlug: fitness
 eleventyExcludeFromCollections: true
 ---
 
@@ -12,10 +12,10 @@ eleventyExcludeFromCollections: true
     <nav class="hub-breadcrumb" aria-label="Breadcrumb">
       <a href="{{ '/' | url }}">Home</a>
       <span aria-hidden="true"> › </span>
-      <span>Home Office</span>
+      <span>Fitness</span>
     </nav>
-    <h1>Best Home Office Products — Curated Picks for Your Desk Setup</h1>
-    <p>Standing desks, ergonomic chairs, monitor arms, webcams, keyboards, and everything else to build a desk setup you love — without overspending. Honest reviews, no paid rankings.</p>
+    <h1>Best Fitness Equipment for Home and Gym</h1>
+    <p>Dumbbells, resistance bands, treadmills, exercise bikes, and workout gear reviewed for real people with real budgets. Find equipment worth buying — and skip the stuff that collects dust.</p>
   </div>
 </section>
 
@@ -23,10 +23,10 @@ eleventyExcludeFromCollections: true
   <div class="section-inner">
     <div class="article-grid">
       {% for article in collections.articlesByDate %}
-        {% if article.data.category == "home-office" %}
+        {% if article.data.category == "fitness" %}
         <article class="article-card">
           <div class="card-body">
-            <span class="card-category">Home Office</span>
+            <span class="card-category">Fitness</span>
             <a href="{{ article.url | url }}" style="display:block">
               <h2 class="card-title">{{ article.data.title }}</h2>
             </a>

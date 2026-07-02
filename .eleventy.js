@@ -22,12 +22,27 @@ module.exports = function(eleventyConfig) {
     const labels = {
       "home-office": "Home Office",
       "luxury-beauty": "Luxury Beauty",
+      "beauty": "Beauty",
       "kitchen": "Kitchen",
       "fitness": "Fitness",
       "pet-tech": "Pet Tech",
       "smart-home": "Smart Home",
     };
     return labels[slug] || slug;
+  });
+
+  eleventyConfig.addFilter("categoryHub", (slug) => {
+    const hubs = {
+      "home-office": "/home-office/",
+      "luxury-beauty": "/beauty/",
+      "beauty": "/beauty/",
+      "fitness": "/fitness/",
+      "health-wellness": "/fitness/",
+      "health": "/fitness/",
+      "kitchen": "/kitchen/",
+      "pet-tech": "/pet-tech/",
+    };
+    return hubs[slug] || `/categories/${slug}/`;
   });
 
   eleventyConfig.addFilter("truncate", (str, len) => {

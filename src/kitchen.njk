@@ -1,14 +1,26 @@
 ---
 layout: base.njk
-title: "Kitchen Appliance Reviews & Buying Guides"
-description: "Air fryers, espresso machines, instant pots, blenders, and more — honest kitchen appliance reviews to help you find the gear worth the counter space."
+title: "Best Kitchen Gadgets and Appliances"
+description: "Air fryers, espresso machines, instant pots, blenders, stand mixers, and more — honest kitchen appliance reviews to help you find the gear worth the counter space."
 permalink: /kitchen/index.html
 categorySlug: kitchen
+eleventyExcludeFromCollections: true
 ---
+
+<section class="hub-hero">
+  <div class="section-inner">
+    <nav class="hub-breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/' | url }}">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Kitchen</span>
+    </nav>
+    <h1>Best Kitchen Gadgets and Appliances</h1>
+    <p>Air fryers, espresso machines, blenders, instant pots, and kitchen essentials — the ones actually worth buying, and the ones to skip. No sponsored rankings, just honest picks.</p>
+  </div>
+</section>
+
 <section class="section">
   <div class="section-inner">
-    <h1 class="section-title">Kitchen</h1>
-    <p class="section-subtitle">Air fryers, espresso machines, blenders, and kitchen essentials — the ones worth buying and the ones to skip.</p>
     <div class="article-grid">
       {% for article in collections.articlesByDate %}
         {% if article.data.category == "kitchen" %}
@@ -21,6 +33,7 @@ categorySlug: kitchen
             <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
             <div class="card-meta">
               <span>{{ article.date | postDate }}</span>
+              {% if article.data.readTime %}<span>·</span><span>{{ article.data.readTime }} min read</span>{% endif %}
             </div>
             <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
           </div>

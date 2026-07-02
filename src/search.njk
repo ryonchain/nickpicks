@@ -1,0 +1,24 @@
+---
+layout: base.njk
+title: Search NickPicks — Find Product Picks by Category
+description: Search NickPicks for honest product reviews and buying guides across home office, beauty, fitness, kitchen, and pet tech.
+permalink: /search/
+---
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+
+<div class="search-page">
+  <div class="search-page-inner">
+    <h1>Search NickPicks</h1>
+    <p class="search-subtitle">Find product picks, reviews, and buying guides across all categories.</p>
+    <div id="search"></div>
+  </div>
+</div>
+
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    var ui = new PagefindUI({ element: '#search', showImages: true, excerptLength: 20 });
+    var q = new URLSearchParams(window.location.search).get('q');
+    if (q) ui.triggerSearch(q);
+  });
+</script>

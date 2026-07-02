@@ -38,19 +38,31 @@
 </head>
 <body>
 
-<header class="site-header">
+<header class="site-header" data-pagefind-ignore>
   <div class="inner">
     <a class="logo" href="{{ '/' | url }}">Nick<span>Picks</span></a>
     <nav aria-label="Main navigation">
       <ul class="nav-links">
-        <li><a href="{{ '/categories/home-office/' | url }}">Home Office</a></li>
-        <li><a href="{{ '/categories/luxury-beauty/' | url }}">Beauty</a></li>
-        <li><a href="{{ '/categories/fitness/' | url }}">Fitness</a></li>
-        <li><a href="{{ '/categories/kitchen/' | url }}">Kitchen</a></li>
-        <li><a href="{{ '/categories/pet-tech/' | url }}">Pet Tech</a></li>
+        <li><a href="{{ '/home-office/' | url }}">Home Office</a></li>
+        <li><a href="{{ '/beauty/' | url }}">Beauty</a></li>
+        <li><a href="{{ '/fitness/' | url }}">Fitness</a></li>
+        <li><a href="{{ '/kitchen/' | url }}">Kitchen</a></li>
+        <li><a href="{{ '/pet-tech/' | url }}">Pet Tech</a></li>
         <li><a href="{{ '/best-sellers/' | url }}" class="nav-best-sellers">Best Sellers</a></li>
       </ul>
     </nav>
+    <form class="header-search" action="{{ '/search/' | url }}" method="get" role="search">
+      <input
+        type="search"
+        name="q"
+        placeholder="Search picks…"
+        aria-label="Search NickPicks"
+        class="header-search-input"
+      />
+      <button type="submit" class="header-search-btn" aria-label="Search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </button>
+    </form>
   </div>
 </header>
 
@@ -58,7 +70,7 @@
   {{ content | safe }}
 </main>
 
-<footer class="site-footer">
+<footer class="site-footer" data-pagefind-ignore>
   <div class="footer-inner">
     <div class="footer-cols">
       <div>
@@ -68,11 +80,11 @@
       <div>
         <div class="footer-heading">Categories</div>
         <ul class="footer-links">
-          <li><a href="{{ '/categories/home-office/' | url }}">Home Office</a></li>
-          <li><a href="{{ '/categories/luxury-beauty/' | url }}">Luxury Beauty</a></li>
-          <li><a href="{{ '/categories/fitness/' | url }}">Fitness</a></li>
-          <li><a href="{{ '/categories/kitchen/' | url }}">Kitchen</a></li>
-          <li><a href="{{ '/categories/pet-tech/' | url }}">Pet Tech</a></li>
+          <li><a href="{{ '/home-office/' | url }}">Home Office</a></li>
+          <li><a href="{{ '/beauty/' | url }}">Beauty</a></li>
+          <li><a href="{{ '/fitness/' | url }}">Fitness</a></li>
+          <li><a href="{{ '/kitchen/' | url }}">Kitchen</a></li>
+          <li><a href="{{ '/pet-tech/' | url }}">Pet Tech</a></li>
         </ul>
       </div>
       <div>
