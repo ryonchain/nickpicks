@@ -338,7 +338,7 @@ img { max-width: 100%; display: block; }
   font-size: 0.8rem;
 }
 .footer-disclaimer strong { color: #e2e8f0; }
-.footer-copy { margin-top: 1rem; font-size: 0.8rem; color: #64748b; }
+.footer-copy { margin-top: 1rem; font-size: 0.8rem; color: #94a3b8; }
 
 /* =========================================================
    Newsletter Forms
@@ -375,7 +375,7 @@ img { max-width: 100%; display: block; }
 }
 .newsletter-form--inline input[type="email"] { flex: 1; }
 .newsletter-form--footer input[type="email"] { background: #1e293b; color: #e2e8f0; border-color: #334155; }
-.newsletter-form--footer input[type="email"]::placeholder { color: #64748b; }
+.newsletter-form--footer input[type="email"]::placeholder { color: #94a3b8; }
 
 .newsletter-widget { border-left: 3px solid var(--color-accent); }
 .newsletter-widget-desc { font-size: 0.8rem; color: var(--color-text-muted); margin-bottom: 0.75rem; }
@@ -539,7 +539,7 @@ img { max-width: 100%; display: block; }
   color: #e2e8f0;
   border-color: #475569;
 }
-.bs-newsletter-section .newsletter-form--inline input[type="email"]::placeholder { color: #94a3b8; }
+.bs-newsletter-section .newsletter-form--inline input[type="email"]::placeholder { color: #b8c5d6; }
 
 /* =========================================================
    Responsive
