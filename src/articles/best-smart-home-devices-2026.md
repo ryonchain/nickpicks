@@ -182,7 +182,7 @@ Start small and go wide before going deep. A $30 4-pack of Kasa smart plugs will
 
 Once you're committed to an ecosystem, invest in the hub (Echo or Nest Hub) and expand from there. The **Philips Hue** system is worth the premium if lighting scenes matter to you. **Lutron Caseta** is worth it if you want to automate switches permanently.
 
-See our guide to the [best smart thermostats 2026](/articles/best-smart-thermostats-2026/) for the highest-ROI smart home upgrade in terms of monthly energy savings.
+See our guide to the [best smart thermostats 2026](/articles/best-smart-thermostats-2026/) for the highest-ROI smart home upgrade in terms of monthly energy savings. For automated floor cleaning, [robot vacuums](/articles/best-robot-vacuums-2026/) are one of the most satisfying smart home additions. For desk and ambient lighting, [smart LED strip lights](/articles/best-led-strip-lights-desk-2026/) integrate with Alexa and Google Home for scene-based control.
 
 ---
 
@@ -190,4 +190,4 @@ See our guide to the [best smart thermostats 2026](/articles/best-smart-thermost
 
 ---
 
-**Related Guide:** [smart speakers](/articles/best-smart-speakers-2026/)
+**Related Guides:** [smart speakers](/articles/best-smart-speakers-2026/) · [smart thermostats](/articles/best-smart-thermostats-2026/) · [robot vacuums](/articles/best-robot-vacuums-2026/) · [LED strip lights for desks](/articles/best-led-strip-lights-desk-2026/)

@@ -104,6 +104,10 @@ Velcro cable ties are not a complete solution on their own, but they belong in e
 
 ## Bottom Line
 
-For most home office setups, the combination that works best is: **under-desk cable tray** for the power strip, **neoprene sleeve** for the floor-to-desk run, and **adhesive cable clips** for desk-surface routing. That three-piece system eliminates 90% of cable mess for under $50 total.
+For most home office setups, the combination that works best is: **under-desk cable tray** for the power strip, **neoprene sleeve** for the floor-to-desk run, and **adhesive cable clips** for desk-surface routing. That three-piece system eliminates 90% of cable mess for under $50 total. For hiding the power strip and its bricks specifically, pair with a [cable organizer box](/articles/best-cable-organizer-for-desk-2026/).
 
 [Shop cable management on Amazon →](https://www.amazon.com/s?k=desk+cable+management+organizer){rel="nofollow sponsored" target="_blank"}
+
+---
+
+**Related Guides:** [cable organizer boxes](/articles/best-cable-organizer-for-desk-2026/) · [USB hubs for remote work](/articles/best-usb-hubs-remote-work-2026/) · [under-desk storage](/articles/best-under-desk-storage-home-office/)

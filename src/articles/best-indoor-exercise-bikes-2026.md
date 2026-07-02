@@ -26,6 +26,19 @@ products:
   - name: "Sunny Health & Fitness SF-B1002"
     position: 6
     description: "Best Budget Entry-Level"
+faqs:
+  - question: "Is a Peloton worth the price for home use?"
+    answer: "For people who will use it 3–5 times per week, yes — the instructor-led class experience and live community are genuinely motivating in a way solo workouts aren't. For occasional riders, the $44/month subscription plus $2,495 hardware is hard to justify. Consider the Schwinn IC4 + Peloton App ($12.99/mo) instead: same class library, fraction of the cost."
+  - question: "What is the difference between an exercise bike and a spin bike?"
+    answer: "Spin bikes (like the Peloton and Schwinn IC4) use a weighted flywheel and feel like outdoor road cycling — aggressive forward lean, out-of-seat climbs, and realistic resistance. Standard upright exercise bikes have a more relaxed, vertical posture and often include features like preset programs and heart rate grips. Spin bikes are better for intense training; upright bikes are better for casual cardio."
+  - question: "How much does an indoor exercise bike cost?"
+    answer: "Budget entry-level bikes start at $200–$400 (Sunny Health & Fitness). Mid-range connected bikes with screens range from $800–$1,200 (Schwinn IC4, Echelon EX-5s). Premium connected bikes are $1,700–$2,500+ (Peloton Bike+, NordicTrack S22i). Factor in subscription costs: $0–$44/month depending on the platform."
+  - question: "Are indoor exercise bikes good for weight loss?"
+    answer: "Yes — cycling is one of the most effective low-impact cardio workouts for calorie burn. A 30-minute moderate-intensity spin session burns 300–600 calories depending on your weight and effort level. Consistency matters more than any specific bike; the best bike is the one you'll actually use regularly."
+  - question: "Which indoor exercise bike is best without a subscription?"
+    answer: "The Schwinn IC4 is the top pick for subscription-free use. It pairs with the Peloton App ($12.99/mo) for access to 50,000+ classes if you want them, but works equally well with Zwift, Apple Fitness+, or no subscription at all. The Sunny Health & Fitness SF-B1805 is the best budget option with no connectivity requirements."
+  - question: "How much space does an indoor exercise bike require?"
+    answer: "Most indoor bikes need a footprint of roughly 4 feet × 2 feet (48\" × 24\") plus clearance space for safe use. The Peloton Bike+ is 59\" × 22\"; the Schwinn IC4 is 48.7\" × 21.2\". Add 2–3 feet around the bike for safe dismounting. A standard 10 × 10 foot room comfortably fits a bike with workout space."
 ---
 
 *Affiliate disclosure: NickPicks earns a commission if you buy through our links, at no extra cost to you.*
@@ -231,4 +244,28 @@ This is often the best strategy: buy quality hardware like the Schwinn IC4 ($799
 **Best without a subscription:** Schwinn IC4 (~$799) + Peloton App or Zwift  
 **Best ultra-budget option:** Sunny Health & Fitness SF-B1805 (~$299)
 
-If you're building out a home gym, pair your exercise bike with our picks for the [best home treadmills under $1,500](/articles/best-home-treadmills-under-1500-2026/) and [best massage guns for recovery](/articles/best-massage-guns-2026/).
+---
+
+## Frequently Asked Questions
+
+**Is a Peloton worth the price for home use?**
+For people who will use it 3–5 times per week, yes — the class experience and live community are genuinely motivating. For occasional riders, consider the Schwinn IC4 + Peloton App ($12.99/mo): same class library, fraction of the cost.
+
+**What is the difference between an exercise bike and a spin bike?**
+Spin bikes (Peloton, Schwinn IC4) use a weighted flywheel that mimics outdoor road cycling — aggressive forward lean, realistic resistance. Standard upright bikes have a more relaxed posture and often include preset programs. Spin bikes are better for intense training; upright bikes are better for casual cardio.
+
+**Which indoor exercise bike is best without a subscription?**
+The Schwinn IC4 is the top pick for subscription-free use. It pairs with the Peloton App ($12.99/mo) if you want classes, but works equally well with Zwift, Apple Fitness+, or no subscription at all.
+
+**Are indoor exercise bikes good for weight loss?**
+Yes — cycling is one of the most effective low-impact cardio workouts. A 30-minute moderate-intensity session burns 300–600 calories depending on weight and effort level. Consistency matters more than which bike you buy.
+
+**How much does a good indoor exercise bike cost?**
+Budget entry-level bikes start at $200–$400. Mid-range connected bikes with screens range from $800–$1,200. Premium connected bikes are $1,700–$2,500+. Factor in subscription costs: $0–$44/month.
+
+**How much space does an indoor exercise bike need?**
+Most bikes need roughly 4 × 2 feet of floor space plus clearance for safe use. Add 2–3 feet around the bike for dismounting. A standard 10 × 10 foot room comfortably fits a bike with workout space.
+
+---
+
+If you're building out a home gym, pair your exercise bike with our picks for the [best home treadmills under $1,500](/articles/best-home-treadmills-under-1500-2026/) and [best massage guns for recovery](/articles/best-massage-guns-2026/). For keeping your workout area organized, see our [home office setup guide](/articles/best-home-office-setup-under-1000/).

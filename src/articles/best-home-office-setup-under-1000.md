@@ -82,7 +82,7 @@ For those who can spend $500+: the **Steelcase Series 1** ($499) adds flex-back 
 
 Still the standard recommendation for home office video calls in 2026. 1080p/30fps, auto-focus, stereo microphone. Works plug-and-play on Windows and Mac. No drivers needed.
 
-Upgrade option: **Logitech Brio 505** ($129) for 1080p/60fps with better low-light performance and USB-C — worth it if you do regular client calls or recorded content.
+Upgrade option: **Logitech Brio 505** ($129) for 1080p/60fps with better low-light performance and USB-C — worth it if you do regular client calls or recorded content. For a full comparison of webcam options at every price point, see our [best webcams for home office](/articles/best-webcams-home-office-2026/) guide.
 
 [C920x on Amazon →](https://www.amazon.com/dp/B00829D0GM) | [Brio 505 on Amazon →](https://www.amazon.com/s?k=logitech+brio+505)
 
@@ -129,10 +129,17 @@ If you already have a standing desk: the monitor arm. Neck strain from a screen 
 
 **Add in month 2:**
 - [Cable management](/articles/best-cable-management-desk-2026/) — the desk's height adjustability creates cable chaos fast. A $25 tray and some velcro ties solve it.
+- A [cable organizer box](/articles/best-cable-organizer-for-desk-2026/) to hide the power strip and bricks under the desk.
 - An [ergonomic keyboard](/articles/best-ergonomic-keyboards-home-office-2026/) — once your posture improves with the new desk and chair, wrist position becomes the next thing you notice
+- A [laptop stand](/articles/best-laptop-stands-2026/) if you work from a laptop — elevating the screen to eye level is the highest-ROI ergonomic upgrade for laptop users.
 
 **Add in month 3:**
 - Noise-canceling earbuds or headphones — improves focus in shared spaces more than any desk upgrade
 - A better microphone if you're on video calls daily (USB condenser mics start around $50)
+- [LED strip lights](/articles/best-led-strip-lights-desk-2026/) for ambient bias lighting behind your monitor — reduces eye strain and improves the look of the setup significantly for minimal cost.
 
 The standing desk does the most work early. Let your body adapt for 2–3 weeks before deciding what to add next. Most people find that after the first month, one or two specific friction points become obvious — and those are the things worth spending on next, not a pre-planned upgrade path.
+
+---
+
+**Related Guides:** [standing desks](/articles/best-standing-desk-under-500/) · [ergonomic chairs](/articles/best-ergonomic-chair-under-300/) · [monitor arms](/articles/best-monitor-arms-desk-setup-2026/) · [webcams](/articles/best-webcams-home-office-2026/) · [laptop stands](/articles/best-laptop-stands-2026/) · [cable management](/articles/best-cable-management-desk-2026/)
