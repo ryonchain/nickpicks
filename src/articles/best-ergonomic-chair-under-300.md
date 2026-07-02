@@ -6,6 +6,22 @@ category: home-office
 date: 2026-06-07
 readTime: 8
 permalink: /articles/best-ergonomic-chair-under-300/index.html
+products:
+  - name: "Branch Ergonomic Chair"
+    position: 1
+    description: "Best Overall Under $300"
+  - name: "Sihoo M57 Ergonomic Office Chair"
+    position: 2
+    description: "Best for Back Pain"
+  - name: "Amazon Basics Mid-Back Mesh Chair"
+    position: 3
+    description: "Best Budget Pick"
+  - name: "HON Ignition 2.0"
+    position: 4
+    description: "Best for Long Work Sessions"
+  - name: "Hbada Ergonomic Office Recliner"
+    position: 5
+    description: "Best for Flexibility"
 ---
 
 ## Why Your $50 Chair Is Destroying Your Back

@@ -6,6 +6,25 @@ category: tech
 date: 2026-07-01
 readTime: 12
 permalink: /articles/best-portable-power-stations-2026/index.html
+products:
+  - name: "EcoFlow River 2"
+    position: 1
+    description: "Best for Light Travel"
+  - name: "Jackery Explorer 500"
+    position: 2
+    description: "Best Budget Mid-Range"
+  - name: "EcoFlow Delta 2"
+    position: 3
+    description: "Best Overall Value"
+  - name: "Jackery Explorer 1000 Pro"
+    position: 4
+    description: "Best for Solar Setup"
+  - name: "Bluetti AC200P"
+    position: 5
+    description: "Best High-Capacity Option"
+  - name: "Goal Zero Yeti 500X"
+    position: 6
+    description: "Best for Van Build Compatibility"
 ---
 
 ## Power Where You Need It

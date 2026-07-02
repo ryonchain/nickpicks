@@ -6,6 +6,22 @@ category: kitchen
 date: 2026-07-01
 readTime: 10
 permalink: /articles/best-electric-kettles-2026/index.html
+products:
+  - name: "Fellow Stagg EKG Pro"
+    position: 1
+    description: "Best for Pour-Over Coffee"
+  - name: "Breville IQ Kettle Variable Temp"
+    position: 2
+    description: "Best All-Rounder for Tea"
+  - name: "Cuisinart CPK-17"
+    position: 3
+    description: "Best Value Variable Temperature"
+  - name: "Hamilton Beach 40880"
+    position: 4
+    description: "Best Budget Pick"
+  - name: "OXO Brew Adjustable Temperature Kettle"
+    position: 5
+    description: "Best Mid-Range Gooseneck"
 ---
 
 The humble electric kettle is one of the highest-ROI kitchen upgrades you can make. The right one boils faster than your stovetop, holds precise temperatures for pour-over coffee and green tea, and looks great on the counter. The wrong one scalds your tea and sprays water everywhere.

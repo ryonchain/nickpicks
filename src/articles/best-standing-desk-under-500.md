@@ -6,6 +6,22 @@ category: home-office
 date: 2026-06-01
 readTime: 7
 permalink: /articles/best-standing-desk-under-500/index.html
+products:
+  - name: "FlexiSpot E7"
+    position: 1
+    description: "~$400"
+  - name: "Uplift V2 Commercial"
+    position: 2
+    description: "~$499"
+  - name: "FEZIBO Electric Standing Desk"
+    position: 3
+    description: "~$200"
+  - name: "Seiffen Logicdata Standing Desk"
+    position: 4
+    description: "~$350"
+  - name: "VIVO Dual Motor Standing Desk"
+    position: 5
+    description: "~$250"
 ---
 
 You don't need to spend $1,000 to get a standing desk that lasts. The $200–$500 range has genuinely good options — the key is knowing which ones cut corners and which ones don't.

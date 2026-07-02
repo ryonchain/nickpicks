@@ -6,6 +6,22 @@ category: home-office
 date: 2026-06-27
 readTime: 7
 permalink: /articles/best-standing-desk-mats-2026/index.html
+products:
+  - name: "Topo by Ergodriven"
+    position: 1
+    description: "Best Overall Anti-Fatigue Mat"
+  - name: "Gorilla Grip Premium Anti-Fatigue Mat"
+    position: 2
+    description: "Best Value Flat Mat"
+  - name: "Flexispot Anti-Fatigue Mat"
+    position: 3
+    description: "Best Compact Budget Option"
+  - name: "WellnessMats Original"
+    position: 4
+    description: "Best Premium Flat Mat"
+  - name: "ComfiLife Anti-Fatigue Floor Mat"
+    position: 5
+    description: "Best for Sitting Desk Transitions"
 ---
 
 A [standing desk](/articles/best-standing-desk-under-500/) without an anti-fatigue mat is a genuine mistake. Hard floors — whether hardwood, tile, or even carpet over a concrete subfloor — compress the joints in your feet, ankles, and knees within 20–30 minutes of standing. An anti-fatigue mat solves this: its cushioning encourages subtle micro-movements in your legs and feet that improve circulation and reduce the fatigue that would otherwise cut your standing sessions short.

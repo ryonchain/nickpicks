@@ -6,6 +6,22 @@ category: smart-home
 date: 2026-07-01
 readTime: 9
 permalink: /articles/best-smart-home-devices-under-100/index.html
+products:
+  - name: "TP-Link Kasa Smart Plug EP25 (4-Pack)"
+    position: 1
+    description: "Best First Purchase"
+  - name: "Ring Video Doorbell (2nd Gen)"
+    position: 2
+    description: "Best Budget Video Doorbell"
+  - name: "TP-Link Deco E4 Mesh WiFi (2-Pack)"
+    position: 3
+    description: "Best Budget Mesh Network"
+  - name: "TP-Link Kasa Smart Bulb KL130 (2-Pack)"
+    position: 4
+    description: "Best Budget Color Bulb"
+  - name: "Blink Mini Indoor Camera"
+    position: 5
+    description: "Best Budget Indoor Camera"
 ---
 
 Smart home upgrades don't require a $500 commitment or a weekend of tech headaches. The best smart home devices under $100 give you immediate wins — automate your lights, see your front door from anywhere, and extend your WiFi to every corner of your home — without touching your wiring or downloading six different apps.

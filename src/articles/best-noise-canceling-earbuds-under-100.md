@@ -6,6 +6,22 @@ category: home-office
 date: 2026-06-27
 readTime: 7
 permalink: /articles/best-noise-canceling-earbuds-under-100/index.html
+products:
+  - name: "Anker Soundcore Space A40"
+    position: 1
+    description: "Best Overall Under $100"
+  - name: "Jabra Evolve2 Buds (Budget)"
+    position: 2
+    description: "Best for Work Calls"
+  - name: "Sony WF-C700N"
+    position: 3
+    description: "Best Compact Option"
+  - name: "EarFun Air Pro 4"
+    position: 4
+    description: "Best Value Under $70"
+  - name: "Google Pixel Buds A-Series"
+    position: 5
+    description: "Best for Android Users"
 ---
 
 Active noise cancellation used to cost $200+. That's no longer true. The $50–$100 range now has genuine ANC earbuds with solid call quality, respectable battery life, and the kind of noise blocking that makes a difference in a loud [home office](/articles/best-home-office-setup-under-1000/), shared apartment, or busy coffee shop.

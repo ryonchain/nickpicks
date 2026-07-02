@@ -6,6 +6,25 @@ category: kitchen
 date: 2026-06-09
 readTime: 8
 permalink: /articles/best-air-fryers-2026/index.html
+products:
+  - name: "Ninja AF101 Air Fryer"
+    position: 1
+    description: "Best Overall Basket"
+  - name: "Ninja DZ201 Foodi 8 Qt. 2-Basket"
+    position: 2
+    description: "Best for Families"
+  - name: "Cosori Pro LE 5-Qt. Air Fryer"
+    position: 3
+    description: "Best for Meal Preppers"
+  - name: "Instant Vortex Plus 6-in-1"
+    position: 4
+    description: "Best Multi-Function"
+  - name: "Breville Smart Oven Air Fryer Pro"
+    position: 5
+    description: "Best Air Fryer Oven"
+  - name: "Amazon Basics 2.2 Qt. Air Fryer"
+    position: 6
+    description: "Best Compact"
 ---
 
 ## Air Fryers Are Still Worth the Hype — But Not All of Them

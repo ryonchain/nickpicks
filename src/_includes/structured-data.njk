@@ -24,6 +24,7 @@
   "headline": {{ title | dump | safe }},
   "description": {{ description | dump | safe }},
   "datePublished": "{{ date | date("yyyy-MM-dd") }}",
+  "dateModified": "{{ (dateModified or date) | date("yyyy-MM-dd") }}",
   "url": {{ (siteUrl + (page.url | stripPathPrefix)) | dump | safe }},
   "publisher": {
     "@type": "Organization",
@@ -36,6 +37,31 @@
   }
 }
 </script>
+
+{# ItemList schema for listicle articles with products frontmatter #}
+{% if products and products.length %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ title | dump | safe }},
+  "description": {{ description | dump | safe }},
+  "numberOfItems": {{ products.length }},
+  "url": {{ (siteUrl + (page.url | stripPathPrefix)) | dump | safe }},
+  "itemListElement": [
+    {% for product in products %}
+    {
+      "@type": "ListItem",
+      "position": {{ product.position }},
+      "name": {{ product.name | dump | safe }}{% if product.description %},
+      "description": {{ product.description | dump | safe }}{% endif %}
+    }{% if not loop.last %},{% endif %}
+
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
 {% endif %}
 
 {# ItemList for category pages (requires categorySlug frontmatter) #}

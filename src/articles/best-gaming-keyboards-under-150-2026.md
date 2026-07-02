@@ -6,6 +6,25 @@ category: gaming
 date: 2026-07-01
 readTime: 10
 permalink: /articles/best-gaming-keyboards-under-150-2026/index.html
+products:
+  - name: "Keychron K2 V2"
+    position: 1
+    description: "Best Gaming Keyboard Under $150 Overall"
+  - name: "HyperX Alloy Origins Core TKL"
+    position: 2
+    description: "Best for Competitive Gaming"
+  - name: "Logitech G413 TKL SE"
+    position: 3
+    description: "Best Budget Gaming Keyboard"
+  - name: "Razer Huntsman Mini"
+    position: 4
+    description: "Best 60% Gaming Keyboard"
+  - name: "Corsair K70 RGB CORE"
+    position: 5
+    description: "Best Full-Size Gaming Keyboard Under $150"
+  - name: "GMMK TKL"
+    position: 6
+    description: "Best Hot-Swap Keyboard for Enthusiasts"
 ---
 
 A mechanical keyboard can transform your gaming setup — better key registration, satisfying tactile feedback, and a build that lasts a decade. The good news: you don't have to spend $200+ to get a genuinely great gaming keyboard. We tested 14 boards to find the best gaming keyboards under $150 for every play style, from competitive FPS players to MMO enthusiasts.

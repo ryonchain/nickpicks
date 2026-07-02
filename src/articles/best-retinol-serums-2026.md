@@ -6,6 +6,25 @@ category: luxury-beauty
 date: 2026-07-01
 readTime: 11
 permalink: /articles/best-retinol-serums-2026/index.html
+products:
+  - name: "RoC Retinol Correxion Line Smoothing Serum"
+    position: 1
+    description: "Best Drugstore Retinol"
+  - name: "CeraVe Resurfacing Retinol Serum"
+    position: 2
+    description: "Best for Sensitive Skin"
+  - name: "L'Oreal Paris Revitalift 0.3% Pure Retinol Serum"
+    position: 3
+    description: "Best Mid-Strength Drugstore"
+  - name: "The Ordinary Retinol 1% in Squalane"
+    position: 4
+    description: "Best Value High-Strength Option"
+  - name: "Neutrogena Rapid Wrinkle Repair Retinol Serum"
+    position: 5
+    description: "Best for Speed"
+  - name: "SkinMedica Retinol Complex 0.25"
+    position: 6
+    description: "Best Luxury Entry Retinol"
 ---
 
 ## Why Retinol Actually Works

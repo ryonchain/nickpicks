@@ -6,6 +6,25 @@ category: kitchen
 date: 2026-07-01
 readTime: 9
 permalink: /articles/best-water-filters-pitchers-2026/index.html
+products:
+  - name: "Brita Longlast+ Pitcher"
+    position: 1
+    description: "Best Overall"
+  - name: "ZeroWater 10-Cup 5-Stage Pitcher"
+    position: 2
+    description: "Best for Heavy Metal Removal"
+  - name: "Clearly Filtered Water Pitcher"
+    position: 3
+    description: "Best for PFAS"
+  - name: "PUR Classic 11-Cup Pitcher"
+    position: 4
+    description: "Best Budget Lead Reduction"
+  - name: "Waterdrop Chubby 10-Cup Pitcher"
+    position: 5
+    description: "Best Low Ongoing Cost"
+  - name: "Brita Standard 10-Cup"
+    position: 6
+    description: "Best Basic Starter"
 ---
 
 ## What a Filter Pitcher Actually Does (And Doesn't)

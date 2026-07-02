@@ -6,6 +6,25 @@ category: home-office
 date: 2026-07-01
 readTime: 10
 permalink: /articles/best-webcams-home-office-2026/index.html
+products:
+  - name: "Logitech C920s HD Pro"
+    position: 1
+    description: "Best Overall for Most Users"
+  - name: "Razer Kiyo Pro"
+    position: 2
+    description: "Best Low-Light Performance"
+  - name: "Logitech C922 Pro"
+    position: 3
+    description: "Best for 60fps and Background Replacement"
+  - name: "Logitech Brio 4K"
+    position: 4
+    description: "Best 4K Quality"
+  - name: "Logitech MX Brio 705"
+    position: 5
+    description: "Best AI Auto-Framing"
+  - name: "Anker PowerConf C300"
+    position: 6
+    description: "Best Budget with AI Features"
 ---
 
 ## Your Webcam Is Your First Impression on Every Call

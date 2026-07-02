@@ -6,6 +6,28 @@ category: travel
 date: 2026-07-01
 readTime: 9
 permalink: /articles/best-travel-accessories-carry-on-2026/index.html
+products:
+  - name: "Shacke Pak Packing Cubes (6-Set)"
+    position: 1
+    description: "Best Overall Carry-On Organizer"
+  - name: "Anker PowerCore 10000"
+    position: 2
+    description: "Best Portable Charger for Carry-On Travel"
+  - name: "TRTL Pillow Plus"
+    position: 3
+    description: "Best Travel Neck Pillow"
+  - name: "Cocoon Grid-It Organizer"
+    position: 4
+    description: "Best Cable and Tech Organizer"
+  - name: "AmazonBasics Hanging Travel Toiletry Kit"
+    position: 5
+    description: "Best Toiletry Organizer"
+  - name: "Gonex Compression Packing Cubes"
+    position: 6
+    description: "Best for Overpacking Situations"
+  - name: "Anker USB-C Travel Adapter"
+    position: 7
+    description: "Best International Power Adapter"
 ---
 
 Carry-on travel means nothing gets lost to airline baggage claim and you're off the plane and out the door in minutes. But the difference between a chaos-bag and a genuinely organized carry-on comes down to a handful of accessories — compression packing cubes, the right travel pillow, and a portable charger that lasts longer than your layover.

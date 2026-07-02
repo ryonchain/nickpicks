@@ -6,6 +6,22 @@ category: home-office
 date: 2026-06-27
 readTime: 6
 permalink: /articles/best-under-desk-storage-home-office/index.html
+products:
+  - name: "LORYERGO Under Desk Drawer"
+    position: 1
+    description: "Best Pull-Out Drawer Mount"
+  - name: "Mount-It! Under Desk Keyboard Tray"
+    position: 2
+    description: "Best for Freeing Desk Surface"
+  - name: "Under Desk Cable Management Tray"
+    position: 3
+    description: "Best for Power Strip Storage"
+  - name: "Teslyar Under Desk Headphone Holder"
+    position: 4
+    description: "Best Small Accessory Mount"
+  - name: "SONGMICS Bamboo Under-Desk Shelf"
+    position: 5
+    description: "Best Freestanding Option"
 ---
 
 Under your desk is some of the most underutilized real estate in your [home office](/articles/best-home-office-setup-under-1000/). Most people use it to park a CPU tower, accumulate cable tangles, and occasionally bang their knee. With the right storage accessories, that same space can hold notebooks, supplies, headphones, a cable tray, and a keyboard — all invisible, all accessible, and all off the desk surface where you're trying to work.

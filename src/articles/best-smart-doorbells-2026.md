@@ -8,6 +8,28 @@ keywords: ["best smart doorbell", "best video doorbell", "ring vs nest doorbell"
 searchVolume: "90K–120K/mo"
 aov: "$150–350"
 commissionRate: "3%"
+products:
+  - name: "Ring Video Doorbell Pro 2"
+    position: 1
+    description: "Best Overall (Wired)"
+  - name: "Google Nest Doorbell (Battery, 2nd Gen)"
+    position: 2
+    description: "Best for Google Home Users"
+  - name: "Arlo Video Doorbell Wire-Free"
+    position: 3
+    description: "Best Battery Life"
+  - name: "Ring Video Doorbell 4"
+    position: 4
+    description: "Best Battery + Color Night Vision"
+  - name: "Eufy Security Video Doorbell E340"
+    position: 5
+    description: "Best Value (No Subscription Required)"
+  - name: "Wyze Video Doorbell Pro"
+    position: 6
+    description: "Best Budget Pick"
+layout: article.njk
+category: smart-home
+permalink: /articles/best-smart-doorbells-2026/index.html
 ---
 
 # Best Smart Doorbells 2026: Ring vs Nest vs Arlo Compared

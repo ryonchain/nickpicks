@@ -3,6 +3,28 @@ title: "Best Home Security Cameras Under $100 in 2026"
 description: "Protect your home without breaking the bank. Our picks for the best home security cameras under $100 — indoor, outdoor, and battery-powered options reviewed."
 date: 2026-07-02
 tags: ["security", "smart home", "cameras", "home tech"]
+products:
+  - name: "Wyze Cam v4"
+    position: 1
+    description: "Best Overall Under $50"
+  - name: "Blink Outdoor 4"
+    position: 2
+    description: "Best Battery-Powered Outdoor Camera"
+  - name: "Eufy SoloCam E40"
+    position: 3
+    description: "Best Subscription-Free Outdoor Camera"
+  - name: "Ring Stick Up Cam Battery (3rd Gen)"
+    position: 4
+    description: "Best for Ring Ecosystem"
+  - name: "Google Nest Cam (Battery)"
+    position: 5
+    description: "Best for Google Home"
+  - name: "Arlo Essential 2K (Wire-Free)"
+    position: 6
+    description: "Best Image Quality Under $100"
+layout: article.njk
+category: smart-home
+permalink: /articles/best-home-security-cameras-under-100/index.html
 ---
 
 *Disclosure: This article contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.*

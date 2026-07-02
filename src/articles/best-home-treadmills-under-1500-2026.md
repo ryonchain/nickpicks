@@ -6,6 +6,22 @@ category: fitness
 date: 2026-07-01
 readTime: 12
 permalink: /articles/best-home-treadmills-under-1500-2026/index.html
+products:
+  - name: "NordicTrack EXP 7i"
+    position: 1
+    description: "Best Overall Under $1,000"
+  - name: "Bowflex T22"
+    position: 2
+    description: "Best for Serious Training"
+  - name: "Horizon Fitness 7.0 AT"
+    position: 3
+    description: "Best Budget Powerhouse"
+  - name: "ProForm Carbon T10"
+    position: 4
+    description: "Best iFIT Budget Option"
+  - name: "Sunny Health SF-T7643"
+    position: 5
+    description: "Best for Light Walkers"
 ---
 
 Home treadmills have become a serious fitness investment — and the best models under $1,500 now rival gym-grade machines in motor power, incline range, and tech features. Whether you're a casual walker or half-marathon trainer, there's a solid option at this price point.

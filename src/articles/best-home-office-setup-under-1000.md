@@ -6,6 +6,22 @@ category: home-office
 date: 2026-06-20
 readTime: 10
 permalink: /articles/best-home-office-setup-under-1000/index.html
+products:
+  - name: "Standing Desk: FlexiSpot E7"
+    position: 1
+    description: "$449"
+  - name: "Monitor Arm: Ergotron LX"
+    position: 2
+    description: "$147"
+  - name: "Chair: Branch Ergonomic Chair"
+    position: 3
+    description: "$329"
+  - name: "Webcam: Logitech C920x"
+    position: 4
+    description: "$69"
+  - name: "Desk Lamp: BenQ ScreenBar"
+    position: 5
+    description: "$109"
 ---
 
 A proper home office setup makes the difference between productive deep work and a back that gives out by noon. Here is everything you need for under $1,000 — ranked by impact, not price.

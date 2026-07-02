@@ -6,6 +6,25 @@ category: kitchen
 date: 2026-07-01
 readTime: 10
 permalink: /articles/best-coffee-makers-under-200-2026/index.html
+products:
+  - name: "Cuisinart DCC-3200P1"
+    position: 1
+    description: "Best Overall"
+  - name: "OXO Brew 9-Cup Coffee Maker"
+    position: 2
+    description: "Best for Coffee Purists"
+  - name: "Ninja CE251 12-Cup Programmable"
+    position: 3
+    description: "Best Budget Pick"
+  - name: "Hamilton Beach 49350 2-Way Brewer"
+    position: 4
+    description: "Best for Mixed Households"
+  - name: "Keurig K-Classic K50"
+    position: 5
+    description: "Best Single-Serve Pod Machine"
+  - name: "Mr. Coffee 12-Cup Programmable"
+    position: 6
+    description: "Best Under $40"
 ---
 
 ## The Right Coffee Maker Changes Your Morning

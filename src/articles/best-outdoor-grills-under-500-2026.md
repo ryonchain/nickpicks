@@ -6,6 +6,25 @@ category: kitchen
 date: 2026-07-01
 readTime: 10
 permalink: /articles/best-outdoor-grills-under-500-2026/index.html
+products:
+  - name: "Weber Spirit II E-310"
+    position: 1
+    description: "Best Overall"
+  - name: "Char-Broil Performance Series 4-Burner"
+    position: 2
+    description: "Best Bang for Buck"
+  - name: "Nexgrill 4-Burner Propane Gas Grill"
+    position: 3
+    description: "Best for Large Groups"
+  - name: "Weber Q 2200"
+    position: 4
+    description: "Best Compact/Patio Gas Grill"
+  - name: "Royal Gourmet CC1830F"
+    position: 5
+    description: "Best Charcoal Option"
+  - name: "Blackstone 28-inch Outdoor Griddle"
+    position: 6
+    description: "Best Flat-Top Alternative"
 ---
 
 ## Why Most Budget Grills Disappoint
