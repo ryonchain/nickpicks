@@ -6,15 +6,20 @@
   <title>{{ title }} {% if title %} | {% endif %}NickPicks — Honest Reviews &amp; Buying Guides</title>
   <meta name="description" content="{{ description | default('NickPicks publishes honest product reviews and buying guides to help you find the best gear for home office, beauty, fitness, kitchen, and pet tech.') }}" />
   <link rel="canonical" href="{{ siteUrl }}{{ page.url | stripPathPrefix }}" />
-  <meta property="og:title" content="{{ title }} | NickPicks" />
-  <meta property="og:description" content="{{ description | default('') }}" />
+  <meta property="og:title" content="{{ ogTitle or title }} | NickPicks" />
+  <meta property="og:description" content="{{ ogDescription or description or site.description }}" />
+  <meta property="og:image" content="{{ siteUrl }}{{ ogImage or site.defaultOgImage }}" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
   <meta property="og:type" content="{% if layout == 'article.njk' %}article{% else %}website{% endif %}" />
   <meta property="og:url" content="{{ siteUrl }}{{ page.url | stripPathPrefix }}" />
   <meta property="og:site_name" content="NickPicks" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="{{ site.twitterHandle }}" />
-  <meta name="twitter:title" content="{{ title }} | NickPicks" />
-  <meta name="twitter:description" content="{{ description | default('') }}" />
+  <meta name="twitter:title" content="{{ ogTitle or title }} | NickPicks" />
+  <meta name="twitter:description" content="{{ ogDescription or description or site.description }}" />
+  <meta name="twitter:image" content="{{ siteUrl }}{{ ogImage or site.defaultOgImage }}" />
+  <link rel="icon" type="image/png" href="{{ '/images/favicon.png' | url }}" />
   <link rel="stylesheet" href="{{ '/style.css' | url }}" />
   <link rel="alternate" type="application/rss+xml" href="{{ '/feed.xml' | url }}" title="NickPicks" />
   {% include "structured-data.njk" %}
