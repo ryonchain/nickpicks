@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: "You're In — Thank You!"
+description: "Thanks for subscribing to NickPicks. Check your inbox for a welcome email with our top picks."
+permalink: /thank-you/index.html
+eleventyExcludeFromCollections: true
+---
+
+<section class="section" style="min-height:60vh;display:flex;align-items:center">
+  <div class="section-inner" style="text-align:center;max-width:600px">
+    <div style="font-size:3rem;margin-bottom:1rem">🎉</div>
+    <h1 class="section-title">You're subscribed!</h1>
+    <p style="color:var(--color-text-muted);margin-top:0.75rem;font-size:1.1rem">
+      Thanks for joining NickPicks. Check your inbox — your first email with my top picks this month is on its way.
+    </p>
+    <p style="color:var(--color-text-muted);margin-top:0.5rem">
+      While you wait, browse the latest reviews below.
+    </p>
+    <div style="margin-top:2rem">
+      <a href="{{ '/' | url }}" class="btn-primary">Browse Reviews</a>
+    </div>
+  </div>
+</section>

@@ -2,6 +2,8 @@
   "name": "NickPicks",
   "tagline": "Honest Reviews & Buying Guides",
   "ga4MeasurementId": "G-XXXXXXXXXX",
+  "kitPublicKey": "YOUR_KIT_PUBLIC_API_KEY",
+  "kitFormId": "YOUR_KIT_FORM_ID",
   "description": "Independent product reviews and buying guides for home office, beauty, fitness, kitchen, and pet tech.",
   "url": "https://nickpicks.com",
   "siteUrl": "https://nickpicks.com",

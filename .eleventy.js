@@ -50,6 +50,13 @@ module.exports = function(eleventyConfig) {
     return (arr || []).filter(item => item.data && item.data.category === category);
   });
 
+  eleventyConfig.addFilter("readingTime", (content) => {
+    if (!content) return 1;
+    const text = content.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+    const words = text.split(" ").filter(w => w.length > 0).length;
+    return Math.max(1, Math.ceil(words / 200));
+  });
+
   // Collections
   eleventyConfig.addCollection("articlesByDate", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/articles/*.md")

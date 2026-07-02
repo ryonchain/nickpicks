@@ -33,6 +33,8 @@
     gtag('config', '{{ site.ga4MeasurementId }}');
   </script>
   {% endif %}
+  <script>window.NP_KIT = { formId: "{{ site.kitFormId }}", publicKey: "{{ site.kitPublicKey }}" };</script>
+  <script src="{{ '/js/kit-subscribe.js' | url }}" defer></script>
 </head>
 <body>
 
@@ -87,11 +89,11 @@
       <div>
         <div class="footer-heading">Newsletter</div>
         <p class="footer-about" style="margin-bottom:0.75rem">Weekly desk setup finds &amp; top picks — straight to your inbox.</p>
-        <form class="newsletter-form newsletter-form--footer" action="https://app.beehiiv.com/subscribe" method="POST" target="_blank">
-          <!-- TODO: Replace action URL and publication_id with your Beehiiv/Mailchimp/ConvertKit subscribe endpoint -->
-          <input type="hidden" name="publication_id" value="YOUR_PUBLICATION_ID" />
+        <form class="newsletter-form newsletter-form--footer">
+          <input type="text" name="first_name" placeholder="First name" aria-label="First name" />
           <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" />
           <button type="submit">Subscribe</button>
+          <p class="kit-error" role="alert" style="color:#c00;font-size:0.85rem;margin-top:0.4rem"></p>
         </form>
       </div>
     </div>
