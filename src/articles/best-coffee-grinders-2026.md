@@ -25,6 +25,17 @@ products:
   - name: "Eureka Mignon Specialita"
     position: 6
     description: "Best Dedicated Espresso Grinder"
+faqs:
+  - question: "What type of coffee grinder is best for home use?"
+    answer: "A burr grinder, always. Blade grinders chop beans unevenly, producing both fines and large chunks that cause bitter or weak extraction. A flat or conical burr grinder like the Baratza Encore produces consistent particle sizes that extract evenly — the single biggest upgrade for home coffee quality."
+  - question: "How much should I spend on a coffee grinder?"
+    answer: "Spend at least $50–80 for a capable entry-level burr grinder like the Baratza Encore. For espresso, budget $150–200 minimum — espresso requires much finer grind consistency. The Fellow Ode Gen 2 ($300) and Eureka Mignon Specialita ($400+) are where espresso quality plateaus for home use."
+  - question: "Is the Baratza Encore good for espresso?"
+    answer: "The standard Encore is not recommended for espresso — its grind range doesn't go fine enough. The Baratza Encore ESP is specifically designed to handle espresso grind settings. For serious home espresso, step up to the Breville Smart Grinder Pro or Fellow Opus, which dial in precisely enough for consistent pulls."
+  - question: "How often should I clean my coffee grinder?"
+    answer: "Purge the grinder with a few grams of stale beans when switching coffee origins. Do a full cleaning every 2–4 weeks for daily users: remove the burrs, brush out grounds with a stiff brush, and run a few Urnex Grindz tablets through. Never use water inside a burr grinder."
+  - question: "Which coffee grinder is best for pour-over?"
+    answer: "The Fellow Ode Gen 2 is the best purpose-built pour-over and filter grinder — its flat burrs and wide grind range produce exceptional clarity. The Baratza Encore is the best value entry point for drip and pour-over. Both are designed for filter brewing and don't grind fine enough for espresso."
 ---
 
 Your coffee is only as good as your grinder. A blade grinder (the kind that looks like a blender) chops beans unevenly, producing a mix of dust and chunks that extract at different rates — the result is sour, bitter, or both. A burr grinder crushes beans between two abrasive surfaces, producing consistent particle sizes that extract evenly.
@@ -199,6 +210,26 @@ The most common grinder mistake is buying for the wrong brew method. Start here:
 Most grinders on this list use **conical burrs** — a cone-shaped inner burr that rotates inside an outer ring burr. They're durable, low-retention, and run quietly. The Fellow Ode Gen 2 and Eureka Mignon Specialita use **flat burrs** — two parallel discs that produce a more uniform particle size at the cost of higher temperature and more retention.
 
 For home use, the practical difference is small. Choose by price and brew method, not burr type.
+
+---
+
+
+## Frequently Asked Questions
+
+**What type of coffee grinder is best for home use?**
+A burr grinder, always. Blade grinders chop beans unevenly, producing both fines and large chunks that cause bitter or weak extraction. A flat or conical burr grinder like the Baratza Encore produces consistent particle sizes that extract evenly — the single biggest upgrade for home coffee quality.
+
+**How much should I spend on a coffee grinder?**
+Spend at least $50–80 for a capable entry-level burr grinder like the Baratza Encore. For espresso, budget $150–200 minimum — espresso requires much finer grind consistency. The Fellow Ode Gen 2 ($300) and Eureka Mignon Specialita ($400+) are where espresso quality plateaus for home use.
+
+**Is the Baratza Encore good for espresso?**
+The standard Encore is not recommended for espresso — its grind range doesn't go fine enough. The Baratza Encore ESP is specifically designed to handle espresso grind settings. For serious home espresso, step up to the Breville Smart Grinder Pro or Fellow Opus, which dial in precisely enough for consistent pulls.
+
+**How often should I clean my coffee grinder?**
+Purge the grinder with a few grams of stale beans when switching coffee origins. Do a full cleaning every 2–4 weeks for daily users: remove the burrs, brush out grounds with a stiff brush, and run a few Urnex Grindz tablets through. Never use water inside a burr grinder.
+
+**Which coffee grinder is best for pour-over?**
+The Fellow Ode Gen 2 is the best purpose-built pour-over and filter grinder — its flat burrs and wide grind range produce exceptional clarity. The Baratza Encore is the best value entry point for drip and pour-over. Both are designed for filter brewing and don't grind fine enough for espresso.
 
 ---
 
