@@ -205,3 +205,7 @@ For most households, the **Cuisinart CPK-17** at $79 is the right choice: six te
 If you just need fast hot water and don't care about temperature control, the **Hamilton Beach 40880** boils faster than anything else on this list and costs less than $30.
 
 *Disclosure: This article contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.*
+
+---
+
+**Related Guides:** [coffee makers](/articles/best-coffee-makers-under-200-2026/) · [espresso machines](/articles/best-espresso-machines-under-500-2026/)

@@ -73,7 +73,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Global data
-  eleventyConfig.addGlobalData("siteUrl", "https://ryonchain.github.io/nickpicks");
+  eleventyConfig.addGlobalData("siteUrl", "https://nickpicks.com");
 
   return {
     pathPrefix: "/nickpicks/",

@@ -141,3 +141,7 @@ For presenters who move: **Logitech MX Brio 705** — auto-framing is worth $200
 ---
 
 *As an Amazon Associate, we earn from qualifying purchases.*
+
+---
+
+**Related Guides:** [home office setup](/articles/best-home-office-setup-under-1000/) · [headphones for work](/articles/best-headphones-for-work-2026/)

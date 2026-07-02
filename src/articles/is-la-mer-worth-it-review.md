@@ -104,3 +104,7 @@ Apply a small amount (a pea-sized amount covers the full face) to damp skin afte
 
 **How long does one jar last?**  
 The 1 oz jar lasts approximately 4–6 weeks with twice-daily use. The 2 oz jar runs 8–12 weeks. Most skincare reviewers find the 2 oz jar to be the better value per ounce at around $95/oz vs $190/oz for the 1 oz.
+
+---
+
+**Related Guide:** [anti-aging face creams](/articles/best-anti-aging-face-creams-2026/)

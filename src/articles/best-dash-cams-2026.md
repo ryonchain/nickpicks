@@ -28,11 +28,9 @@ products:
     position: 6
     description: "Best Display + Alexa Built-in"
 layout: article.njk
-category: home-office
+category: smart-home
 permalink: /articles/best-dash-cams-2026/index.html
 ---
-
-# Best Dash Cams 2026: Front, Dual Channel, and 4K Options Compared
 
 Dash cams are the closest thing to a witness you'll ever have in a car accident. They protect you from false insurance claims, capture hit-and-runs in parking lots, and some even offer real-time alerts when you're drifting lanes. But cheap dash cams blur license plates in 1080p and overheat in summer heat.
 
@@ -226,3 +224,7 @@ In the US, dash cams are legal in all 50 states. Placement requirements vary (Ca
 ---
 
 *[Affiliate disclosure: NickPicks earns a commission on purchases made through our links, at no extra cost to you.]*
+
+---
+
+**Related Guides:** [home security cameras](/articles/best-home-security-cameras-under-100/) · [smart home devices](/articles/best-smart-home-devices-2026/)

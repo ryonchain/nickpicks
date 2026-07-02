@@ -226,3 +226,7 @@ Premium packaging, brand heritage, clinical study investment, and sometimes genu
 **For very dry or mature skin:** Crème de la Mer ($195) — genuinely delivers where lighter formulas fall short.
 
 *Disclosure: As an Amazon Associate we earn from qualifying purchases at no additional cost to you.*
+
+---
+
+**Related Guides:** [retinol serums](/articles/best-retinol-serums-2026/) · [vitamin C serums](/articles/best-vitamin-c-serums-2026/)

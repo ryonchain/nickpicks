@@ -260,3 +260,7 @@ All units on this list accept solar input, but maximum solar wattage varies sign
 ## Affiliate Disclosure
 
 *This article contains affiliate links. If you purchase through links on this page, we earn a small commission at no extra cost to you. We only recommend products we'd buy ourselves.*
+
+---
+
+**Related Guides:** [smart home devices](/articles/best-smart-home-devices-2026/) · [home security cameras](/articles/best-home-security-cameras-under-100/)

@@ -181,3 +181,7 @@ Any dark or medium-dark roast ground fine. Dedicated espresso blends are labeled
 **Best budget:** De'Longhi Stilosa EC260 — genuine espresso at $129. A low-risk way to try home espresso before investing in a premium machine.
 
 *Disclosure: As an Amazon Associate we earn from qualifying purchases at no additional cost to you.*
+
+---
+
+**Related Guides:** [coffee makers](/articles/best-coffee-makers-under-200-2026/) · [electric kettles](/articles/best-electric-kettles-2026/)

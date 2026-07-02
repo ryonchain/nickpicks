@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ title }} {% if title %} | {% endif %}NickPicks — Honest Reviews &amp; Buying Guides</title>
   <meta name="description" content="{{ description | default('NickPicks publishes honest product reviews and buying guides to help you find the best gear for home office, beauty, fitness, kitchen, and pet tech.') }}" />
-  {% if canonical %}<link rel="canonical" href="{{ siteUrl }}{{ canonical }}" />{% endif %}
+  <link rel="canonical" href="{{ siteUrl }}{{ page.url | stripPathPrefix }}" />
   <meta property="og:title" content="{{ title }} | NickPicks" />
   <meta property="og:description" content="{{ description | default('') }}" />
   <meta property="og:type" content="{% if layout == 'article.njk' %}article{% else %}website{% endif %}" />

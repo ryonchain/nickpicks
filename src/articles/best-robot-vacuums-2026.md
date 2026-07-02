@@ -196,3 +196,7 @@ For pet owners: **iRobot Roomba j7+ (~$549)** — obstacle detection and Pet Avo
 Budget pick: **Eufy RoboVac G30 (~$199)** — best smart navigation under $200 for apartments and smaller spaces.
 
 *Disclosure: As an Amazon Associate we earn from qualifying purchases at no additional cost to you.*
+
+---
+
+**Related Guides:** [cordless vacuums](/articles/best-cordless-vacuums-2026/) · [air purifiers for home office](/articles/best-air-purifiers-home-office-2026/)

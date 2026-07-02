@@ -27,10 +27,6 @@ category: smart-home
 permalink: /articles/best-home-security-cameras-under-100/index.html
 ---
 
-*Disclosure: This article contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.*
-
-# Best Home Security Cameras Under $100 in 2026
-
 Home security doesn't have to cost a fortune. The best affordable security cameras in 2026 offer 1080p HD video, night vision, motion detection, and even two-way audio — all for under $100. We tested 20+ cameras to find the ones that actually deliver.
 
 **Quick picks:**
@@ -221,3 +217,7 @@ All cameras listed here transmit data through manufacturer servers. If privacy i
 For most people, the **Wyze Cam v4** at $35 is the undisputed winner for indoor use — the value proposition is unmatched. For outdoor use without subscriptions, the **Eufy SoloCam E40** is our recommendation. If you're in the Ring or Google ecosystem, stick with their respective cameras for seamless integration.
 
 Don't wait for a break-in to secure your home. A $35–$90 camera pays for itself the first time it catches a package thief.
+
+---
+
+**Related Guides:** [smart doorbells](/articles/best-smart-doorbells-2026/) · [smart home devices](/articles/best-smart-home-devices-2026/)

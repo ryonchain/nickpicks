@@ -188,3 +188,7 @@ If you want room sensors and detailed energy data, the **Ecobee SmartThermostat 
 Budget buyers: the **Honeywell T9** at $199 with an included room sensor is the best value in this category.
 
 *Disclosure: This article contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.*
+
+---
+
+**Related Guides:** [smart home devices](/articles/best-smart-home-devices-2026/) · [smart speakers](/articles/best-smart-speakers-2026/)
