@@ -62,7 +62,7 @@ The Stagg EKG Pro is what serious coffee people buy when they stop tolerating im
 
 **The case against it:** 0.9L capacity is small — fine for one or two mugs but inconvenient for a full pot or multiple cups. If you're mostly brewing tea for a family, the Breville or Cuisinart handles larger volumes.
 
-**{{AMAZON_LINK_FELLOW_STAGG_EKG_PRO}}**
+**https://www.amazon.com/s?k=Fellow+Stagg+EKG+Pro+electric+kettle**
 
 ---
 
@@ -83,7 +83,7 @@ Breville's variable temperature kettle is the gold standard for tea enthusiasts 
 
 **The case against it:** No gooseneck option — not ideal for pour-over coffee technique. If your primary use is pour-over, the Fellow Stagg EKG Pro is worth the extra $50.
 
-**{{AMAZON_LINK_BREVILLE_VARIABLE_TEMP_KETTLE}}**
+**https://www.amazon.com/s?k=Breville+Variable+Temperature+electric+kettle**
 
 ---
 
@@ -103,7 +103,7 @@ The Cuisinart CPK-17 offers genuine variable temperature capability and Hold mod
 
 **The case against it:** Lid opens manually (not spring-loaded). The preset temperatures are fixed — no 1-degree increments like the Fellow Stagg. Exterior can feel slightly plasticky compared to Breville.
 
-**{{AMAZON_LINK_CUISINART_CPK17}}**
+**https://www.amazon.com/s?k=Cuisinart+CPK-17+PerfecTemp+kettle**
 
 ---
 
@@ -123,7 +123,7 @@ The Hamilton Beach 40880 doesn't have variable temperature, a gooseneck, or any 
 
 **The case against it:** Single temperature (212°F boil only). Plastic interior can leave a slight taste for the first few uses (rinse before initial use). No Keep Warm function.
 
-**{{AMAZON_LINK_HAMILTON_BEACH_40880}}**
+**https://www.amazon.com/s?k=Hamilton+Beach+40880+electric+kettle**
 
 ---
 
@@ -140,7 +140,7 @@ The OXO Brew sits between the budget Hamilton Beach and the premium Fellow Stagg
 
 **The case against it:** 1L capacity is limiting for larger households. At $99, it's close to premium territory where the Fellow Stagg at $199 offers significantly more precision and a better hold function.
 
-**{{AMAZON_LINK_OXO_BREW_KETTLE}}**
+**https://www.amazon.com/s?k=OXO+Brew+Pour-Over+kettle**
 
 ---
 

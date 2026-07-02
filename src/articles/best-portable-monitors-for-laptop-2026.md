@@ -51,7 +51,7 @@ Working from airports, hotels, or client sites is brutal on a single laptop scre
 
 ## 1. ASUS ZenScreen MB16QHQ — Best Overall Portable Monitor
 
-**Price:** ~$220 | [Check price on Amazon](https://www.amazon.com/s?k=ASUS+ZenScreen+MB16QHQ&tag={{AMAZON_TAG}})
+**Price:** ~$220 | [Check price on Amazon](https://www.amazon.com/s?k=ASUS+ZenScreen+MB16QHQ)
 
 The ZenScreen MB16QHQ hits the sweet spot between price, image quality, and portability. It's a **15.6" 2.5K (2560×1600) IPS panel** that covers 100% sRGB — wide enough for color-accurate work without the cost of an OLED. It weighs 1.76 lbs and connects via a single USB-C cable (DisplayPort signal + 60W power delivery).
 
@@ -74,7 +74,7 @@ The ZenScreen MB16QHQ hits the sweet spot between price, image quality, and port
 
 ## 2. ViewSonic VX1655 — Best 15.6" Value Pick
 
-**Price:** ~$170 | [Check price on Amazon](https://www.amazon.com/s?k=ViewSonic+VX1655&tag={{AMAZON_TAG}})
+**Price:** ~$170 | [Check price on Amazon](https://www.amazon.com/s?k=ViewSonic+VX1655)
 
 The ViewSonic VX1655 is the best 1080p portable monitor under $180. It's lighter than it looks at 1.76 lbs, covers 100% sRGB, and includes **both USB-C and Mini HDMI ports** — so it works with virtually any laptop. The USB-C connection handles video + power, while Mini HDMI works for gaming consoles, streaming sticks, and older laptops.
 
@@ -96,7 +96,7 @@ The ViewSonic VX1655 is the best 1080p portable monitor under $180. It's lighter
 
 ## 3. Mobile Pixels Trio Max — Best for Dual Monitor Setup
 
-**Price:** ~$280 | [Check price on Amazon](https://www.amazon.com/s?k=Mobile+Pixels+Trio+Max&tag={{AMAZON_TAG}})
+**Price:** ~$280 | [Check price on Amazon](https://www.amazon.com/s?k=Mobile+Pixels+Trio+Max)
 
 The Mobile Pixels Trio is designed differently from every other portable monitor. Instead of a standalone display, it **slides out from a sleeve behind your laptop** — so you get a three-screen setup anywhere, without a cluttered desk. It's a 14" FHD panel that plugs into your laptop's USB-A port.
 
@@ -119,7 +119,7 @@ The Mobile Pixels Trio is designed differently from every other portable monitor
 
 ## 4. Lenovo ThinkVision M14t — Best Portable Touchscreen Monitor
 
-**Price:** ~$280 | [Check price on Amazon](https://www.amazon.com/s?k=Lenovo+ThinkVision+M14t&tag={{AMAZON_TAG}})
+**Price:** ~$280 | [Check price on Amazon](https://www.amazon.com/s?k=Lenovo+ThinkVision+M14t)
 
 The Lenovo M14t is the best portable monitor with a **10-point multi-touch touchscreen**. At 14" with 2240×1400 resolution, it's one of the highest pixel-density portable monitors you can buy. The touch input is precise and responsive — useful for annotating documents, pinch-to-zoom in maps, or using Windows 11 touch-first apps.
 
@@ -141,7 +141,7 @@ The Lenovo M14t is the best portable monitor with a **10-point multi-touch touch
 
 ## 5. ASUS ZenScreen OLED MQ16AH — Best OLED Portable Monitor
 
-**Price:** ~$350 | [Check price on Amazon](https://www.amazon.com/s?k=ASUS+ZenScreen+OLED+MQ16AH&tag={{AMAZON_TAG}})
+**Price:** ~$350 | [Check price on Amazon](https://www.amazon.com/s?k=ASUS+ZenScreen+OLED+MQ16AH)
 
 The MQ16AH is the only portable OLED monitor that's actually practical. OLED means **true blacks, infinite contrast ratio, and HDR that's visibly better** than IPS alternatives. At 15.6" WQHD+, it's perfect for video editors and designers who need accurate color on the road. It's powered by USB-C and has a **built-in 7800mAh battery** — it can power itself for up to 3.5 hours without any connection.
 
@@ -163,7 +163,7 @@ The MQ16AH is the only portable OLED monitor that's actually practical. OLED mea
 
 ## 6. Lepow Lite-H1 — Best Budget Portable Monitor Under $120
 
-**Price:** ~$110 | [Check price on Amazon](https://www.amazon.com/s?k=Lepow+Lite+H1+portable+monitor&tag={{AMAZON_TAG}})
+**Price:** ~$110 | [Check price on Amazon](https://www.amazon.com/s?k=Lepow+Lite+H1+portable+monitor)
 
 The Lepow Lite H1 proves you don't need to spend $200+ to get a useful portable monitor. At $110, it's a **15.6" IPS 1080p** panel with USB-C + Mini HDMI, covers 100% sRGB, and includes a foldable smart cover. It's made for students and anyone who needs a second screen occasionally, not all-day creative work.
 

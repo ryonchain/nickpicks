@@ -63,7 +63,7 @@ The Sony WH-1000XM5 is the best general-purpose work headphone for most people. 
 
 **The case against it:** Non-foldable headband (folds flat but the headband itself doesn't fold) makes it slightly bulkier in a bag than the Bose QC45. Some listeners find the WH-1000XM5's bass slightly boosted compared to the more neutral XM4.
 
-**{{AMAZON_LINK_SONY_WH1000XM5}}**
+**https://www.amazon.com/s?k=Sony+WH-1000XM5+noise+canceling+headphones**
 
 ---
 
@@ -84,7 +84,7 @@ Bose's signature is ear cushion comfort, and the QC45 is the most comfortable ov
 
 **The case against it:** No multipoint connection (one device at a time — though Bluetooth switching is fast). Slightly less customizable via the Bose Music app compared to Sony's Sound settings. At $279, it's priced identically to the Sony XM4 which has the same ANC performance.
 
-**{{AMAZON_LINK_BOSE_QC45}}**
+**https://www.amazon.com/s?k=Bose+QuietComfort+45+headphones**
 
 ---
 
@@ -103,7 +103,7 @@ The AirPods Max are the best headphones if your entire computing setup is Apple 
 
 **The case against it:** $549 is a significant premium. The Lightning (now USB-C on newer versions) charging case is a Digital Crown headphone — absurdly impractical as a case. Battery life at 20 hours is shorter than most competitors. These make sense only if you're fully in Apple's ecosystem; for Windows/Android users, the Sony WH-1000XM5 is objectively better value.
 
-**{{AMAZON_LINK_APPLE_AIRPODS_MAX}}**
+**https://www.amazon.com/s?k=Apple+AirPods+Max**
 
 ---
 
@@ -123,7 +123,7 @@ The Jabra Evolve2 55 is not a music headphone — it's an enterprise call tool t
 
 **The case against it:** Overkill for casual WFH use. The music experience is functional but not pleasurable — the tuning is optimized for voice. If you use headphones for music 50%+ of the time, the Sony WH-1000XM5 is a better use of $350.
 
-**{{AMAZON_LINK_JABRA_EVOLVE2_55}}**
+**https://www.amazon.com/s?k=Jabra+Evolve2+55+wireless+headphones**
 
 ---
 
@@ -143,7 +143,7 @@ The Anker Soundcore Q45 delivers acceptable ANC, 50-hour battery life, and multi
 
 **The case against it:** ANC at $79 is noticeably behind the Bose/Sony tier — it reduces noise rather than eliminating it. Microphone is adequate but not strong. Build quality is plastic-forward vs. the metal accents of premium competitors.
 
-**{{AMAZON_LINK_ANKER_SOUNDCORE_Q45}}**
+**https://www.amazon.com/s?k=Anker+Soundcore+Q45+headphones**
 
 ---
 

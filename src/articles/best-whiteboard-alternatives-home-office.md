@@ -36,7 +36,7 @@ Glass boards erase more cleanly than traditional whiteboards, don't ghost (the f
 
 Available in multiple sizes from 17" × 23" to 4' × 3'. The smaller sizes work well as a secondary thinking surface beside a monitor; the larger sizes function as full whiteboard replacements. Price ranges from $60 for small to $200+ for the 4' × 3' model.
 
-[Check price on Amazon →]({{AMAZON_LINK_QUARTET_INFINITY}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Quartet+Infinity+glass+dry+erase+board){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -46,7 +46,7 @@ Dry erase paint converts any smooth wall surface into a writable, erasable board
 
 The paint works with standard dry-erase markers and erases cleanly with a dry eraser. Setup takes a weekend (paint, dry, cure) but the result is permanent and takes up zero wall space in the sense that it becomes the wall. Best for home office owners who have a dedicated room and want a visual work surface that scales.
 
-[Check price on Amazon →]({{AMAZON_LINK_RUSTOLEUM_DRYERASE}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Rust-Oleum+dry+erase+paint+kit){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -56,7 +56,7 @@ The Wacom Intuos is a graphics tablet that functions as a digital whiteboard, sk
 
 The medium-size Intuos ($100–$150) is the most practical size for home office use. No wall mounting required, no dry-erase markers, and your sketches and diagrams are immediately digital and shareable. For remote workers who whiteboard frequently during calls, this is the most practical solution.
 
-[Check price on Amazon →]({{AMAZON_LINK_WACOM_INTUOS}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Wacom+Intuos+small+drawing+tablet){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -66,7 +66,7 @@ The Rocketbook is a reusable notebook with pages that erase with a damp cloth. W
 
 For people who think better with a pen in hand but need the output to be digital, this hits a specific sweet spot — the physical writing experience of paper with the archival and sharing benefits of digital. The Fusion version includes a planner layout, weekly calendar, and dot grid pages in addition to plain lined pages.
 
-[Check price on Amazon →]({{AMAZON_LINK_ROCKETBOOK_FUSION}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Rocketbook+Fusion+smart+reusable+notebook){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -76,7 +76,7 @@ For home office users who want a writable surface on their desk rather than on a
 
 This is also useful as a secondary "scratch pad" surface for meetings: take visual notes during the call, photograph it with your phone, erase. Faster than a tablet app and less setup than a mounted board.
 
-[Check price on Amazon →]({{AMAZON_LINK_UBRANDS_GLASS_DESK}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=U+Brands+glass+dry+erase+desktop+board){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -106,4 +106,4 @@ This is also useful as a secondary "scratch pad" surface for meetings: take visu
 
 For most home office setups, the **Quartet Infinity Glass Board** in a compact size (17" × 23") is the cleanest analog solution — mounts to the wall, looks professional, and erases better than any standard whiteboard. For remote workers who whiteboard on calls, the **Wacom Intuos** is the right tool. For renters or people who prefer paper, the **Rocketbook Fusion** is the best compromise.
 
-[Shop whiteboard alternatives on Amazon →]({{AMAZON_LINK_WHITEBOARD_ALTERNATIVES_SEARCH}}){rel="nofollow sponsored" target="_blank"}
+[Shop whiteboard alternatives on Amazon →](https://www.amazon.com/s?k=whiteboard+alternatives+glass+board+home+office){rel="nofollow sponsored" target="_blank"}

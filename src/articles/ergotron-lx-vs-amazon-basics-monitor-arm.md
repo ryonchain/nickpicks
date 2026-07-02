@@ -36,7 +36,7 @@ This comparison gives you a direct answer based on the specs that matter in dail
 
 ## The Ergotron LX
 
-**[Ergotron LX on Amazon →]({{AMAZON_LINK_ERGOTRON_LX}}){rel="nofollow sponsored" target="_blank"}** (~$149)
+**[Ergotron LX on Amazon →](https://www.amazon.com/s?k=Ergotron+LX+monitor+arm){rel="nofollow sponsored" target="_blank"}** (~$149)
 
 The [Ergotron LX](/articles/ergotron-lx-monitor-arm-review/) has been the reference-standard consumer monitor arm for over a decade. It uses Ergotron's patented Constant Force (CF) spring mechanism — the same design found in commercial office configurations — which means you can reposition a 20 lb monitor with one finger and it stays put without drift.
 
@@ -64,7 +64,7 @@ The [Ergotron LX](/articles/ergotron-lx-monitor-arm-review/) has been the refere
 
 ## The Amazon Basics Single Monitor Arm
 
-**[Amazon Basics Monitor Arm on Amazon →]({{AMAZON_LINK_AMAZON_BASICS_MONITOR_ARM}}){rel="nofollow sponsored" target="_blank"}** (~$65)
+**[Amazon Basics Monitor Arm on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+monitor+arm){rel="nofollow sponsored" target="_blank"}** (~$65)
 
 Amazon Basics entered the monitor arm category with a gas-spring arm that undercuts Ergotron by more than half. For a $65 arm, the specs are solid: it handles monitors up to 22 lbs, rotates fully, and tilts in both directions. The build uses steel for the main arm with plastic at some joint components.
 
@@ -132,7 +132,7 @@ Over a 5-year window, the Ergotron LX holds its performance. The gas spring in t
 - You're equipping a secondary desk, guest workspace, or budget build
 - You need a functional arm and want to spend the savings on other upgrades
 
-**[Amazon Basics Monitor Arm on Amazon →]({{AMAZON_LINK_AMAZON_BASICS_MONITOR_ARM}}){rel="nofollow sponsored" target="_blank"}**
+**[Amazon Basics Monitor Arm on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+monitor+arm){rel="nofollow sponsored" target="_blank"}**
 
 ---
 
@@ -148,7 +148,7 @@ The Ergotron LX is also the right choice if you're pairing it with a [dual monit
 
 For context on how these two compare against the broader category, our [VIVO vs Ergotron comparison](/articles/vivo-vs-ergotron-monitor-arms/) covers the value-tier matchup in detail.
 
-**[Ergotron LX on Amazon →]({{AMAZON_LINK_ERGOTRON_LX}}){rel="nofollow sponsored" target="_blank"}**
+**[Ergotron LX on Amazon →](https://www.amazon.com/s?k=Ergotron+LX+monitor+arm){rel="nofollow sponsored" target="_blank"}**
 
 ---
 

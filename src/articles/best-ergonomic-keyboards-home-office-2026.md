@@ -36,7 +36,7 @@ The Logitech ERGO K860 is the most accessible ergonomic keyboard on the market. 
 
 The K860 is wireless (Bluetooth and Unifying Receiver), runs on two AA batteries for up to two years, and works seamlessly across Mac and Windows. The dedicated media keys and the row of function keys are all full-size, not abbreviated. For anyone coming from a standard keyboard layout, the ERGO K860 has the shortest adjustment period of any ergonomic option.
 
-[Check price on Amazon →]({{AMAZON_LINK_LOGITECH_K860}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+K860+ergonomic+wireless+keyboard){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -46,7 +46,7 @@ The Microsoft Sculpt splits the keyboard into two domed halves with a physical g
 
 It's wireless-only via a USB dongle, battery life is solid at 3–6 months, and the key feel is responsive without being loud. At roughly $60–$80, the Sculpt is a legitimate ergonomic upgrade for those not ready to invest in a premium split board.
 
-[Check price on Amazon →]({{AMAZON_LINK_MICROSOFT_SCULPT}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Microsoft+Sculpt+ergonomic+keyboard){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -56,7 +56,7 @@ The Kinesis Advantage360 is for serious ergonomics. Each hand gets its own indep
 
 This is a $350+ keyboard with a steep learning curve — expect 2–4 weeks before you reach your previous typing speed. But for anyone with existing wrist, shoulder, or elbow issues, it's the keyboard that actually solves the problem rather than mitigating it.
 
-[Check price on Amazon →]({{AMAZON_LINK_KINESIS_ADVANTAGE360}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Kinesis+Advantage360+ergonomic+keyboard){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -66,7 +66,7 @@ The Keychron K15 Pro uses low-profile mechanical switches and a compact layout s
 
 The adjustable tilt legs let you set the angle that works for your hands. If you want the improvement of a proper mechanical keyboard without committing to a full ergonomic layout, the K15 Pro is the best-positioned option.
 
-[Check price on Amazon →]({{AMAZON_LINK_KEYCHRON_K15_PRO}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Keychron+K15+Pro+low+profile+keyboard){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -74,7 +74,7 @@ The adjustable tilt legs let you set the angle that works for your hands. If you
 
 The Dygma Raise 2 is a fully programmable split keyboard with hot-swappable switches, RGB backlighting, and wireless capability. Every key can be remapped, you can add layers for shortcuts, and the two halves connect wirelessly to each other. If you want to optimize your keyboard layout for specific software (video editing, coding, writing) or are building a highly customized workflow, the Raise 2 is the most capable option in this list.
 
-[Check price on Amazon →]({{AMAZON_LINK_DYGMA_RAISE2}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Dygma+Raise+2+split+mechanical+keyboard){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -106,4 +106,4 @@ The Dygma Raise 2 is a fully programmable split keyboard with hot-swappable swit
 
 For most home office workers, the **Logitech ERGO K860** is the right call — proven design, easy transition, and wireless convenience at a reasonable price. If you have existing pain or are committed to optimal ergonomics, the **Kinesis Advantage360** is the best true ergonomic keyboard available, with the caveat that the learning curve is real. If eye strain from extended screen time is also a concern, consider pairing your keyboard upgrade with a pair of [blue light blocking glasses](/articles/best-blue-light-blocking-glasses-2026/).
 
-[Shop ergonomic keyboards on Amazon →]({{AMAZON_LINK_ERGONOMIC_KEYBOARDS_SEARCH}}){rel="nofollow sponsored" target="_blank"}
+[Shop ergonomic keyboards on Amazon →](https://www.amazon.com/s?k=ergonomic+mechanical+keyboard+home+office){rel="nofollow sponsored" target="_blank"}

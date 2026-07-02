@@ -55,7 +55,7 @@ Smart speakers have gotten remarkably good. Whether you want a $30 Alexa starter
 
 ### 1. Amazon Echo (4th Gen) — Best Overall
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Echo+4th+Gen+smart+speaker){rel="nofollow sponsored" target="_blank"}
 
 The full-size Echo remains the best all-rounder in 2026. It delivers genuinely good sound, Alexa's deepest smart home integration, and a built-in Zigbee hub for controlling smart bulbs and plugs directly — no separate hub needed.
 
@@ -76,7 +76,7 @@ The full-size Echo remains the best all-rounder in 2026. It delivers genuinely g
 
 ### 2. Apple HomePod (2nd Gen) — Best Sound Quality
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Apple+HomePod+2nd+generation){rel="nofollow sponsored" target="_blank"}
 
 The HomePod 2nd Gen is the best-sounding smart speaker you can buy. Apple's computational audio engine analyzes the room and adjusts the sound in real time — it genuinely sounds different (and better) in a kitchen corner than on an open shelf.
 
@@ -98,7 +98,7 @@ The HomePod 2nd Gen is the best-sounding smart speaker you can buy. Apple's comp
 
 ### 3. Amazon Echo Dot (5th Gen) — Best Budget Pick
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Echo+Dot+5th+Gen){rel="nofollow sponsored" target="_blank"}
 
 The Echo Dot (5th Gen) is the best sub-$60 smart speaker on the market. It now has a built-in temperature sensor and motion sensor, added Motion Detection routines ("when someone enters the kitchen, turn on the lights"), and noticeably better bass than the 4th Gen.
 
@@ -120,7 +120,7 @@ The Echo Dot (5th Gen) is the best sub-$60 smart speaker on the market. It now h
 
 ### 4. Google Nest Audio — Best for Google Users
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Google+Nest+Audio+smart+speaker){rel="nofollow sponsored" target="_blank"}
 
 The Google Nest Audio offers warm, balanced sound and seamless Google ecosystem integration. If you use Android, Google Calendar, and Google Home, it's the smartest speaker in the house.
 
@@ -142,7 +142,7 @@ The Google Nest Audio offers warm, balanced sound and seamless Google ecosystem 
 
 ### 5. Apple HomePod Mini — Best for Privacy + Apple Homes
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Apple+HomePod+Mini){rel="nofollow sponsored" target="_blank"}
 
 At $99, the HomePod Mini gives you 90% of HomePod's smart home features at a third of the price. Siri processes many commands on-device, and it functions as a Thread border router for next-generation smart home devices.
 
@@ -163,7 +163,7 @@ At $99, the HomePod Mini gives you 90% of HomePod's smart home features at a thi
 
 ### 6. Sonos Era 100 — Best for Multi-Room Audio
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Sonos+Era+100+smart+speaker){rel="nofollow sponsored" target="_blank"}
 
 The Sonos Era 100 is for people who want music as a primary use case. It's not a smart home hub — it's a serious speaker that happens to support Alexa and Amazon Music.
 

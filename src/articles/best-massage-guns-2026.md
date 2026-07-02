@@ -62,7 +62,7 @@ The Theragun Pro is the gold standard for percussive therapy — used by NBA tea
 
 **The case against it:** It's loud for a $600 device, and the app integration is nice but not necessary. The Elite at $299 gives you the same great Theragun experience with slightly less power.
 
-**{{AMAZON_LINK_THERAGUN_PRO_5TH_GEN}}**
+**https://www.amazon.com/s?k=Theragun+Pro+5th+Generation+massage+gun**
 
 ---
 
@@ -83,7 +83,7 @@ The Hypervolt 2 Pro from Hyperice is the preferred choice for anyone who needs t
 
 **The case against it:** Amplitude is 14mm vs. Theragun's 16mm — noticeable for deep tissue work on large muscle groups. If you're targeting deep glutes or quads post-heavy-leg-day, the Theragun Pro edges it out.
 
-**{{AMAZON_LINK_HYPERVOLT_2_PRO}}**
+**https://www.amazon.com/s?k=Hypervolt+2+Pro+massage+gun+Hyperice**
 
 ---
 
@@ -103,7 +103,7 @@ Bob and Brad have built a massive YouTube following as licensed physical therapi
 
 **The case against it:** Build quality feels slightly less premium at touch. The handle design isn't as ergonomic as the Theragun's angled grip. For heavy post-workout use on large muscle groups, you may notice the power ceiling.
 
-**{{AMAZON_LINK_BOB_BRAD_D6_PRO}}**
+**https://www.amazon.com/s?k=Bob+and+Brad+D6+Pro+massage+gun**
 
 ---
 
@@ -121,7 +121,7 @@ The Ekrin B37S solves the one problem every massage gun owner eventually hits: d
 
 **Who it's for:** Travelers who can't be sure they'll have time to charge, anyone who uses their massage gun sporadically rather than daily, and buyers who want peace of mind from a lifetime warranty.
 
-**{{AMAZON_LINK_EKRIN_B37S}}**
+**https://www.amazon.com/s?k=Ekrin+B37S+massage+gun**
 
 ---
 
@@ -138,7 +138,7 @@ If you want the Theragun build quality and ergonomics without paying $599, the E
 
 **The case against it:** At $299, it's still not cheap. The Bob and Brad D6 Pro offers similar performance for $130 less. Choose Elite if you specifically want the Theragun brand, ergonomics, and ecosystem.
 
-**{{AMAZON_LINK_THERAGUN_ELITE}}**
+**https://www.amazon.com/s?k=Theragun+Elite+massage+gun**
 
 ---
 

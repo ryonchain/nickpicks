@@ -56,7 +56,7 @@ The NordicTrack EXP 7i hits the sweet spot of performance, tech, and price. Its 
 
 **Watch out for:** iFIT subscription runs ~$39/month after the included trial. Without it, the treadmill still works manually — just less interactive.
 
-**{{AMAZON_LINK_NORDICTRACK_EXP7I}}**
+**https://www.amazon.com/s?k=NordicTrack+EXP+7i+treadmill**
 
 ---
 
@@ -72,7 +72,7 @@ If you're training for half-marathons or want the most machine under $1,500, the
 
 **Watch out for:** At $1,499, it pushes the budget ceiling. JRNY subscription is ~$19/month.
 
-**{{AMAZON_LINK_BOWFLEX_T22}}**
+**https://www.amazon.com/s?k=Bowflex+T22+treadmill**
 
 ---
 
@@ -88,7 +88,7 @@ Don't let the sub-$900 price fool you — the Horizon 7.0 AT is built around a 3
 
 **Watch out for:** The 7.0 AT's console is basic (no built-in screen). You'll prop your phone or tablet on the shelf.
 
-**{{AMAZON_LINK_HORIZON_7AT}}**
+**https://www.amazon.com/s?k=Horizon+7.4+AT+treadmill**
 
 ---
 
@@ -104,7 +104,7 @@ If you want iFIT training but can't stretch to the NordicTrack, the ProForm Carb
 
 **Watch out for:** ProForm and NordicTrack are owned by the same company (iFIT Inc.), so the experience is nearly identical. Go with whichever is on sale.
 
-**{{AMAZON_LINK_PROFORM_T10}}**
+**https://www.amazon.com/s?k=ProForm+T10+treadmill**
 
 ---
 
@@ -120,7 +120,7 @@ If your goal is 30-minute daily walks rather than serious runs, the Sunny SF-T76
 
 **Watch out for:** The running deck is narrower (16") than standard gym treadmills. Taller users may feel constrained at higher speeds.
 
-**{{AMAZON_LINK_SUNNY_T7643}}**
+**https://www.amazon.com/s?k=Sunny+Health+Fitness+T7643+folding+treadmill**
 
 ---
 

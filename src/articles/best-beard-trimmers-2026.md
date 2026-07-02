@@ -52,7 +52,7 @@ We measured each trimmer against four criteria:
 
 ### 1. Philips Norelco Multigroom Series 9000 — Best Overall
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Philips+Norelco+Multigroom+9000+beard+trimmer){rel="nofollow sponsored" target="_blank"}
 
 The Multigroom 9000 is the Swiss Army knife of face grooming. It comes with 13 tools, self-sharpening steel blades that never need oiling, and a fully washable design. For most men with mixed grooming needs, this is the only trimmer you'll ever need.
 
@@ -75,7 +75,7 @@ The Multigroom 9000 is the Swiss Army knife of face grooming. It comes with 13 t
 
 ### 2. Wahl Stainless Steel Lithium Ion+ — Best Under $50
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Wahl+Stainless+Steel+Lithium+Ion+beard+trimmer){rel="nofollow sponsored" target="_blank"}
 
 Wahl has been making professional clippers since 1919, and the Stainless Steel Lithium Ion+ shows that heritage. At $35–$45, it outperforms many $80 consumer trimmers on precision and blade durability.
 
@@ -99,7 +99,7 @@ Wahl has been making professional clippers since 1919, and the Stainless Steel L
 
 ### 3. Braun Beard Trimmer BT7440 — Best Precision
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Braun+BT7440+beard+trimmer){rel="nofollow sponsored" target="_blank"}
 
 The Braun BT7440 is for men who want exact precision. Its Auto-Sense technology adjusts motor power to your beard density, and the 0.5mm step increments let you maintain a specific look down to the millimeter.
 
@@ -123,7 +123,7 @@ The Braun BT7440 is for men who want exact precision. Its Auto-Sense technology 
 
 ### 4. Wahl Clipper 5-Star Magic Clip (Cordless) — Best for Fades
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Wahl+5-Star+Magic+Clip+cordless+hair+clipper){rel="nofollow sponsored" target="_blank"}
 
 If your style includes tapered fades or close-cropped sides, the Magic Clip is what your barber likely uses. It's a professional-grade tool designed for barbers that works equally well at home.
 
@@ -147,7 +147,7 @@ If your style includes tapered fades or close-cropped sides, the Magic Clip is w
 
 ### 5. Philips Norelco OneBlade Pro 360 — Best Waterproof
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Philips+Norelco+OneBlade+Pro+360){rel="nofollow sponsored" target="_blank"}
 
 The OneBlade Pro 360 is not a traditional trimmer — it's a hybrid that trims, edges, and shaves wet or dry. The 360-swivel head follows facial contours, making it the easiest trimmer to use in the shower.
 
@@ -171,7 +171,7 @@ The OneBlade Pro 360 is not a traditional trimmer — it's a hybrid that trims, 
 
 ### 6. Remington HC4250 — Best for Tight Budgets
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Remington+HC4250+beard+hair+trimmer){rel="nofollow sponsored" target="_blank"}
 
 At under $25, the Remington HC4250 delivers reliable performance for occasional trimming. It's not a daily-driver precision tool, but for monthly maintenance it's hard to fault.
 

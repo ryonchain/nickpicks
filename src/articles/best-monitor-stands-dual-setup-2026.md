@@ -36,7 +36,7 @@ The [VIVO](/articles/vivo-vs-ergotron-monitor-arms/) dual monitor stand is a sin
 
 The stand sits at a fixed height (about 5.5 inches off the desk), which works well for most standard desk-to-eye distances. If your desk height is unusual or you're particularly tall or short, a fixed riser may not hit the right eye-level angle.
 
-[Check price on Amazon →]({{AMAZON_LINK_VIVO_DUAL_RISER}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=VIVO+dual+monitor+desk+stand+riser){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -46,7 +46,7 @@ If you want maximum flexibility — independent height, angle, and depth adjustm
 
 The LX Dual typically runs $250–$300. If you've invested in two quality monitors, the mounting solution is worth the investment — poorly positioned monitors undercut the whole productivity case for having two of them.
 
-[Check price on Amazon →]({{AMAZON_LINK_ERGOTRON_LX_DUAL}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Ergotron+LX+dual+monitor+arm){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -56,7 +56,7 @@ The MOUNTUP dual monitor stand is a freestanding arm-style mount that requires n
 
 At $60–$80, it's significantly cheaper than an Ergotron arm and more adjustable than a fixed riser. The trade-off is that the freestanding base takes up desk footprint (roughly 12" × 9"), while a clamp-style arm uses none.
 
-[Check price on Amazon →]({{AMAZON_LINK_MOUNTUP_DUAL}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Mount-It+dual+monitor+arm){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -66,7 +66,7 @@ The North Bayou dual monitor arm uses a single desk clamp and two articulating a
 
 If you're upgrading from a fixed riser to arm-style mounting but don't want to spend $250+ on an Ergotron, the North Bayou provides the key benefits (variable height, arm flexibility) at a significant discount.
 
-[Check price on Amazon →]({{AMAZON_LINK_NORTH_BAYOU_DUAL}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=North+Bayou+dual+monitor+arm){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -76,7 +76,7 @@ Rather than one dual-purpose stand, some users prefer two independent single-mon
 
 Buying two of these costs roughly $40–$60 total, making this the most affordable path to a properly elevated dual setup.
 
-[Check price on Amazon →]({{AMAZON_LINK_AMAZON_BASICS_STAND}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+monitor+stand){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -108,4 +108,4 @@ Buying two of these costs roughly $40–$60 total, making this the most affordab
 
 For most dual setups, the **MOUNTUP freestanding dual stand** is the best balance of flexibility and price — it gets both monitors to adjustable heights without desk clamp installation, and it costs a fraction of a premium arm. For a permanent desk setup with serious monitors, the **Ergotron LX Dual** is the correct long-term investment.
 
-[Shop dual monitor stands on Amazon →]({{AMAZON_LINK_DUAL_MONITOR_STANDS_SEARCH}}){rel="nofollow sponsored" target="_blank"}
+[Shop dual monitor stands on Amazon →](https://www.amazon.com/s?k=dual+monitor+stand+desk){rel="nofollow sponsored" target="_blank"}

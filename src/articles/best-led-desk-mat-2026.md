@@ -53,7 +53,7 @@ The Razer Goliathus Chroma Extended is the standard by which other LED desk mats
 
 **One note:** Razer Synapse software required for full lighting control. Without it, you're stuck with the default breathing rainbow pattern (which looks fine but isn't customizable).
 
-[Check price on Amazon →]({{AMAZON_LINK_RAZER_GOLIATHUS_CHROMA}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Razer+Goliathus+Chroma+extended+desk+mat){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -71,7 +71,7 @@ The Corsair MM700 is the most versatile LED desk mat if you care about lighting 
 
 **Best for:** Users already in the Corsair ecosystem, or anyone who wants maximum control over how the lighting looks and behaves.
 
-[Check price on Amazon →]({{AMAZON_LINK_CORSAIR_MM700}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Corsair+MM700+RGB+extended+desk+mat){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -89,7 +89,7 @@ The SteelSeries QcK Prism XL splits the LED strip into two independently control
 
 **Best for:** Gamers who want both a performance surface and visual staging, or anyone who wants the layered-glow effect that single-zone mats can't reproduce.
 
-[Check price on Amazon →]({{AMAZON_LINK_STEELSERIES_QCK_PRISM}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=SteelSeries+QcK+Prism+Cloth+desk+mat){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -105,7 +105,7 @@ If you want the LED desk mat aesthetic without the $50–$80 price of the premiu
 
 **Trade-offs vs. premium options:** No software sync, limited customization (usually 7–10 preset modes), and surface quality that's adequate but not optimized for precision mouse tracking. For casual use and office work, this is fine. For gaming or high-DPI mouse use, the surface quality difference is noticeable.
 
-[Check price on Amazon →]({{AMAZON_LINK_BUDGET_LED_DESK_MAT}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=LED+RGB+desk+mat+extended+mousepad){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -152,4 +152,4 @@ For most setups, the **Razer Goliathus Chroma Extended** is the right call — i
 
 The LED desk mat is one of those products where the real-world impact on how your desk looks is bigger than photos suggest — worth trying even if you're skeptical.
 
-[Shop LED desk mats on Amazon →]({{AMAZON_LINK_LED_DESK_MAT_SEARCH}}){rel="nofollow sponsored" target="_blank"}
+[Shop LED desk mats on Amazon →](https://www.amazon.com/s?k=LED+RGB+desk+mat+gaming+mousepad){rel="nofollow sponsored" target="_blank"}

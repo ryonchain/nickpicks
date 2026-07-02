@@ -30,7 +30,7 @@ The problem? There are now hundreds of bed-in-a-box brands, and the marketing al
 
 ## 1. Casper Wave Hybrid — Best Overall
 
-[Check price on Amazon →]({{AMAZON_LINK_CASPER_WAVE}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Casper+Wave+Hybrid+mattress){rel="nofollow sponsored" target="_blank"}
 
 The Casper Wave Hybrid is engineered for zoned support: softer under your shoulders and firmer under your hips and waist. This matters because most people's spine alignment suffers at night from mattresses that treat the whole body the same way.
 
@@ -51,7 +51,7 @@ The Casper Wave Hybrid is engineered for zoned support: softer under your should
 
 ## 2. Purple Plus Mattress — Best for Hot Sleepers
 
-[Check price on Amazon →]({{AMAZON_LINK_PURPLE_PLUS}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Purple+Plus+mattress){rel="nofollow sponsored" target="_blank"}
 
 Purple's GelFlex Grid is genuinely different from memory foam. The grid collapses under pressure points (shoulders, hips) while supporting everywhere else. More importantly, it sleeps dramatically cooler than foam because air moves freely through the grid.
 
@@ -72,7 +72,7 @@ Purple's GelFlex Grid is genuinely different from memory foam. The grid collapse
 
 ## 3. Nectar Classic — Best Value Mattress Under $1,000
 
-[Check price on Amazon →]({{AMAZON_LINK_NECTAR_CLASSIC}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Nectar+Classic+memory+foam+mattress){rel="nofollow sponsored" target="_blank"}
 
 Nectar consistently tops value rankings because it offers genuinely good memory foam sleep at roughly half the price of premium brands. The 365-night trial is the longest in the industry, which speaks to their confidence in the product.
 
@@ -93,7 +93,7 @@ Nectar consistently tops value rankings because it offers genuinely good memory 
 
 ## 4. Saatva Classic — Best for Innerspring Feel
 
-[Check price on Amazon →]({{AMAZON_LINK_SAATVA_CLASSIC}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Saatva+Classic+innerspring+mattress){rel="nofollow sponsored" target="_blank"}
 
 Saatva is the exception in this list: they don't compress their mattresses into a box. A Saatva delivery team brings it in and sets it up. But the company belongs in this guide because they sell premium mattresses direct-to-consumer without retail markup, offer a 365-night trial, and their Classic is one of the best innerspring hybrids at any price.
 
@@ -113,7 +113,7 @@ Saatva is the exception in this list: they don't compress their mattresses into 
 
 ## 5. Tuft & Needle Original — Best Minimalist / Budget Firm Mattress
 
-[Check price on Amazon →]({{AMAZON_LINK_TUFT_AND_NEEDLE}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Tuft+and+Needle+Original+mattress){rel="nofollow sponsored" target="_blank"}
 
 Tuft & Needle pioneered the bed-in-a-box category when they launched in 2012 with a no-frills foam mattress at half the traditional retail price. The Original still holds up as the best option for stomach sleepers who need a firm surface and for shoppers on a tight budget.
 
@@ -134,7 +134,7 @@ Tuft & Needle pioneered the bed-in-a-box category when they launched in 2012 wit
 
 ## 6. DreamCloud Premier — Best Hybrid Value
 
-[Check price on Amazon →]({{AMAZON_LINK_DREAMCLOUD_PREMIER}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=DreamCloud+Premier+hybrid+mattress){rel="nofollow sponsored" target="_blank"}
 
 DreamCloud sits in the sweet spot between budget foam (Nectar) and premium luxury (Casper). The Premier adds a cashmere blend cover and extra coil layers over the standard DreamCloud. The 365-night trial matches Nectar's best-in-class guarantee.
 

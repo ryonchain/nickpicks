@@ -63,7 +63,7 @@ The Nexstand K2 folds to the size of a large pen, weighs 0.3 lbs, and opens to a
 
 **The case against it:** Not as stable as rigid desk stands — there's slight wobble at max height when typing hard. If you only work from home and never travel, the Rain Design mStand is a better desk presence.
 
-**{{AMAZON_LINK_NEXSTAND_K2}}**
+**https://www.amazon.com/s?k=Nexstand+K2+laptop+stand**
 
 ---
 
@@ -83,7 +83,7 @@ The Rain Design mStand is what you buy when you don't want your workstation to l
 
 **The case against it:** Fixed angle only — no height adjustment. If your desk is unusually low or high, the viewing angle may not be ergonomically optimal. Heavy at 2.6 lbs and non-portable. At $45, you're paying for aesthetics as much as function.
 
-**{{AMAZON_LINK_RAIN_DESIGN_MSTAND}}**
+**https://www.amazon.com/s?k=Rain+Design+mStand+laptop+stand**
 
 ---
 
@@ -103,7 +103,7 @@ The Lamicall Adjustable Stand offers 6 adjustable angles, solid aluminum constru
 
 **The case against it:** No height adjustment (only angle) — the actual elevation from desk is fixed. If you need to raise the screen 4" to align with monitor height, you'll need to add a monitor stand underneath. Not as portable as the Nexstand.
 
-**{{AMAZON_LINK_LAMICALL_ADJUSTABLE_STAND}}**
+**https://www.amazon.com/s?k=Lamicall+adjustable+laptop+stand**
 
 ---
 
@@ -121,7 +121,7 @@ The Roost Stand folds to the size of a thick pen (12" × 0.9" × 0.5") and opens
 
 **The case against it:** At $75, it's significantly more expensive than the Nexstand K2 at $50. The additional portability improvement is real but marginal — the K2 is already very small. If you're not fanatical about bag weight, the K2 saves $25.
 
-**{{AMAZON_LINK_ROOST_STAND_V3}}**
+**https://www.amazon.com/s?k=Roost+laptop+stand+v3**
 
 ---
 
@@ -139,7 +139,7 @@ The OMOTON delivers the core function of a laptop stand — elevating the screen
 
 **The case against it:** Fixed angle (no adjustment). 15.6" max size excludes 17" laptops. The fixed angle may not suit all desk/chair combinations. If you have a 17" laptop or want any angle adjustment, spend the extra $8 on the Lamicall.
 
-**{{AMAZON_LINK_OMOTON_LAPTOP_STAND}}**
+**https://www.amazon.com/s?k=OMOTON+laptop+stand+aluminum**
 
 ---
 

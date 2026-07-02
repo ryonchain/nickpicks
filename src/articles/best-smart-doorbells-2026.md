@@ -53,7 +53,7 @@ After researching the top options in 2026, here are the six best smart doorbells
 
 ## 1. Ring Video Doorbell Pro 2 — Best Overall (Wired)
 
-**Price:** ~$250 | [Check price on Amazon](https://www.amazon.com/s?k=Ring+Video+Doorbell+Pro+2&tag={{AMAZON_TAG}})
+**Price:** ~$250 | [Check price on Amazon](https://www.amazon.com/s?k=Ring+Video+Doorbell+Pro+2)
 
 The Ring Pro 2 is the go-to smart doorbell if you have existing wired doorbell wiring. It streams in **1536p HD video** (crisp enough to read package labels), has 3D motion detection that distinguishes people from cars and animals, and supports **Head-to-Toe view** so you can see packages left on the step.
 
@@ -75,7 +75,7 @@ The Ring Pro 2 is the go-to smart doorbell if you have existing wired doorbell w
 
 ## 2. Google Nest Doorbell (Battery, 2nd Gen) — Best for Google Home Users
 
-**Price:** ~$180 | [Check price on Amazon](https://www.amazon.com/s?k=Google+Nest+Doorbell+2nd+Gen&tag={{AMAZON_TAG}})
+**Price:** ~$180 | [Check price on Amazon](https://www.amazon.com/s?k=Google+Nest+Doorbell+2nd+Gen)
 
 The second-generation Nest Doorbell works wired **or** battery, which is its biggest advantage over Ring's wired-only Pro. Video quality is excellent at 960×1280 (taller than wide, perfect for seeing packages), and it integrates flawlessly with Google Home and Nest Hub displays.
 
@@ -97,7 +97,7 @@ The second-generation Nest Doorbell works wired **or** battery, which is its big
 
 ## 3. Arlo Video Doorbell Wire-Free — Best Battery Life
 
-**Price:** ~$200 | [Check price on Amazon](https://www.amazon.com/s?k=Arlo+Video+Doorbell+Wire-Free&tag={{AMAZON_TAG}})
+**Price:** ~$200 | [Check price on Amazon](https://www.amazon.com/s?k=Arlo+Video+Doorbell+Wire-Free)
 
 Arlo's video doorbell is the only major option with a **built-in rechargeable battery** that lasts up to 6 months between charges. That's 3–4× longer than Ring or Nest battery doorbells. It shoots 180° field of view — the widest of any doorbell tested — so you catch people standing to the side.
 
@@ -119,7 +119,7 @@ Arlo's video doorbell is the only major option with a **built-in rechargeable ba
 
 ## 4. Ring Video Doorbell 4 — Best Battery + Color Night Vision
 
-**Price:** ~$220 | [Check price on Amazon](https://www.amazon.com/s?k=Ring+Video+Doorbell+4&tag={{AMAZON_TAG}})
+**Price:** ~$220 | [Check price on Amazon](https://www.amazon.com/s?k=Ring+Video+Doorbell+4)
 
 The Ring Doorbell 4 is the sweet spot if you want Ring's ecosystem without the need for hardwiring. It runs on a **quick-release rechargeable battery** (charges in ~5 hours), streams in 1080p HD, and adds **Color Pre-Roll** — a 4-second color clip captured before motion is triggered, so you see the full picture of what happened.
 
@@ -141,7 +141,7 @@ The Ring Doorbell 4 is the sweet spot if you want Ring's ecosystem without the n
 
 ## 5. Eufy Security Video Doorbell E340 — Best Value (No Subscription Required)
 
-**Price:** ~$120 | [Check price on Amazon](https://www.amazon.com/s?k=Eufy+Security+Video+Doorbell+E340&tag={{AMAZON_TAG}})
+**Price:** ~$120 | [Check price on Amazon](https://www.amazon.com/s?k=Eufy+Security+Video+Doorbell+E340)
 
 The Eufy E340 is the anti-subscription doorbell. It **stores video locally** on the included HomeBase hub — no monthly fees, ever. It shoots dual-lens 4K+2K video (one lens for the face, one for the package), and local AI processes people and package detection without sending data to the cloud.
 
@@ -163,7 +163,7 @@ The Eufy E340 is the anti-subscription doorbell. It **stores video locally** on 
 
 ## 6. Wyze Video Doorbell Pro — Best Budget Pick
 
-**Price:** ~$60 | [Check price on Amazon](https://www.amazon.com/s?k=Wyze+Video+Doorbell+Pro&tag={{AMAZON_TAG}})
+**Price:** ~$60 | [Check price on Amazon](https://www.amazon.com/s?k=Wyze+Video+Doorbell+Pro)
 
 At $60, the Wyze Doorbell Pro is the only option under $100 worth recommending. It offers 1080p HDR video, works wired (existing doorbell wiring required), and includes person detection in the free Wyze app with no subscription. Wyze Cam Plus subscription ($1.99/mo) adds package, pet, and vehicle detection.
 

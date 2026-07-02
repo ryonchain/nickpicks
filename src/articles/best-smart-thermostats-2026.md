@@ -59,7 +59,7 @@ The Nest Learning Thermostat is the gold standard for a reason: within a week of
 
 **Watch out for:** Multi-stage HVAC systems (e.g., heat pump with emergency heat) require wiring check before purchase. The Nest compatibility checker at nest.com is accurate.
 
-**{{AMAZON_LINK_NEST_LEARNING_4GEN}}**
+**https://www.amazon.com/s?k=Google+Nest+Learning+Thermostat+4th+gen**
 
 ---
 
@@ -78,7 +78,7 @@ If your home has rooms that heat unevenly, or if you want granular control over 
 
 **Watch out for:** The Ecobee app interface has more screens and options than Nest. If you want simplicity, Nest wins on UX. Ecobee is for people who enjoy the data.
 
-**{{AMAZON_LINK_ECOBEE_PREMIUM}}**
+**https://www.amazon.com/s?k=ecobee+Premium+smart+thermostat**
 
 ---
 
@@ -94,7 +94,7 @@ The Honeywell T9 punches above its price with included room sensors and solid Al
 
 **Watch out for:** The Honeywell Home app is functional but less polished than Nest or Ecobee. Energy reports are basic.
 
-**{{AMAZON_LINK_HONEYWELL_T9}}**
+**https://www.amazon.com/s?k=Honeywell+Home+T9+smart+thermostat**
 
 ---
 
@@ -110,7 +110,7 @@ At $79, the Amazon Smart Thermostat is the lowest-cost entry into smart temperat
 
 **Watch out for:** No learning capability, no room sensors, Google Home is not supported. Energy savings (~8%) are modest vs. premium models.
 
-**{{AMAZON_LINK_AMAZON_SMART_THERMOSTAT}}**
+**https://www.amazon.com/s?k=Amazon+Smart+Thermostat**
 
 ---
 
@@ -126,7 +126,7 @@ The budget Nest (not to be confused with the Learning Thermostat) offers Google 
 
 **Watch out for:** No auto-learning, no room sensors, fewer energy insights than the Learning Thermostat.
 
-**{{AMAZON_LINK_NEST_BUDGET}}**
+**https://www.amazon.com/s?k=Google+Nest+Thermostat+budget**
 
 ---
 

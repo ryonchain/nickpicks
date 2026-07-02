@@ -41,7 +41,7 @@ Portable ACs are the solution when you can't install a window unit — renters, 
 
 ### 1. LG LP1419IVSM — Best Overall
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=LG+LP1419IVSM+portable+air+conditioner){rel="nofollow sponsored" target="_blank"}
 
 The LG LP1419IVSM is the best portable AC you can buy in 2026. Its dual inverter compressor adjusts speed continuously (unlike single-speed compressors that cycle on/off), which means quieter operation, lower energy use, and more stable temperature. At 10,000 SACC BTU, it's appropriately rated and genuinely cools a 400 sq. ft. room.
 
@@ -65,7 +65,7 @@ The LG LP1419IVSM is the best portable AC you can buy in 2026. Its dual inverter
 
 ### 2. Whynter ARC-14S — Best Dual-Hose Portable AC
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Whynter+ARC-14S+dual+hose+portable+air+conditioner){rel="nofollow sponsored" target="_blank"}
 
 The Whynter ARC-14S is the dual-hose benchmark. It draws outdoor air through one hose and exhausts heat through the other — eliminating the negative pressure problem that plagues single-hose units. The result is 14,000 BTU that actually performs like 14,000 BTU.
 
@@ -89,7 +89,7 @@ The Whynter ARC-14S is the dual-hose benchmark. It draws outdoor air through one
 
 ### 3. De'Longhi Pinguino PAC AN140HPEKC — Best for Large Rooms + Heat
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=DeLonghi+Pinguino+PAC+AN140HPEKC+portable+AC){rel="nofollow sponsored" target="_blank"}
 
 The De'Longhi Pinguino is the most versatile portable climate control unit we've tested. In summer it cools; in transitional months it runs as a heat pump to warm the space. The patented "no water" technology evaporates condensate through the exhaust hose — you almost never need to empty a drain.
 
@@ -113,7 +113,7 @@ The De'Longhi Pinguino is the most versatile portable climate control unit we've
 
 ### 4. hOmeLabs HME020003N — Best Budget Pick
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=hOmeLabs+portable+air+conditioner+14000+BTU){rel="nofollow sponsored" target="_blank"}
 
 The hOmeLabs 14,000 BTU portable AC is a no-frills, single-hose unit that gets the job done at the lowest possible price. It's not quiet, it's not smart, and it has a manual drain — but if you need a large room cooled reliably without spending $400+, this is the pick.
 
@@ -137,7 +137,7 @@ The hOmeLabs 14,000 BTU portable AC is a no-frills, single-hose unit that gets t
 
 ### 5. Black+Decker BPACT08WT — Best for Small Spaces
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=BLACK+DECKER+BPACT08WT+portable+air+conditioner){rel="nofollow sponsored" target="_blank"}
 
 The Black+Decker BPACT08WT is the smallest, lightest, most maneuverable portable AC on this list. At 53 lbs and 8,000 BTU, it's ideal for bedrooms, home offices, and small apartments — rooms up to 150–200 sq. ft.
 
@@ -161,7 +161,7 @@ The Black+Decker BPACT08WT is the smallest, lightest, most maneuverable portable
 
 ### 6. GE APCA14YBMW — Best Smart Portable AC
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=GE+APCA14YBMW+smart+portable+air+conditioner){rel="nofollow sponsored" target="_blank"}
 
 GE's smart portable AC integrates with their SmartHQ app and works with both Alexa and Google Home. At 14,000 BTU, it covers large rooms. The 3-speed fan, energy-saver mode, and voice control make it the best choice for smart home households.
 

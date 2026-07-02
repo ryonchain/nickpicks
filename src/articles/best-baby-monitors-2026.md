@@ -41,7 +41,7 @@ Choosing a baby monitor is one of the most important purchases new parents make 
 
 ### 1. Eufy SpaceView Pro — Best Overall
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Eufy+SpaceView+Pro+baby+monitor){rel="nofollow sponsored" target="_blank"}
 
 The Eufy SpaceView Pro is the monitor we'd buy for our own newborn. It's standalone (no WiFi, no subscription), shoots 1080p video, and the 5-inch parent unit display is the largest screen in this class. Pan/tilt/zoom via the parent unit keeps you from disturbing a sleeping baby.
 
@@ -64,7 +64,7 @@ The Eufy SpaceView Pro is the monitor we'd buy for our own newborn. It's standal
 
 ### 2. Nanit Pro — Best Smart Monitor
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Nanit+Pro+smart+baby+monitor){rel="nofollow sponsored" target="_blank"}
 
 The Nanit Pro uses overhead computer vision to track sleep patterns, breathing motion, and room conditions — then surfaces it all in a beautifully designed app. If you want to know "how many times did she wake between 2–4 AM this week?", Nanit answers that.
 
@@ -87,7 +87,7 @@ The Nanit Pro uses overhead computer vision to track sleep patterns, breathing m
 
 ### 3. HelloBaby HB6550 — Best Budget Pick
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=HelloBaby+HB6550+baby+monitor){rel="nofollow sponsored" target="_blank"}
 
 The HelloBaby HB6550 is the best monitor under $60. It's not packed with features — it gives you a 3.2-inch color display, night vision, 2-way audio, and a simple temperature display. It just works.
 
@@ -110,7 +110,7 @@ The HelloBaby HB6550 is the best monitor under $60. It's not packed with feature
 
 ### 4. VTech DM221 — Best Audio-Only Monitor
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=VTech+DM221+audio+baby+monitor){rel="nofollow sponsored" target="_blank"}
 
 Audio-only monitors have one job: transmit sound clearly over distance. The VTech DM221 does it better than anything else at its price. The DECT 6.0 frequency has zero interference with WiFi or cell networks, and 1,000 ft. open-air range means it works throughout large homes.
 
@@ -132,7 +132,7 @@ Audio-only monitors have one job: transmit sound clearly over distance. The VTec
 
 ### 5. Infant Optics DRX-8 — Best for Twins / Multiple Children
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Infant+Optics+DXR-8+video+baby+monitor){rel="nofollow sponsored" target="_blank"}
 
 The Infant Optics DRX-8 supports up to 4 cameras on one parent unit — making it the go-to for twins or families with multiple children in different rooms. The interchangeable lens system is unique: swap between the standard wide-angle and zoom lens depending on room size.
 
@@ -155,7 +155,7 @@ The Infant Optics DRX-8 supports up to 4 cameras on one parent unit — making i
 
 ### 6. Owlet Dream Duo — Best Comprehensive Smart System
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Owlet+Dream+Duo+smart+baby+monitor){rel="nofollow sponsored" target="_blank"}
 
 The Owlet Dream Duo pairs a wearable baby sock (tracks heart rate and oxygen saturation) with an HD camera to create the most comprehensive infant monitoring system available. If your baby had NICU time or you're a high-anxiety parent, this combination provides real peace of mind.
 

@@ -44,7 +44,7 @@ Felix Gray is the brand most often recommended by optometrists who do endorse bl
 
 Frames are solid acetate, available in multiple styles, and the brand ships with a case and cleaning cloth. At ~$95–$120, they're at the premium end of the consumer blue light category.
 
-[Check price on Amazon →]({{AMAZON_LINK_FELIX_GRAY}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Felix+Gray+blue+light+glasses){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -54,7 +54,7 @@ Gunnar is the most established dedicated blue light glasses brand. Their Interce
 
 The Intercept frame is durable plastic with spring hinges, available in standard and wide sizes. Gunnar also makes a "Computer" version with a lighter amber tint (roughly 35% blocking) for daytime screen use where you want some blocking but less color shift.
 
-[Check price on Amazon →]({{AMAZON_LINK_GUNNAR_INTERCEPT}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=GUNNAR+Intercept+blue+light+glasses){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -64,7 +64,7 @@ Zenni's Blokz lenses can be added to almost any Zenni frame during checkout for 
 
 Zenni's frame selection is extensive, quality has improved significantly at the budget price point, and the Blokz add-on is genuinely low-risk — you're essentially paying $17 to try blue light filtering on glasses you'd buy anyway.
 
-[Check price on Amazon →]({{AMAZON_LINK_ZENNI_BLOKZ}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Zenni+blue+light+blocking+glasses){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -72,7 +72,7 @@ Zenni's frame selection is extensive, quality has improved significantly at the 
 
 For non-prescription users who want a pair of blue light glasses to try without significant investment, TIJN's square frame glasses have become consistently well-reviewed. They offer light blue light filtering in a classic square acetate frame that looks intentional rather than clinical. The blocking percentage is modest (the lens is nearly clear), but they're a $20–$30 trial that tells you whether blue light glasses feel like they make a difference before investing in premium options.
 
-[Check price on Amazon →]({{AMAZON_LINK_TIJN_BLUE_LIGHT}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=TIJN+blue+light+blocking+glasses){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -80,7 +80,7 @@ For non-prescription users who want a pair of blue light glasses to try without 
 
 BLUblox makes glasses in multiple tint levels targeting different use cases. The SummerGlo uses an orange tint that blocks roughly 50% of blue and green light — positioned for the 1–2 hours before sleep when you're most sensitive to light's effect on melatonin but still need to see clearly enough to work, read, or watch TV. It's a middle ground between the clear lens Felix Gray and the deep amber Gunnar.
 
-[Check price on Amazon →]({{AMAZON_LINK_BLUBLOX_SUMMERGLO}}){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=BluBlox+blue+light+glasses){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -112,4 +112,4 @@ BLUblox makes glasses in multiple tint levels targeting different use cases. The
 
 If you want to try blue light glasses for daytime work comfort, **TIJN** is the low-risk trial. If you're optimizing for sleep and you take it seriously, **Gunnar Intercept** or **BLUblox SummerGlo** are the proven options. If you want premium quality with clear lenses, **Felix Gray** is the brand most consistently recommended by eye care professionals. For [monitor](/articles/best-monitor-stands-dual-setup-2026/) height and positioning — another key factor in reducing eye and neck strain — see our dual monitor stands guide.
 
-[Shop blue light glasses on Amazon →]({{AMAZON_LINK_BLUE_LIGHT_GLASSES_SEARCH}}){rel="nofollow sponsored" target="_blank"}
+[Shop blue light glasses on Amazon →](https://www.amazon.com/s?k=blue+light+blocking+glasses+computer){rel="nofollow sponsored" target="_blank"}

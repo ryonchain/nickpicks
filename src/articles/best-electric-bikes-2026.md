@@ -43,7 +43,7 @@ Electric bikes have gone from novelty to mainstream — and the options have nev
 
 ### 1. Rad Power RadCity 5 Plus — Best Overall
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Rad+Power+RadCity+5+Plus+electric+bike){rel="nofollow sponsored" target="_blank"}
 
 Rad Power is the largest US e-bike brand for a reason. The RadCity 5 Plus is their refined commuter flagship: hydraulic disc brakes, integrated rear rack, semi-integrated battery, and a 5-color display. After years of iteration, the 5 Plus is the version that finally got everything right.
 
@@ -67,7 +67,7 @@ Rad Power is the largest US e-bike brand for a reason. The RadCity 5 Plus is the
 
 ### 2. Lectric XP 3.0 — Best Budget E-Bike
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Lectric+XP+3.0+folding+electric+bike){rel="nofollow sponsored" target="_blank"}
 
 At under $1,000, the Lectric XP 3.0 is the best value in electric bikes. Its folding frame, 65-mile claimed range (35–40 miles realistic), and Class 2 throttle make it the most versatile budget e-bike available. Lectric sold over 300,000 XP bikes — the largest e-bike sales volume in North America.
 
@@ -92,7 +92,7 @@ At under $1,000, the Lectric XP 3.0 is the best value in electric bikes. Its fol
 
 ### 3. Aventon Aventure.2 — Best Fat-Tire / Trail E-Bike
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Aventon+Aventure+fat+tire+electric+bike){rel="nofollow sponsored" target="_blank"}
 
 The Aventon Aventure.2 is a fat-tire beast that handles dirt, gravel, sand, and pavement equally well. The 750W rear motor and 4-inch fat tires absorb rough terrain, while the 48V battery provides 60+ miles of range in lower assist modes.
 
@@ -116,7 +116,7 @@ The Aventon Aventure.2 is a fat-tire beast that handles dirt, gravel, sand, and 
 
 ### 4. Cannondale Treadwell Neo 2 EQ — Best Commuter
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Cannondale+Treadwell+Neo+2+electric+bike){rel="nofollow sponsored" target="_blank"}
 
 Cannondale brings decades of cycling expertise to the e-bike market. The Treadwell Neo 2 is a lightweight, low-maintenance commuter with a Gates Carbon Belt Drive (no chain grease, no chain noise) and a Bosch Performance Line motor — the gold standard for smooth, natural power delivery.
 
@@ -140,7 +140,7 @@ Cannondale brings decades of cycling expertise to the e-bike market. The Treadwe
 
 ### 5. Lectric XPremium — Best Folding Step-Thru
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Lectric+XPremium+folding+step-thru+ebike){rel="nofollow sponsored" target="_blank"}
 
 The Lectric XPremium takes the XP's folding formula and upgrades it with a 70-mile battery, step-thru frame for easy mounting, and a color display. At $1,299, it's a significant value for what you get.
 
@@ -164,7 +164,7 @@ The Lectric XPremium takes the XP's folding formula and upgrades it with a 70-mi
 
 ### 6. Specialized Turbo Vado SL 5.0 — Best Performance
 
-{{AMAZON_LINK_PRODUCT}}
+[Check price on Amazon →](https://www.amazon.com/s?k=Specialized+Turbo+Vado+SL+electric+bike){rel="nofollow sponsored" target="_blank"}
 
 The Turbo Vado SL is what happens when a $6,000 road bike becomes an e-bike. It weighs just 33 lbs — lighter than most non-electric bikes. The SL 1.1 motor is invisible in the downtube and provides 240W of assist that feels perfectly natural. It's the e-bike for cyclists who don't want to feel like they're riding an e-bike.
 
