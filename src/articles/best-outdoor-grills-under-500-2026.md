@@ -25,6 +25,17 @@ products:
   - name: "Blackstone 28-inch Outdoor Griddle"
     position: 6
     description: "Best Flat-Top Alternative"
+faqs:
+  - question: "What is the best gas grill under $500?"
+    answer: "The Weber Spirit II E-310 is the best overall gas grill under $500 — its porcelain-enameled grates, Flavorizer bars, and proven burner longevity make it the most reliable option in the price range with a 10-year warranty."
+  - question: "How many BTUs do I need in a gas grill?"
+    answer: "BTU ratings are frequently misleading as a quality measure. A well-designed 30,000 BTU grill can outperform a poorly designed 60,000 BTU grill. Focus on even heat distribution and grate quality over BTU numbers — the Weber Spirit II at 26,500 BTU cooks more evenly than competitors at twice the BTU rating."
+  - question: "What is the difference between a griddle and a gas grill?"
+    answer: "A gas grill uses open grates for high-heat direct grilling with char marks and fat drainage. A flat-top griddle like the Blackstone 28-inch cooks on a solid steel surface for smash burgers, breakfast foods, and stir-fry. Each has different best-use scenarios."
+  - question: "How long do gas grills under $500 last?"
+    answer: "Weber Spirit II grills regularly last 10–15 years with basic maintenance. Budget grills under $200 from brands like Nexgrill or Royal Gourmet typically last 3–5 seasons before burner failure or grate corrosion becomes problematic."
+  - question: "Is charcoal or gas better for grilling?"
+    answer: "Gas grills heat faster, offer precise temperature control, and require less cleanup. Charcoal grills produce more smoke flavor and reach higher searing temperatures. For convenience and weeknight cooking, gas wins. For flavor-focused weekend grilling, charcoal has the edge."
 ---
 
 ## Why Most Budget Grills Disappoint
@@ -221,3 +232,20 @@ Consider the **Blackstone 28"** if your household wants more cooking versatility
 For more kitchen picks, see our [best air fryers in 2026](/articles/best-air-fryers-2026/) and [best espresso machines under $500](/articles/best-espresso-machines-under-500-2026/).
 
 ---
+
+## Frequently Asked Questions
+
+**What is the best gas grill under $500?**
+The Weber Spirit II E-310 is the best overall gas grill under $500 — its porcelain-enameled grates, Flavorizer bars, and proven burner longevity make it the most reliable option in the price range with a 10-year warranty.
+
+**How many BTUs do I need in a gas grill?**
+BTU ratings are frequently misleading as a quality measure. A well-designed 30,000 BTU grill can outperform a poorly designed 60,000 BTU grill. Focus on even heat distribution and grate quality over BTU numbers — the Weber Spirit II at 26,500 BTU cooks more evenly than competitors at twice the BTU rating.
+
+**What is the difference between a griddle and a gas grill?**
+A gas grill uses open grates for high-heat direct grilling with char marks and fat drainage. A flat-top griddle like the Blackstone 28-inch cooks on a solid steel surface for smash burgers, breakfast foods, and stir-fry. Each has different best-use scenarios.
+
+**How long do gas grills under $500 last?**
+Weber Spirit II grills regularly last 10–15 years with basic maintenance. Budget grills under $200 from brands like Nexgrill or Royal Gourmet typically last 3–5 seasons before burner failure or grate corrosion becomes problematic.
+
+**Is charcoal or gas better for grilling?**
+Gas grills heat faster, offer precise temperature control, and require less cleanup. Charcoal grills produce more smoke flavor and reach higher searing temperatures. For convenience and weeknight cooking, gas wins. For flavor-focused weekend grilling, charcoal has the edge.

@@ -6,6 +6,17 @@ category: home-office
 date: 2026-06-05
 readTime: 6
 permalink: /articles/how-to-set-up-standing-desk/index.html
+faqs:
+  - question: "How do I set the correct height for a standing desk?"
+    answer: "Stand naturally, let your arms fall to your sides, then bend your elbows to 90 degrees — the desk surface should meet your hands at that height. For most people this is approximately hip-to-belly-button level when standing in shoes."
+  - question: "How long should I stand at a standing desk each day?"
+    answer: "The research consensus is to alternate sitting and standing every 45–90 minutes rather than standing all day. Aim for 2–4 hours of total standing time across an 8-hour workday. Apps like Stretchly or Stand Up! provide reminders to transition positions."
+  - question: "What accessories do I need to use a standing desk correctly?"
+    answer: "An anti-fatigue mat is the most critical accessory — standing on hard floors causes joint fatigue within 20–30 minutes. A monitor arm to position the screen at eye level when standing is the second essential item. An external keyboard and mouse round out the ergonomic setup."
+  - question: "Why does my back hurt when using my standing desk?"
+    answer: "Back pain when standing usually indicates incorrect desk height, no anti-fatigue mat, or standing too long without alternating with sitting. Check that the desk is at elbow height when standing, add an anti-fatigue mat if you don't have one, and set a timer to sit every 45–60 minutes."
+  - question: "How do I remember to switch between sitting and standing?"
+    answer: "Program your standing desk memory presets immediately after setup, then use a desktop timer app like Stretchly (free) or Stand Up! (Mac) to remind you every 45–90 minutes. Making transitions one button press and one app reminder eliminates the friction that causes people to stop alternating."
 ---
 
 Most people unbox their [standing desk](/articles/best-standing-desk-under-500/), crank it to roughly shoulder height, and wonder why their back hurts after ten minutes. The problem isn't the desk — it's the setup. Get the ergonomics wrong and your body will stage a protest until you sit back down permanently. Follow these five steps and you'll have a workstation that actually supports the way you work.
@@ -76,3 +87,20 @@ Even with the right setup, a few predictable errors undercut the whole system:
 Dial in your sitting height, lock in your standing height, program those presets, clean up the cables, and commit to a simple alternating schedule. Start with Step 1 right now — pull out a chair, bend your elbows, and measure. Five minutes of setup today means years of actually using the thing you paid for.
 
 The first week, your feet will complain and your energy patterns will shift — you may feel more alert after standing sessions and more focused after sitting ones. That's normal. By week two, switching positions feels automatic and the fatigue disappears. That's when you start to understand why people who set this up correctly never go back to a static desk. The payoff is real, but only if you get the ergonomics right from day one.
+
+## Frequently Asked Questions
+
+**How do I set the correct height for a standing desk?**
+Stand naturally, let your arms fall to your sides, then bend your elbows to 90 degrees — the desk surface should meet your hands at that height. For most people this is approximately hip-to-belly-button level when standing in shoes.
+
+**How long should I stand at a standing desk each day?**
+The research consensus is to alternate sitting and standing every 45–90 minutes rather than standing all day. Aim for 2–4 hours of total standing time across an 8-hour workday. Apps like Stretchly or Stand Up! provide reminders to transition positions.
+
+**What accessories do I need to use a standing desk correctly?**
+An anti-fatigue mat is the most critical accessory — standing on hard floors causes joint fatigue within 20–30 minutes. A monitor arm to position the screen at eye level when standing is the second essential item. An external keyboard and mouse round out the ergonomic setup.
+
+**Why does my back hurt when using my standing desk?**
+Back pain when standing usually indicates incorrect desk height, no anti-fatigue mat, or standing too long without alternating with sitting. Check that the desk is at elbow height when standing, add an anti-fatigue mat if you don't have one, and set a timer to sit every 45–60 minutes.
+
+**How do I remember to switch between sitting and standing?**
+Program your standing desk memory presets immediately after setup, then use a desktop timer app like Stretchly (free) or Stand Up! (Mac) to remind you every 45–90 minutes. Making transitions one button press and one app reminder eliminates the friction that causes people to stop alternating.

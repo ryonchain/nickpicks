@@ -25,6 +25,17 @@ products:
   - name: "Rabbit Air MinusA2"
     position: 6
     description: "Best Ultra-Quiet Premium Pick"
+faqs:
+  - question: "What is the best air purifier for a home office?"
+    answer: "The Coway AP-1512HH Mighty is the best overall for most home offices — it covers up to 360 sq ft, has a true HEPA filter, and runs quietly on lower settings during work hours."
+  - question: "How often should I replace the HEPA filter in an air purifier?"
+    answer: "Most HEPA filters need replacement every 6–12 months depending on air quality and runtime. Follow the manufacturer's indicator light or schedule rather than waiting until the filter visibly degrades."
+  - question: "Are air purifiers worth it for home offices?"
+    answer: "Yes, especially if you have allergies, live in a city with poor outdoor air quality, or share your space with pets. Studies link better indoor air quality to measurably improved cognitive performance."
+  - question: "What CADR rating do I need for my home office?"
+    answer: "For a 150 sq ft office, a CADR of 100+ is sufficient. For 250–400 sq ft rooms, look for 200+ CADR. Match the purifier's room coverage rating to at least your actual square footage."
+  - question: "Which air purifier is quietest for video calls?"
+    answer: "The Rabbit Air MinusA2 is the quietest premium option, operating at 20.8 dB on its lowest setting — completely inaudible on video calls even with a sensitive microphone."
 ---
 
 ## Why Air Quality Matters for Remote Workers
@@ -294,3 +305,20 @@ The 6-stage filtration system includes a customizable filter stage: choose betwe
 ## Affiliate Disclosure
 
 *This article contains affiliate links. If you purchase through links on this page, we earn a small commission at no extra cost to you. We only recommend products we'd buy ourselves.*
+
+## Frequently Asked Questions
+
+**What is the best air purifier for a home office?**
+The Coway AP-1512HH Mighty is the best overall for most home offices — it covers up to 360 sq ft, has a true HEPA filter, and runs quietly on lower settings during work hours.
+
+**How often should I replace the HEPA filter in an air purifier?**
+Most HEPA filters need replacement every 6–12 months depending on air quality and runtime. Follow the manufacturer's indicator light or schedule rather than waiting until the filter visibly degrades.
+
+**Are air purifiers worth it for home offices?**
+Yes, especially if you have allergies, live in a city with poor outdoor air quality, or share your space with pets. Studies link better indoor air quality to measurably improved cognitive performance.
+
+**What CADR rating do I need for my home office?**
+For a 150 sq ft office, a CADR of 100+ is sufficient. For 250–400 sq ft rooms, look for 200+ CADR. Match the purifier's room coverage rating to at least your actual square footage.
+
+**Which air purifier is quietest for video calls?**
+The Rabbit Air MinusA2 is the quietest premium option, operating at 20.8 dB on its lowest setting — completely inaudible on video calls even with a sensitive microphone.

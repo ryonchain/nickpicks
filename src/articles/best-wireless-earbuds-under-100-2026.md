@@ -27,6 +27,17 @@ products:
   - name: "EarFun Air Pro 3"
     position: 5
     description: "Best Value Under $80"
+faqs:
+  - question: "What are the best wireless earbuds under $100?"
+    answer: "The Jabra Elite 4 is the best overall under $100 — it delivers effective active noise cancellation, 5.5-hour battery life (28 hours with case), call quality optimized for remote work, and a durable IPX4 water resistance rating."
+  - question: "Which wireless earbuds under $100 have the best ANC?"
+    answer: "The Sony WF-C700N has the best ANC in the under-$100 category — its noise cancellation is the most effective in this price range, noticeably reducing HVAC noise, office chatter, and transit sounds."
+  - question: "How long do wireless earbuds under $100 last per charge?"
+    answer: "The best models in this range run 5–8 hours per charge with ANC on, and 24–50 hours total with their charging cases. The Anker Soundcore Liberty 4 NC leads the category at 8 hours per charge and 40 hours total with ANC active."
+  - question: "Are wireless earbuds under $100 good for working out?"
+    answer: "Yes. The Jabra Elite 4 (IPX4), EarFun Air Pro 3 (IPX5), and Sony WF-C700N (IPX4) are all sweat and splash resistant enough for gym and outdoor workouts. Look for IPX4 or higher for confident workout use."
+  - question: "Which wireless earbuds under $100 are best for Android phones?"
+    answer: "The Samsung Galaxy Buds FE integrates most deeply with Samsung Android phones through the Galaxy Wearable app, with active EQ adjustment and head tracking features exclusive to the Samsung ecosystem. For non-Samsung Android users, the Jabra Elite 4 or Sony WF-C700N are platform-agnostic picks."
 ---
 
 The wireless earbud market under $100 has exploded in 2026. You no longer need to spend $200+ on AirPods Pro to get active noise cancellation, solid sound quality, and reliable Bluetooth connectivity. We tested 12 pairs under $100 across commutes, gym sessions, and work calls to find the best options for every type of listener.
@@ -217,6 +228,24 @@ The Jabra Elite 4 (IPX5) or Anker Soundcore Liberty 4 NC (IPX4) are most sweat-r
 Yes — the EarFun Air Pro 3 has a 6-mic array that delivers impressive call clarity. The Jabra Elite 4 is also call-optimized. Avoid the Samsung Galaxy Buds FE for professional calls — mic quality is mediocre.
 
 ---
+
+
+## Frequently Asked Questions
+
+**What are the best wireless earbuds under $100?**
+The Jabra Elite 4 is the best overall under $100 — it delivers effective active noise cancellation, 5.5-hour battery life (28 hours with case), call quality optimized for remote work, and a durable IPX4 water resistance rating.
+
+**Which wireless earbuds under $100 have the best ANC?**
+The Sony WF-C700N has the best ANC in the under-$100 category — its noise cancellation is the most effective in this price range, noticeably reducing HVAC noise, office chatter, and transit sounds.
+
+**How long do wireless earbuds under $100 last per charge?**
+The best models in this range run 5–8 hours per charge with ANC on, and 24–50 hours total with their charging cases. The Anker Soundcore Liberty 4 NC leads the category at 8 hours per charge and 40 hours total with ANC active.
+
+**Are wireless earbuds under $100 good for working out?**
+Yes. The Jabra Elite 4 (IPX4), EarFun Air Pro 3 (IPX5), and Sony WF-C700N (IPX4) are all sweat and splash resistant enough for gym and outdoor workouts. Look for IPX4 or higher for confident workout use.
+
+**Which wireless earbuds under $100 are best for Android phones?**
+The Samsung Galaxy Buds FE integrates most deeply with Samsung Android phones through the Galaxy Wearable app, with active EQ adjustment and head tracking features exclusive to the Samsung ecosystem. For non-Samsung Android users, the Jabra Elite 4 or Sony WF-C700N are platform-agnostic picks.
 
 ## Bottom Line
 

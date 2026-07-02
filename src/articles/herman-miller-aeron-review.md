@@ -6,6 +6,17 @@ category: home-office
 date: 2026-06-16
 readTime: 9
 permalink: /articles/herman-miller-aeron-review/index.html
+faqs:
+  - question: "Is the Herman Miller Aeron worth $1,500?"
+    answer: "For people working 6+ hours daily who have lower back pain or want a chair that lasts 10–15 years, yes. At $1,495 over 12 years the warranty covers, the cost is $124/year — cheaper annually than most $400 chairs that need replacement in 3–5 years."
+  - question: "What sizes does the Herman Miller Aeron come in?"
+    answer: "The Aeron comes in three sizes: Size A (small, for users under 5'2" and under 130 lbs), Size B (medium, the most common size for users 5'2"–6'0" and 130–230 lbs), and Size C (large, for users over 6'0" or over 230 lbs)."
+  - question: "How does the Herman Miller Aeron support lumbar?"
+    answer: "The Aeron uses PostureFit SL, which supports both the sacrum (lower spine) and lumbar (mid-back) independently via two adjustable pads behind the mesh back. This dual-support approach addresses the most common sources of seated lower back pain."
+  - question: "Is the Herman Miller Aeron good for people with back pain?"
+    answer: "Yes — the Aeron is specifically recommended by ergonomists for lower back pain and sciatica. Its PostureFit SL lumbar system, fully adjustable tilt tension, and forward tilt option together address most seated lower back pain sources within 2–4 weeks of proper adjustment."
+  - question: "Where can I buy a used Herman Miller Aeron?"
+    answer: "eBay, Craigslist, Facebook Marketplace, and office liquidation companies are the best sources for used Aerons at 30–60% off list price. Look for units with the current PostureFit SL lumbar (not older PostureFit), verify the size letter, and confirm the tilt mechanism operates smoothly before buying."
 ---
 
 The Herman Miller Aeron is the chair that every back-pain sufferer eventually Googles at 2am. It is $1,495. It is used in most major tech company offices. And it has been in production, largely unchanged, since 1994. If you're building a complete [home office setup](/articles/best-home-office-setup-under-1000/), the chair is one of the highest-impact investments you can make.
@@ -101,3 +112,20 @@ Size C fits users over 6'2" and handles up to 350 lbs. The seat height range (16
 
 **Is it worth buying refurbished?**  
 Yes, strongly. Herman Miller certified refurbished units typically cost $600–$900 and come with the remainder of the original warranty transferred. The chair's all-time durability means a 5-year-old Aeron in good condition still has a decade of useful life.
+
+## Frequently Asked Questions
+
+**Is the Herman Miller Aeron worth $1,500?**
+For people working 6+ hours daily who have lower back pain or want a chair that lasts 10–15 years, yes. At $1,495 over 12 years the warranty covers, the cost is $124/year — cheaper annually than most $400 chairs that need replacement in 3–5 years.
+
+**What sizes does the Herman Miller Aeron come in?**
+The Aeron comes in three sizes: Size A (small, for users under 5'2" and under 130 lbs), Size B (medium, the most common size for users 5'2"–6'0" and 130–230 lbs), and Size C (large, for users over 6'0" or over 230 lbs).
+
+**How does the Herman Miller Aeron support lumbar?**
+The Aeron uses PostureFit SL, which supports both the sacrum (lower spine) and lumbar (mid-back) independently via two adjustable pads behind the mesh back. This dual-support approach addresses the most common sources of seated lower back pain.
+
+**Is the Herman Miller Aeron good for people with back pain?**
+Yes — the Aeron is specifically recommended by ergonomists for lower back pain and sciatica. Its PostureFit SL lumbar system, fully adjustable tilt tension, and forward tilt option together address most seated lower back pain sources within 2–4 weeks of proper adjustment.
+
+**Where can I buy a used Herman Miller Aeron?**
+eBay, Craigslist, Facebook Marketplace, and office liquidation companies are the best sources for used Aerons at 30–60% off list price. Look for units with the current PostureFit SL lumbar (not older PostureFit), verify the size letter, and confirm the tilt mechanism operates smoothly before buying.

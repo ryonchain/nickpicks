@@ -25,6 +25,17 @@ products:
   - name: "Elgato Key Light Air"
     position: 6
     description: "Best Budget Key Light"
+faqs:
+  - question: "What is the best creator desk setup under $300?"
+    answer: "The best under-$300 creator stack is a Logitech C920x webcam ($70), Keychron K2 keyboard ($80), Anker USB-C hub ($35), VIVO monitor arm ($35), and a large desk pad ($25) — totaling around $245 with room for a key light."
+  - question: "Which webcam is best for content creation under $100?"
+    answer: "The Logitech C920x is the best under $100 — it shoots 1080p at 30fps, has reliable autofocus, and works out of the box with every major streaming platform and conferencing app."
+  - question: "How do I make my desk setup look professional on camera?"
+    answer: "Place your key light at 45 degrees to your face at eye level, position your webcam at eye level on a monitor arm, and use a clean desk pad as the visual base layer. These three changes have the most dramatic impact on on-camera appearance."
+  - question: "Is a mechanical keyboard necessary for a creator setup?"
+    answer: "Not necessary, but highly recommended. A Keychron K2 with brown switches gives satisfying tactile feedback without the loud clacking that bleeds into microphone recordings — a practical choice for streaming or recording content."
+  - question: "What monitor arm should I use for a creator desk setup under $300?"
+    answer: "The VIVO Single Monitor Arm at around $35 is the best value pick — it frees significant desk surface, positions the screen at eye level, and holds monitors up to 27 inches and 22 lbs reliably."
 ---
 
 A clean, professional creator setup doesn't require a $3,000 budget. The right five to six items — selected carefully — can make your desk look like you've been creating content for years, while keeping total spend under $300. Every item in this guide is available on TikTok Shop or Amazon, ships fast, and delivers immediate visual impact.
@@ -207,6 +218,24 @@ This setup produces content indistinguishable from a $400 setup in most TikTok f
 **RGB everything:** RGB keyboard, RGB mouse, RGB strip lights — each one individually is low-cost. Together they add up fast and often look better in a photo than in actual video content. Light your face first, then light your setup.
 
 ---
+
+
+## Frequently Asked Questions
+
+**What is the best creator desk setup under $300?**
+The best under-$300 creator stack is a Logitech C920x webcam ($70), Keychron K2 keyboard ($80), Anker USB-C hub ($35), VIVO monitor arm ($35), and a large desk pad ($25) — totaling around $245 with room for a key light.
+
+**Which webcam is best for content creation under $100?**
+The Logitech C920x is the best under $100 — it shoots 1080p at 30fps, has reliable autofocus, and works out of the box with every major streaming platform and conferencing app.
+
+**How do I make my desk setup look professional on camera?**
+Place your key light at 45 degrees to your face at eye level, position your webcam at eye level on a monitor arm, and use a clean desk pad as the visual base layer. These three changes have the most dramatic impact on on-camera appearance.
+
+**Is a mechanical keyboard necessary for a creator setup?**
+Not necessary, but highly recommended. A Keychron K2 with brown switches gives satisfying tactile feedback without the loud clacking that bleeds into microphone recordings — a practical choice for streaming or recording content.
+
+**What monitor arm should I use for a creator desk setup under $300?**
+The VIVO Single Monitor Arm at around $35 is the best value pick — it frees significant desk surface, positions the screen at eye level, and holds monitors up to 27 inches and 22 lbs reliably.
 
 ## Bottom Line
 

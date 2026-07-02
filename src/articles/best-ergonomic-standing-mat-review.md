@@ -22,6 +22,17 @@ products:
   - name: "Kangaroo Original Standing Mat"
     position: 5
     description: "Best for Sit-Stand Transitions"
+faqs:
+  - question: "What is the best ergonomic standing mat for a standing desk?"
+    answer: "The Topo by Ergodriven is the best overall — its terrain-contoured surface with raised ridges and a central footrest encourages constant micro-movement that outperforms flat mats for all-day standing fatigue reduction."
+  - question: "How thick should an anti-fatigue mat be?"
+    answer: "A minimum of 3/4 inch thickness is needed to meaningfully cushion the impact of standing on hard floors. The Topo at 3/4 inch base rising to 1.5 inch at terrain peaks hits the ergonomic sweet spot without being so thick it creates a tripping edge."
+  - question: "Are standing mats worth it for standing desks?"
+    answer: "Yes — standing on a hard floor for more than 20–30 minutes causes compressive joint fatigue that cuts standing sessions short. An anti-fatigue mat extends comfortable standing time by 2–3x for most users."
+  - question: "What is the difference between the Topo and a flat anti-fatigue mat?"
+    answer: "Flat mats like the Sky Solutions cushion static standing. The Topo's terrain contours encourage fidgeting — shifting weight from foot to foot, rocking, stretching — which activates calf muscles and keeps circulation moving during long standing sessions."
+  - question: "How do I clean an anti-fatigue standing mat?"
+    answer: "Wipe with a damp cloth and mild soap for routine cleaning. Avoid soaking polyurethane foam mats. The Topo and WellnessMats are both resistant to most household cleaners and can be hosed down for deep cleaning."
 ---
 
 Standing for hours on a hard floor compresses the joints in your feet, knees, and lower back — and no amount of proper posture compensates for a concrete slab or hardwood floor beneath you. An ergonomic anti-fatigue mat solves this at the root: its cushioning encourages subtle micro-movements that keep your circulation moving and your joints from locking up.
@@ -207,3 +218,20 @@ For beginners or shorter-session users: start with the **Amazon Basics mat (~$35
 ---
 
 **Related Guide:** [standing desk mats](/articles/best-standing-desk-mats-2026/)
+
+## Frequently Asked Questions
+
+**What is the best ergonomic standing mat for a standing desk?**
+The Topo by Ergodriven is the best overall — its terrain-contoured surface with raised ridges and a central footrest encourages constant micro-movement that outperforms flat mats for all-day standing fatigue reduction.
+
+**How thick should an anti-fatigue mat be?**
+A minimum of 3/4 inch thickness is needed to meaningfully cushion the impact of standing on hard floors. The Topo at 3/4 inch base rising to 1.5 inch at terrain peaks hits the ergonomic sweet spot without being so thick it creates a tripping edge.
+
+**Are standing mats worth it for standing desks?**
+Yes — standing on a hard floor for more than 20–30 minutes causes compressive joint fatigue that cuts standing sessions short. An anti-fatigue mat extends comfortable standing time by 2–3x for most users.
+
+**What is the difference between the Topo and a flat anti-fatigue mat?**
+Flat mats like the Sky Solutions cushion static standing. The Topo's terrain contours encourage fidgeting — shifting weight from foot to foot, rocking, stretching — which activates calf muscles and keeps circulation moving during long standing sessions.
+
+**How do I clean an anti-fatigue standing mat?**
+Wipe with a damp cloth and mild soap for routine cleaning. Avoid soaking polyurethane foam mats. The Topo and WellnessMats are both resistant to most household cleaners and can be hosed down for deep cleaning.

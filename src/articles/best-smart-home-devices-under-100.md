@@ -22,6 +22,17 @@ products:
   - name: "Blink Mini Indoor Camera"
     position: 5
     description: "Best Budget Indoor Camera"
+faqs:
+  - question: "What are the best smart home devices under $100?"
+    answer: "The best under-$100 smart home investments are a Kasa Smart Plug EP25 4-pack (~$30), a Ring Video Doorbell 2nd Gen (~$60), and a smart bulb 2-pack (~$25) — three purchases that deliver immediate utility without complex installation."
+  - question: "Which video doorbell is best under $100?"
+    answer: "The Ring Video Doorbell 2nd Gen is the best under $100 — it installs over any existing doorbell wiring or on battery, sends motion-triggered notifications, and stores footage in Ring's cloud for $3.99/month."
+  - question: "Is mesh WiFi worth buying for a smart home?"
+    answer: "Yes if your home has dead zones or your smart devices frequently go offline. The TP-Link Deco E4 2-pack at around $60 creates a unified mesh network that eliminates the range issues that cause smart device reconnection problems."
+  - question: "Are TP-Link Kasa smart plugs compatible with Alexa and Google?"
+    answer: "Yes. Kasa smart plugs work natively with Amazon Alexa, Google Home, and Samsung SmartThings without a separate hub. Setup takes under 5 minutes through the Kasa app, which handles all configuration including schedules and energy monitoring."
+  - question: "How do I set up a smart home without a hub?"
+    answer: "Modern smart devices with WiFi connectivity (Kasa, Govee, Ring, Blink) connect directly to your router without a hub. Only older Zigbee and Z-Wave devices require a dedicated hub. Stick to WiFi-native and Matter-compatible devices for the simplest setup."
 ---
 
 Smart home upgrades don't require a $500 commitment or a weekend of tech headaches. The best smart home devices under $100 give you immediate wins — automate your lights, see your front door from anywhere, and extend your WiFi to every corner of your home — without touching your wiring or downloading six different apps.
@@ -184,3 +195,20 @@ See our full [smart home beginner's guide](/articles/best-smart-home-devices-202
 ---
 
 **Related Guide:** [smart speakers](/articles/best-smart-speakers-2026/)
+
+## Frequently Asked Questions
+
+**What are the best smart home devices under $100?**
+The best under-$100 smart home investments are a Kasa Smart Plug EP25 4-pack (~$30), a Ring Video Doorbell 2nd Gen (~$60), and a smart bulb 2-pack (~$25) — three purchases that deliver immediate utility without complex installation.
+
+**Which video doorbell is best under $100?**
+The Ring Video Doorbell 2nd Gen is the best under $100 — it installs over any existing doorbell wiring or on battery, sends motion-triggered notifications, and stores footage in Ring's cloud for $3.99/month.
+
+**Is mesh WiFi worth buying for a smart home?**
+Yes if your home has dead zones or your smart devices frequently go offline. The TP-Link Deco E4 2-pack at around $60 creates a unified mesh network that eliminates the range issues that cause smart device reconnection problems.
+
+**Are TP-Link Kasa smart plugs compatible with Alexa and Google?**
+Yes. Kasa smart plugs work natively with Amazon Alexa, Google Home, and Samsung SmartThings without a separate hub. Setup takes under 5 minutes through the Kasa app, which handles all configuration including schedules and energy monitoring.
+
+**How do I set up a smart home without a hub?**
+Modern smart devices with WiFi connectivity (Kasa, Govee, Ring, Blink) connect directly to your router without a hub. Only older Zigbee and Z-Wave devices require a dedicated hub. Stick to WiFi-native and Matter-compatible devices for the simplest setup.

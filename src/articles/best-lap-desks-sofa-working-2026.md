@@ -22,6 +22,17 @@ products:
   - name: "Basic Concepts Portable Lap Desk"
     position: 5
     description: "Best Ultra-Portable Budget Pick"
+faqs:
+  - question: "What is the best lap desk for working from the sofa?"
+    answer: "The LapGear Home Office Lap Desk is the best overall — its wrist rest, mouse pad area, phone slot, and stable cushion base cover all the features you need for productive sofa work sessions."
+  - question: "Are lap desks good for laptop cooling?"
+    answer: "Standard lap desks with a solid surface can restrict airflow under the laptop. The HUANUO Lap Desk with Fan actively cools the laptop bottom, making it the best choice if your laptop runs hot during extended sofa use."
+  - question: "What size lap desk do I need for a 15-inch laptop?"
+    answer: "A lap desk with a work surface of at least 17x12 inches comfortably fits a 15-inch laptop with space for a mouse on the side. The LapGear Home Office Lap Desk at 17.5x12 inches is sized exactly for this use case."
+  - question: "How do I stop a lap desk from sliding on my lap?"
+    answer: "Look for lap desks with a non-slip bottom on the cushion base. Bean bag-style lap desks conform to your legs and naturally resist sliding. Hard-bottom lap desks without grip material tend to slide on smooth fabric clothing."
+  - question: "Which lap desk is best for extended writing sessions?"
+    answer: "The SAIJI Lap Desk with Adjustable Tilt is the best for long writing sessions — the adjustable angle puts the screen at a better eye position and gives your wrists a more neutral position compared to a flat horizontal surface."
 ---
 
 Not every work session belongs at a desk. Calls you can take hands-free, reading tasks, light email triage, and long-form writing with a laptop — these work just as well from a comfortable sofa, and for many people they work better. If you use a wireless [keyboard](/articles/best-ergonomic-keyboards-home-office-2026/) and mouse, sofa work becomes even more practical since you're not tethered to a specific setup. The problem is laptop positioning: a laptop flat on your legs runs hot, tips sideways, and forces a downward neck angle that aches after 20 minutes.
@@ -101,6 +112,24 @@ For occasional sofa use or travel, the Basic Concepts lap desk is a simple flat 
 **Weight.** Lap desks with fans and adjustable tilt mechanisms are heavier. If you carry the lap desk between rooms or pack it for travel, weight matters. LapGear's Home Office model (~2.5 lbs) is the practical upper limit for a "portable" lap desk.
 
 ---
+
+
+## Frequently Asked Questions
+
+**What is the best lap desk for working from the sofa?**
+The LapGear Home Office Lap Desk is the best overall — its wrist rest, mouse pad area, phone slot, and stable cushion base cover all the features you need for productive sofa work sessions.
+
+**Are lap desks good for laptop cooling?**
+Standard lap desks with a solid surface can restrict airflow under the laptop. The HUANUO Lap Desk with Fan actively cools the laptop bottom, making it the best choice if your laptop runs hot during extended sofa use.
+
+**What size lap desk do I need for a 15-inch laptop?**
+A lap desk with a work surface of at least 17x12 inches comfortably fits a 15-inch laptop with space for a mouse on the side. The LapGear Home Office Lap Desk at 17.5x12 inches is sized exactly for this use case.
+
+**How do I stop a lap desk from sliding on my lap?**
+Look for lap desks with a non-slip bottom on the cushion base. Bean bag-style lap desks conform to your legs and naturally resist sliding. Hard-bottom lap desks without grip material tend to slide on smooth fabric clothing.
+
+**Which lap desk is best for extended writing sessions?**
+The SAIJI Lap Desk with Adjustable Tilt is the best for long writing sessions — the adjustable angle puts the screen at a better eye position and gives your wrists a more neutral position compared to a flat horizontal surface.
 
 ## Bottom Line
 

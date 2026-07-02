@@ -25,6 +25,17 @@ products:
   - name: "Brita Standard 10-Cup"
     position: 6
     description: "Best Basic Starter"
+faqs:
+  - question: "What is the best water filter pitcher in 2026?"
+    answer: "The Brita Longlast+ Pitcher is the best overall — its filters last 6 months (compared to 2 months for standard Brita), reduce lead, mercury, chlorine, and benzene, and cost less per gallon than most alternatives."
+  - question: "What do water filter pitchers actually remove?"
+    answer: "Most pitchers reduce chlorine taste and odor, some heavy metals, and particulates. The ZeroWater 5-stage filter reduces virtually all dissolved solids to 0 ppm. The Clearly Filtered pitcher is the only pitcher with documented PFAS (forever chemical) removal. Standard Brita filters do not remove lead or PFAS."
+  - question: "How often should I replace my water filter pitcher filter?"
+    answer: "Brita Longlast+ filters last 6 months or 120 gallons. Standard Brita filters last 2 months or 40 gallons. ZeroWater filters last 15–40 gallons depending on your water's TDS level — high TDS water exhausts ZeroWater filters quickly."
+  - question: "Is ZeroWater better than Brita?"
+    answer: "ZeroWater removes more total dissolved solids, including heavy metals and chlorine, down to 0 ppm. However, its filters exhaust quickly in high-TDS water and are expensive to replace. Brita Longlast+ is more practical for daily use where complete TDS removal isn't the goal."
+  - question: "Which water filter pitcher removes PFAS?"
+    answer: "The Clearly Filtered Water Pitcher is the only major pitcher with third-party verified PFAS removal — it claims to reduce 232+ contaminants including PFOA, PFOS, and other forever chemicals. It costs more upfront but is the right choice if PFAS contamination is a concern in your area."
 ---
 
 ## What a Filter Pitcher Actually Does (And Doesn't)
@@ -219,3 +230,20 @@ For related kitchen picks, see our [best espresso machines under $500](/articles
 ---
 
 **Related Guide:** [Instant Pot pressure cookers](/articles/best-instant-pot-pressure-cookers-2026/)
+
+## Frequently Asked Questions
+
+**What is the best water filter pitcher in 2026?**
+The Brita Longlast+ Pitcher is the best overall — its filters last 6 months (compared to 2 months for standard Brita), reduce lead, mercury, chlorine, and benzene, and cost less per gallon than most alternatives.
+
+**What do water filter pitchers actually remove?**
+Most pitchers reduce chlorine taste and odor, some heavy metals, and particulates. The ZeroWater 5-stage filter reduces virtually all dissolved solids to 0 ppm. The Clearly Filtered pitcher is the only pitcher with documented PFAS (forever chemical) removal. Standard Brita filters do not remove lead or PFAS.
+
+**How often should I replace my water filter pitcher filter?**
+Brita Longlast+ filters last 6 months or 120 gallons. Standard Brita filters last 2 months or 40 gallons. ZeroWater filters last 15–40 gallons depending on your water's TDS level — high TDS water exhausts ZeroWater filters quickly.
+
+**Is ZeroWater better than Brita?**
+ZeroWater removes more total dissolved solids, including heavy metals and chlorine, down to 0 ppm. However, its filters exhaust quickly in high-TDS water and are expensive to replace. Brita Longlast+ is more practical for daily use where complete TDS removal isn't the goal.
+
+**Which water filter pitcher removes PFAS?**
+The Clearly Filtered Water Pitcher is the only major pitcher with third-party verified PFAS removal — it claims to reduce 232+ contaminants including PFOA, PFOS, and other forever chemicals. It costs more upfront but is the right choice if PFAS contamination is a concern in your area.

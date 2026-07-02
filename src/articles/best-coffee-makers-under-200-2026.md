@@ -25,6 +25,17 @@ products:
   - name: "Mr. Coffee 12-Cup Programmable"
     position: 6
     description: "Best Under $40"
+faqs:
+  - question: "What is the best coffee maker under $200?"
+    answer: "The Cuisinart DCC-3200P1 is the best overall under $200 — it brews at the correct 200°F temperature, holds 14 cups, has a fully adjustable keep-warm setting, and costs around $70."
+  - question: "What temperature should a coffee maker brew at?"
+    answer: "The Specialty Coffee Association recommends a brew temperature of 195–205°F. Most cheap drip machines brew at 175–185°F, which leads to under-extracted, weak coffee. The OXO Brew and Cuisinart DCC-3200 both hit the correct range."
+  - question: "Are pod coffee makers worth it?"
+    answer: "Keurig machines like the K-Classic offer convenience and variety but cost more per cup than ground coffee. If you drink one cup daily and value speed and variety over cost efficiency, a pod machine makes sense."
+  - question: "Which coffee maker is best for coffee purists?"
+    answer: "The OXO Brew 9-Cup Coffee Maker is the best for purists — it's SCAA-certified, pre-infuses grounds to bloom before full brewing, and maintains optimal brew temperature throughout the cycle."
+  - question: "How often should I clean my coffee maker?"
+    answer: "Run a descaling cycle every 1–3 months depending on your water hardness. Use a 1:1 mix of white vinegar and water, run a full brew cycle, then run two cycles of plain water to flush the vinegar taste."
 ---
 
 ## The Right Coffee Maker Changes Your Morning
@@ -223,3 +234,20 @@ If you're setting up a home office, check out our [best home office setup under 
 ---
 
 **Related Guide:** [espresso machines](/articles/best-espresso-machines-under-500-2026/)
+
+## Frequently Asked Questions
+
+**What is the best coffee maker under $200?**
+The Cuisinart DCC-3200P1 is the best overall under $200 — it brews at the correct 200°F temperature, holds 14 cups, has a fully adjustable keep-warm setting, and costs around $70.
+
+**What temperature should a coffee maker brew at?**
+The Specialty Coffee Association recommends a brew temperature of 195–205°F. Most cheap drip machines brew at 175–185°F, which leads to under-extracted, weak coffee. The OXO Brew and Cuisinart DCC-3200 both hit the correct range.
+
+**Are pod coffee makers worth it?**
+Keurig machines like the K-Classic offer convenience and variety but cost more per cup than ground coffee. If you drink one cup daily and value speed and variety over cost efficiency, a pod machine makes sense.
+
+**Which coffee maker is best for coffee purists?**
+The OXO Brew 9-Cup Coffee Maker is the best for purists — it's SCAA-certified, pre-infuses grounds to bloom before full brewing, and maintains optimal brew temperature throughout the cycle.
+
+**How often should I clean my coffee maker?**
+Run a descaling cycle every 1–3 months depending on your water hardness. Use a 1:1 mix of white vinegar and water, run a full brew cycle, then run two cycles of plain water to flush the vinegar taste.

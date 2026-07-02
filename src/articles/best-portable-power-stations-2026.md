@@ -25,6 +25,17 @@ products:
   - name: "Goal Zero Yeti 500X"
     position: 6
     description: "Best for Van Build Compatibility"
+faqs:
+  - question: "What is the best portable power station for home backup?"
+    answer: "The EcoFlow Delta 2 is the best for home backup — its 1024Wh capacity handles essential appliances during outages, charges from 0 to 80% in under an hour with X-Stream charging, and expands with extra battery modules if needed."
+  - question: "How long does a portable power station last during an outage?"
+    answer: "Runtime depends on what you're powering. A 1000Wh station (like the EcoFlow Delta 2) runs a 200W refrigerator for roughly 4–5 hours, charges a laptop 12–15 times, or powers LED lights for 50+ hours. Divide the watt-hour capacity by your device's wattage to estimate runtime."
+  - question: "Can you charge a portable power station with solar panels?"
+    answer: "Yes. The EcoFlow Delta 2 and Jackery Explorer 1000 Pro both accept solar panel input (200–400W solar). The Jackery Explorer 1000 Pro recharges fully in 1.8 hours with 6 SolarSaga 200W panels — the best solar charging performance in the mid-range category."
+  - question: "What watt-hour capacity do I need in a portable power station?"
+    answer: "For camping and phone/laptop charging, 200–500Wh is sufficient. For home backup of essential devices (refrigerator, CPAP, router), look for 1000Wh+. For whole-home backup or extended outages, 2000Wh units like the Bluetti AC200P are the appropriate scale."
+  - question: "Are portable power stations safe to use indoors?"
+    answer: "Yes — unlike gas generators, portable power stations produce no fumes and are safe for indoor use. They can charge and discharge simultaneously (pass-through charging) and have built-in BMS protection against overcharge, over-discharge, and short circuits."
 ---
 
 ## Power Where You Need It
@@ -264,3 +275,20 @@ All units on this list accept solar input, but maximum solar wattage varies sign
 ---
 
 **Related Guides:** [smart home devices](/articles/best-smart-home-devices-2026/) · [home security cameras](/articles/best-home-security-cameras-under-100/)
+
+## Frequently Asked Questions
+
+**What is the best portable power station for home backup?**
+The EcoFlow Delta 2 is the best for home backup — its 1024Wh capacity handles essential appliances during outages, charges from 0 to 80% in under an hour with X-Stream charging, and expands with extra battery modules if needed.
+
+**How long does a portable power station last during an outage?**
+Runtime depends on what you're powering. A 1000Wh station (like the EcoFlow Delta 2) runs a 200W refrigerator for roughly 4–5 hours, charges a laptop 12–15 times, or powers LED lights for 50+ hours. Divide the watt-hour capacity by your device's wattage to estimate runtime.
+
+**Can you charge a portable power station with solar panels?**
+Yes. The EcoFlow Delta 2 and Jackery Explorer 1000 Pro both accept solar panel input (200–400W solar). The Jackery Explorer 1000 Pro recharges fully in 1.8 hours with 6 SolarSaga 200W panels — the best solar charging performance in the mid-range category.
+
+**What watt-hour capacity do I need in a portable power station?**
+For camping and phone/laptop charging, 200–500Wh is sufficient. For home backup of essential devices (refrigerator, CPAP, router), look for 1000Wh+. For whole-home backup or extended outages, 2000Wh units like the Bluetti AC200P are the appropriate scale.
+
+**Are portable power stations safe to use indoors?**
+Yes — unlike gas generators, portable power stations produce no fumes and are safe for indoor use. They can charge and discharge simultaneously (pass-through charging) and have built-in BMS protection against overcharge, over-discharge, and short circuits.

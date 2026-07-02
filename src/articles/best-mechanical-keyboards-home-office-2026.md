@@ -22,6 +22,17 @@ products:
   - name: "Keychron V1"
     position: 5
     description: "Best Wired Budget Option"
+faqs:
+  - question: "What is the best mechanical keyboard for home office use?"
+    answer: "The Keychron Q2 Pro is the best overall — it uses pre-lubed switches in a gasket-mounted aluminum frame that dramatically reduces typing noise while preserving the tactile satisfaction of mechanical actuation."
+  - question: "Which mechanical keyboard switches are quietest for office use?"
+    answer: "Silent Red switches (linear, dampened) are the quietest mechanical option. Keychron's and Logitech's silent variants reduce noise to near-membrane levels. Brown switches are a moderate middle ground — tactile but not quiet enough for shared spaces."
+  - question: "Is a wireless mechanical keyboard worth buying for a home office?"
+    answer: "Yes. The Keychron Q2 Pro's wireless mode adds flexibility for occasional sofa use or switching between devices. Battery life on most wireless mechanical keyboards runs 2–4 weeks on a charge, making charging an infrequent inconvenience."
+  - question: "What keyboard size is best for a home office?"
+    answer: "A TKL (tenkeyless, 87 key) or 75% layout hits the best balance for most home office users — it keeps the number row and function keys while eliminating the numpad that most office workers rarely use, freeing mouse space."
+  - question: "How loud are mechanical keyboards on video calls?"
+    answer: "Switch selection determines call noise more than keyboard model. Silent Red or Brown switches are typically inaudible through most video conferencing noise suppression. Blue switches are loud enough to be clearly audible to meeting participants even with audio processing."
 ---
 
 A mechanical keyboard that sounds like a machine gun is great for solo gaming but terrible for video calls and shared home spaces. The best mechanical keyboards for home office use combine the satisfying tactile feedback of mechanical switches with office-appropriate noise levels — so you get the typing performance boost without irritating family members or coming through on calls.
@@ -201,6 +212,24 @@ Yes if you: (a) use multiple devices, (b) want a clean desk, or (c) use the keyb
 Keychron keyboards ship with both Mac and Windows keycap sets and include a switch to toggle between Mac and Windows mode. Das Keyboard and most others are primarily Windows — Mac mode requires key remapping. If you use a Mac, Keychron is the most Mac-friendly mechanical brand.
 
 ---
+
+
+## Frequently Asked Questions
+
+**What is the best mechanical keyboard for home office use?**
+The Keychron Q2 Pro is the best overall — it uses pre-lubed switches in a gasket-mounted aluminum frame that dramatically reduces typing noise while preserving the tactile satisfaction of mechanical actuation.
+
+**Which mechanical keyboard switches are quietest for office use?**
+Silent Red switches (linear, dampened) are the quietest mechanical option. Keychron's and Logitech's silent variants reduce noise to near-membrane levels. Brown switches are a moderate middle ground — tactile but not quiet enough for shared spaces.
+
+**Is a wireless mechanical keyboard worth buying for a home office?**
+Yes. The Keychron Q2 Pro's wireless mode adds flexibility for occasional sofa use or switching between devices. Battery life on most wireless mechanical keyboards runs 2–4 weeks on a charge, making charging an infrequent inconvenience.
+
+**What keyboard size is best for a home office?**
+A TKL (tenkeyless, 87 key) or 75% layout hits the best balance for most home office users — it keeps the number row and function keys while eliminating the numpad that most office workers rarely use, freeing mouse space.
+
+**How loud are mechanical keyboards on video calls?**
+Switch selection determines call noise more than keyboard model. Silent Red or Brown switches are typically inaudible through most video conferencing noise suppression. Blue switches are loud enough to be clearly audible to meeting participants even with audio processing.
 
 ## Bottom Line
 

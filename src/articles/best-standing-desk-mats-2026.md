@@ -22,6 +22,17 @@ products:
   - name: "ComfiLife Anti-Fatigue Floor Mat"
     position: 5
     description: "Best for Sitting Desk Transitions"
+faqs:
+  - question: "What is the best standing desk mat?"
+    answer: "The Topo by Ergodriven is the best overall anti-fatigue mat — its terrain-contoured surface with raised ridges encourages constant micro-movement that outperforms flat mats for all-day standing comfort."
+  - question: "How thick does an anti-fatigue mat need to be?"
+    answer: "At least 3/4 inch of thickness is needed to meaningfully reduce joint compression from hard floors. Mats under 1/2 inch provide minimal cushioning benefit. The Topo at 3/4 inch base and WellnessMats at 3/4 inch flat are both at the right thickness threshold."
+  - question: "Do anti-fatigue mats work on carpet?"
+    answer: "Yes, but carpeted floors already provide some cushioning, so the benefit is reduced compared to hard floors. Choose a mat with a non-slip bottom designed for carpet surfaces, as smooth-bottom mats slide on carpet pile."
+  - question: "What size anti-fatigue mat do I need for a standing desk?"
+    answer: "A mat 24–30 inches deep and 20–26 inches wide covers the natural standing stance for most users. The Topo's 26x29 inch footprint is sized for the typical standing desk user. If you move laterally while working, a runner-style mat (20x39 or larger) provides more coverage."
+  - question: "How long do anti-fatigue mats last?"
+    answer: "Quality polyurethane mats like the Topo and WellnessMats resist compression for 5–10 years of daily use. Budget foam mats compress into a hard surface within 6–18 months. WellnessMats offers a lifetime guarantee against compression, the strongest warranty in the category."
 ---
 
 A [standing desk](/articles/best-standing-desk-under-500/) without an anti-fatigue mat is a genuine mistake. Hard floors — whether hardwood, tile, or even carpet over a concrete subfloor — compress the joints in your feet, ankles, and knees within 20–30 minutes of standing. An anti-fatigue mat solves this: its cushioning encourages subtle micro-movements in your legs and feet that improve circulation and reduce the fatigue that would otherwise cut your standing sessions short.
@@ -103,6 +114,24 @@ The ComfiLife mat is designed to work under both a standing desk and a regular s
 **Cleaning.** If you eat at your desk, a mat with a smooth top surface (WellnessMats, Gorilla Grip) is easier to wipe clean than a textured foam surface. Textured mats look fine but trap crumbs.
 
 ---
+
+
+## Frequently Asked Questions
+
+**What is the best standing desk mat?**
+The Topo by Ergodriven is the best overall anti-fatigue mat — its terrain-contoured surface with raised ridges encourages constant micro-movement that outperforms flat mats for all-day standing comfort.
+
+**How thick does an anti-fatigue mat need to be?**
+At least 3/4 inch of thickness is needed to meaningfully reduce joint compression from hard floors. Mats under 1/2 inch provide minimal cushioning benefit. The Topo at 3/4 inch base and WellnessMats at 3/4 inch flat are both at the right thickness threshold.
+
+**Do anti-fatigue mats work on carpet?**
+Yes, but carpeted floors already provide some cushioning, so the benefit is reduced compared to hard floors. Choose a mat with a non-slip bottom designed for carpet surfaces, as smooth-bottom mats slide on carpet pile.
+
+**What size anti-fatigue mat do I need for a standing desk?**
+A mat 24–30 inches deep and 20–26 inches wide covers the natural standing stance for most users. The Topo's 26x29 inch footprint is sized for the typical standing desk user. If you move laterally while working, a runner-style mat (20x39 or larger) provides more coverage.
+
+**How long do anti-fatigue mats last?**
+Quality polyurethane mats like the Topo and WellnessMats resist compression for 5–10 years of daily use. Budget foam mats compress into a hard surface within 6–18 months. WellnessMats offers a lifetime guarantee against compression, the strongest warranty in the category.
 
 ## Bottom Line
 

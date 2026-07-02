@@ -22,6 +22,17 @@ products:
   - name: "OXO Brew Adjustable Temperature Kettle"
     position: 5
     description: "Best Mid-Range Gooseneck"
+faqs:
+  - question: "What is the best electric kettle for pour-over coffee?"
+    answer: "The Fellow Stagg EKG Pro is the best for pour-over — its precision gooseneck spout gives complete flow control, the temperature holds within 1°F for up to 60 minutes, and it looks exceptional on a counter."
+  - question: "What temperature should water be for different teas?"
+    answer: "Green tea brews best at 160–175°F, white tea at 165–185°F, oolong at 180–195°F, and black tea and coffee at 195–205°F. A variable temperature kettle like the Breville IQ Kettle or Cuisinart CPK-17 lets you dial in the exact temperature for each type."
+  - question: "How long does an electric kettle take to boil?"
+    answer: "Most electric kettles boil a full liter in 3–5 minutes, significantly faster than stovetop kettles. The Hamilton Beach 40880 boils 1.7 liters in under 4 minutes — among the fastest in the budget category."
+  - question: "Are gooseneck kettles only for pour-over coffee?"
+    answer: "No, gooseneck kettles work for any task requiring precise water control — including tea, instant noodles, and baby formula. The narrow spout is simply easier to control than a standard wide-mouth kettle for any slow, directed pour."
+  - question: "Which electric kettle is best under $50?"
+    answer: "The Hamilton Beach 40880 is the best under $50 — it boils faster than most competitors, holds 1.7 liters, and its simple one-button design is more reliable than cheap digital-control alternatives at the same price."
 ---
 
 The humble electric kettle is one of the highest-ROI kitchen upgrades you can make. The right one boils faster than your stovetop, holds precise temperatures for pour-over coffee and green tea, and looks great on the counter. The wrong one scalds your tea and sprays water everywhere.
@@ -195,6 +206,24 @@ Budget models (Hamilton Beach): 3–5 years with heavy use. Mid-range (Cuisinart
 Yes — about 20–25% faster to boil. All our picks use 1,500W (except the Fellow Stagg at 1,200W due to its smaller 0.9L capacity). If boil speed is your top priority, choose a 1,500W model.
 
 ---
+
+
+## Frequently Asked Questions
+
+**What is the best electric kettle for pour-over coffee?**
+The Fellow Stagg EKG Pro is the best for pour-over — its precision gooseneck spout gives complete flow control, the temperature holds within 1°F for up to 60 minutes, and it looks exceptional on a counter.
+
+**What temperature should water be for different teas?**
+Green tea brews best at 160–175°F, white tea at 165–185°F, oolong at 180–195°F, and black tea and coffee at 195–205°F. A variable temperature kettle like the Breville IQ Kettle or Cuisinart CPK-17 lets you dial in the exact temperature for each type.
+
+**How long does an electric kettle take to boil?**
+Most electric kettles boil a full liter in 3–5 minutes, significantly faster than stovetop kettles. The Hamilton Beach 40880 boils 1.7 liters in under 4 minutes — among the fastest in the budget category.
+
+**Are gooseneck kettles only for pour-over coffee?**
+No, gooseneck kettles work for any task requiring precise water control — including tea, instant noodles, and baby formula. The narrow spout is simply easier to control than a standard wide-mouth kettle for any slow, directed pour.
+
+**Which electric kettle is best under $50?**
+The Hamilton Beach 40880 is the best under $50 — it boils faster than most competitors, holds 1.7 liters, and its simple one-button design is more reliable than cheap digital-control alternatives at the same price.
 
 ## Bottom Line
 

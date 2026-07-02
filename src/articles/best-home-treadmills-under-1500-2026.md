@@ -22,6 +22,17 @@ products:
   - name: "Sunny Health SF-T7643"
     position: 5
     description: "Best for Light Walkers"
+faqs:
+  - question: "What is the best home treadmill under $1,500?"
+    answer: "The NordicTrack EXP 7i is the best overall under $1,000 — it folds for storage, includes a 7-inch touchscreen, offers up to 12% incline, and connects to iFIT for guided workouts. For serious runners, the Bowflex T22 handles faster speeds and steeper inclines under $1,500."
+  - question: "How powerful a motor do I need in a home treadmill?"
+    answer: "Walkers need at least 2.0 CHP. Casual runners need 2.5–3.0 CHP. Serious runners or anyone over 200 lbs should look for 3.0+ CHP. The NordicTrack EXP 7i has a 2.75 CHP motor that handles walking and moderate running reliably."
+  - question: "Are folding treadmills as good as non-folding?"
+    answer: "Modern folding treadmills like the NordicTrack EXP 7i are just as capable as non-folding models for home use. The folding mechanism adds minimal maintenance complexity, and the floor space savings make them practical for most home gyms."
+  - question: "What incline range do I need on a home treadmill?"
+    answer: "A 0–12% incline range covers all walking and running workout types including hill simulation. The Bowflex T22 reaches 15% incline and -3% decline, which allows more varied training and burns significantly more calories than flat running at the same speed."
+  - question: "Which treadmill has the best cushioning for joint protection?"
+    answer: "The NordicTrack EXP 7i's FlexSelect cushioning and the Bowflex T22's SoftDrop folding system both offer above-average deck cushioning. Treadmill cushioning reduces knee and hip impact by 15–40% compared to road running."
 ---
 
 Home treadmills have become a serious fitness investment — and the best models under $1,500 now rival gym-grade machines in motor power, incline range, and tech features. Whether you're a casual walker or half-marathon trainer, there's a solid option at this price point.
@@ -160,6 +171,24 @@ Yes. Look for at minimum: **lifetime frame, 2+ years motor, 1 year parts**. The 
 The Horizon 7.0 AT consistently ranks as one of the quietest treadmills in this price range due to its 3-zone cushioning and variable-response motor.
 
 ---
+
+
+## Frequently Asked Questions
+
+**What is the best home treadmill under $1,500?**
+The NordicTrack EXP 7i is the best overall under $1,000 — it folds for storage, includes a 7-inch touchscreen, offers up to 12% incline, and connects to iFIT for guided workouts. For serious runners, the Bowflex T22 handles faster speeds and steeper inclines under $1,500.
+
+**How powerful a motor do I need in a home treadmill?**
+Walkers need at least 2.0 CHP. Casual runners need 2.5–3.0 CHP. Serious runners or anyone over 200 lbs should look for 3.0+ CHP. The NordicTrack EXP 7i has a 2.75 CHP motor that handles walking and moderate running reliably.
+
+**Are folding treadmills as good as non-folding?**
+Modern folding treadmills like the NordicTrack EXP 7i are just as capable as non-folding models for home use. The folding mechanism adds minimal maintenance complexity, and the floor space savings make them practical for most home gyms.
+
+**What incline range do I need on a home treadmill?**
+A 0–12% incline range covers all walking and running workout types including hill simulation. The Bowflex T22 reaches 15% incline and -3% decline, which allows more varied training and burns significantly more calories than flat running at the same speed.
+
+**Which treadmill has the best cushioning for joint protection?**
+The NordicTrack EXP 7i's FlexSelect cushioning and the Bowflex T22's SoftDrop folding system both offer above-average deck cushioning. Treadmill cushioning reduces knee and hip impact by 15–40% compared to road running.
 
 ## Bottom Line
 

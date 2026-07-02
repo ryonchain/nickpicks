@@ -25,6 +25,17 @@ products:
 layout: article.njk
 category: smart-home
 permalink: /articles/best-home-security-cameras-under-100/index.html
+faqs:
+  - question: "What is the best home security camera under $100?"
+    answer: "The Wyze Cam v4 is the best overall under $50 — it shoots 2.5K, has color night vision, and works without a subscription for local storage. For outdoor use, the Eufy SoloCam E40 at under $100 is the best subscription-free outdoor pick."
+  - question: "Are outdoor security cameras weatherproof?"
+    answer: "Look for an IP65 or IP67 rating for true outdoor weatherproofing. IP65 resists rain and dust but not submersion. IP67 handles brief water immersion. The Blink Outdoor 4 and Eufy SoloCam E40 are both IP67-rated for reliable outdoor performance."
+  - question: "Do security cameras work without WiFi?"
+    answer: "Most modern security cameras require WiFi for live viewing and cloud storage. Blink cameras can store footage locally on a USB drive connected to the Sync Module, and Eufy cameras store locally on a built-in eMMC chip — both options work without cloud subscriptions."
+  - question: "How far do security cameras see at night?"
+    answer: "Most cameras with infrared night vision see clearly at 20–30 feet. Color night vision cameras like the Wyze Cam v4 require some ambient light but produce more useful footage. Spotlight cameras like the Ring Stick Up Cam illuminate the scene for full-color night capture."
+  - question: "Which security camera has the best image quality under $100?"
+    answer: "The Arlo Essential 2K Wire-Free delivers the best image quality in this price range — its 2K resolution and wide field of view capture clear facial details and license plates at distances where 1080p cameras fall short."
 ---
 
 Home security doesn't have to cost a fortune. The best affordable security cameras in 2026 offer 1080p HD video, night vision, motion detection, and even two-way audio — all for under $100. We tested 20+ cameras to find the ones that actually deliver.
@@ -221,3 +232,20 @@ Don't wait for a break-in to secure your home. A $35–$90 camera pays for itsel
 ---
 
 **Related Guides:** [smart doorbells](/articles/best-smart-doorbells-2026/) · [smart home devices](/articles/best-smart-home-devices-2026/)
+
+## Frequently Asked Questions
+
+**What is the best home security camera under $100?**
+The Wyze Cam v4 is the best overall under $50 — it shoots 2.5K, has color night vision, and works without a subscription for local storage. For outdoor use, the Eufy SoloCam E40 at under $100 is the best subscription-free outdoor pick.
+
+**Are outdoor security cameras weatherproof?**
+Look for an IP65 or IP67 rating for true outdoor weatherproofing. IP65 resists rain and dust but not submersion. IP67 handles brief water immersion. The Blink Outdoor 4 and Eufy SoloCam E40 are both IP67-rated for reliable outdoor performance.
+
+**Do security cameras work without WiFi?**
+Most modern security cameras require WiFi for live viewing and cloud storage. Blink cameras can store footage locally on a USB drive connected to the Sync Module, and Eufy cameras store locally on a built-in eMMC chip — both options work without cloud subscriptions.
+
+**How far do security cameras see at night?**
+Most cameras with infrared night vision see clearly at 20–30 feet. Color night vision cameras like the Wyze Cam v4 require some ambient light but produce more useful footage. Spotlight cameras like the Ring Stick Up Cam illuminate the scene for full-color night capture.
+
+**Which security camera has the best image quality under $100?**
+The Arlo Essential 2K Wire-Free delivers the best image quality in this price range — its 2K resolution and wide field of view capture clear facial details and license plates at distances where 1080p cameras fall short.

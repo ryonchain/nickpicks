@@ -23,6 +23,17 @@ products:
   - name: "Tribit StormBox Micro 2"
     position: 5
     description: "Best Ultra-Compact Pick"
+faqs:
+  - question: "What is the best portable Bluetooth speaker under $50?"
+    answer: "The JBL Clip 4 is the best overall — its IP67 waterproof rating, built-in carabiner clip, and JBL sound signature deliver genuine value for an under-$50 speaker that goes everywhere without worry."
+  - question: "How good is bass on budget Bluetooth speakers?"
+    answer: "The Sony SRS-XB100 has the best bass response under $50 thanks to its passive radiator design. JBL Clip 4 has good balance but limited low-end due to its small driver. Budget speakers above $40 like these two have meaningfully better bass than ultra-cheap sub-$20 alternatives."
+  - question: "What IP rating do I need for outdoor use?"
+    answer: "IP67 is the best rating for outdoor and poolside use — it's fully dustproof and handles submersion up to 1 meter for 30 minutes. IP65 (water jets) and IP66 (powerful water jets) are sufficient for rain and splashing but not accidental drops in water."
+  - question: "How far does Bluetooth reach on portable speakers?"
+    answer: "Most portable speakers advertise 30–33 ft Bluetooth range. In practice, with walls and interference, expect reliable connection up to 20 feet indoors. Outdoors in open space, 30+ feet is achievable with most current Bluetooth 5.0 devices."
+  - question: "Are USB-C charging speakers better than Micro-USB?"
+    answer: "Yes for convenience — USB-C is reversible and uses the same cables as modern phones and laptops. The Tribit StormBox Micro 2 uses USB-C; the older JBL Clip 4 uses USB-C as well. Avoid Micro-USB speakers unless the price is substantially lower."
 ---
 
 The $50 Bluetooth speaker market has gotten genuinely great. Two years ago, anything under $50 sounded tinny and lost Bluetooth signal walking to the next room. In 2026, the best sub-$50 speakers deliver real bass, 10+ hour battery life, and IP67 waterproofing — features that used to cost $100+.
@@ -138,6 +149,24 @@ This comparison comes up constantly because both are sub-$50, similarly sized, a
 **Winner:** JBL Clip 4 for versatility and clarity. Sony XB100 if you specifically want more bass and longer battery.
 
 ---
+
+
+## Frequently Asked Questions
+
+**What is the best portable Bluetooth speaker under $50?**
+The JBL Clip 4 is the best overall — its IP67 waterproof rating, built-in carabiner clip, and JBL sound signature deliver genuine value for an under-$50 speaker that goes everywhere without worry.
+
+**How good is bass on budget Bluetooth speakers?**
+The Sony SRS-XB100 has the best bass response under $50 thanks to its passive radiator design. JBL Clip 4 has good balance but limited low-end due to its small driver. Budget speakers above $40 like these two have meaningfully better bass than ultra-cheap sub-$20 alternatives.
+
+**What IP rating do I need for outdoor use?**
+IP67 is the best rating for outdoor and poolside use — it's fully dustproof and handles submersion up to 1 meter for 30 minutes. IP65 (water jets) and IP66 (powerful water jets) are sufficient for rain and splashing but not accidental drops in water.
+
+**How far does Bluetooth reach on portable speakers?**
+Most portable speakers advertise 30–33 ft Bluetooth range. In practice, with walls and interference, expect reliable connection up to 20 feet indoors. Outdoors in open space, 30+ feet is achievable with most current Bluetooth 5.0 devices.
+
+**Are USB-C charging speakers better than Micro-USB?**
+Yes for convenience — USB-C is reversible and uses the same cables as modern phones and laptops. The Tribit StormBox Micro 2 uses USB-C; the older JBL Clip 4 uses USB-C as well. Avoid Micro-USB speakers unless the price is substantially lower.
 
 ## Bottom Line
 

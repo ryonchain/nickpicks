@@ -6,6 +6,17 @@ category: fitness
 date: 2026-06-11
 readTime: 7
 permalink: /articles/bowflex-selecttech-552-vs-1090/index.html
+faqs:
+  - question: "Which is better — the Bowflex SelectTech 552 or 1090?"
+    answer: "The SelectTech 552 is better for beginners to intermediate lifters who work up to 52.5 lbs per dumbbell. The 1090 is the right choice for experienced lifters who regularly press or row 60–90 lbs and need the additional weight range."
+  - question: "What is the weight range of the Bowflex SelectTech 552?"
+    answer: "The SelectTech 552 adjusts from 5 to 52.5 lbs per dumbbell in 2.5-lb increments up to 25 lbs, then 5-lb increments to the maximum — 15 total weight settings covering the full beginner-to-intermediate training range."
+  - question: "How fast can you change weight on Bowflex SelectTech dumbbells?"
+    answer: "Both models change weight in under 3 seconds by rotating the selector dial. This is dramatically faster than loading plate dumbbells or walking to a dumbbell rack, and adds up to meaningful time savings over the course of a full workout."
+  - question: "Are Bowflex SelectTech dumbbells worth the investment?"
+    answer: "Yes for home gyms. A fixed dumbbell set from 5 to 90 lbs costs $1,500–$2,000+ and requires significant floor space. The SelectTech 552 pair at $349 and the 1090 pair at $549 replace a full rack in two units that take up 2 square feet."
+  - question: "How durable are Bowflex SelectTech dumbbells?"
+    answer: "SelectTech dumbbells are designed for home gym use, not commercial gym abuse. The selector mechanism is durable with normal use but can break if the dumbbells are dropped while loaded. Bowflex recommends never dropping them — set them down gently after each set."
 ---
 
 ## The Short Answer (If You're Already Sold on Adjustable Dumbbells)
@@ -119,3 +130,20 @@ Either way, you're replacing an entire dumbbell rack — that's the real value p
 
 ---
 ---
+
+## Frequently Asked Questions
+
+**Which is better — the Bowflex SelectTech 552 or 1090?**
+The SelectTech 552 is better for beginners to intermediate lifters who work up to 52.5 lbs per dumbbell. The 1090 is the right choice for experienced lifters who regularly press or row 60–90 lbs and need the additional weight range.
+
+**What is the weight range of the Bowflex SelectTech 552?**
+The SelectTech 552 adjusts from 5 to 52.5 lbs per dumbbell in 2.5-lb increments up to 25 lbs, then 5-lb increments to the maximum — 15 total weight settings covering the full beginner-to-intermediate training range.
+
+**How fast can you change weight on Bowflex SelectTech dumbbells?**
+Both models change weight in under 3 seconds by rotating the selector dial. This is dramatically faster than loading plate dumbbells or walking to a dumbbell rack, and adds up to meaningful time savings over the course of a full workout.
+
+**Are Bowflex SelectTech dumbbells worth the investment?**
+Yes for home gyms. A fixed dumbbell set from 5 to 90 lbs costs $1,500–$2,000+ and requires significant floor space. The SelectTech 552 pair at $349 and the 1090 pair at $549 replace a full rack in two units that take up 2 square feet.
+
+**How durable are Bowflex SelectTech dumbbells?**
+SelectTech dumbbells are designed for home gym use, not commercial gym abuse. The selector mechanism is durable with normal use but can break if the dumbbells are dropped while loaded. Bowflex recommends never dropping them — set them down gently after each set.

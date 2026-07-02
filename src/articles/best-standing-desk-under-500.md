@@ -22,6 +22,17 @@ products:
   - name: "VIVO Dual Motor Standing Desk"
     position: 5
     description: "~$250"
+faqs:
+  - question: "What is the best standing desk under $500?"
+    answer: "The FlexiSpot E7 is the best standing desk under $500 — its dual-motor lift, 275 lb capacity, and height range of 22.8–48.4 inches covers users from 4'9" to 6'7" at a consistent $400 street price."
+  - question: "How do I set the correct standing desk height?"
+    answer: "Stand naturally, let your arms fall to your sides, then bend your elbows to 90 degrees — the desk surface should meet your hands at that height. For most people, this is approximately hip-to-belly-button height while standing in shoes."
+  - question: "Are standing desks worth buying?"
+    answer: "For people who sit 8+ hours daily, yes. Alternating sitting and standing reduces lower back pain, improves afternoon energy, and over a 5-year lifespan makes the $400–$500 investment highly cost-effective. The key is using a sit-stand timer to actually transition rather than standing all day."
+  - question: "How stable is a standing desk under $500?"
+    answer: "The FlexiSpot E7 and Uplift V2 Commercial both have minimal wobble at maximum height — a key differentiator from budget desks under $200 that develop noticeable wobble as they age. Stability comes from dual-motor design and frame crossbars, not just leg thickness."
+  - question: "What desktop size should I get for a standing desk?"
+    answer: "A 60x24 inch desktop fits a monitor, laptop, keyboard, and mouse with room for a desk pad. A 48x24 inch desktop is adequate for laptop-only setups. Go 72 inches wide only if you're running dual monitors or need substantial desktop space for equipment."
 ---
 
 You don't need to spend $1,000 to get a standing desk that lasts. The $200–$500 range has genuinely good options — the key is knowing which ones cut corners and which ones don't.
@@ -77,6 +88,24 @@ VIVO has been a reliable mid-budget brand for monitor mounts and desk accessorie
 - **Memory presets:** Four presets is the practical minimum. Two presets becomes limiting if multiple people share the desk.
 
 ---
+
+
+## Frequently Asked Questions
+
+**What is the best standing desk under $500?**
+The FlexiSpot E7 is the best standing desk under $500 — its dual-motor lift, 275 lb capacity, and height range of 22.8–48.4 inches covers users from 4'9" to 6'7" at a consistent $400 street price.
+
+**How do I set the correct standing desk height?**
+Stand naturally, let your arms fall to your sides, then bend your elbows to 90 degrees — the desk surface should meet your hands at that height. For most people, this is approximately hip-to-belly-button height while standing in shoes.
+
+**Are standing desks worth buying?**
+For people who sit 8+ hours daily, yes. Alternating sitting and standing reduces lower back pain, improves afternoon energy, and over a 5-year lifespan makes the $400–$500 investment highly cost-effective. The key is using a sit-stand timer to actually transition rather than standing all day.
+
+**How stable is a standing desk under $500?**
+The FlexiSpot E7 and Uplift V2 Commercial both have minimal wobble at maximum height — a key differentiator from budget desks under $200 that develop noticeable wobble as they age. Stability comes from dual-motor design and frame crossbars, not just leg thickness.
+
+**What desktop size should I get for a standing desk?**
+A 60x24 inch desktop fits a monitor, laptop, keyboard, and mouse with room for a desk pad. A 48x24 inch desktop is adequate for laptop-only setups. Go 72 inches wide only if you're running dual monitors or need substantial desktop space for equipment.
 
 ## Bottom Line
 
