@@ -38,6 +38,30 @@ faqs:
     answer: "Modern wireless gaming mice like the Logitech G Pro X Superlight 2 and Razer DeathAdder V3 HyperSpeed have zero perceptible latency difference from wired. Wireless is now the preferred choice for competitive gaming due to freedom of movement."
   - question: "Which gaming mouse is best for large hands?"
     answer: "The Razer DeathAdder V3 is the best for large hands — its elongated ergonomic shape fits palm and claw grips for hands over 18cm, with a comfortable right-handed hump that reduces wrist strain during long sessions."
+comparisonTable:
+  title: "Top 3 Gaming Mice Head-to-Head"
+  products:
+    - name: "Logitech G Pro X Superlight 2"
+      price: "~$159"
+      rating: 4.8
+      pros: ["60g ultralight body", "HERO 25K sensor", "LIGHTSPEED wireless", "70hr battery"]
+      cons: ["Premium price", "Only 2 side buttons"]
+      amazonLink: "https://www.amazon.com/dp/B09NDDM86C?tag=nickpicks0a-20"
+      badge: "Best Overall"
+    - name: "Razer DeathAdder V3"
+      price: "~$99"
+      rating: 4.5
+      pros: ["Best-in-class ergonomics", "Focus Pro 35K sensor", "90hr battery"]
+      cons: ["Right-handed only", "Razer Synapse is resource-heavy"]
+      amazonLink: "https://www.amazon.com/dp/B0BY2F9JBH?tag=nickpicks0a-20"
+      badge: "Best Ergonomic"
+    - name: "SteelSeries Aerox 3"
+      price: "~$59"
+      rating: 4.4
+      pros: ["IP54 water resistant", "68g honeycomb design", "80M click rated switches"]
+      cons: ["Wired only", "8,500 DPI max"]
+      amazonLink: "https://www.amazon.com/dp/B096RT5CD4?tag=nickpicks0a-20"
+      badge: "Best Value"
 ---
 
 Gaming mice in 2026 are defined by two things: sensor technology and weight. The HERO 25K, Focus Pro 35K, and TrueMove Pro sensors have all hit the ceiling of human-detectable precision — what separates great gaming mice now is how they feel in your hand at 40+ hours of use per week.

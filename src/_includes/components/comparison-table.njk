@@ -1,0 +1,37 @@
+<section class="comparison-table" aria-label="{{ comparisonTable.title }}">
+  <h2 class="comparison-table__title">{{ comparisonTable.title }}</h2>
+  <div class="comparison-table__grid">
+    {% for product in comparisonTable.products %}
+    <div class="ct-card{% if loop.first %} ct-card--featured{% endif %}">
+      {% if product.badge %}
+      <div class="ct-badge">{{ product.badge }}</div>
+      {% endif %}
+      <h3 class="ct-name">{{ product.name }}</h3>
+      <div class="ct-price">{{ product.price }}</div>
+      <div class="ct-rating" aria-label="Rating: {{ product.rating }} out of 5">
+        {% set numFull = product.rating | round(0, 'floor') %}
+        {% for i in range(0, numFull) %}<span class="star star--full" aria-hidden="true">★</span>{% endfor %}
+        {% for i in range(0, 5 - numFull) %}<span class="star star--empty" aria-hidden="true">★</span>{% endfor %}
+        <span class="ct-rating-value">{{ product.rating }}/5</span>
+      </div>
+      <div class="ct-section ct-pros">
+        <h4>Pros</h4>
+        <ul>
+          {% for pro in product.pros %}
+          <li>{{ pro }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="ct-section ct-cons">
+        <h4>Cons</h4>
+        <ul>
+          {% for con in product.cons %}
+          <li>{{ con }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <a href="{{ product.amazonLink }}" class="ct-cta" rel="nofollow sponsored" target="_blank">Check Price on Amazon</a>
+    </div>
+    {% endfor %}
+  </div>
+</section>

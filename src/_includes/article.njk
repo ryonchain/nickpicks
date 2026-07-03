@@ -24,6 +24,10 @@ layout: base.njk
       <strong>Affiliate Disclosure:</strong> This article contains Amazon affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you. Our recommendations are always independent and based on merit.
     </div>
 
+    {% if comparisonTable %}
+    {% include "components/comparison-table.njk" %}
+    {% endif %}
+
     <div class="article-body">
       {{ content | safe }}
     </div>
