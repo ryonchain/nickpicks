@@ -63,7 +63,7 @@ We tested 14 docking stations across Windows, Mac, and Linux setups to find the 
 
 ### 1. Anker 13-in-1 USB-C Dock — Best Under $90
 
-**Price:** ~$85 | [Check price on Amazon →](https://www.amazon.com/s?k=anker+13-in-1+usb-c+dock&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$85 | [Check price on Amazon →](https://www.amazon.com/s?k=anker+13-in-1+usb-c+dock&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Anker 13-in-1 is the docking station we recommend for the majority of remote workers and creators with a single-monitor setup. It packs 13 ports into a compact form factor, delivers 85W of pass-through charging, and costs under $90 — less than half the price of Thunderbolt docks with broadly similar functionality for everyday use.
 
@@ -90,7 +90,7 @@ The Anker 13-in-1 is the docking station we recommend for the majority of remote
 
 ### 2. CalDigit TS4 Thunderbolt 4 Dock — Best Premium Pick
 
-**Price:** ~$250 | [Check price on Amazon →](https://www.amazon.com/s?k=caldigit+ts4+thunderbolt+4&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$250 | [Check price on Amazon →](https://www.amazon.com/s?k=caldigit+ts4+thunderbolt+4&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The CalDigit TS4 is the definitive answer for video editors, photographers, and power users who need maximum bandwidth and multi-display support. With 18 ports, Thunderbolt 4 bandwidth (40Gbps), and support for Apple Pro Display XDR at full 6K resolution, it's the dock that eliminates all constraints.
 
@@ -120,7 +120,7 @@ The CalDigit TS4 is the definitive answer for video editors, photographers, and 
 
 ### 3. Plugable UD-6950PDZ — Best Dual-Monitor Dock Under $130
 
-**Price:** ~$120 | [Check price on Amazon →](https://www.amazon.com/s?k=plugable+UD-6950PDZ+dual+monitor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$120 | [Check price on Amazon →](https://www.amazon.com/s?k=plugable+UD-6950PDZ+dual+monitor&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 Most USB-C docks that claim "dual monitor support" deliver it at 30Hz on one or both displays — which is fine for spreadsheets and annoying for everything else. The Plugable UD-6950PDZ delivers genuine **dual 4K@60Hz** output via DisplayLink technology, making it the best option for dual-monitor setups on a budget.
 
@@ -141,7 +141,7 @@ Most USB-C docks that claim "dual monitor support" deliver it at 30Hz on one or 
 
 ### 4. Kensington SD4900P — Best Dock for Windows Power Users
 
-**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/s?k=kensington+sd4900p&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/s?k=kensington+sd4900p&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 Kensington has built enterprise-grade dock hardware for decades, and the SD4900P shows it. It delivers dual 4K@60Hz output via native USB-C Alt Mode (no DisplayLink needed on Windows), 100W PD charging, and the kind of port redundancy that IT departments appreciate.
 
@@ -159,7 +159,7 @@ Kensington has built enterprise-grade dock hardware for decades, and the SD4900P
 
 ### 5. OWC Thunderbolt 4 Dock — Best for Mac Users
 
-**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=OWC+thunderbolt+4+dock&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=OWC+thunderbolt+4+dock&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 OWC (Other World Computing) has been in the Mac peripheral business since 1988, and the OWC Thunderbolt 4 Dock reflects that focus. It's built specifically for macOS workflows: clean aluminum design that matches MacBook aesthetics, native macOS driver support, and full Thunderbolt 4 bandwidth without configuration.
 
@@ -178,7 +178,7 @@ OWC (Other World Computing) has been in the Mac peripheral business since 1988, 
 
 ### 6. Belkin Connect Pro 12-Port — Best Mid-Range Pick
 
-**Price:** ~$130 | [Check price on Amazon →](https://www.amazon.com/s?k=belkin+connect+pro+12+port+usb-c&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$130 | [Check price on Amazon →](https://www.amazon.com/s?k=belkin+connect+pro+12+port+usb-c&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 Belkin builds for Apple Store shelf placement — which means everything works cleanly with MacBooks and iPads out of the box, the industrial design is premium, and support is consistent. The Connect Pro 12-Port is the "safe buy" for anyone who wants reliable mid-range performance without research overhead.
 

@@ -22,6 +22,30 @@ products:
   - name: "Winix 5500-2 Air Purifier"
     position: 5
     description: "Best Mid-Range Air Purifier"
+comparisonTable:
+  title: "Top 3 Air Purifiers Head-to-Head"
+  products:
+    - name: "Levoit Core 600S"
+      price: "~$220"
+      rating: 4.8
+      pros: ["410 CFM CADR — highest in class", "635 sq ft coverage", "24 dB on low — near-silent", "Auto Mode with laser sensor"]
+      cons: ["Bulky cylindrical design", "Filter ~$35 every 6–8 months"]
+      amazonLink: "https://www.amazon.com/dp/B09BJKSVHW?tag=nickpicks0a-20"
+      badge: "Best Overall"
+    - name: "Coway AP-1512HH Mighty"
+      price: "~$100"
+      rating: 4.7
+      pros: ["AHAM-certified 246 CFM", "Washable pre-filter", "LED air quality ring", "Eco mode"]
+      cons: ["360 sq ft limit", "No app or smart home integration"]
+      amazonLink: "https://www.amazon.com/dp/B01728NLRG?tag=nickpicks0a-20"
+      badge: "Best Value"
+    - name: "Winix 5500-2"
+      price: "~$150"
+      rating: 4.6
+      pros: ["4-stage filtration inc. activated carbon", "12-month HEPA filter life", "Smart Sensor auto mode", "Lowest filter cost"]
+      cons: ["PlasmaWave effectiveness debated", "No smartphone app"]
+      amazonLink: "https://www.amazon.com/dp/B01CBCZ0LU?tag=nickpicks0a-20"
+      badge: "Best for Pets & Odors"
 ---
 
 ## Air Purifiers in 2026: Post-Wildfire Demand Reshapes the Market

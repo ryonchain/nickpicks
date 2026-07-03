@@ -65,7 +65,7 @@ The "Creator Pick" column is what appears in the TikTok builds that pull 100K+ v
 
 ### 1. Logitech C920x — Best Webcam Under $100
 
-**Price:** ~$90 | [Check price on Amazon →](https://www.amazon.com/s?k=logitech+c920x&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$90 | [Check price on Amazon →](https://www.amazon.com/s?k=logitech+c920x&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The C920x is the starting point for any creator build. At 1080p/30fps with Carl Zeiss optics, it produces accurate, warm skin tones without any color grading. The autofocus locks fast and holds, even if you lean back, reach for a mug, or shift lighting mid-call.
 
@@ -83,7 +83,7 @@ The C920x is the starting point for any creator build. At 1080p/30fps with Carl 
 
 ### 2. Keychron K2 — Best Mechanical Keyboard for Creators
 
-**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/s?k=keychron+k2+mechanical+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/s?k=keychron+k2+mechanical+keyboard&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Keychron K2 hits the intersection of aesthetics and performance that TikTok ASMR and desk-drop content demands. It's a 75% layout — compact enough to leave desk space open for on-camera flat lays, but with the number row and arrow keys that full-time workers need.
 
@@ -101,7 +101,7 @@ The Keychron K2 hits the intersection of aesthetics and performance that TikTok 
 
 ### 3. Anker 7-in-1 USB-C Hub — Best Hub Under $40
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=anker+usb-c+hub+7-in-1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=anker+usb-c+hub+7-in-1&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 Modern laptops give you two USB-C ports and call it a day. The Anker 7-in-1 takes that one port and expands it to 4K HDMI, 3x USB-A, SD/microSD card slots, and 100W pass-through charging — everything a creator needs from a single compact device that sits flat on the desk.
 
@@ -119,7 +119,7 @@ Modern laptops give you two USB-C ports and call it a day. The Anker 7-in-1 take
 
 ### 4. VIVO Single Monitor Arm — Best Arm Under $40
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=VIVO+single+monitor+arm&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=VIVO+single+monitor+arm&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 A monitor arm is one of the highest ROI upgrades in any desk build. Lifting your monitor off the desk frees up the entire bottom surface — which means your desk mat, keyboard, and products are visible on camera instead of hidden under a monitor base.
 
@@ -137,7 +137,7 @@ A monitor arm is one of the highest ROI upgrades in any desk build. Lifting your
 
 ### 5. XXL Desk Mat — Best Mat Under $30
 
-**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/s?k=XXL+desk+mat+90x40&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/s?k=XXL+desk+mat+90x40&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The desk mat is the visual foundation of every flat lay and desk-drop video. It anchors the setup aesthetically and tells the viewer where to look. A $25 mat in muted gray, forest green, or black linen changes how the entire desk reads on camera — dramatically.
 
@@ -155,7 +155,7 @@ The desk mat is the visual foundation of every flat lay and desk-drop video. It 
 
 ### 6. Elgato Key Light Air — Best Budget Key Light
 
-**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/s?k=elgato+key+light+air&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/s?k=elgato+key+light+air&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Key Light Air is the single item that most dramatically changes your on-camera appearance. It eliminates the harsh overhead-lighting shadows that make home setups look amateurish and replaces them with soft, controllable, flattering front light.
 

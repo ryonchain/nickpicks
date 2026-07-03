@@ -15,8 +15,18 @@ async function imageShortcode(src, alt, sizes) {
   });
 }
 
+const AFFILIATE_TAG = "nickpicks0a-20";
+
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "public": "." });
+
+  // {% affiliateLink asin="B0CX123", text="Product Name" %}
+  // {% affiliateLink asin="B0CX123", text="Product Name", badge="Best Overall" %}
+  eleventyConfig.addShortcode("affiliateLink", function(asin, text, badge) {
+    const url = `https://www.amazon.com/dp/${asin}?tag=${AFFILIATE_TAG}`;
+    const badgeHtml = badge ? `<span class="affiliate-badge">${badge}</span> ` : "";
+    return `${badgeHtml}<a href="${url}" rel="nofollow sponsored" target="_blank">${text} →</a>`;
+  });
 
   // Async image shortcode: {% image "src/path.jpg", "alt text" %}
   eleventyConfig.addAsyncShortcode("image", imageShortcode);

@@ -63,7 +63,7 @@ We listened to six soundbars across movies, music, and gaming to find the best o
 
 ### 1. Sonos Arc Ultra — Best Premium Soundbar
 
-**Price:** ~$900 | [Check price on Amazon →](https://www.amazon.com/s?k=sonos+arc+ultra+soundbar&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$900 | [Check price on Amazon →](https://www.amazon.com/s?k=sonos+arc+ultra+soundbar&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Sonos Arc Ultra is the soundbar that people who've owned multiple premium soundbars end up recommending. It combines 14 drivers (including four upward-firing drivers for Atmos height), Sonos' proprietary Sound Motion technology for deep bass without a subwoofer, and the best multi-room audio ecosystem in the business.
 
@@ -85,7 +85,7 @@ The Sonos Arc Ultra is the soundbar that people who've owned multiple premium so
 
 ### 2. Samsung HW-Q990D — Best Full Home Theater Soundbar System
 
-**Price:** ~$1,200 | [Check price on Amazon →](https://www.amazon.com/s?k=samsung+hw-q990d+soundbar&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$1,200 | [Check price on Amazon →](https://www.amazon.com/s?k=samsung+hw-q990d+soundbar&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Samsung HW-Q990D is an 11.1.4 channel system: 11 full-range speakers, 1 subwoofer, and 4 upward-firing Atmos drivers, including detachable wireless rear speakers with their own upward-firing units. It's the closest thing to a full home theater speaker system in a soundbar package.
 
@@ -107,7 +107,7 @@ The Samsung HW-Q990D is an 11.1.4 channel system: 11 full-range speakers, 1 subw
 
 ### 3. Sony HT-A7000 — Best for Sony TV Owners
 
-**Price:** ~$800 | [Check price on Amazon →](https://www.amazon.com/s?k=sony+ht-a7000+soundbar&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$800 | [Check price on Amazon →](https://www.amazon.com/s?k=sony+ht-a7000+soundbar&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 Sony's HT-A7000 is a 7.1.2 channel soundbar with dual built-in subwoofers and upward-firing Atmos drivers. It competes with the Sonos Arc Ultra in sound quality and beats it on connectivity, but its killer feature is exclusive to Sony Bravia TV owners.
 
@@ -127,7 +127,7 @@ Sony's HT-A7000 is a 7.1.2 channel soundbar with dual built-in subwoofers and up
 
 ### 4. Vizio M512a-H6 — Best Soundbar Under $300
 
-**Price:** ~$280 | [Check price on Amazon →](https://www.amazon.com/s?k=vizio+m512a-h6+soundbar&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$280 | [Check price on Amazon →](https://www.amazon.com/s?k=vizio+m512a-h6+soundbar&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Vizio M512a-H6 is the clearest over-performer in this category. A 5.1.2 channel system — soundbar + wireless subwoofer + dual satellite speakers — for under $300 delivers an actual surround sound experience, not a simulated one. The separate sub handles low frequencies independently, and the satellite speakers create real left/right surround without virtual processing tricks.
 
@@ -148,7 +148,7 @@ The Vizio M512a-H6 is the clearest over-performer in this category. A 5.1.2 chan
 
 ### 5. JBL Bar 1000 — Best Soundbar with Detachable Rear Speakers
 
-**Price:** ~$700 | [Check price on Amazon →](https://www.amazon.com/s?k=jbl+bar+1000+soundbar&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$700 | [Check price on Amazon →](https://www.amazon.com/s?k=jbl+bar+1000+soundbar&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The JBL Bar 1000 takes a different approach to true surround: the rear speakers detach from the soundbar's ends and charge off the bar like satellites. They're then placed behind your seating position for actual physical surround — no wireless transmitter required, just Bluetooth pairing with the main bar.
 
@@ -169,7 +169,7 @@ The JBL Bar 1000 takes a different approach to true surround: the rear speakers 
 
 ### 6. Amazon Echo Studio — Best Budget Dolby Atmos Speaker
 
-**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=amazon+echo+studio&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=amazon+echo+studio&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Amazon Echo Studio isn't technically a soundbar — it's a tall smart speaker with five drivers including an upward-firing tweeter for Atmos height. But at $200, it delivers spatial audio that embarrasses most dedicated soundbars in this price range, and it doubles as a full Amazon Alexa smart home hub.
 

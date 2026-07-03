@@ -65,7 +65,7 @@ We ground thousands of grams of coffee across six grinders to find the best opti
 
 ### 1. Baratza Encore — Best Entry-Level Burr Grinder
 
-**Price:** ~$170 | [Check price on Amazon →](https://www.amazon.com/s?k=baratza+encore+coffee+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$170 | [Check price on Amazon →](https://www.amazon.com/s?k=baratza+encore+coffee+grinder&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Baratza Encore is the grinder that most third-wave coffee shops recommend to customers buying their first burr grinder — and it's held that position for over a decade. Forty macro grind settings cover drip, pour-over, AeroPress, and French press with enough range to dial in most brew methods.
 
@@ -86,7 +86,7 @@ The Baratza Encore is the grinder that most third-wave coffee shops recommend to
 
 ### 2. Baratza Encore ESP — Best Espresso Grinder for Beginners
 
-**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=baratza+encore+esp+coffee+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=baratza+encore+esp+coffee+grinder&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Encore ESP (Espresso) adds 9 micro-steps within each macro setting to the standard Encore's 40 steps — effectively giving you 360 micro-adjustment positions. This is the precision needed to dial in espresso extraction by fine-tuning flow rate in half-step increments.
 
@@ -106,7 +106,7 @@ The Encore ESP is the most commonly recommended pairing for the Breville Bambino
 
 ### 3. Fellow Ode Gen 2 — Best Pour-Over Grinder
 
-**Price:** ~$280 | [Check price on Amazon →](https://www.amazon.com/s?k=fellow+ode+gen+2+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$280 | [Check price on Amazon →](https://www.amazon.com/s?k=fellow+ode+gen+2+grinder&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Fellow Ode Gen 2 is engineered specifically for filter coffee (pour-over, drip, AeroPress, cold brew) — it does not support espresso and does not try to. The 64mm flat burrs run at low RPM for maximum aroma preservation, produce the most uniform particle size in this price range, and the single-dose design means zero retention with every grind.
 
@@ -127,7 +127,7 @@ The Fellow Ode Gen 2 is engineered specifically for filter coffee (pour-over, dr
 
 ### 4. Breville Smart Grinder Pro — Best All-Rounder
 
-**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=breville+smart+grinder+pro&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=breville+smart+grinder+pro&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Breville Smart Grinder Pro is the most versatile grinder on this list: 60 grind settings that span from espresso-fine to French-press-coarse, a programmable dose timer in 0.2-second increments, and a portafilter cradle for grinding directly into the basket.
 
@@ -147,7 +147,7 @@ The Breville Smart Grinder Pro is the most versatile grinder on this list: 60 gr
 
 ### 5. Fellow Opus — Best Budget Espresso-Capable Grinder
 
-**Price:** ~$195 | [Check price on Amazon →](https://www.amazon.com/s?k=fellow+opus+coffee+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$195 | [Check price on Amazon →](https://www.amazon.com/s?k=fellow+opus+coffee+grinder&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Fellow Opus is an all-purpose grinder that genuinely handles espresso — which separates it from the Baratza Encore and the Fellow Ode Gen 2. Its 41 settings plus micro-step adjustment cover the full range from espresso (fine) to cold brew (coarse), making it one of the few under-$200 grinders capable of both without compromising either.
 
@@ -164,7 +164,7 @@ The Fellow Opus is an all-purpose grinder that genuinely handles espresso — wh
 
 ### 6. Eureka Mignon Specialita — Best Dedicated Espresso Grinder
 
-**Price:** ~$400 | [Check price on Amazon →](https://www.amazon.com/s?k=eureka+mignon+specialita&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$400 | [Check price on Amazon →](https://www.amazon.com/s?k=eureka+mignon+specialita&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
 
 The Eureka Mignon Specialita is where espresso grinding becomes a different conversation. Italian-designed with 55mm flat burrs, a stepless grind adjustment dial, ACE (Anti-Clumping Electrodes) to eliminate static, and near-zero retention — it outperforms every other grinder on this list for dedicated espresso extraction.
 
