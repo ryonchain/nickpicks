@@ -16,6 +16,8 @@ layout: base.njk
       <span class="category-tag"><a href="{{ (category | categoryHub) | url }}">{{ category | categoryLabel }}</a></span>
       <h1>{{ title }}</h1>
       <div class="article-meta">
+        <span>By <a href="{{ '/about/' | url }}" rel="author">Nick</a></span>
+        <span>·</span>
         <span>{{ date | postDate }}</span>
         <span>·</span>
         <span>{{ content | readingTime }} min read</span>
