@@ -65,6 +65,8 @@ module.exports = function(eleventyConfig) {
     return (arr || []).filter(item => item.data && item.data.category === category);
   });
 
+  eleventyConfig.addFilter("urlencode", (str) => encodeURIComponent(str || ""));
+
   eleventyConfig.addFilter("readingTime", (content) => {
     if (!content) return 1;
     const text = content.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
