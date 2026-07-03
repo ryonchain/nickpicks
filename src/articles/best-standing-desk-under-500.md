@@ -119,7 +119,7 @@ For most buyers, the **FlexiSpot E7** is the default right answer — dual motor
 
 The desk frame is only part of a functional standing setup. Three accessories make a measurable difference:
 
-**Anti-fatigue mat.** Standing on a hard floor without one leads most people to sit back down within 15 minutes. The [Topo Comfort Mat by Ergodriven](https://www.amazon.com/dp/B00V3TO9EK){rel="nofollow sponsored" target="_blank"} has a raised ridge and contoured footrest that keeps you shifting weight naturally — which is what reduces fatigue. Budget $60–$100 for a mat that will actually see daily use — see our [best standing desk mats](/articles/best-standing-desk-mats-2026/) guide for the full comparison.
+**[Anti-fatigue mat](/articles/best-ergonomic-standing-mat-review/).** Standing on a hard floor without one leads most people to sit back down within 15 minutes. The [Topo Comfort Mat by Ergodriven](https://www.amazon.com/dp/B00V3TO9EK){rel="nofollow sponsored" target="_blank"} has a raised ridge and contoured footrest that keeps you shifting weight naturally — which is what reduces fatigue. Budget $60–$100 for a mat that will actually see daily use — see our [best standing desk mats](/articles/best-standing-desk-mats-2026/) guide for the full comparison.
 
 **Cable management tray.** Electric sit-stand desks move up and down, which means cable slack is constant. A [cable management tray](https://www.amazon.com/dp/B08CVJLDFD){rel="nofollow sponsored" target="_blank"} mounts under the desk surface and keeps your power strip, cable bundle, and cord runs from dragging on the floor or pulling tight when the desk rises. Most desks don't include one — it's typically a $20–30 add-on worth getting upfront.
 

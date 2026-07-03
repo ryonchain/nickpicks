@@ -41,7 +41,7 @@ faqs:
     answer: "The Kasa Smart Plug Mini 2-Pack is the best sub-$20 smart home purchase — it adds scheduling, energy monitoring, and voice control to any standard outlet and works with Alexa and Google Home."
 ---
 
-You don't need to spend $2,000 to build a great home office. The accessories that make the biggest quality-of-life difference at a desk are often the cheapest ones — cable management that ends cord chaos costs $15, and a monitor stand riser that adds 5 inches of height (and eliminates neck pain) runs $25.
+You don't need to spend $2,000 to put together a solid [budget home office build](/articles/best-home-office-setup-under-200-2026/). The accessories that make the biggest quality-of-life difference at a desk are often the cheapest ones — cable management that ends cord chaos costs $15, and a monitor stand riser that adds 5 inches of height (and eliminates neck pain) runs $25.
 
 We rounded up the best home office accessories under $50 that actually make a difference, not just fill desk space.
 
@@ -219,7 +219,7 @@ Total: $87. This combination eliminates visible cable chaos, fixes monitor heigh
 
 ## The Bottom Line
 
-A $50 home office upgrade beats a $500 chair upgrade in terms of visible, immediate impact. Cable management turns a chaotic desk into a clean workspace in under an hour — and the productivity improvement from not seeing clutter all day is real.
+A $50 home office upgrade beats a $500 chair upgrade in terms of visible, immediate impact. [Cable management tips](/articles/best-cable-management-desk-2026/) turn a chaotic desk into a clean workspace in under an hour — and the productivity improvement from not seeing clutter all day is real.
 
 For larger home office investments, see our [best ergonomic chair under $300](/articles/best-ergonomic-chair-under-300/) and [best home office setup under $1,000](/articles/best-home-office-setup-under-1000/) guides.
 

@@ -62,7 +62,7 @@ This guide covers five monitor arms for every budget — from the $35 entry-leve
 ### 1. Ergotron LX Single Monitor Arm — Best Overall
 **Price: ~$140** | **Weight Limit: 7–25 lbs** | **VESA: 75×75mm to 100×100mm** | **Type: Gas Spring, Single**
 
-The Ergotron LX is the benchmark monitor arm. Its gas spring mechanism moves with fingertip pressure — tilt, swivel, and height adjust smoothly without tools — and holds position precisely with no drift or sag over time. The range of motion is exceptional: 360° rotation, ±90° tilt, and 13" of height adjustment.
+The Ergotron LX is the benchmark monitor arm (see our full [Ergotron LX review](/articles/ergotron-lx-monitor-arm-review/) for in-depth testing). Its gas spring mechanism moves with fingertip pressure — tilt, swivel, and height adjust smoothly without tools — and holds position precisely with no drift or sag over time. The range of motion is exceptional: 360° rotation, ±90° tilt, and 13" of height adjustment.
 
 The LX handles monitors up to 25 lbs with VESA 75×75 or 100×100 — covering nearly every monitor up to 34" at standard weight. Cable management channels run internally through the arm, keeping your desk wire-free.
 
@@ -142,7 +142,7 @@ This is the pick if you want to try a monitor arm without committing to premium 
 
 **Single arm** is right if you work primarily from one screen. It frees the most desk space per dollar, installs in minutes, and positions one monitor exactly where you want it.
 
-**Dual arm** is right if you use two monitors regularly. A dual arm on one pole keeps both screens in a coordinated arrangement — easier to cable-manage and more visually consistent than two separate clamps. The trade-off: dual arms are harder to position if your monitors are significantly different sizes or weights.
+**Dual arm** is right if you use two monitors regularly. A dual arm on one pole keeps both screens in a coordinated arrangement — easier to cable-manage and more visually consistent than two separate clamps. (If you prefer stands over arms, see our guide to [dual monitor stands](/articles/best-monitor-stands-dual-setup-2026/).) The trade-off: dual arms are harder to position if your monitors are significantly different sizes or weights.
 
 **Mixed-size monitors:** If you're pairing a 27" primary with a 24" secondary, ensure the dual arm's per-arm weight limit accommodates both independently. Most dual arms (including the HUANUO) allow different heights per arm, so a height-mismatched setup works fine.
 
@@ -160,7 +160,7 @@ Yes, for two reasons: ergonomics and desk space.
 
 ## Our Recommendation
 
-For most home office setups, the **Ergotron LX at ~$140** is worth the investment. The smoothness and longevity of the gas spring mechanism, the internal cable routing, and the 10-year warranty make it a purchase you make once. If budget is a constraint, the **Amazon Basics single arm at ~$45** delivers the same basic gas-spring function at a fraction of the price — just verify your monitor is under 14.3 lbs.
+For most home office setups, the **Ergotron LX at ~$140** is worth the investment. The smoothness and longevity of the gas spring mechanism, the internal cable routing, and the 10-year warranty make it a purchase you make once. If budget is a constraint, the **Amazon Basics single arm at ~$45** delivers the same basic gas-spring function at a fraction of the price — see our [budget monitor arm comparison](/articles/ergotron-lx-vs-amazon-basics-monitor-arm/) for a detailed side-by-side — just verify your monitor is under 14.3 lbs.
 
 For dual monitors, start with the **HUANUO Dual at ~$65** unless you need Ergotron-level build quality.
 

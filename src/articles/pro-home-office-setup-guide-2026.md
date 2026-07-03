@@ -94,7 +94,7 @@ The Work Smart tier moves from "eliminating pain" to "building an intentional wo
 
 The Logitech K380 is the entry-level wireless keyboard that quietly converts laptop-only workers into proper desk workers. At $40, it's under the "impulse buy" threshold, connects to three devices via Bluetooth (laptop, phone, tablet), and is thin enough to slide under the desk mat when not in use. The key travel is laptop-like — good for people transitioning from full-time laptop typing.
 
-For people who want a more satisfying typing experience, step up to the **Keychron K2** (~$80) — the mechanical keyboard that makes your keyboard part of your desk aesthetic, not just an input device.
+For people who want a more satisfying typing experience, step up to the **Keychron K2** (~$80) — one of the [top mechanical keyboards](/articles/best-mechanical-keyboards-home-office-2026/) that makes your keyboard part of your desk aesthetic, not just an input device.
 
 **5. Monitor Arm — ~$35**
 [Check price on Amazon →](https://www.amazon.com/s?k=VIVO+single+monitor+arm&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
@@ -104,12 +104,12 @@ A monitor arm eliminates the monitor base footprint and reclaims 6–8 inches of
 **6. USB-C Hub — ~$35**
 [Check price on Amazon →](https://www.amazon.com/s?k=anker+usb-c+hub+7-in-1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
-The Anker 7-in-1 USB-C hub gives you every port your laptop is missing: HDMI for an external monitor, USB-A for peripherals, SD/microSD for cards, and 100W pass-through charging. One cable to the laptop, everything connected. The hub disappears behind the keyboard and is available when you need it.
+Our [USB-C hub picks](/articles/best-usb-c-hubs-laptops-2026/) include the Anker 7-in-1, which gives you every port your laptop is missing: HDMI for an external monitor, USB-A for peripherals, SD/microSD for cards, and 100W pass-through charging. One cable to the laptop, everything connected. The hub disappears behind the keyboard and is available when you need it.
 
 **7. Webcam — ~$40–90**
 [Check price on Amazon →](https://www.amazon.com/s?k=logitech+c920x+hd+webcam&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
-If you do more than 3 video calls per week, a dedicated webcam pays for itself in professional presentation within the first month. The Logitech C270 at $40 is the minimum-viable upgrade from a laptop camera. The Logitech C920x at $90 is the standard for remote workers who want genuine 1080p quality with good autofocus and built-in mics.
+If you do more than 3 video calls per week, a dedicated webcam pays for itself in professional presentation within the first month. The [best webcams for video calls](/articles/best-webcams-home-office-2026/) start at $40 — the Logitech C270 is the minimum-viable upgrade from a laptop camera. The Logitech C920x at $90 is the standard for remote workers who want genuine 1080p quality with good autofocus and built-in mics.
 
 **Work Smart tier additions: ~$150.** Your desk now has intentional ergonomics, proper cable management, a monitor at correct eye level, and a camera that doesn't embarrass you on video calls.
 
@@ -126,14 +126,14 @@ Every item at this tier delivers a step-change improvement over the Work Smart l
 **8. Standing Desk — ~$350–600**
 [Check price on Amazon →](https://www.amazon.com/s?k=flexispot+e7+pro+standing+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
-The Flexispot E7 Pro is the standing desk we recommend for most home office workers. The dual-motor frame moves silently and holds up to 355 lbs across a 48–80" width range, and the controller includes 4 programmable height presets so switching between sit and stand takes one button press. The E7 Pro is the version with a heavy-duty grommet hole option and anti-collision detection — useful in real desk environments.
+Among the [best standing desks](/articles/best-standing-desk-under-500/) available today, the Flexispot E7 Pro is the one we recommend for most home office workers. The dual-motor frame moves silently and holds up to 355 lbs across a 48–80" width range, and the controller includes 4 programmable height presets so switching between sit and stand takes one button press. The E7 Pro is the version with a heavy-duty grommet hole option and anti-collision detection — useful in real desk environments.
 
 **What standing changes:** The research on alternating sitting and standing shows measurable improvement in afternoon energy levels, lower back pain reduction, and (counterintuitively) higher focus during standing intervals. The key is the *alternating* — not standing all day, but switching every 45–60 minutes.
 
 **9. Ergonomic Chair — ~$250–500**
 [Check price on Amazon →](https://www.amazon.com/s?k=ergonomic+office+chair+lumbar+support&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
-If you're sitting 6–8 hours per day, your chair is the most important piece of health hardware you own — more important than a standing desk. The minimum spec for a proper ergonomic chair at the Pro tier: adjustable lumbar support, adjustable seat depth, 3D armrests, and a breathable mesh back. Budget: $250–350. Premium: Herman Miller Aeron ($1,400) or Steelcase Leap ($1,500) — both have been proven over decades of office use.
+If you're sitting 6–8 hours per day, your chair is the most important piece of health hardware you own — more important than a standing desk. The minimum spec for a proper [ergonomic chair options](/articles/best-ergonomic-chair-under-300/) at the Pro tier: adjustable lumbar support, adjustable seat depth, 3D armrests, and a breathable mesh back. Budget: $250–350. Premium: Herman Miller Aeron ($1,400) or Steelcase Leap ($1,500) — both have been proven over decades of office use.
 
 **10. Keychron K2 or K6 Mechanical Keyboard — ~$80**
 [Check price on Amazon →](https://www.amazon.com/s?k=keychron+k2+mechanical+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
@@ -148,7 +148,7 @@ The MX Master 3S is the mouse we use and the mouse we recommend to everyone who 
 **12. Ergotron LX Monitor Arm — ~$140**
 [Check price on Amazon →](https://www.amazon.com/s?k=ergotron+lx+monitor+arm&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
-The Ergotron LX is the monitor arm that makes you realize the $35 arm you had before was a compromise. The gas-spring mechanism holds any position with one finger of pressure, no tightening of knobs, no gradual drooping over time. The arm articulates through a full 360°, supports monitors up to 34" and 20 lbs, and routes cables cleanly through the arm channel. This is the arm that desk setup content creators position prominently in every shot because it looks as good as it performs.
+Our [monitor arm recommendations](/articles/best-monitor-arms-desk-setup-2026/) start here: the Ergotron LX is the monitor arm that makes you realize the $35 arm you had before was a compromise. The gas-spring mechanism holds any position with one finger of pressure, no tightening of knobs, no gradual drooping over time. The arm articulates through a full 360°, supports monitors up to 34" and 20 lbs, and routes cables cleanly through the arm channel. This is the arm that desk setup content creators position prominently in every shot because it looks as good as it performs.
 
 **13. Elgato Key Light Air — ~$100**
 [Check price on Amazon →](https://www.amazon.com/s?k=elgato+key+light+air&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}

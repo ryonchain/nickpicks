@@ -134,7 +134,7 @@ The housing is plastic, and the hub runs warmer than the Anker models under full
 
 **4K vs. 1080p HDMI.** 4K monitors are standard for anyone doing design, video editing, or productivity work where screen real estate matters. Make sure the hub explicitly supports 4K@60Hz — some budget hubs support 4K only at 30Hz, which makes mouse movement noticeably choppy.
 
-**When to step up to a docking station.** A hub connects via a short cable and moves with your laptop. A [USB-C docking station](/articles/best-usb-c-docking-stations-2026/) is larger, stays on your desk, charges via its own power adapter, and supports higher-bandwidth peripherals. If your desk setup is permanent and you want more ports and more power, a dock is the better investment.
+**When to step up to a docking station.** A hub connects via a short cable and moves with your laptop. A [full USB-C docking station](/articles/best-usb-c-docking-stations-2026/) is larger, stays on your desk, charges via its own power adapter, and supports higher-bandwidth peripherals. If your desk setup is permanent and you want more ports and more power, a dock is the better investment.
 
 **USB hub vs. USB-C hub.** A USB hub (USB-A input) just adds more USB-A ports. A USB-C hub takes a USB-C connection and adds multiple port types including HDMI. If your laptop only has USB-C ports, you need a USB-C hub. See our broader [USB hub guide](/articles/best-usb-hubs-remote-work-2026/) for USB-A expansion options.
 

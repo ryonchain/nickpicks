@@ -126,16 +126,16 @@ The BenQ ScreenBar clips to the top of your monitor and lights your desk with ze
 
 ## What to Buy First
 
-If you can only buy one thing: the standing desk. Back pain relief from alternating postures outweighs any other single upgrade.
+If you can only buy one thing: the [best standing desks](/articles/best-standing-desk-under-500/) deliver back pain relief from alternating postures that outweighs any other single upgrade.
 
-If you already have a standing desk: the monitor arm. Neck strain from a screen at the wrong height is the next most common home office complaint. Also consider a [cable management](/articles/best-cable-management-desk-2026/) solution early — it's easier to route cables before the desk is fully loaded.
+If you already have a standing desk: the [monitor arm for desk](/articles/best-monitor-arms-desk-setup-2026/). Neck strain from a screen at the wrong height is the next most common home office complaint. Also consider a [cable management](/articles/best-cable-management-desk-2026/) solution early — it's easier to route cables before the desk is fully loaded.
 
 ---
 
 ## What to Skip (And What to Add Later)
 
 **Skip at first:**
-- A keyboard and mouse upgrade — your current peripherals work fine until you've lived with the standing desk for a month
+- [Keyboard recommendations](/articles/best-mechanical-keyboards-home-office-2026/) and mouse upgrades — your current peripherals work fine until you've lived with the standing desk for a month
 - A second monitor — meaningful productivity boost, but adds cost and requires desk space planning you'll do better after using the setup
 
 **Add in month 2:**
@@ -161,7 +161,7 @@ The standing desk does the most work early. Let your body adapt for 2–3 weeks 
 A FlexiSpot E7 standing desk ($449), Ergotron LX monitor arm ($147), Branch Ergonomic Chair ($329), Logitech C920x webcam ($69), and BenQ ScreenBar ($109) totals just over $1,000 but covers every high-impact element of a complete ergonomic setup.
 
 **How much should I spend on a home office chair?**
-Spend at least $200–$350 on a chair if you sit 6+ hours daily. The Branch Ergonomic Chair at $329 and the Autonomous ErgoChair Pro at $499 deliver genuine lumbar adjustability and durability at under half the price of Herman Miller.
+Spend at least $200–$350 on a chair if you sit 6+ hours daily. See our [ergonomic chair picks](/articles/best-ergonomic-chair-under-300/) — the Branch Ergonomic Chair at $329 and the Autonomous ErgoChair Pro at $499 deliver genuine lumbar adjustability and durability at under half the price of Herman Miller.
 
 **Is a standing desk worth buying for a home office?**
 Yes for most people who sit 8+ hours daily. Alternating between sitting and standing every 45–90 minutes reduces lower back pain, improves afternoon energy, and over a 5-year lifespan makes the $400–$500 investment highly cost-effective.
@@ -170,4 +170,4 @@ Yes for most people who sit 8+ hours daily. Alternating between sitting and stan
 The Ergotron LX is the best monitor arm for most home offices — its Constant Force mechanism holds position without sagging, it reaches 25 inches from the post, and it handles monitors up to 34 inches and 25 lbs.
 
 **How do I set up a home office for video calls?**
-Position your webcam at eye level on a monitor arm, add a key light at 45 degrees to your face, and use a USB microphone or headset for clear audio. These three changes have the largest impact on how you appear and sound on calls.
+Position your [webcam for video calls](/articles/best-webcams-home-office-2026/) at eye level on a monitor arm, add a key light at 45 degrees to your face, and use a USB microphone or headset for clear audio. These three changes have the largest impact on how you appear and sound on calls.

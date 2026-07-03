@@ -86,6 +86,47 @@
 }
 </script>
 {% endif %}
+
+{# Product + Review schema for single-product review articles #}
+{% if reviewProduct %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": {{ reviewProduct | dump | safe }},
+  "brand": {
+    "@type": "Brand",
+    "name": {{ reviewBrand | dump | safe }}
+  },{% if reviewPrice %}
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "{{ reviewPrice }}",
+    "availability": "https://schema.org/InStock"
+  },{% endif %}
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ reviewRating }}",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Nick",
+      "url": "https://nickpicks.com/about"
+    },
+    "reviewBody": {{ description | dump | safe }},
+    "publisher": {
+      "@type": "Organization",
+      "name": "NickPicks",
+      "url": {{ siteUrl | dump | safe }}
+    }
+  }
+}
+</script>
+{% endif %}
 {% endif %}
 
 {# ItemList for category pages (requires categorySlug frontmatter) #}

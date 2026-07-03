@@ -205,7 +205,7 @@ Two smart plugs add scheduling and voice control to your desk lamp and monitor p
 
 ## The Bottom Line
 
-A $200 home office setup built around a monitor riser, USB hub, wireless keyboard and mouse, and a proper webcam outperforms most $800 setups that spent money in the wrong places. Fix ergonomics and connectivity first — everything else is optional.
+A $200 home office setup built around a monitor riser, [budget USB-C hub](/articles/best-usb-c-hubs-laptops-2026/), wireless keyboard and mouse, and a proper webcam outperforms most $800 setups that spent money in the wrong places. Fix ergonomics and connectivity first — everything else is optional.
 
 For upgrades from here, see our [best budget home office accessories under $50](/articles/best-budget-home-office-accessories-under-50/) for targeted desk improvements, and our [best desk upgrades under $50](/articles/best-desk-upgrades-under-50-2026/) for the next round of enhancements.
 

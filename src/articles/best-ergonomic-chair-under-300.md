@@ -39,7 +39,7 @@ faqs:
 
 ## Why Your $50 Chair Is Destroying Your Back
 
-You can have the best standing desk in the world, but if you spend six hours slumped in a chair that costs less than your lunch, your spine is going to let you know about it. The good news: you don't need to spend $1,400 on a [Herman Miller Aeron](/articles/herman-miller-aeron-review/) to get real lumbar support.
+You can have the best standing desk in the world, but if you spend six hours slumped in a chair that costs less than your lunch, your spine is going to let you know about it. The good news: you don't need to spend $1,400 on a [Herman Miller Aeron premium option](/articles/herman-miller-aeron-review/) to get real lumbar support.
 
 After combing through hundreds of reviews and the best-selling options on Amazon, here are the five ergonomic chairs under $300 that deliver serious value without the designer price tag.
 

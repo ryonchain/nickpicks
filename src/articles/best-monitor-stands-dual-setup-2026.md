@@ -111,7 +111,7 @@ Buying two of these costs roughly $40–$60 total, making this the most affordab
 
 **VESA compatibility.** Almost all monitors have a VESA mounting pattern (75×75mm or 100×100mm) on the back. Confirm your monitors are VESA-compatible before buying any arm or stand that requires it (most clamp-arm solutions do).
 
-**Cable management.** Dual arm setups double your [cable management](/articles/best-cable-management-desk-2026/) challenge. Look for arms with cable routing channels built in. The Ergotron LX has integrated cable management; budget arms typically do not.
+**Cable management.** Dual arm setups double your [cable management for dual monitors](/articles/best-cable-management-desk-2026/) challenge. Look for arms with cable routing channels built in. The Ergotron LX has integrated cable management; budget arms typically do not.
 
 ---
 

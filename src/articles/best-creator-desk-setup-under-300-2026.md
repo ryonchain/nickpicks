@@ -231,7 +231,7 @@ The Logitech C920x is the best under $100 — it shoots 1080p at 30fps, has reli
 **How do I make my desk setup look professional on camera?**
 Place your key light at 45 degrees to your face at eye level, position your webcam at eye level on a monitor arm, and use a clean desk pad as the visual base layer. These three changes have the most dramatic impact on on-camera appearance.
 
-**Is a mechanical keyboard necessary for a creator setup?**
+**Is a [mechanical keyboard](/articles/best-mechanical-keyboards-home-office-2026/) necessary for a creator setup?**
 Not necessary, but highly recommended. A Keychron K2 with brown switches gives satisfying tactile feedback without the loud clacking that bleeds into microphone recordings — a practical choice for streaming or recording content.
 
 **What monitor arm should I use for a creator desk setup under $300?**
