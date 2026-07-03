@@ -19,6 +19,10 @@ eleventyExcludeFromCollections: true
   <url><loc>{{ siteUrl }}/categories/pet-tech/</loc><priority>0.8</priority></url>
   <url><loc>{{ siteUrl }}/categories/smart-home/</loc><priority>0.8</priority></url>
   <url><loc>{{ siteUrl }}/search/</loc><priority>0.5</priority></url>
+  <url><loc>{{ siteUrl }}/gift-guides/</loc><priority>0.9</priority></url>
+  <url><loc>{{ siteUrl }}/gift-guides/remote-workers/</loc><priority>0.8</priority></url>
+  <url><loc>{{ siteUrl }}/gift-guides/home-office/</loc><priority>0.8</priority></url>
+  <url><loc>{{ siteUrl }}/gift-guides/under-50/</loc><priority>0.8</priority></url>
   {% for article in collections.articlesByDate %}
   <url>
     <loc>{{ siteUrl }}{{ article.url | stripPathPrefix }}</loc>
