@@ -1,3 +1,22 @@
+{# WebSite schema — sitewide, enables Google Sitelinks Search Box #}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "NickPicks",
+  "url": {{ siteUrl | dump | safe }},
+  "description": "Independent product reviews and buying guides for home office, beauty, fitness, kitchen, and pet tech.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": {{ (siteUrl + "/search/?q={search_term_string}") | dump | safe }}
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
 {# BreadcrumbList — all pages #}
 <script type="application/ld+json">
 {
@@ -26,15 +45,20 @@
   "datePublished": "{{ date | date("yyyy-MM-dd") }}",
   "dateModified": "{{ (dateModified or date) | date("yyyy-MM-dd") }}",
   "url": {{ (siteUrl + (page.url | stripPathPrefix)) | dump | safe }},
-  "publisher": {
-    "@type": "Organization",
-    "name": "NickPicks",
-    "url": {{ siteUrl | dump | safe }}
-  },
+  "image": {{ (siteUrl + (ogImage or site.defaultOgImage)) | dump | safe }},
   "author": {
     "@type": "Person",
     "name": "Nick",
     "url": "https://nickpicks.com/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "NickPicks",
+    "url": {{ siteUrl | dump | safe }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ (siteUrl + "/images/favicon.png") | dump | safe }}
+    }
   }
 }
 </script>

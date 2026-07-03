@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Amazon affiliate content website",
   "scripts": {
-    "build": "eleventy && pagefind --site _site",
+    "build": "eleventy && pagefind --site _site && node scripts/minify-assets.js",
     "serve": "eleventy --serve",
     "watch": "eleventy --watch"
   },

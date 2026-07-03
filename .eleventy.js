@@ -31,6 +31,17 @@ module.exports = function(eleventyConfig) {
   // Async image shortcode: {% image "src/path.jpg", "alt text" %}
   eleventyConfig.addAsyncShortcode("image", imageShortcode);
 
+  // Minify HTML output: strip comments and collapse whitespace.
+  // Preserves <pre>, <script>, and <style> block content.
+  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+    if (!outputPath || !outputPath.endsWith(".html")) return content;
+    return content
+      .replace(/<!--(?!\[if)[\s\S]*?-->/g, '')  // strip HTML comments (except IE conditionals)
+      .replace(/>\s+</g, '> <')                  // collapse whitespace between tags to single space
+      .replace(/\n\s*\n/g, '\n')                 // collapse multiple blank lines
+      .replace(/^\s+/gm, '');                    // strip leading whitespace on each line
+  });
+
   // Add loading="lazy" + decoding="async" to all <img> tags in built HTML.
   // The first <img> on each page keeps loading="eager" for LCP.
   eleventyConfig.addTransform("lazy-images", function(content, outputPath) {

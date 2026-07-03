@@ -1,0 +1,15 @@
+---
+permalink: /articles-sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for article in collections.articlesByDate %}
+  <url>
+    <loc>{{ siteUrl }}{{ article.url | stripPathPrefix }}</loc>
+    <lastmod>{{ article.date | date("yyyy-MM-dd") }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {% endfor %}
+</urlset>
