@@ -1,0 +1,210 @@
+{
+  "adjacentNiches": {
+    "home-office": ["gaming", "audio-tech", "tech", "smart-home"],
+    "gaming": ["home-office", "audio-tech", "tech"],
+    "audio-tech": ["home-office", "gaming", "tech"],
+    "tech": ["home-office", "gaming", "audio-tech", "smart-home"],
+    "smart-home": ["home-office", "tech", "pet-tech", "home"],
+    "kitchen": ["home", "health", "health-wellness"],
+    "fitness": ["health", "health-wellness", "outdoor"],
+    "health": ["fitness", "health-wellness", "kitchen"],
+    "health-wellness": ["fitness", "health", "kitchen"],
+    "outdoor": ["fitness", "travel", "automotive"],
+    "travel": ["outdoor", "home-office"],
+    "luxury-beauty": ["beauty", "grooming", "health-wellness"],
+    "beauty": ["luxury-beauty", "grooming", "health-wellness"],
+    "grooming": ["beauty", "luxury-beauty", "fitness"],
+    "pet-tech": ["smart-home", "home", "outdoor"],
+    "home": ["home-office", "smart-home", "home-cleaning", "home-improvement", "kitchen"],
+    "home-cleaning": ["home", "smart-home", "home-improvement"],
+    "home-improvement": ["home", "outdoor", "home-cleaning"],
+    "automotive": ["outdoor", "travel", "tech"],
+    "baby": ["smart-home", "home", "health-wellness"]
+  },
+  "byNiche": {
+    "home-office": [
+      "best-adjustable-laptop-stand-for-desk-2026",
+      "best-air-purifiers-bedroom-2026",
+      "best-air-purifiers-home-office-2026",
+      "best-anti-fatigue-standing-desk-mats-under-60-2026",
+      "best-blue-light-blocking-glasses-2026",
+      "best-budget-home-office-accessories-under-50",
+      "best-budget-microphone-home-office-under-100-2026",
+      "best-cable-management-desk-2026",
+      "best-cable-organizer-for-desk-2026",
+      "best-creator-desk-setup-under-300-2026",
+      "best-desk-fan-summer-wfh-2026",
+      "best-desk-upgrades-under-50-2026",
+      "best-document-scanners-home-office-2026",
+      "best-ergonomic-chair-under-300",
+      "best-ergonomic-footrests-for-desk-2026",
+      "best-ergonomic-keyboards-home-office-2026",
+      "best-ergonomic-standing-mat-review",
+      "best-gaming-chairs-under-500-2026",
+      "best-gaming-headsets-2026",
+      "best-gaming-mice-2026",
+      "best-headphones-for-work-2026",
+      "best-home-office-lighting-under-50",
+      "best-home-office-setup-under-1000",
+      "best-home-office-setup-under-200-2026",
+      "best-lap-desks-sofa-working-2026",
+      "best-laptop-cooling-pads-2026",
+      "best-laptop-cooling-pads-under-40-2026",
+      "best-laptop-stand-desk-ergonomic-2025",
+      "best-laptop-stands-2026",
+      "best-led-desk-mat-2026",
+      "best-led-strip-lights-desk-2026",
+      "best-led-strip-lights-gaming-desk-under-25-2026",
+      "best-mattresses-in-a-box-2026",
+      "best-mechanical-keyboards-home-office-2026",
+      "best-mesh-desk-organizers-2026",
+      "best-monitor-arms-desk-setup-2026",
+      "best-monitor-stands-dual-setup-2026",
+      "best-noise-canceling-earbuds-under-100",
+      "best-packing-cubes-for-travel-2026",
+      "best-portable-air-conditioners-2026",
+      "best-portable-monitors-for-laptop-2026",
+      "best-productivity-planners-desk-notebooks-2026",
+      "best-slim-laptop-bags-backpacks-under-50-2026",
+      "best-smart-home-devices-productivity-2026",
+      "best-smart-led-desk-lamps-2026",
+      "best-smart-plugs-home-automation-2026",
+      "best-soundbars-2026",
+      "best-standing-desk-mats-2026",
+      "best-standing-desk-under-500",
+      "best-travel-accessories-remote-workers-2026",
+      "best-under-desk-storage-home-office",
+      "best-usb-c-docking-stations-2026",
+      "best-usb-c-hub-docking-stations-under-50-2026",
+      "best-usb-c-hubs-laptops-2026",
+      "best-usb-hubs-remote-work-2026",
+      "best-webcams-home-office-2026",
+      "best-webcams-home-office-under-100-2026",
+      "best-webcams-ring-lights-video-calls-2026",
+      "best-whiteboard-alternatives-home-office",
+      "best-wireless-charging-pads-under-30-2026",
+      "best-wireless-charging-station-multi-device",
+      "ergotron-lx-monitor-arm-review",
+      "ergotron-lx-vs-amazon-basics-monitor-arm",
+      "flexispot-e7-pro-review",
+      "herman-miller-aeron-review",
+      "how-to-set-up-standing-desk",
+      "logitech-mx-keys-vs-keychron-mechanical-keyboard",
+      "pro-home-office-setup-guide-2026",
+      "topo-anti-fatigue-mat-vs-sky-solutions",
+      "vivo-vs-ergotron-monitor-arms"
+    ],
+    "kitchen": [
+      "best-air-fryers-2026",
+      "best-blenders-2026",
+      "best-coffee-grinders-2026",
+      "best-coffee-grinders-under-100-2026",
+      "best-coffee-makers-under-200-2026",
+      "best-electric-kettles-2026",
+      "best-espresso-machines-under-500-2026",
+      "best-food-processors-2026",
+      "best-immersion-blenders-under-50-2026",
+      "best-indoor-herb-garden-kits-2026",
+      "best-instant-pot-pressure-cookers-2026",
+      "best-outdoor-grills-under-500-2026",
+      "best-rice-cookers-2026",
+      "best-sous-vide-cookers-home-chefs-2026",
+      "best-stand-mixers-2026",
+      "best-toaster-ovens-2026",
+      "best-water-filters-pitchers-2026"
+    ],
+    "smart-home": [
+      "best-baby-monitors-2026",
+      "best-car-phone-mounts-2026",
+      "best-dash-cams-2026",
+      "best-home-security-cameras-under-100",
+      "best-indoor-security-cameras-2026",
+      "best-robot-vacuums-2026",
+      "best-smart-doorbells-2026",
+      "best-smart-home-devices-2026",
+      "best-smart-home-devices-under-100",
+      "best-smart-home-hubs-2025",
+      "best-smart-plugs-under-20-2026",
+      "best-smart-speakers-2026",
+      "best-smart-thermostats-2026"
+    ],
+    "fitness": [
+      "best-electric-bikes-2026",
+      "best-home-treadmills-under-1500-2026",
+      "best-indoor-exercise-bikes-2026",
+      "best-massage-guns-2026",
+      "best-massage-guns-for-recovery-2026",
+      "best-resistance-bands-under-30-2026",
+      "best-sleep-trackers-2026",
+      "best-smartwatches-2026",
+      "best-yoga-mats-2026",
+      "bowflex-selecttech-552-vs-1090"
+    ],
+    "luxury-beauty": [
+      "best-anti-aging-face-creams-2026",
+      "best-beard-trimmers-2026",
+      "best-retinol-serums-2026",
+      "best-vitamin-c-serums-2026",
+      "is-la-mer-worth-it-review"
+    ],
+    "travel": [
+      "best-travel-accessories-carry-on-2026",
+      "best-travel-packing-cubes-compression-2025",
+      "best-travel-pillows-2026"
+    ],
+    "pet-tech": [
+      "best-automatic-pet-feeders-2026",
+      "best-dog-beds-large-dogs-2026",
+      "best-gps-pet-trackers-dogs-2026",
+      "best-self-cleaning-litter-boxes-2026"
+    ],
+    "outdoor": [
+      "best-backpacking-backpacks-2026",
+      "best-camping-tents-2026",
+      "best-electric-pressure-washers-2026"
+    ],
+    "tech": [
+      "best-portable-bluetooth-speakers-under-50-2026",
+      "best-portable-power-stations-2026"
+    ],
+    "home": [
+      "best-air-purifiers-2026",
+      "best-closet-organizers-2026"
+    ],
+    "gaming": [
+      "best-gaming-keyboards-under-150-2026",
+      "best-gaming-peripherals-under-50-2025"
+    ],
+    "beauty": [
+      "best-hair-dryers-2026",
+      "best-sunscreen-2026"
+    ],
+    "audio-tech": [
+      "best-wireless-earbuds-under-100-2026",
+      "best-wireless-headphones-2026"
+    ],
+    "home-improvement": [
+      "best-cordless-drills-2026"
+    ],
+    "home-cleaning": [
+      "best-cordless-vacuums-2026"
+    ],
+    "health-wellness": [
+      "best-electric-toothbrushes-2026",
+      "best-weighted-blankets-2026"
+    ],
+    "health": [
+      "best-blood-pressure-monitors-2026"
+    ],
+    "grooming": [
+      "best-electric-shavers-men-2025"
+    ],
+    "baby": [
+      "best-baby-monitors-no-subscription-2025"
+    ],
+    "automotive": [
+      "best-car-seat-organizers-2026",
+      "best-portable-jump-starters-2026"
+    ]
+  }
+}

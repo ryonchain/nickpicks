@@ -2,6 +2,7 @@
 title: "Best Document Scanners for Home Office 2026: Portable vs Flatbed Compared"
 description: "Ditch the paper piles with the best document scanners for home office use in 2026. We compare Fujitsu ScanSnap, Canon imageFORMULA, and portable options for digitizing receipts, contracts, and paperwork."
 date: 2026-07-02
+category: home-office
 tags: ["document scanners", "home office", "Fujitsu ScanSnap", "Canon", "paperless office"]
 layout: article.njk
 ---

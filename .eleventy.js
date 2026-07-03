@@ -63,6 +63,19 @@ module.exports = function(eleventyConfig) {
       "fitness": "Fitness",
       "pet-tech": "Pet Tech",
       "smart-home": "Smart Home",
+      "gaming": "Gaming",
+      "audio-tech": "Audio & Tech",
+      "tech": "Tech",
+      "outdoor": "Outdoor",
+      "travel": "Travel",
+      "health": "Health",
+      "health-wellness": "Health & Wellness",
+      "grooming": "Grooming",
+      "baby": "Baby",
+      "automotive": "Automotive",
+      "home": "Home",
+      "home-cleaning": "Home Cleaning",
+      "home-improvement": "Home Improvement",
     };
     return labels[slug] || slug;
   });
@@ -77,8 +90,71 @@ module.exports = function(eleventyConfig) {
       "health": "/fitness/",
       "kitchen": "/kitchen/",
       "pet-tech": "/pet-tech/",
+      "smart-home": "/categories/smart-home/",
+      "gaming": "/categories/gaming/",
+      "audio-tech": "/categories/audio-tech/",
+      "tech": "/categories/tech/",
+      "outdoor": "/categories/outdoor/",
+      "travel": "/categories/travel/",
+      "grooming": "/categories/grooming/",
+      "baby": "/categories/baby/",
+      "automotive": "/categories/automotive/",
+      "home": "/categories/home/",
+      "home-cleaning": "/categories/home-cleaning/",
+      "home-improvement": "/categories/home-improvement/",
     };
-    return hubs[slug] || `/categories/${slug}/`;
+    return hubs[slug] || null;
+  });
+
+  eleventyConfig.addFilter("relatedArticles", (collection, category, currentUrl, count) => {
+    count = count || 5;
+    if (!collection) return [];
+
+    const adjacentNiches = {
+      "home-office": ["gaming", "audio-tech", "tech", "smart-home"],
+      "gaming": ["home-office", "audio-tech", "tech"],
+      "audio-tech": ["home-office", "gaming", "tech"],
+      "tech": ["home-office", "gaming", "audio-tech", "smart-home"],
+      "smart-home": ["home-office", "tech", "pet-tech", "home"],
+      "kitchen": ["home", "health", "health-wellness"],
+      "fitness": ["health", "health-wellness", "outdoor"],
+      "health": ["fitness", "health-wellness", "kitchen"],
+      "health-wellness": ["fitness", "health", "kitchen"],
+      "outdoor": ["fitness", "travel", "automotive"],
+      "travel": ["outdoor", "home-office"],
+      "luxury-beauty": ["beauty", "grooming", "health-wellness"],
+      "beauty": ["luxury-beauty", "grooming", "health-wellness"],
+      "grooming": ["beauty", "luxury-beauty", "fitness"],
+      "pet-tech": ["smart-home", "home", "outdoor"],
+      "home": ["home-office", "smart-home", "home-cleaning", "home-improvement", "kitchen"],
+      "home-cleaning": ["home", "smart-home", "home-improvement"],
+      "home-improvement": ["home", "outdoor", "home-cleaning"],
+      "automotive": ["outdoor", "travel", "tech"],
+      "baby": ["smart-home", "home", "health-wellness"],
+    };
+
+    const isNotSelf = item => item.url !== currentUrl;
+
+    if (!category) {
+      return collection.filter(isNotSelf).slice(0, count);
+    }
+
+    const primary = collection.filter(
+      item => item.data && item.data.category === category && isNotSelf(item)
+    );
+
+    if (primary.length >= count) {
+      return primary.slice(0, count);
+    }
+
+    const neighborCategories = adjacentNiches[category] || [];
+    const secondary = collection.filter(
+      item => item.data && neighborCategories.includes(item.data.category) && isNotSelf(item)
+    );
+
+    const seen = new Set(primary.map(i => i.url));
+    const extras = secondary.filter(i => !seen.has(i.url));
+    return [...primary, ...extras].slice(0, count);
   });
 
   eleventyConfig.addFilter("truncate", (str, len) => {

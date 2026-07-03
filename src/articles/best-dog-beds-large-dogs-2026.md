@@ -2,6 +2,7 @@
 title: "Best Dog Beds for Large Dogs 2026: Orthopedic, Chew-Proof & Washable Picks"
 description: "Looking for the best dog bed for large dogs? We compare orthopedic memory foam beds, chew-proof options, and waterproof washable picks for big breeds in 2026."
 date: 2026-07-02
+category: pet-tech
 tags: ["dog beds", "large dogs", "pet products", "orthopedic dog bed"]
 layout: article.njk
 ---

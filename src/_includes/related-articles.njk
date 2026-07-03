@@ -1,0 +1,19 @@
+{% set relatedItems = collections.articlesByDate | relatedArticles(category, page.url, 5) %}
+{% if relatedItems and relatedItems.length > 0 %}
+<section class="related-articles" data-pagefind-ignore>
+  <h2 class="related-articles__heading">You Might Also Like</h2>
+  <ul class="related-articles__list">
+    {% for item in relatedItems %}
+    <li class="related-articles__item">
+      <a href="{{ item.url | url }}" class="related-articles__link">{{ item.data.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% set hubUrl = category | categoryHub %}
+  {% if hubUrl %}
+  <p class="related-articles__hub-link">
+    <a href="{{ hubUrl | url }}">Browse all {{ category | categoryLabel }} guides →</a>
+  </p>
+  {% endif %}
+</section>
+{% endif %}

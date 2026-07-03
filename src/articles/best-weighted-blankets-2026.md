@@ -2,6 +2,7 @@
 title: "Best Weighted Blankets 2026: Anxiety Relief, Cooling, and Deep Pressure Picks"
 description: "Discover the best weighted blankets of 2026 for anxiety relief, better sleep, and deep pressure therapy. We compare 15lb vs 20lb options, cooling blankets, and budget picks from Gravity, YnM, and more."
 date: 2026-07-02
+category: health-wellness
 tags: ["weighted blankets", "sleep", "anxiety", "deep pressure", "bedding"]
 layout: article.njk
 ---

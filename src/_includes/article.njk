@@ -32,6 +32,8 @@ layout: base.njk
       {{ content | safe }}
     </div>
 
+    {% include "related-articles.njk" %}
+
     {% set canonicalUrl = siteUrl + (page.url | stripPathPrefix) %}
     <div class="share-buttons" data-pagefind-ignore>
       <span class="share-label">Share this article:</span>
