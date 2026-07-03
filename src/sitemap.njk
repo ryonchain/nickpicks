@@ -18,6 +18,7 @@ eleventyExcludeFromCollections: true
   <url><loc>{{ siteUrl }}/categories/kitchen/</loc><priority>0.8</priority></url>
   <url><loc>{{ siteUrl }}/categories/pet-tech/</loc><priority>0.8</priority></url>
   <url><loc>{{ siteUrl }}/categories/smart-home/</loc><priority>0.8</priority></url>
+  <url><loc>{{ siteUrl }}/search/</loc><priority>0.5</priority></url>
   {% for article in collections.articlesByDate %}
   <url>
     <loc>{{ siteUrl }}{{ article.url | stripPathPrefix }}</loc>
