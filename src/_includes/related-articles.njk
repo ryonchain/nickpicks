@@ -1,14 +1,20 @@
-{% set relatedItems = collections.articlesByDate | relatedArticles(category, page.url, 5) %}
+{% set relatedItems = collections.articlesByDate | relatedArticles(category, page.url, 3) %}
 {% if relatedItems and relatedItems.length > 0 %}
 <section class="related-articles" data-pagefind-ignore>
-  <h2 class="related-articles__heading">You Might Also Like</h2>
-  <ul class="related-articles__list">
+  <h2 class="related-articles__heading">You might also like</h2>
+  <div class="related-articles__grid">
     {% for item in relatedItems %}
-    <li class="related-articles__item">
-      <a href="{{ item.url | url }}" class="related-articles__link">{{ item.data.title }}</a>
-    </li>
+    <a href="{{ item.url | url }}" class="related-articles__card">
+      <div class="related-articles__thumb" aria-hidden="true"></div>
+      <div class="related-articles__card-body">
+        <h3 class="related-articles__card-title">{{ item.data.title }}</h3>
+        {% if item.data.description %}
+        <p class="related-articles__card-excerpt">{{ item.data.description | truncate(120) }}</p>
+        {% endif %}
+      </div>
+    </a>
     {% endfor %}
-  </ul>
+  </div>
   {% set hubUrl = category | categoryHub %}
   {% if hubUrl %}
   <p class="related-articles__hub-link">

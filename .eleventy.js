@@ -107,7 +107,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("relatedArticles", (collection, category, currentUrl, count) => {
-    count = count || 5;
+    count = count || 3;
     if (!collection) return [];
 
     const adjacentNiches = {
@@ -133,24 +133,33 @@ module.exports = function(eleventyConfig) {
       "baby": ["smart-home", "home", "health-wellness"],
     };
 
+    const shuffle = arr => {
+      const a = arr.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    };
+
     const isNotSelf = item => item.url !== currentUrl;
 
     if (!category) {
-      return collection.filter(isNotSelf).slice(0, count);
+      return shuffle(collection.filter(isNotSelf)).slice(0, count);
     }
 
-    const primary = collection.filter(
+    const primary = shuffle(collection.filter(
       item => item.data && item.data.category === category && isNotSelf(item)
-    );
+    ));
 
     if (primary.length >= count) {
       return primary.slice(0, count);
     }
 
     const neighborCategories = adjacentNiches[category] || [];
-    const secondary = collection.filter(
+    const secondary = shuffle(collection.filter(
       item => item.data && neighborCategories.includes(item.data.category) && isNotSelf(item)
-    );
+    ));
 
     const seen = new Set(primary.map(i => i.url));
     const extras = secondary.filter(i => !seen.has(i.url));
