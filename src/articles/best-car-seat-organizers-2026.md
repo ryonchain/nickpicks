@@ -3,7 +3,7 @@ title: "Best Car Seat Organizers 2026: Back Seat, Trunk & Cup Holder Options"
 description: "Keep your car clutter-free with the best car seat organizers of 2026. We review backseat organizers, trunk organizers, and cup holder inserts for families, road trippers, and daily commuters."
 date: 2026-07-02
 tags: ["car seat organizers", "automotive", "car accessories", "back seat organizer"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Car Seat Organizers 2026

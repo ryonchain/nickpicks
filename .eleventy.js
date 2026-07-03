@@ -1,5 +1,41 @@
+const Image = require("@11ty/eleventy-img");
+
+async function imageShortcode(src, alt, sizes) {
+  const metadata = await Image(src, {
+    widths: [400, 800, 1200],
+    formats: ["webp", "jpeg"],
+    outputDir: "./_site/images/optimized/",
+    urlPath: "/nickpicks/images/optimized/",
+  });
+  return Image.generateHTML(metadata, {
+    alt: alt || "",
+    sizes: sizes || "(max-width: 768px) 100vw, 800px",
+    loading: "lazy",
+    decoding: "async",
+  });
+}
+
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "public": "." });
+
+  // Async image shortcode: {% image "src/path.jpg", "alt text" %}
+  eleventyConfig.addAsyncShortcode("image", imageShortcode);
+
+  // Add loading="lazy" + decoding="async" to all <img> tags in built HTML.
+  // The first <img> on each page keeps loading="eager" for LCP.
+  eleventyConfig.addTransform("lazy-images", function(content, outputPath) {
+    if (!outputPath || !outputPath.endsWith(".html")) return content;
+    let first = true;
+    return content.replace(/<img([^>]*)>/gi, (match, attrs) => {
+      if (/loading\s*=/i.test(attrs)) return match;
+      const loadingVal = first ? "eager" : "lazy";
+      first = false;
+      if (!/decoding\s*=/i.test(attrs)) {
+        return `<img${attrs} loading="${loadingVal}" decoding="async">`;
+      }
+      return `<img${attrs} loading="${loadingVal}">`;
+    });
+  });
 
   // Date filters
   eleventyConfig.addFilter("postDate", (dateObj) => {

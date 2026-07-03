@@ -3,7 +3,7 @@ title: "Best Food Processors 2026: Cuisinart vs Ninja vs KitchenAid Compared"
 description: "Find the best food processor for your kitchen in 2026. We compare mini choppers to full-size workhorses from Cuisinart, Ninja, KitchenAid, and Breville — with honest ratings on power, capacity, and ease of cleaning."
 date: 2026-07-02
 tags: ["food processors", "kitchen appliances", "Cuisinart", "Ninja", "KitchenAid"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Food Processors 2026

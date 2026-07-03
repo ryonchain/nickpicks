@@ -3,7 +3,7 @@ title: "Best Rice Cookers 2026: Zojirushi vs Tiger vs Instant Pot Compared"
 description: "Find the best rice cooker for perfect rice every time. We compare Zojirushi, Tiger, and Instant Pot fuzzy logic cookers vs basic models — with honest ratings on consistency, capacity, and extra features."
 date: 2026-07-02
 tags: ["rice cookers", "kitchen appliances", "Zojirushi", "Tiger", "Instant Pot"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Rice Cookers 2026
