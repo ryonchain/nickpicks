@@ -4,6 +4,7 @@
   "ga4MeasurementId": "G-XXXXXXXXXX",
   "kitPublicKey": "YOUR_KIT_PUBLIC_API_KEY",
   "kitFormId": "YOUR_KIT_FORM_ID",
+  "skimlinksPublisherId": "",
   "description": "Independent product reviews and buying guides for home office, beauty, fitness, kitchen, and pet tech.",
   "url": "https://nickpicks.com",
   "siteUrl": "https://nickpicks.com",
