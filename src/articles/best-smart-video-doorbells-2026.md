@@ -3,7 +3,7 @@ title: "Best Smart Video Doorbells 2026: Ring, Nest, Eufy — 1080p+, Cloud Stor
 description: "Compare the best video doorbells of 2026 — 4K and 1080p options, cloud vs. local storage, no-wire battery models, two-way talk, and advanced motion detection from Ring, Google Nest, Eufy, and Arlo."
 date: 2026-07-06
 tags: ["video doorbell", "Ring", "Nest", "Eufy", "smart home", "home security"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Smart Video Doorbells 2026

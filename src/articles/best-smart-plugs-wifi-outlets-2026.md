@@ -3,7 +3,7 @@ title: "Best Smart Plugs and Wi-Fi Outlets 2026: Energy Monitoring, Alexa, and G
 description: "Find the best smart plugs of 2026 — energy monitoring, Alexa and Google Home integration, scheduling, outdoor models, and power strips. Top picks from Kasa, Govee, Wemo, and Wyze."
 date: 2026-07-06
 tags: ["smart plug", "Wi-Fi outlet", "Alexa", "Google Home", "energy monitoring", "smart home"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Smart Plugs and Wi-Fi Outlets 2026

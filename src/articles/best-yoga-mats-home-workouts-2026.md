@@ -3,7 +3,7 @@ title: "Best Yoga Mats for Home Workouts 2026: Thickness, Grip, and Eco-Friendly
 description: "Find the best yoga mats of 2026 for home workouts — extra-thick cushioning, non-slip grip, eco-friendly natural rubber, and travel-friendly foldable options from Liforme, Manduka, Gaiam, and Lululemon."
 date: 2026-07-06
 tags: ["yoga mat", "home workout", "yoga", "pilates", "fitness", "eco-friendly"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Yoga Mats for Home Workouts 2026

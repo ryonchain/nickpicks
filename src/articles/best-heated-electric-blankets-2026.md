@@ -3,7 +3,7 @@ title: "Best Heated Electric Blankets (2026): Top Picks for Warmth, Safety, and 
 description: "The best heated electric blankets of 2026 — tested for even heat distribution, safety auto-off, wash-ability, and comfort. Includes throw, full, queen, and king size picks."
 date: 2026-07-06
 tags: ["heated blanket", "electric blanket", "best heated blanket", "electric throw", "heated throw", "heated blanket 2026", "warming blanket"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Heated Electric Blankets (2026)

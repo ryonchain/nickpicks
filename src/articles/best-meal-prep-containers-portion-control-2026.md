@@ -3,7 +3,7 @@ title: "Best Meal Prep Containers for Portion Control (2026): Top Picks for Heal
 description: "The best meal prep containers for portion control in 2026 — tested for leak resistance, microwave safety, compartment design, and durability. Includes glass and plastic picks."
 date: 2026-07-06
 tags: ["meal prep containers", "portion control containers", "best meal prep containers", "food prep containers", "meal prep 2026", "lunch containers", "glass meal prep"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Meal Prep Containers for Portion Control (2026)

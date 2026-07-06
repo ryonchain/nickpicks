@@ -3,7 +3,7 @@ title: "Best Baby Monitors with Video (2026): Top Picks for Clear Picture and Pe
 description: "The best video baby monitors of 2026 — tested for image quality, night vision, range, two-way audio, and app reliability. Covers WiFi and non-WiFi options."
 date: 2026-07-06
 tags: ["baby monitor", "video baby monitor", "best baby monitor", "baby monitor with camera", "baby monitor 2026", "infant monitor", "smart baby monitor"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Monitors with Video (2026)

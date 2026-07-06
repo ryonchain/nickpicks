@@ -3,7 +3,7 @@ title: "Best Wireless Chargers 2026: Qi2, MagSafe, and Multi-Device Pads"
 description: "Find the best wireless chargers of 2026 — Qi2 certified pads, MagSafe stands, and multi-device stations for iPhone, Android, AirPods, and Apple Watch. Fast 15W charging, no cords."
 date: 2026-07-06
 tags: ["wireless charger", "Qi2", "MagSafe", "fast charging", "iPhone", "Android"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Wireless Chargers 2026

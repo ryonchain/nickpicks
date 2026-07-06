@@ -3,7 +3,7 @@ title: "Best Gaming Chairs for Long Sessions 2026: Lumbar Support, Adjustability
 description: "Find the best gaming chairs of 2026 for marathon sessions — lumbar support, 4D armrests, recline, and ergonomic builds from Secretlab, Razer, DXRacer, AutoFull, and more."
 date: 2026-07-06
 tags: ["gaming chair", "ergonomic chair", "lumbar support", "home office", "gaming setup"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Gaming Chairs for Long Sessions 2026

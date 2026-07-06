@@ -3,7 +3,7 @@ title: "Best Espresso Machines Under $500 (2026): Top Picks for Home Baristas"
 description: "The best espresso machines under $500 in 2026 — semi-automatic, manual, and pod-based options tested for shot quality, steam wand performance, and ease of use."
 date: 2026-07-06
 tags: ["espresso machine", "best espresso machine", "espresso under 500", "home espresso", "semi-automatic espresso", "espresso maker 2026"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Espresso Machines Under $500 (2026)

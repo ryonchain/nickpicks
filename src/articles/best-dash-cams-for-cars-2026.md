@@ -3,7 +3,7 @@ title: "Best Dash Cams for Cars (2026): Top Picks for Accident Protection and Ro
 description: "The best dash cams for cars in 2026 — tested for video quality, night vision, parking mode, GPS, and reliability. Includes front-only, front+rear, and budget picks."
 date: 2026-07-06
 tags: ["dash cam", "best dash cam", "car dash camera", "dashcam", "dash cam 2026", "car camera", "front rear dash cam", "4K dash cam"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Dash Cams for Cars (2026)

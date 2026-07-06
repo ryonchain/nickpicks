@@ -3,7 +3,7 @@ title: "Best Cordless Drills for Home Use (2026): Top Picks for DIY and Everyday
 description: "The best cordless drills for home use in 2026 — tested for torque, battery life, ergonomics, and value. Includes picks from DeWalt, Milwaukee, Ryobi, and Makita."
 date: 2026-07-06
 tags: ["cordless drill", "best cordless drill", "home drill", "DIY drill", "cordless drill 2026", "power tools", "DeWalt drill", "Milwaukee drill"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Cordless Drills for Home Use (2026)

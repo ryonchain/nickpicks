@@ -3,7 +3,7 @@ title: "Best Robot Vacuum Cleaners 2026: Roomba, Roborock, Shark — Auto-Empty 
 description: "Find the best robot vacuums of 2026 — LiDAR mapping, auto-empty bases, obstacle avoidance, and mopping combos. Comparing iRobot Roomba, Roborock, Shark, and Ecovacs."
 date: 2026-07-06
 tags: ["robot vacuum", "Roomba", "Roborock", "Shark", "auto-empty", "smart home"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Robot Vacuum Cleaners 2026

@@ -3,7 +3,7 @@ title: "Best Portable Projectors for Home Theater (2026): Top Picks for Big-Scre
 description: "The best portable projectors for home theater in 2026 — tested for brightness, image quality, battery life, and built-in audio. Includes 4K, 1080p, and budget picks."
 date: 2026-07-06
 tags: ["portable projector", "best portable projector", "home theater projector", "mini projector", "portable projector 2026", "4K projector", "battery projector"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Portable Projectors for Home Theater (2026)

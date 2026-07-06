@@ -3,7 +3,7 @@ title: "Best High-Speed Blenders for Smoothies and Cooking 2026: Vitamix, Ninja,
 description: "Find the best high-speed blenders of 2026 for smoothies, soups, nut butters, and more. Compare Vitamix, Ninja, NutriBullet, and Blendtec on power, noise, and value."
 date: 2026-07-06
 tags: ["blender", "Vitamix", "Ninja", "NutriBullet", "smoothie", "high-speed blender"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best High-Speed Blenders for Smoothies and Cooking 2026
