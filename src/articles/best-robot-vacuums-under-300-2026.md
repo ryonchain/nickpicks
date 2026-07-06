@@ -3,11 +3,13 @@ title: "Best Robot Vacuums Under $300 in 2026: Smart Cleaning Without the Premiu
 slug: best-robot-vacuums-under-300-2026
 description: "The best robot vacuums under $300 in 2026 — strong suction, reliable navigation, and real-world cleaning performance. Top picks from Roomba, Eufy, Roborock, and Shark."
 keywords: ["best robot vacuum under 300", "best budget robot vacuum 2026", "best cheap robot vacuum", "Eufy RoboVac review", "best robot vacuum under 300 dollars"]
-category: Home & Smart Devices
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "280,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-robot-vacuums-under-300-2026/index.html
 ---
 
 # Best Robot Vacuums Under $300 in 2026: Smart Cleaning Without the Premium Price

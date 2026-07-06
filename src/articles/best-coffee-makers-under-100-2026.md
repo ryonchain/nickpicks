@@ -3,11 +3,13 @@ title: "Best Coffee Makers Under $100 in 2026: Top Picks for Every Brew Style"
 slug: best-coffee-makers-under-100-2026
 description: "The best coffee makers under $100 in 2026 — drip, single-serve, pour-over, French press, and cold brew. Cuisinart, Hamilton Beach, Keurig, and Ninja compared by brew quality and value."
 keywords: ["best coffee maker under 100", "best coffee maker 2026", "best cheap coffee maker", "best drip coffee maker under 100", "best keurig under 100"]
-category: Kitchen & Home
+category: kitchen
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "200,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-coffee-makers-under-100-2026/index.html
 ---
 
 # Best Coffee Makers Under $100 in 2026: Top Picks for Every Brew Style

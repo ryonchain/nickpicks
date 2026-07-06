@@ -4,6 +4,29 @@ date: "2024-07-05"
 description: "The best wireless earbuds under $100 with active noise cancellation. We compare ANC performance, battery life, call quality, and codec support to find the top value picks."
 tags: ["product-reviews", "earbuds", "audio"]
 amazonTag: "ryonchain-20"
+layout: article.njk
+category: home-office
+permalink: /articles/best-wireless-earbuds-under-100/index.html
+products:
+  - name: Soundcore by Anker Life P3
+    position: 1
+  - name: Sony WF-C700N
+    position: 2
+  - name: EarFun Air Pro 3
+    position: 3
+  - name: Jabra Evolve2 Buds (consumer version)
+    position: 4
+  - name: 1More Aero
+    position: 5
+faqs:
+  - question: "What is ANC and how much reduction do I actually need?"
+    answer: "ANC (Active Noise Cancellation) uses microphones to detect ambient sound and generate an inverse signal to cancel it. For open offices, 20–30dB reduction is sufficient. For airplane travel, aim for 35dB+. The Soundcore Life P3 and EarFun Air Pro 3 both hit 40–43dB."
+  - question: "Does aptX or LDAC actually make a difference?"
+    answer: "On a good audio source (lossless streaming), LDAC delivers noticeably better clarity and detail on Android. For Spotify/Apple Music at standard quality, the difference is minimal. If you use Tidal, Amazon Music HD, or Apple Lossless, LDAC is worth prioritizing."
+  - question: "How important is multipoint connection?"
+    answer: "Multipoint allows you to connect to two devices simultaneously — your laptop and phone, for example. The EarFun Air Pro 3 supports this and it's extremely useful if you switch between work calls and music on different devices."
+  - question: "Can I use ANC earbuds for exercise?"
+    answer: "Most of the models here have an IPX4 or IPX5 sweat resistance rating, making them suitable for light exercise. For intense workouts, look for earbuds with a more secure fit (wingtips or ear hooks)."
 ---
 
 > **Disclosure:** As an Amazon Associate, NickPicks earns from qualifying purchases.

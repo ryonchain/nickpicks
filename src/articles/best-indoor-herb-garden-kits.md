@@ -2,7 +2,7 @@
 title: "Best Indoor Herb Garden Kits in 2026 — Grow Fresh Herbs Year-Round"
 description: "The best indoor herb garden kits reviewed — from AeroGarden to Click & Grow. Grow fresh basil, mint, and cilantro on your countertop year-round without soil or fuss."
 keywords: ["best indoor herb garden kit", "indoor herb garden", "AeroGarden review", "countertop herb garden", "indoor herb grower"]
-category: "Garden"
+category: kitchen
 tags: ["indoor gardening", "herb garden", "hydroponics", "kitchen garden"]
 date: 2026-07-04
 author: "NickPicks Editorial Team"
@@ -10,6 +10,8 @@ affiliate: true
 schema: "Product"
 searchVolume: "~120K/mo"
 buyerIntent: "high"
+layout: article.njk
+permalink: /articles/best-indoor-herb-garden-kits/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

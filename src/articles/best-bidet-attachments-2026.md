@@ -3,11 +3,13 @@ title: "Best Bidet Attachments 2026: Top Picks for Every Toilet & Budget"
 slug: best-bidet-attachments-2026
 description: "The best bidet attachments of 2026 — from simple cold-water sprayers to heated seat bidets with air dryers. Honest reviews of TUSHY, Luxe Bidet, Bio Bidet, and more."
 keywords: ["best bidet attachment 2026", "best bidet", "TUSHY bidet review", "Luxe Bidet review", "bidet attachment buying guide", "best non-electric bidet"]
-category: Bathroom & Home
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "110,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-bidet-attachments-2026/index.html
 ---
 
 # Best Bidet Attachments 2026: Top Picks for Every Toilet & Budget

@@ -7,6 +7,25 @@ amazonTag: ryonchain-20
 niche: "office & ergonomics"
 keywords: ["best standing desk converter", "best standing desk converter under 150", "desktop riser reviews 2026", "best desk riser", "standing desk converter review", "sit stand desk converter", "best ergonomic desk converter"]
 estimated_monthly_searches: 74000
+layout: article.njk
+category: home-office
+permalink: /articles/standing-desk-converters/index.html
+products:
+  - name: FLEXISPOT M7B Standing Desk Converter
+    position: 1
+    description: Best Overall Under $150
+  - name: Vari Electric Standing Desk Converter
+    position: 2
+    description: Best Electric Converter
+  - name: HUANUO Dual Monitor Standing Desk Converter
+    position: 3
+    description: Best Budget Pick
+  - name: Ergotron WorkFit-T Standing Desk Converter
+    position: 4
+    description: Best for Small Desks
+  - name: "Mount-It! Stand Up Desk Converter"
+    position: 5
+    description: Best Wide Surface Option
 ---
 
 # Best Standing Desk Converters 2026: Top 5 Desktop Risers Under $150

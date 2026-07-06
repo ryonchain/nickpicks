@@ -3,11 +3,13 @@ title: "Best Home Security Cameras 2026: Top Picks for Indoor and Outdoor"
 slug: best-home-security-cameras-2026
 description: "The best home security cameras in 2026 — wired vs. wireless, indoor vs. outdoor, best with no subscription, best video doorbell, and best for every budget. Arlo, Ring, Wyze, and Google Nest compared."
 keywords: ["best home security camera 2026", "best outdoor security camera", "best home security camera no subscription", "best indoor security camera", "best video doorbell camera 2026"]
-category: Smart Home & Security
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "200,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-home-security-cameras-2026/index.html
 ---
 
 # Best Home Security Cameras 2026: Top Picks for Indoor and Outdoor

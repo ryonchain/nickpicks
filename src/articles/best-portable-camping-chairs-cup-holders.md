@@ -5,11 +5,29 @@ meta_title: "Best Camping Chairs with Cup Holders (2024)"
 meta_description: "Find the perfect portable camping chair with cup holder for your next trip. Top 5 picks reviewed with pros, cons, weight limits & buying tips."
 description: "Find the perfect portable camping chair with cup holder for your next trip. Top 5 picks reviewed with pros, cons, weight limits & buying tips."
 keywords: ["best portable camping chairs cup holders", "camping chair with cup holder", "best camping chair", "lightweight camping chair", "outdoor camping chair review"]
-category: Outdoor Living
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "18,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-portable-camping-chairs-cup-holders/index.html
+products:
+  - name: ALPS Mountaineering King Kong Chair
+    position: 1
+    description: Best Heavy-Duty Pick
+  - name: Helinox Chair One
+    position: 2
+    description: Best Ultralight Option
+  - name: Coleman Camping Chair with Side Table
+    position: 3
+    description: Best Value
+  - name: Kijaro Dual Lock Camping Chair
+    position: 4
+    description: Best Locking Mechanism
+  - name: GCI Outdoor Pod Rocker
+    position: 5
+    description: Best for Relaxation
 ---
 
 *Disclosure: NickPicks is a participant in the Amazon Associates program. We earn a small commission on qualifying purchases at no extra cost to you.*

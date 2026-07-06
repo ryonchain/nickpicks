@@ -3,11 +3,13 @@ title: "Best Carry-On Luggage in 2026: Top Picks for Every Type of Traveler"
 slug: best-carry-on-luggage-2026
 description: "The best carry-on luggage in 2026 — hardside, softside, spinner, and underseat bags from Away, Rimowa, Samsonite, Travelpro, and more. Tested for durability, weight, and airline compliance."
 keywords: ["best carry on luggage 2026", "best carry on suitcase", "best hardside carry on", "best lightweight carry on luggage", "best carry on luggage for travel"]
-category: Travel & Outdoors
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "135,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-carry-on-luggage-2026/index.html
 ---
 
 # Best Carry-On Luggage in 2026: Top Picks for Every Type of Traveler

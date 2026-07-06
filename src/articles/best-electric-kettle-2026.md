@@ -4,6 +4,9 @@ date: "2026-07-05"
 description: "Looking for the best electric kettle? We reviewed the top 5 models for speed, temperature control, and value — from budget boilers to precision goosenecks."
 tags: ["product-reviews", "electric-kettle", "kitchen"]
 amazonTag: "ryonchain-20"
+layout: article.njk
+category: kitchen
+permalink: /articles/best-electric-kettle-2026/index.html
 ---
 
 > **Disclosure:** As an Amazon Associate, NickPicks earns from qualifying purchases.

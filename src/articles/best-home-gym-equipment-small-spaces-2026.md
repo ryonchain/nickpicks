@@ -3,11 +3,13 @@ title: "Best Home Gym Equipment for Small Spaces in 2026: Compact Picks That Del
 slug: best-home-gym-equipment-small-spaces-2026
 description: "The best home gym equipment for small spaces in 2026 — adjustable dumbbells, foldable benches, compact cables, and more. Full gym capability in 50–100 sq ft."
 keywords: ["best home gym equipment small spaces", "compact home gym equipment 2026", "home gym apartment", "small space workout equipment", "best adjustable dumbbells 2026"]
-category: Fitness & Outdoors
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "74,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-home-gym-equipment-small-spaces-2026/index.html
 ---
 
 # Best Home Gym Equipment for Small Spaces in 2026: Compact Picks That Deliver

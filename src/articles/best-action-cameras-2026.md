@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: tech
 tags: [action camera, GoPro, adventure, photography, sports camera]
 affiliate: amazon
+layout: article.njk
+category: home-office
+permalink: /articles/best-action-cameras-2026/index.html
+products:
+  - name: GoPro Hero 13 Black
+    position: 1
+    description: Best Overall
+  - name: DJI Osmo Action 4
+    position: 2
+    description: Best Value
+  - name: Insta360 X4
+    position: 3
+    description: Best 360° Camera
+  - name: GoPro Hero 12 Black
+    position: 4
+    description: Best Mid-Range
+  - name: Akaso Brave 8
+    position: 5
+    description: Best Budget Pick
 ---
 
 # Best Action Cameras (2026)

@@ -3,11 +3,13 @@ title: "Best Weighted Blankets for Anxiety and Sleep: Top Picks for 2026"
 slug: best-weighted-blankets
 description: "The best weighted blankets for anxiety and better sleep in 2026 — top picks from Gravity, Bearaby, YnM, Mosaic, and Luna that deliver proven calming benefits."
 keywords: ["best weighted blanket", "weighted blanket for anxiety", "best weighted blanket 2026", "weighted blanket review", "weighted blanket sleep"]
-category: Home / Bedding
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-05"
 estimated_search_volume: "50,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-weighted-blankets/index.html
 ---
 
 # Best Weighted Blankets for Anxiety and Sleep: Top Picks for 2026

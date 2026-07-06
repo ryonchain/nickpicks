@@ -3,11 +3,13 @@ title: "Best Smart Plugs for Home Automation: Top Picks for Alexa, Google Home, 
 slug: best-smart-plugs
 description: "The best smart plugs for home automation in 2026 — picks from Kasa, TP-Link Tapo, Wemo, Amazon, and Govee that work with Alexa, Google Home, Apple HomeKit, and Matter."
 keywords: ["best smart plugs", "smart plug for Alexa", "best smart plug 2026", "smart home plug review", "smart outlet for home automation"]
-category: Smart Home
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "135,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-smart-plugs/index.html
 ---
 
 # Best Smart Plugs for Home Automation: Top Picks for Alexa, Google Home, and Matter

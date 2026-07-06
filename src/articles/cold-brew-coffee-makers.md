@@ -7,6 +7,25 @@ amazonTag: ryonchain-20
 niche: "kitchen & coffee"
 keywords: ["best cold brew coffee maker", "best cold brew maker 2026", "best cold brew coffee maker reviews", "best cold brew pitcher", "cold brew coffee maker comparison", "best glass cold brew maker", "how to make cold brew at home"]
 estimated_monthly_searches: 90500
+layout: article.njk
+category: kitchen
+permalink: /articles/cold-brew-coffee-makers/index.html
+products:
+  - name: OXO Good Grips Compact Cold Brew Coffee Maker
+    position: 1
+    description: Best Overall Cold Brew Maker
+  - name: Toddy Cold Brew System
+    position: 2
+    description: Best Cold Brew Maker for Concentrate Lovers
+  - name: KitchenAid Cold Brew Coffee Maker
+    position: 3
+    description: Best Large Capacity Cold Brew Maker
+  - name: Primula Burke Cold Brew Iced Coffee Maker
+    position: 4
+    description: Best Budget Cold Brew Pitcher
+  - name: Hario Mizudashi Cold Brew Coffee Pot
+    position: 5
+    description: Best for Coffee Enthusiasts
 ---
 
 # Best Cold Brew Coffee Makers 2026: Top 5 Picks for Smooth Cold Coffee at Home

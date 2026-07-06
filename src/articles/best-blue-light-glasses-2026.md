@@ -3,11 +3,13 @@ title: "Best Blue Light Glasses in 2026: Reduce Eye Strain Without the Yellow Ti
 slug: best-blue-light-glasses-2026
 description: "The best blue light glasses in 2026 — real lens coatings, comfortable frames, and styles that work at a desk and in meetings. Top picks for screen-heavy work and gaming."
 keywords: ["best blue light glasses 2026", "best blue light blocking glasses", "do blue light glasses work", "best computer glasses", "blue light glasses review"]
-category: Home Office & Wellness
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "165,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-blue-light-glasses-2026/index.html
 ---
 
 # Best Blue Light Glasses in 2026: Reduce Eye Strain Without the Yellow Tint

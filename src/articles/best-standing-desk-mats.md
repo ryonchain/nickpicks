@@ -3,11 +3,13 @@ title: "Best Standing Desk Anti-Fatigue Mats: Top Picks to Keep You Comfortable 
 slug: best-standing-desk-mats
 description: "The best standing desk anti-fatigue mats in 2026 — ergonomic picks from Topo, Flexispot, Comfilife, Sky Solutions, and WellnessMats that reduce fatigue during long standing sessions."
 keywords: ["best standing desk mat", "anti-fatigue mat for standing desk", "best anti-fatigue mat 2026", "standing mat home office", "ergonomic standing mat"]
-category: Home Office
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "74,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-standing-desk-mats/index.html
 ---
 
 # Best Standing Desk Anti-Fatigue Mats: Top Picks to Keep You Comfortable All Day

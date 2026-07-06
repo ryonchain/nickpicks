@@ -3,6 +3,20 @@ slug: best-under-desk-ellipticals-for-working-from-home
 title: "Best Under-Desk Ellipticals for Working From Home"
 meta_title: "Best Under-Desk Ellipticals for WFH 2027 | Top 5"
 meta_description: "Burn calories while you work. We tested the best under-desk ellipticals for working from home — quiet, compact, and effective for all-day movement."
+layout: article.njk
+category: home-office
+permalink: /articles/best-under-desk-ellipticals-for-working-from-home/index.html
+products:
+  - name: Cubii Pro Under-Desk Elliptical
+    position: 1
+  - name: DeskCycle 2 Under Desk Bike Pedal Exerciser
+    position: 2
+  - name: "Sunny Health & Fitness SF-E3872 Under Desk Elliptical"
+    position: 3
+  - name: LifePro Flexstride Under Desk Elliptical
+    position: 4
+  - name: UREVO Under Desk Elliptical Trainer
+    position: 5
 ---
 
 *Disclosure: This post contains Amazon affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*

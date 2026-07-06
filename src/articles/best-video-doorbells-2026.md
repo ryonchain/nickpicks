@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: smart-home
 tags: [video doorbell, smart doorbell, Ring, Nest, home security, porch pirates]
 affiliate: amazon
+layout: article.njk
+category: home-office
+permalink: /articles/best-video-doorbells-2026/index.html
+products:
+  - name: Ring Video Doorbell Pro 2
+    position: 1
+    description: Best Overall
+  - name: Eufy Video Doorbell Dual
+    position: 2
+    description: Best No-Subscription
+  - name: Google Nest Doorbell (Wired)
+    position: 3
+    description: Best AI Detection
+  - name: Ring Video Doorbell (2nd Gen)
+    position: 4
+    description: Best Budget
+  - name: Arlo Essential Video Doorbell
+    position: 5
+    description: Best for Arlo Users
 ---
 
 # Best Video Doorbells (2026)

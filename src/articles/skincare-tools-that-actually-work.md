@@ -3,11 +3,13 @@ title: "Skincare Tools That Actually Work: Gua Sha, LED Masks, Microcurrent & Mo
 slug: skincare-tools-that-actually-work
 description: "Skincare tools that actually work — an honest look at gua sha, jade rollers, LED light therapy masks, and microcurrent devices, with real results backed by dermatologist research."
 keywords: ["skincare tools that actually work", "gua sha benefits", "LED face mask review", "microcurrent device face", "jade roller benefits", "best skincare tools 2026"]
-category: Beauty & Wellness
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "110,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/skincare-tools-that-actually-work/index.html
 ---
 
 # Skincare Tools That Actually Work: Gua Sha, LED Masks, Microcurrent & More

@@ -2,7 +2,7 @@
 title: "Best Electric Bikes Under $1,500 in 2026 — Top Picks for Commuters & Riders"
 description: "Find the best electric bikes under $1,500. We reviewed the top e-bikes for commuting, trail riding, and casual use — with real specs, honest pros/cons, and buying advice."
 keywords: ["best electric bikes under 1500", "electric bike under 1500", "best e-bike 2026", "affordable electric bicycle"]
-category: "E-Mobility"
+category: home-office
 tags: ["electric bikes", "e-bikes", "commuting", "cycling"]
 date: 2026-07-04
 author: "NickPicks Editorial Team"
@@ -10,6 +10,8 @@ affiliate: true
 schema: "Product"
 searchVolume: "~200K/mo"
 buyerIntent: "high"
+layout: article.njk
+permalink: /articles/best-electric-bikes-under-1500/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

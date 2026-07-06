@@ -3,11 +3,13 @@ title: "Best Heated Jackets & Vests 2026: Battery-Powered Warmth for Every Budge
 slug: best-heated-jackets-vests-2026
 description: "The best heated jackets and vests of 2026 — battery-powered warmth compared across Milwaukee, Dewalt, Bosch, and ORORO. Expert picks for work, outdoor adventure, and everyday wear."
 keywords: ["best heated jacket 2026", "best heated vest", "Milwaukee heated jacket", "ORORO heated vest", "battery heated jacket buying guide"]
-category: Apparel & Outdoor
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "75,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-heated-jackets-vests-2026/index.html
 ---
 
 # Best Heated Jackets & Vests 2026: Battery-Powered Warmth for Every Budget

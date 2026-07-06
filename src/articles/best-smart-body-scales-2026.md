@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: health-fitness
 tags: [smart scale, body composition scale, body fat scale, fitness tracker, health monitor, BMI]
 affiliate: amazon
+layout: article.njk
+category: fitness
+permalink: /articles/best-smart-body-scales-2026/index.html
+products:
+  - name: Withings Body+
+    position: 1
+    description: Best Overall
+  - name: Garmin Index S2
+    position: 2
+    description: Best for Garmin Users
+  - name: RENPHO Smart Scale
+    position: 3
+    description: Best Value
+  - name: eufy Smart Scale P2 Pro
+    position: 4
+    description: Best Budget Mid-Range
+  - name: Wyze Scale X
+    position: 5
+    description: Best for Wyze Users
 ---
 
 # Best Smart Body Composition Scales (2026)

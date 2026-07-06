@@ -3,11 +3,13 @@ title: "Best Standing Desks in 2026: Top Electric and Fixed-Height Picks"
 slug: best-standing-desks-2026
 description: "The best standing desks in 2026 — electric sit-stand desks, L-shaped options, and fixed-height alternatives. FlexiSpot, Vari, Uplift, Autonomous, and Fezibo compared by stability, height range, and value."
 keywords: ["best standing desk 2026", "best standing desk", "best electric standing desk", "best adjustable desk", "best sit stand desk"]
-category: Home Office
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "200,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-standing-desks-2026/index.html
 ---
 
 # Best Standing Desks in 2026: Top Electric and Fixed-Height Picks

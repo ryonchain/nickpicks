@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: beauty
 tags: [hair dryer brush, hot air brush, blow dryer, Revlon, beauty tools]
 affiliate: amazon
+layout: article.njk
+category: beauty
+permalink: /articles/best-hair-dryer-brushes-2026/index.html
+products:
+  - name: Revlon One-Step Volumizer Plus
+    position: 1
+    description: Best Overall
+  - name: Shark FlexStyle
+    position: 2
+    description: Best for Curly and Thick Hair
+  - name: Dyson Airwrap
+    position: 3
+    description: Best Premium Option
+  - name: BaBylissPRO Nano Titanium
+    position: 4
+    description: Best for Fine Hair
+  - name: Conair InfinitiPRO
+    position: 5
+    description: Best Budget
 ---
 
 # Best Hair Dryer Brushes (2026)

@@ -3,11 +3,13 @@ title: "Best Cordless Leaf Blowers in 2026: Top Battery-Powered Picks for Yard C
 slug: best-cordless-leaf-blowers-2026
 description: "The best cordless leaf blowers in 2026 — EGO, Greenworks, DeWalt, Milwaukee, and Ryobi compared by CFM, MPH, battery runtime, and value for homeowners and professionals."
 keywords: ["best cordless leaf blower 2026", "best battery leaf blower", "best cordless leaf blower", "best leaf blower 2026", "best leaf blower for homeowners"]
-category: Outdoor & Garden
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "60,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-cordless-leaf-blowers-2026/index.html
 ---
 
 # Best Cordless Leaf Blowers in 2026: Top Battery-Powered Picks for Yard Cleanup

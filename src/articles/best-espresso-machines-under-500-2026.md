@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: kitchen
 tags: [espresso, coffee, kitchen appliances, home barista]
 affiliate: amazon
+layout: article.njk
+category: kitchen
+permalink: /articles/best-espresso-machines-under-500-2026/index.html
+products:
+  - name: Breville Bambino Plus
+    position: 1
+    description: Best Overall Under $500
+  - name: De'Longhi Stilosa EC260
+    position: 2
+    description: Best Budget Pick
+  - name: Gaggia Classic Pro
+    position: 3
+    description: Best for Enthusiasts
+  - name: Nespresso Vertuo Pop
+    position: 4
+    description: Best Pod Machine
+  - name: Breville Infuser
+    position: 5
+    description: Best Mid-Range with Controls
 ---
 
 # Best Espresso Machines Under $500 (2026)

@@ -6,6 +6,25 @@ niche: beauty
 tags: [vitamin C serum, brightening serum, anti-aging, skincare, face serum, hyperpigmentation]
 affiliate: amazon
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
+layout: article.njk
+category: beauty
+permalink: /articles/best-vitamin-c-serums-brightening-anti-aging-2026/index.html
+products:
+  - name: TruSkin Vitamin C Serum
+    position: 1
+    description: Best Overall Value
+  - name: SkinCeuticals C E Ferulic
+    position: 2
+    description: Best Clinical Grade
+  - name: Paula's Choice C15 Super Booster
+    position: 3
+    description: Best for Sensitive Skin
+  - name: Drunk Elephant C-Firma Fresh Day Serum
+    position: 4
+    description: Best Luxury Daily Use
+  - name: Mad Hippie Vitamin C Serum
+    position: 5
+    description: Best for Reactive Skin
 ---
 
 # Best Vitamin C Serums for Brightening and Anti-Aging (2026)

@@ -4,6 +4,20 @@ date: "2024-07-05"
 description: "Looking for the best personal blender? We reviewed the top 5 portable blenders for smoothies, protein shakes, and on-the-go nutrition."
 tags: ["product-reviews", "blenders", "kitchen"]
 amazonTag: "ryonchain-20"
+layout: article.njk
+category: kitchen
+permalink: /articles/best-personal-blender/index.html
+products:
+  - name: Ninja Fit Personal Blender (QB3001SS)
+    position: 1
+  - name: BlendJet 2 Portable Blender
+    position: 2
+  - name: NutriBullet Pro 900 Series
+    position: 3
+  - name: Cuisinart Compact Blender (CBT-300)
+    position: 4
+  - name: Hamilton Beach Personal Blender (51101B)
+    position: 5
 ---
 
 > **Disclosure:** As an Amazon Associate, NickPicks earns from qualifying purchases.

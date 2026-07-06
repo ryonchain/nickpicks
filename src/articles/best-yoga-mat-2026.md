@@ -4,6 +4,9 @@ date: "2026-07-05"
 description: "Looking for the best yoga mat? We reviewed the top 5 mats for grip, cushion, and durability — from budget beginner picks to premium performance mats."
 tags: ["product-reviews", "yoga-mat", "fitness"]
 amazonTag: "ryonchain-20"
+layout: article.njk
+category: fitness
+permalink: /articles/best-yoga-mat-2026/index.html
 ---
 
 > **Disclosure:** As an Amazon Associate, NickPicks earns from qualifying purchases.

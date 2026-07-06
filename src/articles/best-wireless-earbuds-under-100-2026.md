@@ -1,3 +1,28 @@
+---
+layout: article.njk
+title: "Best Wireless Earbuds Under $100 (2026): Top True Wireless Picks"
+description: "The best wireless earbuds under $100 in 2026 — with ANC, long battery life, and great call quality. Top picks from Sony, Anker, Jabra, EarFun, and Samsung."
+date: 2026-07-04
+category: home-office
+permalink: /articles/best-wireless-earbuds-under-100-2026/index.html
+products:
+  - name: "Sony WF-C700N"
+    position: 1
+    description: "Best Overall"
+  - name: "Anker Soundcore P40i"
+    position: 2
+    description: "Best Battery Life"
+  - name: "Jabra Elite 4"
+    position: 3
+    description: "Best for Calls"
+  - name: "EarFun Air Pro 4"
+    position: 4
+    description: "Best Value ANC"
+  - name: "Samsung Galaxy Buds FE"
+    position: 5
+    description: "Best for Samsung Users"
+---
+
 # Best Wireless Earbuds Under $100 (2026) — Top True Wireless Picks
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*

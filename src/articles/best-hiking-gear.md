@@ -3,11 +3,13 @@ title: "Best Hiking Gear Under $100: Essential Picks for Day Hikes and Weekend T
 slug: best-hiking-gear
 description: "The best hiking gear under $100 in 2026 — essential picks including backpacks, trekking poles, hydration packs, headlamps, and first aid kits for day hikes and weekend trail adventures."
 keywords: ["best hiking gear", "hiking essentials under 100", "best hiking gear 2026", "beginner hiking gear", "hiking gear checklist"]
-category: Outdoor / Sports
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "90,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-hiking-gear/index.html
 ---
 
 # Best Hiking Gear Under $100: Essential Picks for Day Hikes and Weekend Trails

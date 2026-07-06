@@ -1,3 +1,28 @@
+---
+layout: article.njk
+title: "Best Cordless Vacuums 2026: Tested Picks for Every Home and Budget"
+description: "The best cordless vacuums of 2026 — tested by suction, battery life, and versatility. Top picks from Dyson, Shark, Samsung, and Bissell."
+date: 2026-07-04
+category: home-office
+permalink: /articles/best-cordless-vacuums-2026/index.html
+products:
+  - name: "Dyson V15 Detect"
+    position: 1
+    description: "Best Overall"
+  - name: "Samsung Bespoke Jet AI"
+    position: 2
+    description: "Best Smart Suction"
+  - name: "Shark Stratos IX141"
+    position: 3
+    description: "Best Value Cordless"
+  - name: "Dyson V8 Absolute"
+    position: 4
+    description: "Best Mid-Range Dyson"
+  - name: "Bissell ICONpet Edge"
+    position: 5
+    description: "Best Entry-Level Pet Hair Pick"
+---
+
 # Best Cordless Vacuums 2026 — Tested Picks for Every Home and Budget
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*

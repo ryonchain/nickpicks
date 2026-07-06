@@ -5,6 +5,28 @@ date: 2026-07-05
 niche: home
 tags: [weighted blankets, sleep, anxiety relief, glass beads, cooling blanket, wellness, bedroom]
 affiliate: amazon
+layout: article.njk
+category: home-office
+permalink: /articles/best-weighted-blankets-2026/index.html
+products:
+  - name: YnM Weighted Blanket
+    position: 1
+    description: Best Overall
+  - name: Bearaby Cotton Napper
+    position: 2
+    description: Best for Hot Sleepers
+  - name: Gravity Blanket
+    position: 3
+    description: Best Premium Feel
+  - name: Baloo Living Weighted Blanket
+    position: 4
+    description: Best for Chemical-Free Buyers
+  - name: Luna Weighted Blanket
+    position: 5
+    description: Best Budget
+  - name: SensaCalm Weighted Blanket
+    position: 6
+    description: Best Thinner Profile
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

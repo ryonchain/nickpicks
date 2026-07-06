@@ -3,11 +3,13 @@ title: "Best Pressure Washers in 2026: Top Electric and Gas Models for Every Job
 slug: best-pressure-washers-2026
 description: "The best pressure washers in 2026 — electric and gas models compared by PSI, GPM, portability, and value. Ideal for driveways, decks, cars, and siding."
 keywords: ["best pressure washer 2026", "best electric pressure washer", "best gas pressure washer", "best pressure washer for home", "best pressure washer for driveway"]
-category: Outdoor & Home
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "150,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-pressure-washers-2026/index.html
 ---
 
 # Best Pressure Washers in 2026: Top Electric and Gas Models for Every Job

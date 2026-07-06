@@ -3,11 +3,13 @@ title: "Kitchen Organization Finds Under $50: Drawer Organizers, Spice Racks & M
 slug: kitchen-organization-finds-under-50
 description: "The best kitchen organization finds under $50 — drawer organizers, spice racks, cabinet dividers, and pot lid holders that transform cluttered kitchens without a renovation budget."
 keywords: ["kitchen organization finds under 50", "best kitchen organizers", "drawer organizers kitchen", "spice rack organizer", "cabinet dividers kitchen", "pot lid organizer"]
-category: Home & Kitchen
+category: kitchen
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "82,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/kitchen-organization-finds-under-50/index.html
 ---
 
 # Kitchen Organization Finds Under $50: Drawer Organizers, Spice Racks & More

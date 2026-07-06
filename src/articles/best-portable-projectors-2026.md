@@ -3,11 +3,13 @@ title: "Best Portable Projectors in 2026: Top Picks for Home Theater, Travel, an
 slug: best-portable-projectors-2026
 description: "The best portable projectors in 2026 — Anker Nebula, XGIMI, BenQ, LG, and Samsung compared by brightness, resolution, battery life, and smart features for home and outdoor use."
 keywords: ["best portable projector 2026", "best portable projector", "best mini projector", "best outdoor projector", "best battery projector"]
-category: Home Entertainment
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "100,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-portable-projectors-2026/index.html
 ---
 
 # Best Portable Projectors in 2026: Top Picks for Home Theater, Travel, and Outdoor Movies

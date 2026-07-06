@@ -3,11 +3,13 @@ title: "Best Robot Vacuums Under $200 in 2026: Top Budget Picks"
 slug: best-robot-vacuums-under-200-2026
 description: "The best robot vacuums under $200 in 2026 — LiDAR vs gyroscope navigation, suction Pa, runtime, and dustbin capacity compared. Honest picks for every floor type."
 keywords: ["best robot vacuum under 200", "budget robot vacuum 2026", "robot vacuum under 200 2026", "cheap robot vacuum", "robot vacuum gyroscope vs lidar"]
-category: Home & Kitchen
+category: kitchen
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-05"
 estimated_search_volume: "135,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-robot-vacuums-under-200-2026/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

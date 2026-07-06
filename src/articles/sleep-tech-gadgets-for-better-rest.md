@@ -3,11 +3,13 @@ title: "Sleep Tech Gadgets for Better Rest: Trackers, White Noise Machines & Mor
 slug: sleep-tech-gadgets-for-better-rest
 description: "The best sleep tech gadgets for better rest in 2026 — sleep trackers, white noise machines, smart eye masks, and sunrise alarm clocks that scientifically improve sleep quality."
 keywords: ["sleep tech gadgets", "best sleep tracker 2026", "white noise machine review", "smart eye mask sleep", "sunrise alarm clock", "sleep gadgets better rest"]
-category: Wellness & Sleep
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "88,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/sleep-tech-gadgets-for-better-rest/index.html
 ---
 
 # Sleep Tech Gadgets for Better Rest: Trackers, White Noise Machines & More

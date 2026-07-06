@@ -3,11 +3,13 @@ title: "Best Gaming Chairs Under $300: Top Picks for Comfort and Support"
 slug: best-gaming-chairs
 description: "The best gaming chairs under $300 — ergonomic picks from Secretlab, Herman Miller, DXRacer, Razer, and Autonomous that support long sessions without destroying your back."
 keywords: ["best gaming chairs", "gaming chairs under 300", "best gaming chair 2026", "ergonomic gaming chair", "gaming chair review"]
-category: Gaming / Home Office
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "165,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-gaming-chairs/index.html
 ---
 
 # Best Gaming Chairs Under $300: Top Picks for Comfort and Support

@@ -3,6 +3,31 @@ slug: best-weighted-blankets-for-better-sleep-2027
 title: "Best Weighted Blankets for Better Sleep (2027 Guide)"
 meta_title: "Best Weighted Blankets for Better Sleep 2027 | Top 7 Picks"
 meta_description: "Find the best weighted blanket for anxiety, insomnia, or just better sleep. We compared 7 top picks — from breathable knit to cooling glass-bead options."
+layout: article.njk
+category: fitness
+permalink: /articles/best-weighted-blankets-for-better-sleep-2027/index.html
+products:
+  - name: Bearaby Cotton Napper
+    position: 1
+    description: Best Overall Weighted Blanket
+  - name: Gravity Blanket
+    position: 2
+    description: Best for Anxiety and Insomnia
+  - name: YnM Weighted Blanket
+    position: 3
+    description: Best Budget Pick
+  - name: Baloo Living Weighted Blanket
+    position: 4
+    description: Best Eco-Conscious Option
+  - name: Luna Weighted Blanket
+    position: 5
+    description: Best for Cold Sleepers
+  - name: Mosaic Weighted Blankets
+    position: 6
+    description: Best for Kids and Seniors
+  - name: Layla Weighted Blanket
+    position: 7
+    description: Best Reversible Option
 ---
 
 # Best Weighted Blankets for Better Sleep (2027 Guide)

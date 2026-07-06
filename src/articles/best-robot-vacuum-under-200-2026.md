@@ -4,6 +4,9 @@ date: "2026-07-05"
 description: "Looking for the best robot vacuum under $200? We reviewed the top 5 budget robot vacuums for suction, navigation, and battery life in 2026."
 tags: ["product-reviews", "robot-vacuum", "home"]
 amazonTag: "ryonchain-20"
+layout: article.njk
+category: home-office
+permalink: /articles/best-robot-vacuum-under-200-2026/index.html
 ---
 
 > **Disclosure:** As an Amazon Associate, NickPicks earns from qualifying purchases.

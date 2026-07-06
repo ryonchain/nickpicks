@@ -6,6 +6,25 @@ niche: kitchen
 tags: [salad spinner, kitchen gadgets, salad prep, produce storage, kitchen tools]
 affiliate: amazon
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
+layout: article.njk
+category: kitchen
+permalink: /articles/best-salad-spinners-fresh-crisp-greens-2026/index.html
+products:
+  - name: OXO Good Grips Large Salad Spinner
+    position: 1
+    description: Best Overall
+  - name: Zyliss Easy Spin 2
+    position: 2
+    description: Best Value
+  - name: OXO Good Grips Small Salad Spinner
+    position: 3
+    description: Best for 1–2 People
+  - name: RSVP International Endurance Collapsible Spinner
+    position: 4
+    description: Best for Small Kitchens
+  - name: KitchenAid Salad Spinner
+    position: 5
+    description: Best Aesthetic
 ---
 
 # Best Salad Spinners for Fresh, Crisp Greens Every Time (2026)

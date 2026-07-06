@@ -3,11 +3,13 @@ title: "Best Smart Doorbells for Home Security: Top Video Doorbells for 2026"
 slug: best-smart-doorbells
 description: "The best smart doorbells for home security in 2026 — top video doorbells from Ring, Google Nest, Arlo, Eufy, and Wyze with HD video, two-way audio, and motion detection."
 keywords: ["best smart doorbell", "best video doorbell 2026", "smart doorbell review", "video doorbell home security", "ring vs nest doorbell"]
-category: Smart Home / Security
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-05"
 estimated_search_volume: "30,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-smart-doorbells/index.html
 ---
 
 # Best Smart Doorbells for Home Security: Top Video Doorbells for 2026

@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: fitness-equipment
 tags: [power rack, squat rack, home gym, barbell, strength training, pull-up bar]
 affiliate: amazon
+layout: article.njk
+category: fitness
+permalink: /articles/best-home-gym-power-racks-2026/index.html
+products:
+  - name: Rogue SML-1 Monster Lite
+    position: 1
+    description: Best Squat Stand
+  - name: Titan Fitness T-2 Series
+    position: 2
+    description: Best Full Cage
+  - name: Rep Fitness PR-1000
+    position: 3
+    description: Best Mid-Range Full Cage
+  - name: PowerLine PPR200X
+    position: 4
+    description: Best Budget
+  - name: Archon Fitness PR-100
+    position: 5
+    description: Best Ultra-Budget
 ---
 
 # Best Home Gym Power Racks Under $500 (2026)

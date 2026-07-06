@@ -3,11 +3,13 @@ title: "Best Gaming Chairs Under $300 in 2026: Top Picks for Comfort and Support
 slug: best-gaming-chairs-under-300-2026
 description: "The best gaming chairs under $300 in 2026 — ergonomic picks from Secretlab, Corsair, DXRacer, and more. Tested for lumbar support, build quality, and long session comfort."
 keywords: ["best gaming chair under 300", "best gaming chair under $300 2026", "affordable gaming chair", "ergonomic gaming chair budget", "best gaming chair for long sessions"]
-category: Home Office & Gaming
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "90,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-gaming-chairs-under-300-2026/index.html
 ---
 
 # Best Gaming Chairs Under $300 in 2026: Top Picks for Comfort and Support

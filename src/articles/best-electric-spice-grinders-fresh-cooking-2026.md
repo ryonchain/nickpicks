@@ -6,6 +6,25 @@ niche: kitchen
 tags: [electric spice grinder, spice grinder, coffee grinder, fresh spices, kitchen gadgets]
 affiliate: amazon
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
+layout: article.njk
+category: kitchen
+permalink: /articles/best-electric-spice-grinders-fresh-cooking-2026/index.html
+products:
+  - name: Krups F203
+    position: 1
+    description: Best Overall
+  - name: Cuisinart SG-10
+    position: 2
+    description: Best for Multi-Spice Kitchens
+  - name: SHARDOR Electric Grinder
+    position: 3
+    description: Best Combo Value
+  - name: Hamilton Beach 80335
+    position: 4
+    description: Best Budget
+  - name: OXO Brew Conical Adjustable Grinder
+    position: 5
+    description: Best for Grind Control
 ---
 
 # Best Electric Spice Grinders for Fresh, Flavorful Cooking (2026)

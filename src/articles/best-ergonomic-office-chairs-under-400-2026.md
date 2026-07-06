@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: home-office
 tags: [office chair, ergonomic chair, back pain, work from home, home office]
 affiliate: amazon
+layout: article.njk
+category: home-office
+permalink: /articles/best-ergonomic-office-chairs-under-400-2026/index.html
+products:
+  - name: Branch Ergonomic Chair
+    position: 1
+    description: Best Overall Under $400
+  - name: HON Ignition 2.0
+    position: 2
+    description: Most Adjustable
+  - name: Flexispot OC14
+    position: 3
+    description: Best Budget
+  - name: SIDIZ T50
+    position: 4
+    description: Best for Tall Users
+  - name: Sihoo Doro C300
+    position: 5
+    description: Best Mesh Back
 ---
 
 # Best Ergonomic Office Chairs Under $400 (2026)

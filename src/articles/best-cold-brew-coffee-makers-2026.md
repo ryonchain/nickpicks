@@ -7,6 +7,28 @@ tags: ["product-reviews", "kitchen", "coffee", "cold-brew", "beverage"]
 affiliate: amazon
 keywords: ["best cold brew coffee maker", "best cold brew maker 2026", "cold brew coffee system", "home cold brew", "cold brew pitcher", "cold brew filter"]
 estimated_monthly_searches: 22000
+layout: article.njk
+category: kitchen
+permalink: /articles/best-cold-brew-coffee-makers-2026/index.html
+products:
+  - name: Toddy Cold Brew System
+    position: 1
+    description: Best for Smooth Concentrate
+  - name: OXO Good Grips Cold Brew Coffee Maker
+    position: 2
+    description: Best All-Around System
+  - name: Takeya Patented Cold Brew Coffee Maker
+    position: 3
+    description: Best Glass Option
+  - name: Filtron Cold Water Coffee Concentrate Brewer
+    position: 4
+    description: Best Large-Batch System
+  - name: KitchenAid Cold Brew Coffee Maker
+    position: 5
+    description: Best Premium Design
+  - name: Primula Pace Cold Brew Coffee Maker
+    position: 6
+    description: Best Under $20
 ---
 
 # Best Cold Brew Coffee Makers 2026: Steeping Time, Filter Quality, Capacity Guide

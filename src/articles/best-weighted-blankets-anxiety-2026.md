@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: sleep-wellness
 tags: [weighted blanket, anxiety, sleep, deep pressure stimulation, insomnia, stress relief]
 affiliate: amazon
+layout: article.njk
+category: fitness
+permalink: /articles/best-weighted-blankets-anxiety-2026/index.html
+products:
+  - name: Bearaby Cotton Napper
+    position: 1
+    description: Best Premium
+  - name: YnM Weighted Blanket
+    position: 2
+    description: Best Value
+  - name: Luna Adult Weighted Blanket
+    position: 3
+    description: Best for Hot Sleepers
+  - name: Gravity Blanket
+    position: 4
+    description: Best Bead Distribution
+  - name: Baloo Living Weighted Blanket
+    position: 5
+    description: Best Organic
 ---
 
 # Best Weighted Blankets for Anxiety & Sleep (2026)

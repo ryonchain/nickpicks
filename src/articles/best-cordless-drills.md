@@ -3,11 +3,13 @@ title: "Best Cordless Drills for DIY: Top Picks for Home and Workshop 2026"
 slug: best-cordless-drills
 description: "The best cordless drills for DIY in 2026 — top picks from DeWalt, Milwaukee, Makita, Bosch, and Black+Decker for drilling, driving, and home improvement projects."
 keywords: ["best cordless drill", "best cordless drill 2026", "cordless drill for DIY", "cordless drill review", "best drill driver"]
-category: Tools / DIY
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-05"
 estimated_search_volume: "40,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-cordless-drills/index.html
 ---
 
 # Best Cordless Drills for DIY: Top Picks for Home and Workshop 2026

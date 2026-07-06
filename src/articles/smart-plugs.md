@@ -7,6 +7,25 @@ amazonTag: ryonchain-20
 niche: "smart home"
 keywords: ["best smart plug", "best smart plug 2026", "best smart plug for Alexa", "best smart plug with energy monitoring", "best smart plug for Google Home", "smart outlet reviews", "best WiFi smart plug", "Matter smart plug"]
 estimated_monthly_searches: 110000
+layout: article.njk
+category: home-office
+permalink: /articles/smart-plugs/index.html
+products:
+  - name: Kasa EP25 Smart Plug with Energy Monitoring
+    position: 1
+    description: Best Overall Smart Plug
+  - name: Amazon Smart Plug
+    position: 2
+    description: Best Smart Plug for Alexa Users
+  - name: Eve Energy Smart Plug
+    position: 3
+    description: Best Smart Plug for Apple HomeKit
+  - name: Govee Smart Plug
+    position: 4
+    description: Best Budget Smart Plug Under $10
+  - name: TP-Link Kasa Smart Power Strip (KP303)
+    position: 5
+    description: Best Smart Plug Strip
 ---
 
 # Best Smart Plugs 2026: Top 5 Picks for Home Automation

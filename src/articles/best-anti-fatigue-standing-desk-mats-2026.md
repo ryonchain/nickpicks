@@ -3,11 +3,20 @@ title: "Best Anti-Fatigue Standing Desk Mats 2026: Comfort-Tested Picks for All-
 slug: best-anti-fatigue-standing-desk-mats-2026
 description: "The best anti-fatigue standing desk mats in 2026 — ranked by comfort, thickness, material, and durability for long work sessions."
 keywords: ["best anti-fatigue mat standing desk", "best standing desk mat 2026", "standing mat for work", "ergonomic anti-fatigue mat"]
-category: Home Office
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "74,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-anti-fatigue-standing-desk-mats-2026/index.html
+faqs:
+  - question: "How long does an anti-fatigue mat last?"
+    answer: "Quality PU foam mats last 2–4 years with daily use before noticeable compression occurs. Rubber and nitrile mats can last 5–10 years. If you notice the mat feels \"flat\" under your feet, it's time to replace it — a compressed mat provides no benefit."
+  - question: "Can I use an anti-fatigue mat on carpet?"
+    answer: "Most standing mats perform best on hard floors. On carpet, the mat can shift and the cushioning effect is partly absorbed by the carpet underneath. If you must use one on carpet, look for a mat with a deeply textured or spiked bottom for grip, or use a carpet anchor pad underneath."
+  - question: "Do I need an anti-fatigue mat if I already have a thick rug?"
+    answer: A decorative rug doesn't substitute for an anti-fatigue mat. Anti-fatigue mats use specific foam or rubber densities calibrated to promote micro-movements — a standard rug provides surface softness but no ergonomic benefit and can actually be unstable underfoot.
 ---
 
 # Best Anti-Fatigue Standing Desk Mats 2026: Comfort-Tested Picks for All-Day Standing

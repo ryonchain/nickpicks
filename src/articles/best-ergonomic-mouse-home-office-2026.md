@@ -3,11 +3,13 @@ title: "Best Ergonomic Mouse for Home Office in 2026: Wrist Pain Tested"
 slug: best-ergonomic-mouse-home-office-2026
 description: "The best ergonomic mice for home office use in 2026 — DPI settings, palm/claw/fingertip grip styles, wireless vs wired, battery life, programmable thumb buttons, and wrist angle compared."
 keywords: ["best ergonomic mouse home office 2026", "ergonomic mouse wrist pain", "vertical mouse home office", "wireless ergonomic mouse 2026", "ergonomic mouse dpi"]
-category: Home Office & Tech
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-05"
 estimated_search_volume: "70,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-ergonomic-mouse-home-office-2026/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

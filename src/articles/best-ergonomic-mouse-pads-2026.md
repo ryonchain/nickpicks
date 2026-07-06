@@ -7,6 +7,28 @@ tags: ["product-reviews", "home-office", "ergonomics", "desk-setup"]
 affiliate: amazon
 keywords: ["best ergonomic mouse pad", "best ergonomic mouse pads 2026", "mouse pad with wrist rest", "large desk pad", "extended mouse pad", "wrist support mouse pad"]
 estimated_monthly_searches: 18000
+layout: article.njk
+category: home-office
+permalink: /articles/best-ergonomic-mouse-pads-2026/index.html
+products:
+  - name: Kensington Duo Gel Wave Mouse Pad
+    position: 1
+    description: Best Wrist Rest Mouse Pad
+  - name: Razer Strider XXL
+    position: 2
+    description: Best Large Desk Pad
+  - name: Gimars Memory Foam Wrist Rest Mouse Pad
+    position: 3
+    description: Best Memory Foam Option
+  - name: ECHOGEAR Large Mouse Pad with Wrist Rest
+    position: 4
+    description: Best Extended Pad with Wrist Support
+  - name: Fellowes Crystals Gel Wrist Rest
+    position: 5
+    description: Best Compact Wrist Rest
+  - name: SteelSeries QcK Hard Mouse Pad
+    position: 6
+    description: Best Hard Surface Ergonomic Pad
 ---
 
 # Best Ergonomic Mouse Pads 2026: Wrist Rests, Large Desk Pads, Material Guide

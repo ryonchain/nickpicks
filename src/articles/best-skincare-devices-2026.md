@@ -3,11 +3,13 @@ title: "Best Skincare Devices 2026: LED Masks, Microcurrent, and Facial Tools"
 slug: best-skincare-devices-2026
 description: "The best at-home skincare devices in 2026 — LED light therapy masks, microcurrent facial devices, cleansing brushes, and radio frequency tools. NuFACE, Foreo, and more."
 keywords: ["best skincare devices 2026", "best LED face mask", "best microcurrent facial device", "NuFACE review", "best at home facial device"]
-category: Beauty & Personal Care
+category: beauty
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "160,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-skincare-devices-2026/index.html
 ---
 
 # Best Skincare Devices 2026: LED Masks, Microcurrent, and Facial Tools

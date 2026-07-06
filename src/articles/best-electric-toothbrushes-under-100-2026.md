@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: health-personal-care
 tags: [electric toothbrush, oral care, dental health, Oral-B, Philips Sonicare]
 affiliate: amazon
+layout: article.njk
+category: beauty
+permalink: /articles/best-electric-toothbrushes-under-100-2026/index.html
+products:
+  - name: Oral-B Pro 1000
+    position: 1
+    description: Best Overall
+  - name: Philips Sonicare 4100
+    position: 2
+    description: Best Sonic Option
+  - name: Colgate hum
+    position: 3
+    description: Best Smart Features Under $100
+  - name: Oral-B IO Series 3
+    position: 4
+    description: Best Mid-Range Upgrade
+  - name: Waterpik Sensonic
+    position: 5
+    description: Best for Sensitive Teeth
 ---
 
 # Best Electric Toothbrushes Under $100 (2026)

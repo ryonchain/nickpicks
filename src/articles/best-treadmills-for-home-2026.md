@@ -3,11 +3,13 @@ title: "Best Treadmills for Home 2026: Top Picks for Every Budget and Space"
 slug: best-treadmills-for-home-2026
 description: "The best home treadmills in 2026 — folding vs. non-folding, best under $1,000, best for running, best for walking, and best compact models. NordicTrack, Peloton, Sole, and more compared."
 keywords: ["best treadmill for home 2026", "best home treadmill", "best treadmill under 1000", "best folding treadmill", "best treadmill for running at home"]
-category: Fitness & Exercise Equipment
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "350,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-treadmills-for-home-2026/index.html
 ---
 
 # Best Treadmills for Home 2026: Top Picks for Every Budget and Space

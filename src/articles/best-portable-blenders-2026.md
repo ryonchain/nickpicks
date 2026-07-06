@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: kitchen
 tags: [portable blender, personal blender, smoothie blender, travel blender, protein shake]
 affiliate: amazon
+layout: article.njk
+category: kitchen
+permalink: /articles/best-portable-blenders-2026/index.html
+products:
+  - name: BlendJet 2
+    position: 1
+    description: Best Overall
+  - name: Ninja Blast
+    position: 2
+    description: Best for Ice and Frozen Fruit
+  - name: Cuisinart EvolutionX
+    position: 3
+    description: Best for Travel Packing
+  - name: NutriBullet Go
+    position: 4
+    description: Best Brand Recognition
+  - name: KOIOS Personal Blender
+    position: 5
+    description: Best Budget
 ---
 
 # Best Portable Blenders (2026)

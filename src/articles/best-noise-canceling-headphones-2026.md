@@ -3,11 +3,13 @@ title: "Best Noise-Canceling Headphones in 2026: Under $100, $200, and Premium P
 slug: best-noise-canceling-headphones-2026
 description: "The best noise-canceling headphones in 2026 across every budget — from under $100 to premium Sony and Bose models. Full ANC headphone reviews with sound quality, ANC performance, battery life, and call quality compared."
 keywords: ["best noise canceling headphones 2026", "best ANC headphones under 100", "best noise canceling headphones under 200", "sony wh-1000xm5 review", "bose quietcomfort review"]
-category: Audio & Headphones
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "390,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-noise-canceling-headphones-2026/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

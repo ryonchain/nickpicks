@@ -3,11 +3,13 @@ title: "Best Smart Locks in 2026: Top Picks for Keyless Entry and Home Security"
 slug: best-smart-locks-2026
 description: "The best smart locks in 2026 — Schlage, August, Yale, Kwikset, and Ultraloq compared by security rating, app reliability, installation ease, and smart home compatibility."
 keywords: ["best smart lock 2026", "best smart lock", "best keyless entry door lock", "best smart lock for front door", "best smart lock Alexa"]
-category: Smart Home & Security
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "100,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-smart-locks-2026/index.html
 ---
 
 # Best Smart Locks in 2026: Top Picks for Keyless Entry and Home Security

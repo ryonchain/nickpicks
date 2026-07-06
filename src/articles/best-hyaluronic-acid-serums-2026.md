@@ -7,6 +7,28 @@ tags: ["product-reviews", "beauty", "skincare", "serums", "hydration", "anti-agi
 affiliate: amazon
 keywords: ["best hyaluronic acid serum", "best hyaluronic acid serum 2026", "HA serum", "hyaluronic acid skincare", "hydrating serum", "best serum for dry skin"]
 estimated_monthly_searches: 35000
+layout: article.njk
+category: beauty
+permalink: /articles/best-hyaluronic-acid-serums-2026/index.html
+products:
+  - name: TruSkin Hyaluronic Acid Serum
+    position: 1
+    description: Best Overall
+  - name: Vichy Minéral 89 Hyaluronic Acid Serum
+    position: 2
+    description: Best for Sensitive Skin
+  - name: "The Ordinary Hyaluronic Acid 2% + B5"
+    position: 3
+    description: Best Budget Formulation
+  - name: Neutrogena Hydro Boost Hyaluronic Acid Serum
+    position: 4
+    description: Best Drugstore Pick
+  - name: SkinMedica HA5 Rejuvenating Hydrator
+    position: 5
+    description: Best Clinical-Grade Option
+  - name: Paula's Choice Hyaluronic Acid Booster
+    position: 6
+    description: Best for Layering
 ---
 
 # Best Hyaluronic Acid Serums 2026: Molecular Weight, Concentration, Layering Guide

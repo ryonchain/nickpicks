@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: wearables
 tags: [smartwatch, fitness tracker, wearable, health monitor, budget smartwatch]
 affiliate: amazon
+layout: article.njk
+category: home-office
+permalink: /articles/best-smartwatches-under-200-2026/index.html
+products:
+  - name: Samsung Galaxy Watch FE
+    position: 1
+    description: Best Android Under $200
+  - name: Apple Watch SE (2nd Gen)
+    position: 2
+    description: Best for iPhone
+  - name: Garmin Forerunner 55
+    position: 3
+    description: Best for Runners
+  - name: Fitbit Versa 4
+    position: 4
+    description: Best Health Tracking
+  - name: Amazfit GTR 4
+    position: 5
+    description: Best Battery Life + Value
 ---
 
 # Best Smartwatches Under $200 (2026)

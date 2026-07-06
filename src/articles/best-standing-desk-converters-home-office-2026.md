@@ -6,6 +6,25 @@ niche: home-office
 tags: [standing desk converter, home office, ergonomics, productivity, work from home]
 affiliate: amazon
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
+layout: article.njk
+category: home-office
+permalink: /articles/best-standing-desk-converters-home-office-2026/index.html
+products:
+  - name: FlexiSpot M7MB
+    position: 1
+    description: Best Overall
+  - name: VARIDESK ProPlus 36
+    position: 2
+    description: Best for Large Monitor Setups
+  - name: "Mount-It! MI-7937"
+    position: 3
+    description: Best Mid-Range
+  - name: VIVO DESK-V000B
+    position: 4
+    description: Best Budget
+  - name: Ergotron WorkFit-TX
+    position: 5
+    description: Best for Minimal Desk Footprint
 ---
 
 # Best Standing Desk Converters for Home Office Productivity (2026)

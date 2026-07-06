@@ -3,11 +3,13 @@ title: "Best Standing Desk Converters Under $200 in 2026: Top Sit-Stand Risers"
 slug: best-standing-desk-converters-under-200-2026
 description: "The best standing desk converters under $200 in 2026 — Z-lift, X-lift, and desk riser models compared. Expert picks for home office use, small desks, and dual monitors."
 keywords: ["best standing desk converter under $200", "best desk riser 2026", "best sit-stand converter", "best standing desk converter", "standing desk converter buying guide"]
-category: Home Office & Ergonomics
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "65,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-standing-desk-converters-under-200-2026/index.html
 ---
 
 # Best Standing Desk Converters Under $200 in 2026: Top Sit-Stand Risers

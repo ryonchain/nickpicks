@@ -5,6 +5,28 @@ date: 2026-07-05
 niche: smart-home
 tags: [security camera, smart home camera, home security, surveillance camera, night vision, motion detection, Alexa, Google Home]
 affiliate: amazon
+layout: article.njk
+category: home-office
+permalink: /articles/best-smart-home-security-cameras-2026/index.html
+products:
+  - name: Reolink Argus 4 Pro
+    position: 1
+    description: Best Overall
+  - name: Eufy SoloCam S340
+    position: 2
+    description: Best No-Subscription Camera
+  - name: Google Nest Cam Floodlight
+    position: 3
+    description: Best Google Ecosystem Integration
+  - name: Arlo Pro 5S
+    position: 4
+    description: Best Premium Wire-Free
+  - name: Ring Spotlight Cam Pro
+    position: 5
+    description: Best Alexa Integration
+  - name: Wyze Cam OG
+    position: 6
+    description: Best Budget Camera
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

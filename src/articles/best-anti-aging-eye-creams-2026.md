@@ -7,6 +7,28 @@ tags: ["product-reviews", "beauty", "skincare", "anti-aging"]
 affiliate: amazon
 keywords: ["best anti-aging eye cream", "best anti-aging eye creams 2026", "retinol eye cream", "peptide eye cream", "dark circle eye cream", "eye cream for puffiness", "best eye cream 2026"]
 estimated_monthly_searches: 40000
+layout: article.njk
+category: beauty
+permalink: /articles/best-anti-aging-eye-creams-2026/index.html
+products:
+  - name: RoC Retinol Correxion Eye Cream
+    position: 1
+    description: Best Retinol Eye Cream
+  - name: Neutrogena Rapid Wrinkle Repair Eye Cream
+    position: 2
+    description: Best Fast-Acting Option
+  - name: Olay Eyes Ultimate Eye Cream
+    position: 3
+    description: Best All-In-One Eye Cream
+  - name: Kiehl's Creamy Eye Treatment with Avocado
+    position: 4
+    description: Best for Dry/Mature Skin
+  - name: CeraVe Eye Repair Cream
+    position: 5
+    description: Best Drugstore Eye Cream for Sensitive Skin
+  - name: Peter Thomas Roth Potent-C Power Eye Cream
+    position: 6
+    description: Best Vitamin C Eye Cream
 ---
 
 # Best Anti-Aging Eye Creams 2026: Retinol, Peptides, Dark Circles, Puffiness

@@ -5,6 +5,28 @@ date: 2026-07-05
 niche: kitchen
 tags: [air fryer, air fryer reviews, best air fryers, kitchen appliances, cooking, countertop oven, healthy cooking]
 affiliate: amazon
+layout: article.njk
+category: kitchen
+permalink: /articles/best-air-fryers-2026/index.html
+products:
+  - name: Cosori Pro II 5.8 Qt
+    position: 1
+    description: Best Overall
+  - name: Ninja Foodi DZ401 10 Qt Dual Basket
+    position: 2
+    description: Best for Families
+  - name: Instant Vortex Plus 6 Qt
+    position: 3
+    description: Best Value for the Capacity
+  - name: Philips Premium XXL 7 Qt
+    position: 4
+    description: Best for Build Quality
+  - name: Ninja AF101 4 Qt
+    position: 5
+    description: Best Compact
+  - name: Chefman 2 Qt Compact
+    position: 6
+    description: Best for Minimal Cooking
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

@@ -3,11 +3,13 @@ title: "Best Outdoor Bluetooth Speakers in 2026: Loud, Weatherproof, and Long-La
 slug: best-outdoor-bluetooth-speakers-2026
 description: "The best outdoor Bluetooth speakers in 2026 — loud, IPX-rated, and built to handle sun, sand, and rain. Top picks from JBL, Bose, Ultimate Ears, and Sony."
 keywords: ["best outdoor bluetooth speaker 2026", "best waterproof bluetooth speaker", "best loud outdoor speaker", "JBL Charge 5 review", "best portable speaker for outdoors"]
-category: Audio & Electronics
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "380,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-outdoor-bluetooth-speakers-2026/index.html
 ---
 
 # Best Outdoor Bluetooth Speakers in 2026: Loud, Weatherproof, and Long-Lasting

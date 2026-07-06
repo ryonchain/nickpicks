@@ -5,11 +5,29 @@ meta_title: "Best Smart Plugs Under $30 (2024 Reviews)"
 meta_description: "Discover the top 5 smart plugs under $30 to automate your home without breaking the bank. Expert picks with pros, cons & Amazon links."
 description: "Discover the top 5 smart plugs under $30 to automate your home without breaking the bank. Expert picks with pros, cons & Amazon links."
 keywords: ["best smart plugs under 30", "budget smart plugs", "affordable smart home plugs", "smart plug review", "Kasa smart plug", "home automation under 30"]
-category: Smart Home
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "27,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-smart-plugs-under-30/index.html
+products:
+  - name: Kasa Smart Plug Mini (EP25)
+    position: 1
+    description: Best Overall
+  - name: Amazon Smart Plug
+    position: 2
+    description: Best for Alexa Users
+  - name: Govee Smart Plug
+    position: 3
+    description: Best with Energy Monitoring
+  - name: Wyze Plug Outdoor
+    position: 4
+    description: Best for Outdoor Use
+  - name: TP-Link Tapo P115
+    position: 5
+    description: Best App Experience
 ---
 
 *Disclosure: NickPicks is a participant in the Amazon Associates program. We earn a small commission on qualifying purchases at no extra cost to you.*

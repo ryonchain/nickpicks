@@ -3,11 +3,13 @@ title: "Best Smart Doorbells 2026: Ring vs Nest vs Arlo Compared"
 slug: best-smart-doorbells-2026
 description: "The best smart doorbells of 2026 — wired and battery models compared. Honest review of Ring, Google Nest, Arlo, and Eufy video doorbells with real-world performance data."
 keywords: ["best smart doorbell 2026", "Ring vs Nest doorbell", "best video doorbell", "best battery doorbell", "best doorbell camera 2026"]
-category: Smart Home & Security
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "135,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-smart-doorbells-2026/index.html
 ---
 
 # Best Smart Doorbells 2026: Ring vs Nest vs Arlo Compared

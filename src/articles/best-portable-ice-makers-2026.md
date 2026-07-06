@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: kitchen
 tags: [ice maker, countertop ice, portable ice, summer, kitchen appliances]
 affiliate: amazon
+layout: article.njk
+category: kitchen
+permalink: /articles/best-portable-ice-makers-2026/index.html
+products:
+  - name: GE Profile Opal 2.0
+    position: 1
+    description: Best Nugget Ice Maker
+  - name: IKICH Portable Ice Maker
+    position: 2
+    description: Best Overall Value
+  - name: Frigidaire EFIC189
+    position: 3
+    description: Best Budget
+  - name: Newair Nugget Ice Maker
+    position: 4
+    description: Best Budget Nugget Ice
+  - name: GreenMD Countertop Ice Maker
+    position: 5
+    description: Best Clear Cube Ice
 ---
 
 # Best Portable Ice Makers (2026)

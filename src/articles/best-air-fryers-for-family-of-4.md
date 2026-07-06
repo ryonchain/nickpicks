@@ -3,6 +3,20 @@ slug: best-air-fryers-for-family-of-4
 title: "Best Air Fryers for a Family of 4 (2027)"
 meta_title: "Best Air Fryers for Family of 4 2027 | Top 5 Picks"
 meta_description: "Feed four without the mess. We picked the best air fryers for a family of 4 — large capacity, fast cooking, easy cleanup. Find your match here."
+layout: article.njk
+category: kitchen
+permalink: /articles/best-air-fryers-for-family-of-4/index.html
+products:
+  - name: Ninja Foodi DZ401 Dual Zone Air Fryer (8 Quart)
+    position: 1
+  - name: COSORI Pro LE Air Fryer (5.8 Quart)
+    position: 2
+  - name: Instant Vortex Plus 6-in-1 Air Fryer (6 Quart)
+    position: 3
+  - name: Philips Premium Airfryer XXL (3 Lb / 7 Quart)
+    position: 4
+  - name: Chefman TurboFry Touch Air Fryer (8 Quart)
+    position: 5
 ---
 
 *Disclosure: This post contains Amazon affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*

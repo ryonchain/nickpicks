@@ -3,11 +3,13 @@ title: "Best Smart Scales in 2026: Body Composition Scales with App Tracking"
 slug: best-smart-scales-2026
 description: "The best smart scales for body composition tracking in 2026 — Withings, Garmin, Eufy, and budget picks compared. Find the right bathroom scale with app sync, BMI, body fat %, and heart rate tracking."
 keywords: ["best smart scale 2026", "best body composition scale", "best smart bathroom scale with app", "withings body scale review", "best WiFi scale"]
-category: Health & Fitness
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "95,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-smart-scales-2026/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

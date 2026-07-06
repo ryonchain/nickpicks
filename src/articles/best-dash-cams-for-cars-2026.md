@@ -2,7 +2,7 @@
 title: "Best Dash Cams for Cars in 2026 — Top Front, Rear & Dual Camera Picks"
 description: "The best dash cams of 2026 reviewed. We compared the top front, rear, and dual-camera systems for video quality, night vision, parking mode, and reliability."
 keywords: ["best dash cam 2026", "best dash cam for cars", "front and rear dash cam", "dash cam review 2026", "best 4K dash cam"]
-category: "Automotive"
+category: home-office
 tags: ["dash cams", "car accessories", "driving safety", "vehicle cameras"]
 date: 2026-07-04
 author: "NickPicks Editorial Team"
@@ -10,6 +10,8 @@ affiliate: true
 schema: "Product"
 searchVolume: "~300K/mo"
 buyerIntent: "high"
+layout: article.njk
+permalink: /articles/best-dash-cams-for-cars-2026/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

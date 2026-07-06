@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: audio-tech
 tags: [headphones, noise canceling, ANC, wireless headphones, work from home]
 affiliate: amazon
+layout: article.njk
+category: home-office
+permalink: /articles/best-noise-canceling-headphones-under-300-2026/index.html
+products:
+  - name: Sony WH-1000XM5
+    position: 1
+    description: Best Overall
+  - name: Bose QuietComfort 45
+    position: 2
+    description: Best Comfort
+  - name: Jabra Evolve2 55
+    position: 3
+    description: Best for Remote Work
+  - name: Anker Soundcore Q45
+    position: 4
+    description: Best Budget
+  - name: Jabra Evolve2 40 SE
+    position: 5
+    description: Best Mid-Range
 ---
 
 # Best Noise Canceling Headphones Under $300 (2026)

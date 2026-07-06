@@ -2,7 +2,7 @@
 title: "Best Camera Bags for Photographers in 2026 — Backpacks, Shoulder Bags & More"
 description: "Find the best camera bag for your gear. We reviewed the top camera backpacks, shoulder bags, and sling bags of 2026 — with honest ratings for protection, access, and comfort."
 keywords: ["best camera bags", "camera backpack 2026", "best photography bag", "camera shoulder bag", "mirrorless camera bag"]
-category: "Photography"
+category: home-office
 tags: ["camera bags", "photography gear", "camera backpack", "travel photography"]
 date: 2026-07-04
 author: "NickPicks Editorial Team"
@@ -10,6 +10,8 @@ affiliate: true
 schema: "Product"
 searchVolume: "~90K/mo"
 buyerIntent: "high"
+layout: article.njk
+permalink: /articles/best-camera-bags-for-photographers/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

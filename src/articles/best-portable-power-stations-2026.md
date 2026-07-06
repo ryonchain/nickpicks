@@ -3,11 +3,13 @@ title: "Best Portable Power Stations 2026: Top Solar Generators for Home & Campi
 slug: best-portable-power-stations-2026
 description: "The best portable power stations of 2026 — from compact car camping units to whole-home backup solutions. Expert picks covering EcoFlow, Jackery, Bluetti, and more."
 keywords: ["best portable power station 2026", "best solar generator", "best portable power station for camping", "EcoFlow vs Jackery", "portable power station buying guide"]
-category: Outdoor & Emergency Prep
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "180,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-portable-power-stations-2026/index.html
 ---
 
 # Best Portable Power Stations 2026: Top Solar Generators for Home & Camping

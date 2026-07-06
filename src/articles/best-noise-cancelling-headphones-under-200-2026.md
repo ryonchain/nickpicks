@@ -3,11 +3,13 @@ title: "Best Noise Cancelling Headphones Under $200 in 2026: Premium ANC Without
 slug: best-noise-cancelling-headphones-under-200-2026
 description: "The best noise cancelling headphones under $200 in 2026 — strong ANC, comfortable fit for all-day wear, and sound quality that punches above their price. Top picks from Sony, Anker, Jabra, and Sennheiser."
 keywords: ["best noise cancelling headphones under 200", "best ANC headphones 2026", "best wireless headphones under 200", "Sony WH-1000XM5 vs Anker", "best headphones for work from home"]
-category: Tech & Audio
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "195,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-noise-cancelling-headphones-under-200-2026/index.html
 ---
 
 # Best Noise Cancelling Headphones Under $200 in 2026: Premium ANC Without the Premium Price

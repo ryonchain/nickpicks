@@ -4,6 +4,9 @@ date: "2026-07-05"
 description: "Looking for the best smart plug? We reviewed the top 5 smart plugs for Alexa, Google Home, and HomeKit — including energy monitoring and compact design picks."
 tags: ["product-reviews", "smart-plug", "smart-home"]
 amazonTag: "ryonchain-20"
+layout: article.njk
+category: home-office
+permalink: /articles/best-smart-plug-2026/index.html
 ---
 
 > **Disclosure:** As an Amazon Associate, NickPicks earns from qualifying purchases.

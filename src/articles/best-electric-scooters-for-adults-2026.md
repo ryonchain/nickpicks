@@ -3,11 +3,13 @@ title: "Best Electric Scooters for Adults in 2026: Top Picks for Commuting and R
 slug: best-electric-scooters-for-adults-2026
 description: "The best electric scooters for adults in 2026 — Segway, Ninebot, Xiaomi, Apollo, and Unagi compared by range, speed, portability, and ride quality for commuters and recreational riders."
 keywords: ["best electric scooter 2026", "best electric scooter for adults", "best electric scooter for commuting", "best electric scooter under 500", "best electric scooter range"]
-category: Transportation
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "200,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-electric-scooters-for-adults-2026/index.html
 ---
 
 # Best Electric Scooters for Adults in 2026: Top Picks for Commuting and Recreation

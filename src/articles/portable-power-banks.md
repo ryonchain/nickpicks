@@ -7,6 +7,25 @@ amazonTag: ryonchain-20
 niche: "tech & accessories"
 keywords: ["best portable charger", "best power bank 2026", "best portable power bank", "best USB-C power bank", "best 20000mah power bank", "best power bank for laptop", "fast charging power bank", "best power bank under 50"]
 estimated_monthly_searches: 201000
+layout: article.njk
+category: home-office
+permalink: /articles/portable-power-banks/index.html
+products:
+  - name: Anker 747 Power Bank (PowerCore 26K)
+    position: 1
+    description: Best Overall Power Bank
+  - name: Anker Nano Power Bank 10K (USB-C Built-In)
+    position: 2
+    description: Best Compact Power Bank
+  - name: Baseus Blade 100W Power Bank
+    position: 3
+    description: Best Power Bank for Laptops
+  - name: INIU Power Bank 10000mAh
+    position: 4
+    description: Best Budget Power Bank Under $30
+  - name: Mophie Powerstation Pro AC
+    position: 5
+    description: Best Power Bank with AC Outlet
 ---
 
 # Best Portable Chargers 2026: Top 5 Power Banks for Any Device

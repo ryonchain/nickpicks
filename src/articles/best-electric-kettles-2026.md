@@ -3,11 +3,13 @@ title: "Best Electric Kettles for Coffee and Tea in 2026: Temperature Control Mo
 slug: best-electric-kettles-2026
 description: "The best electric kettles for coffee and tea in 2026 — variable temperature models from Fellow, Breville, Cuisinart, and budget picks compared. Find the right kettle for pour-over, French press, and loose leaf tea."
 keywords: ["best electric kettle 2026", "best electric kettle for coffee", "best electric kettle temperature control", "best pour over kettle", "electric kettle review"]
-category: Kitchen & Coffee
+category: kitchen
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "120,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-electric-kettles-2026/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

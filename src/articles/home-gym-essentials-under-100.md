@@ -3,11 +3,13 @@ title: "Home Gym Essentials Under $100: Build Your Workout Space Without Overspe
 slug: home-gym-essentials-under-100
 description: "The best home gym essentials under $100 in 2026 — resistance bands, ab rollers, jump ropes, and adjustable dumbbells to get a full-body workout without a gym membership."
 keywords: ["home gym essentials under 100", "budget home gym equipment", "best resistance bands", "home workout gear under 100", "affordable home gym setup"]
-category: Fitness & Health
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "90,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/home-gym-essentials-under-100/index.html
 ---
 
 # Home Gym Essentials Under $100: Build Your Workout Space Without Overspending

@@ -2,7 +2,7 @@
 title: "Best Smart Door Locks in 2026 — Top Picks for Keyless Entry and Security"
 description: "The best smart door locks of 2026 reviewed and ranked. Find the right keypad, fingerprint, or app-controlled lock for your home — with honest pros/cons and buying advice."
 keywords: ["best smart door locks", "smart door lock 2026", "best keyless entry lock", "smart lock for front door"]
-category: "Home Security"
+category: home-office
 tags: ["smart locks", "home security", "keyless entry", "smart home"]
 date: 2026-07-04
 author: "NickPicks Editorial Team"
@@ -10,6 +10,8 @@ affiliate: true
 schema: "Product"
 searchVolume: "~150K/mo"
 buyerIntent: "high"
+layout: article.njk
+permalink: /articles/best-smart-door-locks-2026/index.html
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

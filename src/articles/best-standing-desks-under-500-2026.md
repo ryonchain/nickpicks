@@ -3,11 +3,13 @@ title: "Best Standing Desks Under $500 in 2026: Upgrade Your WFH Setup Without B
 slug: best-standing-desks-under-500-2026
 description: "The best standing desks under $500 in 2026 — stable frames, smooth motors, and enough surface area for a real work setup. Top picks from Flexispot, Autonomous, Uplift, and Vari."
 keywords: ["best standing desk under 500", "best electric standing desk 2026", "best adjustable desk 2026", "Flexispot review", "Autonomous SmartDesk review"]
-category: Home Office
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "190,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-standing-desks-under-500-2026/index.html
 ---
 
 # Best Standing Desks Under $500 in 2026: Upgrade Your WFH Setup Without Breaking the Bank

@@ -3,6 +3,20 @@ slug: best-mechanical-keyboards-for-typing-and-gaming
 title: "Best Mechanical Keyboards for Typing and Gaming"
 meta_title: "Best Mechanical Keyboards for Typing & Gaming 2027"
 meta_description: "Find the best mechanical keyboard for typing or gaming. We break down switches, layouts, and sound profiles for every budget in 2027."
+layout: article.njk
+category: home-office
+permalink: /articles/best-mechanical-keyboards-for-typing-and-gaming/index.html
+products:
+  - name: "Keychron Q5 Max (96% Layout, Wireless)"
+    position: 1
+  - name: Logitech G Pro X TKL Wireless
+    position: 2
+  - name: "Keychron C3 Pro (TKL, Wired)"
+    position: 3
+  - name: SteelSeries Apex Pro TKL Wireless (2027 Edition)
+    position: 4
+  - name: "Nuphy Air96 V2 (Wireless, Low-Profile)"
+    position: 5
 ---
 
 *Disclosure: This post contains Amazon affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*

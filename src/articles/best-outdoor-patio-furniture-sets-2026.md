@@ -3,11 +3,13 @@ title: "Best Outdoor Patio Furniture Sets 2026: Top Picks for Every Space and Bu
 slug: best-outdoor-patio-furniture-sets-2026
 description: "The best outdoor patio furniture sets in 2026 — best sectionals, best dining sets, best small balcony sets, best weather-resistant options, and best budget picks. Compared by material, durability, and value."
 keywords: ["best outdoor patio furniture sets 2026", "best patio furniture set", "best outdoor sectional sofa", "best small balcony furniture", "best weather resistant patio furniture"]
-category: Outdoor & Garden
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "150,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-outdoor-patio-furniture-sets-2026/index.html
 ---
 
 # Best Outdoor Patio Furniture Sets 2026: Top Picks for Every Space and Budget

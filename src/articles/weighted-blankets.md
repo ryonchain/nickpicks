@@ -7,6 +7,25 @@ amazonTag: ryonchain-20
 niche: "sleep & wellness"
 keywords: ["best weighted blanket", "best weighted blanket 2026", "weighted blanket reviews", "best 15lb weighted blanket", "best 20lb weighted blanket", "best weighted blanket for sleep", "washable weighted blanket", "best cooling weighted blanket"]
 estimated_monthly_searches: 165000
+layout: article.njk
+category: fitness
+permalink: /articles/weighted-blankets/index.html
+products:
+  - name: Bearaby Cotton Napper
+    position: 1
+    description: Best Organic Weighted Blanket
+  - name: Luna Adult Weighted Blanket
+    position: 2
+    description: Best Value Weighted Blanket
+  - name: Gravity Blanket Original
+    position: 3
+    description: Best Premium Weighted Blanket
+  - name: YnM Weighted Blanket
+    position: 4
+    description: Best for Hot Sleepers
+  - name: Baloo Living Weighted Blanket
+    position: 5
+    description: Best Cooling Weighted Blanket
 ---
 
 # Best Weighted Blankets 2026: Top 5 Picks for Better Sleep

@@ -3,11 +3,13 @@ title: "Best Cocktail Kits and Bar Tools: Top Picks for Your Home Bar Setup"
 slug: best-cocktail-kits
 description: "The best cocktail kits and bar tools in 2026 — picks from Elevated Craft, A Bar Above, OXO SteeL, Barfly, and Cocktail Kingdom that help you mix professional-quality drinks at home."
 keywords: ["best cocktail shaker set", "home bar tools", "best cocktail kit 2026", "bar tool set review", "cocktail shaker set amazon"]
-category: Kitchen / Entertaining
+category: kitchen
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "60,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-cocktail-kits/index.html
 ---
 
 # Best Cocktail Kits and Bar Tools: Top Picks for Your Home Bar Setup

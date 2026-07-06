@@ -7,6 +7,25 @@ amazonTag: ryonchain-20
 niche: "tech & peripherals"
 keywords: ["best mechanical keyboard", "best mechanical keyboard 2026", "best mechanical keyboard for home office", "best hotswap mechanical keyboard", "best mechanical keyboard under 100", "best wireless mechanical keyboard", "red switch vs brown switch keyboard"]
 estimated_monthly_searches: 246000
+layout: article.njk
+category: home-office
+permalink: /articles/mechanical-keyboards/index.html
+products:
+  - name: Keychron Q3 Pro
+    position: 1
+    description: Best Overall Mechanical Keyboard
+  - name: Logitech MX Mechanical
+    position: 2
+    description: Best Wireless Mechanical Keyboard for Office
+  - name: Keychron C3 Pro
+    position: 3
+    description: Best Budget Mechanical Keyboard Under $50
+  - name: Nuphy Air75 V2
+    position: 4
+    description: Best Low-Profile Mechanical Keyboard
+  - name: GMMK Pro
+    position: 5
+    description: Best Enthusiast Mechanical Keyboard Under $200
 ---
 
 # Best Mechanical Keyboards 2026: Top 5 Picks for Home Office & Gaming

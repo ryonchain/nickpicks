@@ -3,11 +3,13 @@ title: "Best Electric Grills and Smokers in 2026: Top Picks for Apartment and Ba
 slug: best-electric-grills-smokers-2026
 description: "The best electric grills and smokers in 2026 — apartment-safe options, backyard electric smokers, and indoor grills from Weber, Traeger, Ninja, and more."
 keywords: ["best electric grill 2026", "best electric smoker 2026", "electric grill for apartment", "best indoor electric grill", "best electric smoker for beginners"]
-category: Kitchen & Outdoors
+category: kitchen
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "55,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-electric-grills-smokers-2026/index.html
 ---
 
 # Best Electric Grills and Smokers in 2026: Top Picks for Apartment and Backyard Use

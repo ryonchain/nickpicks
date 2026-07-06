@@ -5,6 +5,28 @@ date: 2026-07-05
 niche: kitchen
 tags: [coffee maker, drip coffee, espresso machine, pour over, home brewing, coffee, kitchen appliances]
 affiliate: amazon
+layout: article.njk
+category: kitchen
+permalink: /articles/best-coffee-makers-home-brewers-2026/index.html
+products:
+  - name: Breville Precision Brewer
+    position: 1
+    description: Best Drip Coffee Maker
+  - name: De'Longhi Stilosa
+    position: 2
+    description: Best Budget Espresso
+  - name: Breville Barista Express
+    position: 3
+    description: Best All-in-One Espresso
+  - name: Technivorm Moccamaster
+    position: 4
+    description: Best Premium Drip
+  - name: OXO Brew 9-Cup
+    position: 5
+    description: Best Value SCAA Certified
+  - name: Ninja CE251
+    position: 6
+    description: Best Budget Drip
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

@@ -3,6 +3,25 @@ title: "Best Mattresses 2026: Top Picks for Every Sleep Type and Budget"
 description: "Find the best mattress of 2026 with our expert-tested reviews. Compare Saatva, Nectar, Purple, Casper, and Leesa to find your perfect sleep match."
 keywords: best mattress 2026, best mattress for back pain, best memory foam mattress, best hybrid mattress
 date: 2026-07-05
+layout: article.njk
+category: fitness
+permalink: /articles/best-mattresses-2026/index.html
+products:
+  - name: Saatva Classic
+    position: 1
+    description: Best Overall
+  - name: Nectar Premier Copper
+    position: 2
+    description: Best Value
+  - name: Purple Hybrid
+    position: 3
+    description: Best for Side Sleepers
+  - name: Casper Wave Hybrid
+    position: 4
+    description: Best Cooling
+  - name: Leesa Original
+    position: 5
+    description: Best Budget
 ---
 
 *Disclosure: As an Amazon Associate and affiliate partner, we earn commissions from qualifying purchases at no extra cost to you.*

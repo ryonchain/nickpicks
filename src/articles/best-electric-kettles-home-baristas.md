@@ -5,11 +5,29 @@ meta_title: "Best Electric Kettles for Home Baristas 2024"
 meta_description: "Elevate your pour-over and coffee ritual with the best electric kettles for baristas. Temperature control, gooseneck spouts & top 5 picks reviewed."
 description: "Elevate your pour-over and coffee ritual with the best electric kettles for baristas. Temperature control, gooseneck spouts & top 5 picks reviewed."
 keywords: ["best electric kettles home baristas", "gooseneck kettle", "variable temperature kettle", "pour over kettle", "Fellow Stagg EKG review", "best coffee kettle"]
-category: Coffee & Tea
+category: kitchen
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "22,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-electric-kettles-home-baristas/index.html
+products:
+  - name: Fellow Stagg EKG
+    position: 1
+    description: Best Overall Barista Kettle
+  - name: OXO Brew Adjustable Temperature Pour-Over Kettle
+    position: 2
+    description: Best Runner-Up
+  - name: Cosori Electric Gooseneck Kettle
+    position: 3
+    description: Best Budget Barista Kettle
+  - name: Bonavita Variable Temperature Gooseneck Kettle
+    position: 4
+    description: Best for Simplicity
+  - name: Hario V60 Buono Kettle
+    position: 5
+    description: Best Manual/Stovetop Alternative
 ---
 
 *Disclosure: NickPicks is a participant in the Amazon Associates program. We earn a small commission on qualifying purchases at no extra cost to you.*

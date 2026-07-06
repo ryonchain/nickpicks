@@ -3,11 +3,13 @@ title: "Best Portable Projectors for Home Use: Top Mini Projectors 2026"
 slug: best-portable-projectors
 description: "The best portable projectors for home use in 2026 — top mini projectors from Anker, BenQ, LG, Samsung, and Epson for movies, gaming, and outdoor use."
 keywords: ["best portable projector", "best mini projector 2026", "portable projector review", "best projector for home", "outdoor projector"]
-category: Home Entertainment / Tech
+category: home-office
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-05"
 estimated_search_volume: "20,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-portable-projectors/index.html
 ---
 
 # Best Portable Projectors for Home Use: Top Mini Projectors 2026

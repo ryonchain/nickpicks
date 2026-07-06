@@ -3,11 +3,13 @@ title: "Best Outdoor Grills Under $500 in 2026: Gas, Charcoal, and Pellet Picks"
 slug: best-outdoor-grills-under-500-2026
 description: "The best outdoor grills under $500 in 2026 — gas, charcoal, and pellet options that cook, sear, and smoke without breaking the budget. Top picks from Weber, Blackstone, Char-Griller, and Camp Chef."
 keywords: ["best outdoor grill under 500", "best gas grill under 500 2026", "best backyard grill 2026", "Weber grill review", "best charcoal grill 2026"]
-category: Outdoor & Garden
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "410,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-outdoor-grills-under-500-2026/index.html
 ---
 
 # Best Outdoor Grills Under $500 in 2026: Gas, Charcoal, and Pellet Picks

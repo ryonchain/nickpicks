@@ -3,11 +3,13 @@ title: "Best Coffee Grinders for Home Baristas: Burr Grinders That Actually Make
 slug: best-coffee-grinders
 description: "The best coffee grinders for home baristas in 2026 — burr grinders from Baratza, Fellow, Breville, Timemore, and OXO that deliver consistent grind for espresso, pour-over, and drip."
 keywords: ["best coffee grinders", "burr grinder for home use", "best burr grinder 2026", "coffee grinder review", "home barista coffee grinder"]
-category: Kitchen / Coffee Equipment
+category: kitchen
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-03"
 estimated_search_volume: "110,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-coffee-grinders/index.html
 ---
 
 # Best Coffee Grinders for Home Baristas: Burr Grinders That Actually Make Better Coffee

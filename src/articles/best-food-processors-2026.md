@@ -5,6 +5,25 @@ date: 2026-07-05
 niche: kitchen
 tags: [food processor, kitchen appliances, meal prep, cooking]
 affiliate: amazon
+layout: article.njk
+category: kitchen
+permalink: /articles/best-food-processors-2026/index.html
+products:
+  - name: Cuisinart Custom 14
+    position: 1
+    description: Best Overall
+  - name: Breville Sous Chef 16 Pro
+    position: 2
+    description: Best for Serious Cooks
+  - name: KitchenAid 9-Cup
+    position: 3
+    description: Best Mid-Size
+  - name: Hamilton Beach 10-Cup
+    position: 4
+    description: Best Budget
+  - name: Cuisinart Mini-Prep Plus
+    position: 5
+    description: Best Mini Processor
 ---
 
 # Best Food Processors (2026)

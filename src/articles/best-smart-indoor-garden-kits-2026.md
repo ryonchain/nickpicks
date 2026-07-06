@@ -3,11 +3,32 @@ title: "Best Smart Indoor Garden Kits (2026) — AeroGarden, Click and Grow & Mo
 slug: best-smart-indoor-garden-kits-2026
 description: "Best smart indoor garden kits for herbs and greens — AeroGarden vs Click and Grow vs pod kits. Top picks for beginners and apartment gardeners."
 keywords: ["best smart indoor garden kit 2026", "AeroGarden Harvest review", "Click and Grow Smart Garden 9", "best hydroponic indoor garden", "indoor herb garden kit"]
-category: Home & Kitchen
+category: kitchen
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "74,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-smart-indoor-garden-kits-2026/index.html
+products:
+  - name: AeroGarden Harvest
+    position: 1
+    description: Model 100696
+  - name: AeroGarden Farm 24XL
+    position: 2
+  - name: Click and Grow Smart Garden 9
+    position: 3
+  - name: iDOO 12-Pod Hydroponic Growing System
+    position: 4
+faqs:
+  - question: "Q: How long does it take to grow herbs in an AeroGarden?"
+    answer: Most herbs reach harvestable size in 3–4 weeks. Basil and mint are the fastest. Full-size tomatoes take 8–12 weeks.
+  - question: "Q: Do indoor garden kits need natural sunlight?"
+    answer: No. The built-in grow lights provide all the spectrum plants need. Place them anywhere with an outlet.
+  - question: "Q: How often do I need to add nutrients?"
+    answer: Every 2 weeks is typical for most hydroponic systems. AeroGarden uses a liquid nutrient solution.
+  - question: "Q: Can I grow vegetables in a small AeroGarden?"
+    answer: "The Harvest (6-pod) supports lettuce and small cherry tomatoes. For full tomatoes and peppers, you need the Farm 24XL."
 ---
 
 # Best Smart Indoor Garden Kits (2026) — AeroGarden, Click and Grow & More

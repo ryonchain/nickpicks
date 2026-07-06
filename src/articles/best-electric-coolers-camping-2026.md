@@ -3,11 +3,13 @@ title: "Best Electric Coolers for Camping in 2026: Keep Food Cold Without Ice"
 slug: best-electric-coolers-camping-2026
 description: "The best electric coolers for camping in 2026 — 12V compressor coolers that stay cold for days without ice. Top picks from BougeRV, Dometic, EcoFlow, and Jackery."
 keywords: ["best electric cooler camping 2026", "best 12V compressor cooler", "best portable refrigerator camping", "Dometic cooler review", "best electric cooler for car camping"]
-category: Outdoor & Garden
+category: fitness
 affiliate_disclosure: "As an Amazon Associate, I earn from qualifying purchases."
 last_updated: "2026-07-04"
 estimated_search_volume: "85,000/mo"
 buyer_intent: high
+layout: article.njk
+permalink: /articles/best-electric-coolers-camping-2026/index.html
 ---
 
 # Best Electric Coolers for Camping in 2026: Keep Food Cold Without Ice

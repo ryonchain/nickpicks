@@ -5,6 +5,22 @@ date: 2026-07-05
 niche: kitchen
 tags: [electric griddle, breakfast griddle, pancake griddle, smash burger, kitchen appliances]
 affiliate: amazon
+layout: article.njk
+category: kitchen
+permalink: /articles/best-electric-griddles-breakfast-2026/index.html
+products:
+  - name: Blackstone Electric Tabletop Griddle
+    position: 1
+    description: Best Overall
+  - name: Presto Tilt 'n Drain Griddle
+    position: 2
+    description: Best Budget
+  - name: Cuisinart CGS-5014 GreenSmart Griddler
+    position: 3
+    description: Best Multi-Use
+  - name: Hamilton Beach Electric Griddle
+    position: 4
+    description: Best Ultra-Budget
 ---
 
 # Best Electric Griddles (2026)

@@ -3,6 +3,20 @@ slug: best-electric-kettles-for-coffee-and-tea
 title: "Best Electric Kettles for Coffee and Tea Lovers"
 meta_title: "Best Electric Kettles for Coffee & Tea 2027 | Top 5"
 meta_description: "Precise temperature makes better coffee and tea. We picked the best electric kettles for pour-over, cold brew, matcha, and everything in between."
+layout: article.njk
+category: kitchen
+permalink: /articles/best-electric-kettles-for-coffee-and-tea/index.html
+products:
+  - name: Fellow Stagg EKG Electric Kettle
+    position: 1
+  - name: Breville BKE820XL Variable-Temperature Kettle (1.8 Liter)
+    position: 2
+  - name: OXO Brew Adjustable Temperature Electric Pour-Over Kettle
+    position: 3
+  - name: Hamilton Beach Electric Kettle (1-Liter)
+    position: 4
+  - name: Cosori Electric Gooseneck Kettle with Temperature Control
+    position: 5
 ---
 
 *Disclosure: This post contains Amazon affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
