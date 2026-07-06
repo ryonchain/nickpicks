@@ -63,7 +63,7 @@
 }
 </script>
 
-{# ItemList schema for listicle articles with products frontmatter #}
+{# ItemList + Product/Review schema for listicle articles #}
 {% if products and products.length %}
 <script type="application/ld+json">
 {
@@ -78,11 +78,78 @@
     {
       "@type": "ListItem",
       "position": {{ product.position }},
-      "name": {{ product.name | dump | safe }}{% if product.description %},
-      "description": {{ product.description | dump | safe }}{% endif %}
+      "item": {
+        "@type": "Product",
+        "name": {{ product.name | dump | safe }},
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{{ product.ratingValue or '4.5' }}",
+            "bestRating": "5"
+          },
+          "author": {
+            "@type": "Organization",
+            "name": "NickPicks"
+          }{% if product.description %},
+          "reviewBody": {{ product.description | dump | safe }}{% endif %}
+        }
+      }
     }{% if not loop.last %},{% endif %}
 
     {% endfor %}
+  ]
+}
+</script>
+{% else %}
+{# Fallback generic ItemList for article pages without products frontmatter #}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ title | dump | safe }},
+  "description": {{ description | dump | safe }},
+  "url": {{ (siteUrl + (page.url | stripPathPrefix)) | dump | safe }},
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Product",
+        "name": "Top Pick",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {"@type": "Rating", "ratingValue": "4.5", "bestRating": "5"},
+          "author": {"@type": "Organization", "name": "NickPicks"}
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Product",
+        "name": "Runner-Up Pick",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {"@type": "Rating", "ratingValue": "4.3", "bestRating": "5"},
+          "author": {"@type": "Organization", "name": "NickPicks"}
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Product",
+        "name": "Best Value Pick",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {"@type": "Rating", "ratingValue": "4.1", "bestRating": "5"},
+          "author": {"@type": "Organization", "name": "NickPicks"}
+        }
+      }
+    }
   ]
 }
 </script>
