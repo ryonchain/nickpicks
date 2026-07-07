@@ -66,7 +66,7 @@ The Bearaby Cotton Napper is the weighted blanket you display when guests come o
 - Requires large-capacity washer for heavier weights
 - Not available in as many weight options as competitors
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Bearaby+Cotton+Napper+weighted+blanket&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Bearaby+Cotton+Napper+weighted+blanket&tag=nickpicks-20)
 
 ---
 
@@ -95,7 +95,7 @@ The Luna is the best-selling weighted blanket on Amazon for good reason: consist
 - Glass beads make noise when moving (minor but noticeable)
 - Not ideal for hot sleepers compared to the Bearaby
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Luna+weighted+blanket&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Luna+weighted+blanket&tag=nickpicks-20)
 
 ---
 
@@ -124,7 +124,7 @@ The Gravity Blanket is the brand that popularized weighted blankets through thei
 - 20 lb and above requires large-capacity washer
 - Not as stylish as the Bearaby for living room use
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Gravity+Blanket+original+weighted+blanket&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Gravity+Blanket+original+weighted+blanket&tag=nickpicks-20)
 
 ---
 
@@ -153,7 +153,7 @@ The YnM comes in both cotton and bamboo viscose variants — the bamboo version 
 - Cotton variant is not notably cooler than competitors
 - Stitching quality varies slightly between weight versions
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=YnM+weighted+blanket+bamboo&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=YnM+weighted+blanket+bamboo&tag=nickpicks-20)
 
 ---
 
@@ -182,7 +182,7 @@ The Baloo Living uses 100% cotton throughout — cover, fill channels, and witho
 - 25 lb version may require commercial washer
 - No removable cover option
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Baloo+Living+weighted+blanket&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Baloo+Living+weighted+blanket&tag=nickpicks-20)
 
 ---
 

@@ -47,7 +47,7 @@ This comparison tells you which approach matches how you actually work.
 
 ## The Topo by Ergodriven
 
-**[Topo Anti-Fatigue Mat on Amazon →](https://www.amazon.com/s?k=Topo+anti-fatigue+mat+Ergodriven){rel="nofollow sponsored" target="_blank"}** (~$99)
+**[Topo Anti-Fatigue Mat on Amazon →](https://www.amazon.com/s?k=Topo+anti-fatigue+mat+Ergodriven&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$99)
 
 Ergodriven designed the Topo around a specific insight: static standing on flat cushioning is better than a hard floor, but it doesn't actually reduce fatigue over time — your body still locks up. The Topo's terrain-contoured surface — raised bumps, a central dome, inclined ridges — forces your legs and feet into subtle micro-movements throughout the day, improving circulation and actively reducing the muscle tension that builds up from static standing.
 
@@ -76,7 +76,7 @@ Ergodriven designed the Topo around a specific insight: static standing on flat 
 
 ## The Sky Solutions Anti-Fatigue Mat
 
-**[Sky Solutions Anti-Fatigue Mat on Amazon →](https://www.amazon.com/s?k=Sky+Solutions+anti-fatigue+mat){rel="nofollow sponsored" target="_blank"}** (~$50)
+**[Sky Solutions Anti-Fatigue Mat on Amazon →](https://www.amazon.com/s?k=Sky+Solutions+anti-fatigue+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$50)
 
 Sky Solutions takes a more conventional approach: a flat, uniformly thick mat with high-density PU foam and a gel layer in premium versions. It's the mat for people who want substantial cushioning underfoot while they stand — pure comfort, no terrain to navigate.
 
@@ -150,7 +150,7 @@ The Sky Solutions mat works exactly as expected from day one. The Topo's terrain
 
 The Topo is worth the extra $50 if standing fatigue is a real productivity problem. For context on how it stacks up against other mats in the category, see our [best ergonomic standing mat review](/articles/best-ergonomic-standing-mat-review/) and [best standing desk mats guide](/articles/best-standing-desk-mats-2026/).
 
-**[Topo Anti-Fatigue Mat on Amazon →](https://www.amazon.com/s?k=Topo+anti-fatigue+mat+Ergodriven){rel="nofollow sponsored" target="_blank"}**
+**[Topo Anti-Fatigue Mat on Amazon →](https://www.amazon.com/s?k=Topo+anti-fatigue+mat+Ergodriven&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}**
 
 ---
 
@@ -162,7 +162,7 @@ The Topo is worth the extra $50 if standing fatigue is a real productivity probl
 - Chemical sensitivity makes GreenGuard certification a requirement
 - You want a flat, familiar surface without a terrain adjustment period
 
-**[Sky Solutions Anti-Fatigue Mat on Amazon →](https://www.amazon.com/s?k=Sky+Solutions+anti-fatigue+mat){rel="nofollow sponsored" target="_blank"}**
+**[Sky Solutions Anti-Fatigue Mat on Amazon →](https://www.amazon.com/s?k=Sky+Solutions+anti-fatigue+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}**
 
 ---
 

@@ -61,7 +61,7 @@ A mechanical keyboard can transform your gaming setup — better key registratio
 
 ### 1. Keychron K2 V2 — Best Gaming Keyboard Under $150 Overall
 
-**Price:** ~$90 | [Check price on Amazon →](https://www.amazon.com/dp/B0863BCHYH){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$90 | [Check price on Amazon →](https://www.amazon.com/dp/B0863BCHYH?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Keychron K2 V2 is the rare keyboard that works equally well at your desk, plugged into your gaming rig, and on the couch via Bluetooth. Its 75% compact layout keeps your mousepad space while keeping the dedicated arrow keys serious gamers rely on.
 
@@ -80,7 +80,7 @@ The Keychron K2 V2 is the rare keyboard that works equally well at your desk, pl
 
 ### 2. HyperX Alloy Origins Core TKL — Best for Competitive Gaming
 
-**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/dp/B07SX9BLDX){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/dp/B07SX9BLDX?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Alloy Origins Core TKL is built for one thing: giving competitive players the fastest, most consistent key registers possible. HyperX's linear red switches actuate at 1.8mm (vs. the standard 2.0mm), giving you a small but measurable edge in reaction-critical moments.
 
@@ -99,7 +99,7 @@ The Alloy Origins Core TKL is built for one thing: giving competitive players th
 
 ### 3. Logitech G413 TKL SE — Best Budget Gaming Keyboard
 
-**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/dp/B09QLPRB4B){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/dp/B09QLPRB4B?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 At $60, the Logitech G413 TKL SE is the best mechanical gaming keyboard for anyone entering the hobby. Logitech's GX Brown tactile switches give satisfying feedback without the loud click of blues, and the aluminum top plate makes it feel more expensive than it is.
 
@@ -118,7 +118,7 @@ At $60, the Logitech G413 TKL SE is the best mechanical gaming keyboard for anyo
 
 ### 4. Razer Huntsman Mini — Best 60% Gaming Keyboard
 
-**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/dp/B08693TRY2){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/dp/B08693TRY2?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Razer Huntsman Mini proves that 60% doesn't mean compromised. Razer's optical switches register keystrokes via a light beam (not a physical contact), which means zero debounce delay and a claimed actuation speed faster than any mechanical switch.
 
@@ -137,7 +137,7 @@ The Razer Huntsman Mini proves that 60% doesn't mean compromised. Razer's optica
 
 ### 5. Corsair K70 RGB CORE — Best Full-Size Gaming Keyboard Under $150
 
-**Price:** ~$130 | [Check price on Amazon →](https://www.amazon.com/dp/B0C62K2LJB){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$130 | [Check price on Amazon →](https://www.amazon.com/dp/B0C62K2LJB?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If you want everything — numpad, media keys, dedicated volume wheel, and top-tier build quality — the Corsair K70 RGB CORE is the best full-size option under $150. The aluminum frame is a vault compared to plastic competitors at this price, and Cherry MX Red switches give satisfying linear feedback.
 
@@ -156,7 +156,7 @@ If you want everything — numpad, media keys, dedicated volume wheel, and top-t
 
 ### 6. GMMK TKL — Best Hot-Swap Keyboard for Enthusiasts
 
-**Price:** ~$110 | [Check price on Amazon →](https://www.amazon.com/dp/B08LCLN5TY){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$110 | [Check price on Amazon →](https://www.amazon.com/dp/B08LCLN5TY?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Glorious GMMK TKL is the gateway drug to the mechanical keyboard hobby. It ships with your choice of switches pre-installed, but its hot-swap sockets let you pull them out and try a different switch type in under an hour — no soldering required.
 

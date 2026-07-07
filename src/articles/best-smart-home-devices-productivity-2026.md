@@ -61,7 +61,7 @@ These picks are chosen for productivity impact first, not smart home ecosystem c
 
 ### 1. Kasa Smart Plug Mini EP25 — Highest Productivity ROI
 
-**Price:** ~$15 (2-pack) | [Search on Amazon →](https://www.amazon.com/s?k=Kasa+smart+plug+mini+EP25){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$15 (2-pack) | [Search on Amazon →](https://www.amazon.com/s?k=Kasa+smart+plug+mini+EP25&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The single smartest home office automation is putting your desk lamp and monitor power strip on smart plugs with a schedule. Set them to turn on at 8:30am and off at 6:30pm — your workday environment starts and ends automatically, removing the "just one more email" friction that leads to working until midnight.
 
@@ -79,7 +79,7 @@ The single smartest home office automation is putting your desk lamp and monitor
 
 ### 2. Philips Hue White and Color Ambiance Starter Kit — Automated Focus Lighting
 
-**Price:** ~$180 (starter kit) | [Search on Amazon →](https://www.amazon.com/s?k=Philips+Hue+White+Color+Ambiance+starter+kit){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$180 (starter kit) | [Search on Amazon →](https://www.amazon.com/s?k=Philips+Hue+White+Color+Ambiance+starter+kit&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Lighting temperature directly affects cognitive performance. Research consistently shows that cool white light (5000–6500K) supports alertness and concentration during work hours, while warm light (2700K) aids evening wind-down. Without smart bulbs, most people work under the same lighting all day.
 
@@ -99,7 +99,7 @@ Lighting temperature directly affects cognitive performance. Research consistent
 
 ### 3. TimeFlip2 Smart Tracker — Physical Pomodoro and Time Tracking
 
-**Price:** ~$55 | [Search on Amazon →](https://www.amazon.com/s?k=TimeFlip2+smart+time+tracker){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$55 | [Search on Amazon →](https://www.amazon.com/s?k=TimeFlip2+smart+time+tracker&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Time tracking apps require opening an app, clicking start, remembering to click stop, and finding the right project from a dropdown. TimeFlip2 is a physical 12-sided polyhedron you place on your desk. Label each face (Deep Work, Calls, Email, Admin, Break) and flip it face-up to start tracking that category. The physical act creates a deliberate context-switch ritual.
 
@@ -117,7 +117,7 @@ Time tracking apps require opening an app, clicking start, remembering to click 
 
 ### 4. Amazon Echo Dot (5th Gen) — Hands-Free Focus and Timer Control
 
-**Price:** ~$50 | [Search on Amazon →](https://www.amazon.com/s?k=Amazon+Echo+Dot+5th+gen){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$50 | [Search on Amazon →](https://www.amazon.com/s?k=Amazon+Echo+Dot+5th+gen&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Voice-controlled timers have one productivity superpower: you can set a 25-minute Pomodoro without touching your keyboard or phone. "Alexa, set a timer for 25 minutes" is faster than any timer app, and the Echo Dot becomes the hub for all your other smart home automations.
 
@@ -134,7 +134,7 @@ Voice-controlled timers have one productivity superpower: you can set a 25-minut
 
 ### 5. Govee Smart LED Strip Lights — Reduce Eye Strain with Bias Lighting
 
-**Price:** ~$25 (16.4 ft) | [Search on Amazon →](https://www.amazon.com/s?k=Govee+smart+LED+strip+lights){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 (16.4 ft) | [Search on Amazon →](https://www.amazon.com/s?k=Govee+smart+LED+strip+lights&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Bias lighting — low-level light behind your monitor — reduces the contrast differential between your bright screen and a dark wall. This contrast reduction measurably decreases eye fatigue over long sessions. The Govee LED strips stick behind your monitor and desk, controlled via app or voice.
 
@@ -152,7 +152,7 @@ For related upgrades, see our [best LED strip lights for desk](/articles/best-le
 
 ### 6. Meross Smart Power Strip — Per-Outlet Control for the Whole Desk
 
-**Price:** ~$35 | [Search on Amazon →](https://www.amazon.com/s?k=Meross+smart+power+strip){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Search on Amazon →](https://www.amazon.com/s?k=Meross+smart+power+strip&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 A smart power strip gives you per-outlet on/off control plus three always-on USB charging ports. This means your monitor turns off with your workday schedule, your laptop charger stays on, and your desk lamp dims at 6pm — all from one device.
 

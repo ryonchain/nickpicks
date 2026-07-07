@@ -74,7 +74,7 @@ Hydro Flask's TempShield double-wall vacuum insulation has kept it at the top of
 
 **What to watch:** The standard Sport Cap isn't as leak-proof as the Flex Cap lid. The 21 oz size requires refilling more often than 32 oz+ alternatives.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=hydro+flask+standard+mouth+21+oz){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=hydro+flask+standard+mouth+21+oz&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -91,7 +91,7 @@ The Stanley IceFlow is the best reusable bottle for people who drink constantly 
 
 **What to watch:** The straw lid is harder to clean thoroughly than a simple cap. Not as fully leak-proof as the Owala if inverted or placed on its side.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=stanley+iceflow+flip+straw+tumbler){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=stanley+iceflow+flip+straw+tumbler&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -108,7 +108,7 @@ The Owala FreeSip's dual-function lid is genuinely innovative: you can either si
 
 **What to watch:** The lid mechanism is more complex than simple caps and takes a few days to become second nature. Not available in large sizes beyond 32 oz.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=owala+freesip+24+oz){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=owala+freesip+24+oz&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -125,7 +125,7 @@ The Nalgene Wide Mouth is the most durable lightweight water bottle available an
 
 **What to watch:** No insulation — drinks warm to room temperature within a few hours. The wide-mouth lid requires two hands to open. Not suitable if temperature retention matters.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=nalgene+wide+mouth+32+oz){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=nalgene+wide+mouth+32+oz&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -142,7 +142,7 @@ The YETI Rambler delivers the most robust construction on this list. The stainle
 
 **What to watch:** At ~$40, it's priced similarly to Hydro Flask but with fewer color options. The Chug Cap isn't leak-proof — use the TripleHaul Cap if you need a sealed lid.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=yeti+rambler+26+oz+water+bottle){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=yeti+rambler+26+oz+water+bottle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -159,7 +159,7 @@ The CamelBak Chute Mag is designed for active use: the magnetic top locks the li
 
 **What to watch:** The Chute-style lid produces faster flow than most lids — takes adjustment to avoid spills at first. Slightly heavier than the Hydro Flask at similar capacity.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=camelbak+chute+mag+25+oz){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=camelbak+chute+mag+25+oz&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

@@ -51,7 +51,7 @@ Victorinox is the Swiss company best known for the original Swiss Army Knife, bu
 - Fibrox handle aesthetic is utilitarian — not an attractive counter display set
 - Does not include a steak knife set
 
-[Check Price on Amazon](https://amazon.com/s?k=Victorinox+Fibrox+Pro+7-Piece+Knife+Block+Set)
+[Check Price on Amazon](https://amazon.com/s?k=Victorinox+Fibrox+Pro+7-Piece+Knife+Block+Set&tag=nickpicks-20)
 
 ---
 
@@ -71,7 +71,7 @@ For households that want a comprehensive set covering every cutting scenario, th
 - Steak knives are serrated and cannot be easily resharpened
 - The set's size (15 pieces + block) requires meaningful counter space
 
-[Check Price on Amazon](https://amazon.com/s?k=Cuisinart+C77TR-15P+Triple+Rivet+15-Piece+Knife+Set)
+[Check Price on Amazon](https://amazon.com/s?k=Cuisinart+C77TR-15P+Triple+Rivet+15-Piece+Knife+Set&tag=nickpicks-20)
 
 ---
 
@@ -91,7 +91,7 @@ Henckels (the Zwilling sub-brand for more accessible pricing) brings German knif
 - Handle design is narrower than Victorinox or Cuisinart — may feel slim for larger hands
 - Self-sharpening mechanism creates a fixed edge angle — can conflict with custom sharpening preferences
 
-[Check Price on Amazon](https://amazon.com/s?k=Henckels+Solution+16-Piece+Knife+Block+Set)
+[Check Price on Amazon](https://amazon.com/s?k=Henckels+Solution+16-Piece+Knife+Block+Set&tag=nickpicks-20)
 
 ---
 
@@ -111,7 +111,7 @@ Mercer Culinary is the preferred training knife brand for many culinary schools,
 - No block included — roll storage works but requires a different organizational mindset
 - Full bolster makes sharpening the entire edge to the heel more difficult without a curved sharpener
 
-[Check Price on Amazon](https://amazon.com/s?k=Mercer+Culinary+Genesis+6-Piece+Knife+Roll+Set)
+[Check Price on Amazon](https://amazon.com/s?k=Mercer+Culinary+Genesis+6-Piece+Knife+Roll+Set&tag=nickpicks-20)
 
 ---
 
@@ -131,7 +131,7 @@ Misen launched with a viral Kickstarter in 2015 and has built a loyal following 
 - No block or storage solution included — budget for a magnetic strip or roll
 - Five pieces may feel light compared to 15+ piece sets for family cooking
 
-[Check Price on Amazon](https://amazon.com/s?k=Misen+Essentials+5-Piece+Knife+Set)
+[Check Price on Amazon](https://amazon.com/s?k=Misen+Essentials+5-Piece+Knife+Set&tag=nickpicks-20)
 
 ---
 
@@ -150,7 +150,7 @@ The KitchenAid Classic is for buyers who want an attractive, full-coverage set a
 - Partial tang construction is less durable than full-tang alternatives
 - Not suited for high-frequency cooking or professional-level prep work
 
-[Check Price on Amazon](https://amazon.com/s?k=KitchenAid+Classic+12-Piece+Knife+Block+Set)
+[Check Price on Amazon](https://amazon.com/s?k=KitchenAid+Classic+12-Piece+Knife+Block+Set&tag=nickpicks-20)
 
 ---
 

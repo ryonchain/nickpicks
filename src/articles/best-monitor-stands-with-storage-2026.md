@@ -70,7 +70,7 @@ Key factors to evaluate:
 
 ### 1. HUANUO Adjustable Monitor Stand with Drawer — Best Overall
 
-**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=HUANUO+adjustable+monitor+stand+with+drawer)
+**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=HUANUO+adjustable+monitor+stand+with+drawer&tag=nickpicks-20)
 
 HUANUO's accordion-style adjustable stand offers 5 height positions from 3.7 to 6.7 inches, which covers the ergonomic range for most chair and monitor combinations. The pull-out drawer handles remote controls, USB drives, and office essentials; the open front shelf stores a wireless keyboard out of the way when not in use.
 
@@ -89,7 +89,7 @@ HUANUO's accordion-style adjustable stand offers 5 height positions from 3.7 to 
 
 ### 2. Fenge Bamboo Monitor Stand with Drawer — Best Premium Build
 
-**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=Fenge+bamboo+monitor+stand+with+drawer)
+**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=Fenge+bamboo+monitor+stand+with+drawer&tag=nickpicks-20)
 
 Fenge's bamboo riser is the desk piece that photographs well and holds up for years. The solid bamboo construction handles 44 lbs without flex and the deeper-than-average drawer (3.5 inches) fits a tablet, charging cables, and other larger items that most monitor stand drawers can't accommodate. Fixed height at 4.5 inches.
 
@@ -109,7 +109,7 @@ Fenge's bamboo riser is the desk piece that photographs well and holds up for ye
 
 ### 3. SimpleHouseware Mesh Steel Monitor Riser — Best Budget
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=SimpleHouseware+mesh+monitor+stand+riser)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=SimpleHouseware+mesh+monitor+stand+riser&tag=nickpicks-20)
 
 SimpleHouseware's mesh steel riser is the most popular monitor stand on Amazon for a reason — it's inexpensive, attractive, holds 44 lbs, and the open-front design stores a wireless keyboard flat underneath. No drawer, no cable management, but the construction quality far exceeds what the $30 price suggests.
 
@@ -129,7 +129,7 @@ SimpleHouseware's mesh steel riser is the most popular monitor stand on Amazon f
 
 ### 4. VIVO Dual Monitor Desk Stand — Best for Dual Monitors
 
-**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=VIVO+dual+monitor+desk+stand+riser)
+**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=VIVO+dual+monitor+desk+stand+riser&tag=nickpicks-20)
 
 VIVO's extra-wide stand is designed for dual-monitor setups with a surface that extends to accommodate two side-by-side screens. The 33 lb capacity covers two standard 27-inch flat-panels. No storage features — this is purely a platform riser for dual-monitor ergonomics.
 
@@ -146,7 +146,7 @@ VIVO's extra-wide stand is designed for dual-monitor setups with a surface that 
 
 ### 5. Flexispot Adjustable Monitor Riser — Best Adjustable Without Storage
 
-**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Flexispot+adjustable+monitor+riser)
+**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Flexispot+adjustable+monitor+riser&tag=nickpicks-20)
 
 Flexispot's gas-spring-free adjustable riser offers 3-step height adjustment without tools — pull the side levers, lift or lower, release. The 33 lb capacity and solid steel construction handle heavier monitors than most riser-style stands.
 
@@ -164,7 +164,7 @@ Flexispot's gas-spring-free adjustable riser offers 3-step height adjustment wit
 
 ### 6. Mount-It! Monitor Stand with Built-In USB Hub — Best for Connectivity
 
-**Price:** ~$55 | [Check on Amazon](https://www.amazon.com/s?k=Mount-It+monitor+stand+with+USB+hub)
+**Price:** ~$55 | [Check on Amazon](https://www.amazon.com/s?k=Mount-It+monitor+stand+with+USB+hub&tag=nickpicks-20)
 
 Mount-It! adds a built-in 4-port USB 3.0 hub to a standard monitor stand with drawer. If your monitor doesn't have USB passthrough and you're constantly reaching behind your computer for USB ports, having 4 ports at desk level changes daily workflow meaningfully. The 33 lb capacity and rear cable channel round out the feature set.
 

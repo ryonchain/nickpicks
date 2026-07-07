@@ -73,7 +73,7 @@ The Ring Video Doorbell 4 is the default smart doorbell for Amazon households. A
 - Amazon ownership raises privacy concerns for some users
 - Heavy notification volume (motion sensitivity needs tuning)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Ring+Video+Doorbell+4&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Ring+Video+Doorbell+4&tag=nickpicks-20)
 
 ---
 
@@ -102,7 +102,7 @@ The Eufy S340 is the doorbell for users who refuse to pay monthly fees. With Euf
 - No Alexa or Google Assistant integration without workarounds
 - Third-party smart home integration is limited
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Eufy+Security+Video+Doorbell+S340&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Eufy+Security+Video+Doorbell+S340&tag=nickpicks-20)
 
 ---
 
@@ -131,7 +131,7 @@ The Nest Doorbell's strength is its AI: it distinguishes people, packages, anima
 - Nest app has more complex setup than Ring
 - Less useful outside Google ecosystem
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Google+Nest+Doorbell+Battery+2nd+gen&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Google+Nest+Doorbell+Battery+2nd+gen&tag=nickpicks-20)
 
 ---
 
@@ -160,7 +160,7 @@ The Ring Pro 2 is the wired-only model that delivers Ring's best performance: 3D
 - Most expensive Ring option
 - No battery backup — power outages mean no doorbell
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Ring+Video+Doorbell+Pro+2&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Ring+Video+Doorbell+Pro+2&tag=nickpicks-20)
 
 ---
 
@@ -189,7 +189,7 @@ The Eufy E340 adds a second lens angled down specifically for package detection 
 - Package camera is 1080p (not 4K like S340)
 - App ecosystem less intuitive than competitors
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Eufy+Security+Dual+Camera+Doorbell+E340&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Eufy+Security+Dual+Camera+Doorbell+E340&tag=nickpicks-20)
 
 ---
 

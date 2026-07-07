@@ -63,7 +63,7 @@ Here's what to evaluate before you buy.
 
 ## 1. FlexiSpot E7 Pro — Best Overall Electric Standing Desk
 
-**[Check price on Amazon](https://www.amazon.com/s?k=FlexiSpot+E7+Pro+standing+desk)**
+**[Check price on Amazon](https://www.amazon.com/s?k=FlexiSpot+E7+Pro+standing+desk&tag=nickpicks-20)**
 
 The FlexiSpot E7 Pro is the desk most home office workers should buy. The dual-motor system produces 355 lbs of lifting capacity — enough for dual 27" monitors, a desktop PC, and a full accessory spread. At standing height, wobble is minimal: a definitive improvement over most competitors in the $300–400 range.
 
@@ -89,7 +89,7 @@ Available in multiple frame colors (white/black/grey) and accepts tabletops from
 
 ## 2. UPLIFT V2 — Best Premium Standing Desk
 
-**[Check price on Amazon](https://www.amazon.com/s?k=UPLIFT+V2+standing+desk)**
+**[Check price on Amazon](https://www.amazon.com/s?k=UPLIFT+V2+standing+desk&tag=nickpicks-20)**
 
 UPLIFT is the benchmark in the premium standing desk category. The V2's lifetime warranty on the frame is unmatched in the industry — a genuine signal of build confidence. The 51" maximum height is the tallest in this roundup, accommodating users up to 6'7" comfortably.
 
@@ -113,7 +113,7 @@ UPLIFT offers the most configurable desk experience: dozens of tabletop sizes, f
 
 ## 3. Fezibo Electric Height Adjustable Desk — Best Budget Standing Desk
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Fezibo+electric+standing+desk)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Fezibo+electric+standing+desk&tag=nickpicks-20)**
 
 At ~$250 all-in (frame + tabletop often sold together), the Fezibo is the most accessible entry point for electric standing desks. Dual-motor drive, 4 height presets, and an anti-collision sensor cover the functional basics. It won't match the stability or warranty of FlexiSpot or UPLIFT, but for a home office with a laptop and a single monitor, it performs adequately.
 
@@ -138,7 +138,7 @@ The 176 lbs weight capacity is the limiting factor — it rules out heavy dual-m
 
 ## 4. Vari Electric Standing Desk — Best for Shared Offices
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Vari+Electric+Standing+Desk)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Vari+Electric+Standing+Desk&tag=nickpicks-20)**
 
 Vari built its reputation in commercial office deployments, and the Electric model brings that durability home. The desk ships 80% pre-assembled — the legs connect, the tabletop attaches, and you're done in under 15 minutes. That's a major advantage for anyone who dreads IKEA-style builds.
 
@@ -162,7 +162,7 @@ The tabletop surface is a laminate with a smooth, durable finish that resists sc
 
 ## 5. Autonomous SmartDesk Pro — Best Value for the Feature Set
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Autonomous+SmartDesk+Pro)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Autonomous+SmartDesk+Pro&tag=nickpicks-20)**
 
 The Autonomous SmartDesk Pro delivers a 52.5" maximum standing height and 310 lbs capacity at ~$300 (frame only). The broad height range accommodates users from 5'0" to 6'7" seated and standing. Dual motors, 4 presets, anti-collision. The Autonomous ecosystem also supports add-ons: cable management trays, monitor arms, and desk mats designed for their frame dimensions.
 

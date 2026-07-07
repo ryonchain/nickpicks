@@ -75,7 +75,7 @@ For a desk setup, the 16.4-foot kit is ideal: enough to run behind two monitors 
 - Segmented for scene control (individual sections can be set differently)
 - Good adhesive quality — stays stuck for months
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Govee+RGBIC+LED+strip+lights){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Govee+RGBIC+LED+strip+lights&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -89,7 +89,7 @@ The main catch: you need a Hue Bridge ($60) if you don't already have one, makin
 
 **Best for:** Philips Hue households, users who want HomeKit support, and anyone who values reliability over budget.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Philips+Hue+Play+Gradient+Lightstrip){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Philips+Hue+Play+Gradient+Lightstrip&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -103,7 +103,7 @@ The starter kit includes a 6.5-foot strip (extendable with additional kits up to
 
 **Best for:** Users who want HomeKit without Hue costs, or who prioritize color quality over raw features.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=LIFX+Lightstrip+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=LIFX+Lightstrip+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -115,7 +115,7 @@ The DreamColor is Govee's entry-level RGBIC strip — same multi-color independe
 
 If you want RGBIC color effects without paying for smart home integration, this is the best budget option available.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Govee+DreamColor+LED+strip){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Govee+DreamColor+LED+strip&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -127,7 +127,7 @@ Kasa (by TP-Link) makes some of the most reliable smart home devices in the budg
 
 **Best for:** Users who want smart home integration at a mid-range price with TP-Link's reliability track record.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Kasa+KL420+smart+light+strip){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Kasa+KL420+smart+light+strip&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -139,7 +139,7 @@ For pure bias lighting behind a monitor without any smart features, a basic USB-
 
 **Best for:** Bias lighting only, no smart features needed, absolute minimum spend.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=USB+LED+strip+lights+bias+lighting){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=USB+LED+strip+lights+bias+lighting&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

@@ -65,7 +65,7 @@ The Kasa EP25 is the smart plug that the home automation community consistently 
 - No Matter support (yet) — tied to Kasa ecosystem
 - Single outlet only
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Kasa+EP25+smart+plug+energy+monitoring&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Kasa+EP25+smart+plug+energy+monitoring&tag=nickpicks-20)
 
 ---
 
@@ -94,7 +94,7 @@ If you're deep in the Alexa ecosystem, Amazon's own smart plug is optimized for 
 - Premium price for a plug with fewer features than Kasa EP25
 - Single outlet only
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Amazon+Smart+Plug+Alexa&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Amazon+Smart+Plug+Alexa&tag=nickpicks-20)
 
 ---
 
@@ -123,7 +123,7 @@ The Eve Energy is the best Apple HomeKit smart plug available. It supports Threa
 - No Amazon Alexa optimization (works but not as deep)
 - US version has lower amperage rating than some competitors
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Eve+Energy+Smart+Plug+HomeKit&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Eve+Energy+Smart+Plug+HomeKit&tag=nickpicks-20)
 
 ---
 
@@ -153,7 +153,7 @@ The Govee Smart Plug is the best choice when you want to automate multiple devic
 - WiFi connectivity can be less stable than premium options
 - No Matter support
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Govee+smart+plug+4+pack&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Govee+smart+plug+4+pack&tag=nickpicks-20)
 
 ---
 
@@ -182,7 +182,7 @@ The Kasa KP303 is a smart power strip with three individually controlled smart o
 - Slightly bulkier than individual plugs
 - Requires 2.4 GHz WiFi
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Kasa+KP303+smart+power+strip&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Kasa+KP303+smart+power+strip&tag=nickpicks-20)
 
 ---
 

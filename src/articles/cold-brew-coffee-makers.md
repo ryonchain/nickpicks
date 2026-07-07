@@ -64,7 +64,7 @@ The OXO Compact Cold Brew is the most consistently recommended cold brew maker a
 - Stainless filter occasionally lets through very fine particles (use paper filter for clearest cup)
 - Steep directly in fridge occupies fridge door space for 12–24 hours
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=OXO+Good+Grips+Compact+Cold+Brew+Coffee+Maker&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=OXO+Good+Grips+Compact+Cold+Brew+Coffee+Maker&tag=nickpicks-20)
 
 ---
 
@@ -93,7 +93,7 @@ The Toddy is the original cold brew system, designed in 1964 and still the bench
 - Felt filter must be soaked before first use
 - Bottom stopper occasionally leaks if not seated correctly
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Toddy+Cold+Brew+Coffee+System&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Toddy+Cold+Brew+Coffee+System&tag=nickpicks-20)
 
 ---
 
@@ -122,7 +122,7 @@ The KitchenAid Cold Brew is built for households with heavy coffee consumption. 
 - Stainless mesh produces slightly more sediment than felt filter options
 - Heavier when full (glass + 38 oz liquid)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=KitchenAid+Cold+Brew+Coffee+Maker&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=KitchenAid+Cold+Brew+Coffee+Maker&tag=nickpicks-20)
 
 ---
 
@@ -151,7 +151,7 @@ The Primula Burke is the best cold brew maker under $30. The design is a simple 
 - Handle design is basic — can feel awkward when full
 - Sediment pour-through requires careful serving technique
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Primula+Burke+Cold+Brew+Coffee+Maker&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Primula+Burke+Cold+Brew+Coffee+Maker&tag=nickpicks-20)
 
 ---
 
@@ -180,7 +180,7 @@ The Hario Mizudashi is the cold brew maker of choice for specialty coffee enthus
 - Plastic filter cone can stain with heavy use
 - Most expensive per-ounce value on this list
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Hario+Mizudashi+Cold+Brew+Coffee+Pot&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Hario+Mizudashi+Cold+Brew+Coffee+Pot&tag=nickpicks-20)
 
 ---
 

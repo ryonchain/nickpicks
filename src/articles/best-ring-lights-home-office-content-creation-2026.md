@@ -73,7 +73,7 @@ Additional specs to evaluate:
 
 ### 1. Neewer 10-Inch Ring Light Kit — Best Overall for Desk Use
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Neewer+10+inch+ring+light+kit)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Neewer+10+inch+ring+light+kit&tag=nickpicks-20)
 
 Neewer is the standard recommendation for a reason — their ring lights deliver reliable, consistent performance with everything you need out of the box. The 10-inch kit includes a short desktop tripod, a phone holder with cold shoe mount for small cameras, and a controller for adjusting brightness and color temperature independently.
 
@@ -91,7 +91,7 @@ Neewer is the standard recommendation for a reason — their ring lights deliver
 
 ### 2. ESDDI 12-Inch Ring Light Kit — Best Mid-Size with Remote
 
-**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=ESDDI+12+inch+ring+light+kit)
+**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=ESDDI+12+inch+ring+light+kit&tag=nickpicks-20)
 
 The extra 2 inches over a 10-inch ring translates to meaningfully more fill at 3–5 feet — you'll see the difference in how well the light wraps the face. The included wireless remote is genuinely useful, letting you dial in brightness and color temperature without stepping to the light between shots.
 
@@ -109,7 +109,7 @@ The extra 2 inches over a 10-inch ring translates to meaningfully more fill at 3
 
 ### 3. Neewer 18-Inch Ring Light Kit — Best for Full-Body Content
 
-**Price:** ~$95 | [Check on Amazon](https://www.amazon.com/s?k=Neewer+18+inch+ring+light+kit)
+**Price:** ~$95 | [Check on Amazon](https://www.amazon.com/s?k=Neewer+18+inch+ring+light+kit&tag=nickpicks-20)
 
 When you're shooting at 5–8 feet — standing for tutorials, doing full-body fitness content, or shooting interview-style setups — the 18-inch is the right tool. The larger diameter maintains strong, wrap-around fill at distances where a 10-inch drops to a point source.
 
@@ -128,7 +128,7 @@ When you're shooting at 5–8 feet — standing for tutorials, doing full-body f
 
 ### 4. Elgato Ring Light — Best for Streamers and Desk Integration
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Elgato+Ring+Light)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Elgato+Ring+Light&tag=nickpicks-20)
 
 Elgato targets streamers and the home office premium market — their ring light integrates with Elgato's Stream Deck via a software plugin, letting you assign hot-key control to brightness and color temperature. The desk arm mount means no floor tripod cluttering the workspace.
 
@@ -149,7 +149,7 @@ Elgato targets streamers and the home office premium market — their ring light
 
 ### 5. GVM 18-Inch Professional Ring Light — Best Professional Output
 
-**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=GVM+18+inch+ring+light)
+**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=GVM+18+inch+ring+light&tag=nickpicks-20)
 
 GVM's 18-inch ring tops the brightness charts on this list at ~7200 lux maximum — relevant for brightly lit studios where you're competing with strong ambient light sources. The wireless remote and solid tripod build make it a professional-grade kit at a semi-pro price.
 
@@ -168,7 +168,7 @@ GVM's 18-inch ring tops the brightness charts on this list at ~7200 lux maximum 
 
 ### 6. AIXPI 10-Inch Ring Light Kit — Best Budget
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=AIXPI+10+inch+ring+light+kit)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=AIXPI+10+inch+ring+light+kit&tag=nickpicks-20)
 
 AIXPI's 10-inch kit undercuts Neewer on price while including a wireless remote — the one spec Neewer's base kit omits. Output is slightly lower than the Neewer equivalent, but for video calls and basic content creation at a desk, the difference is negligible.
 

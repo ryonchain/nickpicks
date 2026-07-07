@@ -70,7 +70,7 @@ Build quality is the other standout: aluminum construction, smooth premium actio
 
 **Desk attachment:** Clamp or grommet (included hardware for both).
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Ergotron+LX+monitor+arm){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Ergotron+LX+monitor+arm&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -83,7 +83,7 @@ The weight limit (14.3 lbs) excludes heavier monitors like 32" curved panels or 
 
 **Desk attachment:** Clamp or grommet (included).
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+monitor+arm){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+monitor+arm&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -98,7 +98,7 @@ The single-pole design fits desks with limited edge space and includes both clam
 
 **Best for:** Dual-monitor setups where both monitors are under 19 lbs and you don't want to spend $200+.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=HUANUO+dual+monitor+arm){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=HUANUO+dual+monitor+arm&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -111,7 +111,7 @@ The stacking configuration stacks one monitor above the other (vs. side-by-side)
 
 At $200, it's the premium option — justified if you're adjusting monitor positions frequently, using heavier displays, or want the longevity of Ergotron's build.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Ergotron+LX+dual+monitor+arm){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Ergotron+LX+dual+monitor+arm&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -122,7 +122,7 @@ For a single monitor under 17.6 lbs, the HUANUO single arm at $35 gets the job d
 
 This is the pick if you want to try a monitor arm without committing to premium pricing, or if you need a secondary arm for an occasionally-used monitor.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=HUANUO+single+monitor+arm){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=HUANUO+single+monitor+arm&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

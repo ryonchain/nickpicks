@@ -87,7 +87,7 @@ Whether you own or rent, live in an apartment or a house, we've found the best o
 
 **Best for:** Amazon ecosystem users, Ring camera owners who want alarm integration, budget-conscious shoppers.
 
-[Check Ring Alarm pricing on Amazon →](https://www.amazon.com/dp/B07ZDTXJ93)
+[Check Ring Alarm pricing on Amazon →](https://www.amazon.com/dp/B07ZDTXJ93?tag=nickpicks-20)
 
 ---
 

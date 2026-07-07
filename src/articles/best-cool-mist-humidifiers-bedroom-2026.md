@@ -57,7 +57,7 @@ Here are the best cool mist humidifiers for bedroom use in 2026, chosen for nois
 
 ### 1. Levoit Classic 300S Ultrasonic Smart Humidifier — Best Overall Cool Mist Humidifier
 
-**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/s?k=Levoit+Classic+300S+ultrasonic+humidifier){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/s?k=Levoit+Classic+300S+ultrasonic+humidifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Levoit Classic 300S earns the top spot by combining a genuinely large 6-liter tank, near-silent sleep mode operation, and smart home integration into one well-built package. On its lowest setting it runs at approximately 25 dB — quieter than a library reading room — making it practical for light sleepers who would otherwise be woken by humidifier fan noise.
 
@@ -76,7 +76,7 @@ The Levoit Classic 300S earns the top spot by combining a genuinely large 6-lite
 
 ### 2. Honeywell HCM350W Germ Free Cool Mist Humidifier — Best Evaporative Humidifier
 
-**Price:** ~$55 | [Check price on Amazon →](https://www.amazon.com/s?k=Honeywell+HCM350W+Germ+Free+humidifier){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$55 | [Check price on Amazon →](https://www.amazon.com/s?k=Honeywell+HCM350W+Germ+Free+humidifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Honeywell HCM350W uses evaporative technology instead of ultrasonic — it passes air through a wet wick filter rather than vibrating water into a mist. This produces a slightly warmer, more natural moisture output and eliminates white mineral dust entirely. The "Germ Free" label refers to UV technology inside the unit that kills 99.9% of bacteria, mold, and spores in the water before dispersal.
 
@@ -95,7 +95,7 @@ The Honeywell HCM350W uses evaporative technology instead of ultrasonic — it p
 
 ### 3. Pure Enrichment MistAire Ultrasonic Cool Mist Humidifier — Best Budget Bedroom Humidifier
 
-**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=Pure+Enrichment+MistAire+ultrasonic+humidifier){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=Pure+Enrichment+MistAire+ultrasonic+humidifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Pure Enrichment MistAire proves that a bedroom humidifier doesn't require a $80 investment. Its 1.5-liter tank covers small to medium bedrooms (up to 175 sq ft effectively), runs for up to 16 hours on low, and has an auto-shutoff when the tank runs empty. The 360° mist nozzle adjusts direction, and the night light doubles as a dim ambient feature that doesn't disturb sleep.
 
@@ -114,7 +114,7 @@ The Pure Enrichment MistAire proves that a bedroom humidifier doesn't require a 
 
 ### 4. Dyson Purifier Humidify+Cool PH03 — Best Premium Smart Humidifier
 
-**Price:** ~$900 | [Check price on Amazon →](https://www.amazon.com/s?k=Dyson+Purifier+Humidify+Cool+PH03){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$900 | [Check price on Amazon →](https://www.amazon.com/s?k=Dyson+Purifier+Humidify+Cool+PH03&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Dyson PH03 is for buyers who want a single device that purifies, humidifies, and cools the bedroom — all controlled from the Dyson app. It uses a HEPA + activated carbon filter to remove 99.97% of airborne particles while simultaneously adding moisture, and it uses UV-C light to sterilize water before dispersal. Coverage reaches up to 1,000 sq ft.
 
@@ -133,7 +133,7 @@ The Dyson PH03 is for buyers who want a single device that purifies, humidifies,
 
 ### 5. Dreo Humidifiers for Bedroom — Best Quiet Humidifier for Sleep
 
-**Price:** ~$65 | [Check price on Amazon →](https://www.amazon.com/s?k=Dreo+humidifier+bedroom+quiet}{rel="nofollow sponsored" target="_blank"}
+**Price:** ~$65 | [Check price on Amazon →](https://www.amazon.com/s?k=Dreo+humidifier+bedroom+quiet&tag=nickpicks-20}{rel="nofollow sponsored" target="_blank"}
 
 The Dreo bedroom humidifier has made a strong case as the quietest ultrasonic option available under $70. Its sleep mode drops operation to 26 dB with auto-dimmed display and reduced mist output calibrated to maintain — rather than rapidly increase — overnight humidity. The 4-liter tank runs for 36 hours on low and the built-in humidity sensor prevents overhumidification.
 
@@ -164,7 +164,7 @@ The Dreo bedroom humidifier has made a strong case as the quietest ultrasonic op
 
 *All prices are approximate and subject to change. Check linked product pages for current pricing.*
 
-[Shop cool mist humidifiers on Amazon →](https://www.amazon.com/s?k=cool+mist+humidifier+bedroom){rel="nofollow sponsored" target="_blank"}
+[Shop cool mist humidifiers on Amazon →](https://www.amazon.com/s?k=cool+mist+humidifier+bedroom&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Frequently Asked Questions
 

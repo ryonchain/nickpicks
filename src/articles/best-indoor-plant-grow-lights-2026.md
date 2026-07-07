@@ -124,7 +124,7 @@ Modern full-spectrum LED panels achieve this with a mix of diode types that prod
 
 ### 1. Mars Hydro TS 1000 — Best Overall
 
-**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Mars+Hydro+TS+1000)
+**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Mars+Hydro+TS+1000&tag=nickpicks-20)
 
 The Mars Hydro TS 1000 earns the top spot by delivering professional-level light output at an accessible price. The panel draws 150W true power (not an inflated "equivalent" figure) and produces a genuine full-spectrum output with excellent red, blue, and white diode coverage across the PAR range. PPFD at 18 inches averages around 600–700 μmol/m²/s in the center of a 2×2 coverage area — adequate for fruiting plants and high-demand herbs, not just leafy greens.
 
@@ -145,7 +145,7 @@ The passive cooling design (no fan) means silent operation and no moving parts t
 
 ### 2. Spider Farmer SF-1000 — Best Efficiency
 
-**Price:** ~$110 | [Check on Amazon](https://www.amazon.com/s?k=Spider+Farmer+SF-1000)
+**Price:** ~$110 | [Check on Amazon](https://www.amazon.com/s?k=Spider+Farmer+SF-1000&tag=nickpicks-20)
 
 Spider Farmer built a reputation on using Samsung LM301B diodes — the industry benchmark for efficiency and longevity — in panels that cost significantly less than professional horticultural brands using the same chips. The SF-1000 draws only 100W true power but delivers PPFD comparable to many 150W panels thanks to the LM301B's superior luminous efficacy (2.7 μmol/J vs. 2.0–2.3 μmol/J for typical diodes). For electricity-conscious growers, that efficiency gap translates to meaningful savings over a full growing season.
 
@@ -166,7 +166,7 @@ The full-spectrum output includes 3000K, 5000K, and 660nm wavelengths — well-s
 
 ### 3. GE BR30 Full Spectrum LED Grow Bulb — Best for Single Plants
 
-**Price:** ~$15 | [Check on Amazon](https://www.amazon.com/s?k=GE+BR30+full+spectrum+grow+light)
+**Price:** ~$15 | [Check on Amazon](https://www.amazon.com/s?k=GE+BR30+full+spectrum+grow+light&tag=nickpicks-20)
 
 The GE BR30 is the right answer for the most common indoor plant situation: a single plant or small group of plants on a windowsill, side table, or bookshelf that doesn't get quite enough natural light. At 9W and $15, it screws into any standard E26 bulb socket — a floor lamp, desk lamp, or ceiling fixture — making it the most accessible grow light solution available without any setup complexity.
 
@@ -187,7 +187,7 @@ The full-spectrum output covers 400–700nm adequately for most houseplants, tro
 
 ### 4. Barrina T5 Full Spectrum Grow Light — Best for Shelving
 
-**Price:** ~$50 (4-strip set) | [Check on Amazon](https://www.amazon.com/s?k=Barrina+T5+full+spectrum+grow+light)
+**Price:** ~$50 (4-strip set) | [Check on Amazon](https://www.amazon.com/s?k=Barrina+T5+full+spectrum+grow+light&tag=nickpicks-20)
 
 Barrina's T5 grow light strips are the go-to solution for growing shelves, propagation trays, and multi-tier plant setups where a panel would be awkward to position. Each 2-foot strip is linkable, allowing you to run 4–8 strips from a single outlet. The 4-strip starter set covers a 4×1 ft shelf with even, consistent light distribution — ideal for seedling trays, herb gardens, or microgreens.
 
@@ -208,7 +208,7 @@ The built-in 3/9/12-hour programmable timer is a genuine advantage over panel-st
 
 ### 5. Govee Smart LED Grow Light Strip — Best for Smart Home Integration
 
-**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=Govee+smart+LED+grow+light)
+**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=Govee+smart+LED+grow+light&tag=nickpicks-20)
 
 The Govee Smart Grow Light brings app-controlled scheduling, dimming, and spectrum tuning to the plant light category. Via the Govee app, you can set sunrise/sunset schedules that gradually increase and decrease intensity, program different photoperiods for different seasons, and adjust the color temperature from warm to cool white depending on growth stage. Alexa and Google Assistant integration let you control the light by voice.
 

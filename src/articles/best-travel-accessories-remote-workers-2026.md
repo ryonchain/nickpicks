@@ -65,7 +65,7 @@ We prioritized accessories that solve real travel-work problems: screen space in
 
 ### 1. ASUS ZenScreen 15.6" Portable Monitor — Dual Screens Anywhere
 
-**Price:** ~$180 | [Search on Amazon →](https://www.amazon.com/s?k=ASUS+ZenScreen+15.6+portable+monitor){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$180 | [Search on Amazon →](https://www.amazon.com/s?k=ASUS+ZenScreen+15.6+portable+monitor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Hotel room TVs sit at the wrong angle, have input lag, and don't support screen sharing over USB-C. A 15.6-inch portable monitor plugs directly into your laptop's USB-C port, powers over the same cable, and gives you a proper 1080p second screen wherever you set up.
 
@@ -83,7 +83,7 @@ Hotel room TVs sit at the wrong angle, have input lag, and don't support screen 
 
 ### 2. Anker 727 Charging Station — The Travel Power Hub
 
-**Price:** ~$50 | [Search on Amazon →](https://www.amazon.com/s?k=Anker+727+charging+station+travel){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$50 | [Search on Amazon →](https://www.amazon.com/s?k=Anker+727+charging+station+travel&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 International travel means different outlet shapes, voltage standards, and never enough sockets. The Anker 727 is a 100W GaN charging station with built-in international adapter plugs (UK, EU, US, AU), two USB-C ports, and one USB-A — handling your laptop, phone, earbuds, and smartwatch from a single hotel outlet.
 
@@ -100,7 +100,7 @@ International travel means different outlet shapes, voltage standards, and never
 
 ### 3. Sony WH-1000XM5 — Best Noise-Canceling for Work Calls
 
-**Price:** ~$350 | [Search on Amazon →](https://www.amazon.com/s?k=Sony+WH-1000XM5+noise+canceling+headphones){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$350 | [Search on Amazon →](https://www.amazon.com/s?k=Sony+WH-1000XM5+noise+canceling+headphones&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Video calls from a hotel lobby, coffee shop, or airport lounge require active noise cancellation powerful enough to mute air conditioning drones, espresso machine steaming, and PA announcements. The WH-1000XM5 is the current leader on all three metrics: ANC depth, call clarity, and battery life.
 
@@ -118,7 +118,7 @@ Video calls from a hotel lobby, coffee shop, or airport lounge require active no
 
 ### 4. Logitech MX Keys Mini — Best Compact Travel Keyboard
 
-**Price:** ~$100 | [Search on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Keys+Mini+keyboard){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$100 | [Search on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Keys+Mini+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Typing on a laptop keyboard for 8 hours is a repetitive stress problem. The MX Keys Mini is a tenkeyless Bluetooth keyboard with spherically-dished keys that feel premium, backlit for dim hotel rooms, and small enough to pack next to a laptop in any bag.
 
@@ -135,7 +135,7 @@ Typing on a laptop keyboard for 8 hours is a repetitive stress problem. The MX K
 
 ### 5. Anker 621 USB-C Hub (6-in-1) — Compact Travel Hub
 
-**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=Anker+621+USB-C+hub+6-in-1){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=Anker+621+USB-C+hub+6-in-1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Your full 7-in-1 hub lives at your desk. For travel, a more compact hub that weighs almost nothing handles the same connectivity needs without bulk.
 
@@ -152,7 +152,7 @@ Pairs with the Anker 727 Charging Station: hub handles your laptop's port expans
 
 ### 6. Roost Laptop Stand — Fix Your Neck on the Road
 
-**Price:** ~$70 | [Search on Amazon →](https://www.amazon.com/s?k=Roost+laptop+stand+portable){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$70 | [Search on Amazon →](https://www.amazon.com/s?k=Roost+laptop+stand+portable&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Laptop screens sit at desk level, 8–10 inches below eye level when the laptop is on a table. Over a full workday, that neck-down angle compresses your cervical vertebrae and causes the shoulder tension that accumulates over months of travel work. The Roost folds to the size of a pen and adds proper screen height anywhere.
 
@@ -169,7 +169,7 @@ Use with the MX Keys Mini keyboard and any Bluetooth mouse for a complete portab
 
 ### 7. Anker 737 Power Bank — Never Run Out in Transit
 
-**Price:** ~$80 | [Search on Amazon →](https://www.amazon.com/s?k=Anker+737+power+bank+140W){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$80 | [Search on Amazon →](https://www.amazon.com/s?k=Anker+737+power+bank+140W&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Airport power outlets are competitive. Trains and buses often have none. The Anker 737 holds 24,000mAh — enough to fully charge a MacBook Pro and an iPhone from empty, twice — and outputs 140W, which charges most laptops at their maximum rate.
 

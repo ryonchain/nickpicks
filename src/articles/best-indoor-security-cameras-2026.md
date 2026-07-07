@@ -64,7 +64,7 @@ We tested 9 indoor security cameras over 8 weeks — evaluating video quality, f
 
 ### 1. Arlo Essential Indoor 2K — Best Indoor Security Camera Overall
 
-**Price:** ~$99 | [Check price on Amazon →](https://www.amazon.com/dp/B0CHD6NJHZ?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$99 | [Check price on Amazon →](https://www.amazon.com/dp/B0CHD6NJHZ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Arlo Essential Indoor 2K earns its place at the top through consistency. It has the most accurate AI-powered motion detection in the category — distinguishing between people, packages, vehicles, and animals with noticeably fewer false alerts than Ring or Nest.
 
@@ -86,7 +86,7 @@ The Arlo Essential Indoor 2K earns its place at the top through consistency. It 
 
 ### 2. Ring Indoor Cam (2nd Gen) — Best for Amazon Ecosystem
 
-**Price:** ~$59 | [Check price on Amazon →](https://www.amazon.com/dp/B09W9XSNQ5?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$59 | [Check price on Amazon →](https://www.amazon.com/dp/B09W9XSNQ5?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Ring's second-generation indoor camera is the best choice if you already own Ring Alarm, Ring Doorbells, or rely heavily on Alexa. The ecosystem integration is seamless: when the Ring Alarm triggers, all Ring cameras automatically begin recording. Alexa can show live feeds on Echo Show devices with a voice command.
 
@@ -109,7 +109,7 @@ Ring's second-generation indoor camera is the best choice if you already own Rin
 
 ### 3. Wyze Cam v4 — Best Budget Indoor Security Camera
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/dp/B0CH4GF2V3?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/dp/B0CH4GF2V3?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 At $35, the Wyze Cam v4 has no business being this good. It shoots 2.5K video (higher resolution than Arlo Essential's 2K), includes color night vision via a built-in spotlight, supports microSD local storage, and offers a free event detection tier. It's the best-value security camera we've ever reviewed.
 
@@ -132,7 +132,7 @@ At $35, the Wyze Cam v4 has no business being this good. It shoots 2.5K video (h
 
 ### 4. Google Nest Cam (Indoor) — Best for Google Home
 
-**Price:** ~$99 | [Check price on Amazon →](https://www.amazon.com/dp/B09PD1BYPV?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$99 | [Check price on Amazon →](https://www.amazon.com/dp/B09PD1BYPV?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Google Nest Cam (Indoor) is the best choice for homes using Google Home as the central smart home hub. Google Assistant integration is the most natural of any camera — "Hey Google, is anyone in the kitchen?" pulls a live snapshot into the Google Home app instantly.
 
@@ -155,7 +155,7 @@ The Google Nest Cam (Indoor) is the best choice for homes using Google Home as t
 
 ### 5. Eufy Indoor Cam E220 — Best for Privacy / Local Storage
 
-**Price:** ~$49 | [Check price on Amazon →](https://www.amazon.com/dp/B0C9VBHH2P?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$49 | [Check price on Amazon →](https://www.amazon.com/dp/B0C9VBHH2P?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If cloud privacy is a concern, the Eufy Indoor Cam E220 is your answer. Eufy processes all AI detection on-device — no video ever leaves your home unless you explicitly back it up. Local microSD recording stores everything. There's no mandatory subscription.
 

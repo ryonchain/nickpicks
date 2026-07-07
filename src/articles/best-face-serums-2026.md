@@ -57,7 +57,7 @@ Here are the best face serums in 2026, organized by skin concern and ingredient,
 
 ### 1. TruSkin Vitamin C Serum — Best Overall Brightening Serum
 
-**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=TruSkin+Vitamin+C+Serum){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=TruSkin+Vitamin+C+Serum&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 TruSkin's Vitamin C Serum is the most consistently well-reviewed vitamin C serum in the affordable range, with a formulation that combines vitamin C with vitamin E and hyaluronic acid — the standard effective combination for brightening. Vitamin C alone oxidizes quickly and can be unstable in high concentrations; pairing it with vitamin E stabilizes the vitamin C and enhances its antioxidant effect. The hyaluronic acid adds simultaneous hydration so the serum doesn't feel drying.
 
@@ -76,7 +76,7 @@ TruSkin's Vitamin C Serum is the most consistently well-reviewed vitamin C serum
 
 ### 2. L'Oréal Paris Revitalift 1.5% Pure Hyaluronic Acid Serum — Best Hyaluronic Acid Serum
 
-**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=L+Oreal+Revitalift+Hyaluronic+Acid+Serum){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=L+Oreal+Revitalift+Hyaluronic+Acid+Serum&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Hyaluronic acid is the most universally recommended serum ingredient because it works for all skin types — including sensitive, acne-prone, and oily — and provides immediate visible plumping with zero irritation risk. L'Oréal's Revitalift HA serum uses a 1.5% concentration with multiple molecular weights of hyaluronic acid, which allows both surface hydration and deeper penetration into the dermis. The result is the most noticeable immediate plumping effect in this price range.
 
@@ -95,7 +95,7 @@ Hyaluronic acid is the most universally recommended serum ingredient because it 
 
 ### 3. RoC Retinol Correxion Line Smoothing Serum — Best Retinol Serum
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=RoC+Retinol+Correxion+Line+Smoothing+Serum){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=RoC+Retinol+Correxion+Line+Smoothing+Serum&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Retinol is the most clinically proven over-the-counter anti-aging ingredient — it speeds cell turnover, stimulates collagen production, and reduces the appearance of fine lines and wrinkles over consistent use. RoC's Retinol Correxion serum has decades of clinical backing and delivers measurable results in 12–16 weeks. It uses a stabilized retinol formulation with a mineral complex that helps deliver retinol deeper into the skin than many drugstore alternatives.
 
@@ -114,7 +114,7 @@ Retinol is the most clinically proven over-the-counter anti-aging ingredient —
 
 ### 4. CeraVe Skin Renewing Vitamin C Serum — Best Serum for Sensitive Skin
 
-**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=CeraVe+Skin+Renewing+Vitamin+C+Serum){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=CeraVe+Skin+Renewing+Vitamin+C+Serum&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 CeraVe's approach to vitamin C differs from most formulas: they use a gentler vitamin C derivative (3-O-ethyl ascorbic acid) rather than pure L-ascorbic acid, which is more stable, less likely to oxidize, and significantly less irritating. This makes it the right vitamin C serum for people who've tried straight vitamin C serums and experienced irritation, redness, or stinging. CeraVe adds their signature ceramide complex (ceramides 1, 3, and 6-II) to strengthen the skin barrier simultaneously.
 
@@ -133,7 +133,7 @@ CeraVe's approach to vitamin C differs from most formulas: they use a gentler vi
 
 ### 5. The Ordinary Niacinamide 10% + Zinc 1% — Best Pore-Minimizing Serum
 
-**Price:** ~$15 | [Check price on Amazon →](https://www.amazon.com/s?k=The+Ordinary+Niacinamide+10+Zinc+1){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$15 | [Check price on Amazon →](https://www.amazon.com/s?k=The+Ordinary+Niacinamide+10+Zinc+1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Ordinary's Niacinamide 10% + Zinc 1% serum became one of the best-selling skincare products globally because it delivers clinical-level niacinamide concentration at a price that makes the rest of the skincare market embarrassing. Niacinamide (vitamin B3) at 10% concentration reduces pore appearance, regulates sebum production, fades dark spots and hyperpigmentation, and improves skin texture with consistent use. Zinc controls excess oil and reduces acne-causing bacteria.
 
@@ -166,7 +166,7 @@ The Ordinary's Niacinamide 10% + Zinc 1% serum became one of the best-selling sk
 
 *All prices are approximate and subject to change. Check linked product pages for current pricing.*
 
-[Shop face serums on Amazon →](https://www.amazon.com/s?k=face+serums){rel="nofollow sponsored" target="_blank"}
+[Shop face serums on Amazon →](https://www.amazon.com/s?k=face+serums&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Frequently Asked Questions
 

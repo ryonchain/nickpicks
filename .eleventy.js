@@ -15,7 +15,7 @@ async function imageShortcode(src, alt, sizes) {
   });
 }
 
-const AFFILIATE_TAG = "nickpicks0a-20";
+const AFFILIATE_TAG = "nickpicks-20";
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "public": "." });

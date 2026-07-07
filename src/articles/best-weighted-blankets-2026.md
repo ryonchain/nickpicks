@@ -67,7 +67,7 @@ The core decisions to make before buying:
 
 ### 1. YnM Weighted Blanket — Best Overall
 
-**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=YnM+weighted+blanket)
+**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=YnM+weighted+blanket&tag=nickpicks-20)
 
 YnM has sold millions of weighted blankets for a reason: it's hard to beat the value-to-quality ratio. The 7-layer construction keeps glass beads evenly distributed throughout the night — no bunching to one corner by morning. The outer cotton layer is breathable enough for three-season use.
 
@@ -84,7 +84,7 @@ YnM has sold millions of weighted blankets for a reason: it's hard to beat the v
 
 ### 2. Bearaby Cotton Napper — Best for Hot Sleepers
 
-**Price:** ~$249 | [Check on Amazon](https://www.amazon.com/s?k=Bearaby+Cotton+Napper)
+**Price:** ~$249 | [Check on Amazon](https://www.amazon.com/s?k=Bearaby+Cotton+Napper&tag=nickpicks-20)
 
 The Napper doesn't use beads at all — it's a chunky hand-knit cotton blanket where the weight comes from dense layers of organic cotton rope. The open weave creates air channels that no bead-filled blanket can match, making it the top choice for hot sleepers or anyone in a warm climate.
 
@@ -103,7 +103,7 @@ The Napper doesn't use beads at all — it's a chunky hand-knit cotton blanket w
 
 ### 3. Gravity Blanket — Best Premium Feel
 
-**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Gravity+Blanket+weighted)
+**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Gravity+Blanket+weighted&tag=nickpicks-20)
 
 Gravity helped popularize weighted blankets in the US and their original blanket still earns its premium price. The duvet-style removable cover in soft microfiber is noticeably higher quality than most competitors — the kind of fabric that makes you want to get into bed.
 
@@ -120,7 +120,7 @@ Gravity helped popularize weighted blankets in the US and their original blanket
 
 ### 4. Baloo Living Weighted Blanket — Best for Chemical-Free Buyers
 
-**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Baloo+Living+weighted+blanket)
+**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Baloo+Living+weighted+blanket&tag=nickpicks-20)
 
 Baloo is OEKO-TEX Standard 100 certified — every component, from the glass beads to the cotton fabric, is tested for harmful substances. If you're chemically sensitive, pregnant, or buying for a child, the certification matters. The blanket is also notably well-made, with tighter grid stitching than most competitors.
 
@@ -137,7 +137,7 @@ Baloo is OEKO-TEX Standard 100 certified — every component, from the glass bea
 
 ### 5. Luna Weighted Blanket — Best Budget
 
-**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Luna+weighted+blanket)
+**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Luna+weighted+blanket&tag=nickpicks-20)
 
 Luna delivers the core weighted blanket experience — glass bead fill, cotton shell, grid stitching — at the lowest price point on this list. The construction isn't quite as refined as YnM or Baloo, but for buyers who want to try a weighted blanket without a large commitment, it does the job.
 
@@ -156,7 +156,7 @@ Luna delivers the core weighted blanket experience — glass bead fill, cotton s
 
 ### 6. SensaCalm Weighted Blanket — Best Thinner Profile
 
-**Price:** ~$140 | [Check on Amazon](https://www.amazon.com/s?k=SensaCalm+weighted+blanket)
+**Price:** ~$140 | [Check on Amazon](https://www.amazon.com/s?k=SensaCalm+weighted+blanket&tag=nickpicks-20)
 
 SensaCalm uses micro steel beads instead of glass, which allows the same weight in a thinner, denser blanket. The result is a sleeker profile that doesn't pile up the way glass bead blankets can. They also offer custom weight options up to 30 lbs — important for larger adults who need more than the standard 20 lb maximum.
 

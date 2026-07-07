@@ -91,11 +91,11 @@ If you are looking for anti-aging actives, La Mer is not the most efficient vehi
 
 For most people: **No.** The active ingredients in La Mer are replicable by combining a $25 barrier cream (CeraVe, Vanicream) with a separate serum. You would get equal or better results for a fraction of the price.
 
-For a specific subset: **Yes.** If you have chronically dry, sensitive, or redness-prone skin and have burned through every drugstore option, La Mer is worth a trial-size purchase ($95 for 0.5 oz — [check price on Amazon](https://www.amazon.com/dp/B000NZXGPG)). The barrier repair and anti-inflammatory effects are real.
+For a specific subset: **Yes.** If you have chronically dry, sensitive, or redness-prone skin and have burned through every drugstore option, La Mer is worth a trial-size purchase ($95 for 0.5 oz — [check price on Amazon](https://www.amazon.com/dp/B000NZXGPG?tag=nickpicks-20)). The barrier repair and anti-inflammatory effects are real.
 
 **Bottom line:** Buy La Mer as a treat, not a skin care foundation. Pair it with sunscreen (always) and consider adding a retinol underneath if anti-aging is your primary goal.
 
-[Check current price on Amazon →](https://www.amazon.com/dp/B000NZXGPG)
+[Check current price on Amazon →](https://www.amazon.com/dp/B000NZXGPG?tag=nickpicks-20)
 
 ---
 

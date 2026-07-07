@@ -47,7 +47,7 @@ The LapGear Home Office Lap Desk is the most feature-complete lap desk for remot
 
 The surface is 19.5" × 14.5" — wide enough for a 15-inch laptop plus a wireless mouse. The lap cushion is thick and maintains its shape even after extended use. If you work from the sofa regularly enough to justify a proper setup, this is the most complete solution at $35–$50.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=LapGear+Home+Office+lap+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=LapGear+Home+Office+lap+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ The SAIJI lap desk adds an adjustable tilt stand to the standard flat lap desk f
 
 It's slightly larger and heavier than the LapGear, which makes it more of a stationary sofa setup than a truly portable option.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Saiji+lap+desk+sofa){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Saiji+lap+desk+sofa&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ Laptops generate significant heat from the bottom vents, and standard cushion-ba
 
 The cooling fan is USB-powered from your laptop, which draws slightly from the battery, but it's a genuine feature rather than a gimmick for anyone who uses their laptop for anything processor-intensive on the sofa. If you need more [USB ports](/articles/best-usb-hubs-remote-work-2026/) to power the fan and connect peripherals simultaneously, a compact hub keeps things tidy.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=HUANUO+lap+desk+with+fan+cooling){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=HUANUO+lap+desk+with+fan+cooling&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ The Sofia + Sam lap desk prioritizes comfort over features. The base is thick me
 
 If you have longer sofa work sessions and want the lap surface to feel genuinely comfortable rather than just functional, the memory foam base is worth the slight premium.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Sofia+Sam+oversized+lap+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Sofia+Sam+oversized+lap+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -85,7 +85,7 @@ If you have longer sofa work sessions and want the lap surface to feel genuinely
 
 For occasional sofa use or travel, the Basic Concepts lap desk is a simple flat board with a thin cushion base at $20–$25. It's lightweight (under 2 lbs), folds flat, and fits in a bag. It lacks mouse pad space and any adjustability, but it provides the core benefit — a stable, heat-blocking surface between laptop and legs — at minimum cost and size.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Basic+Concepts+lap+desk+couch){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Basic+Concepts+lap+desk+couch&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -135,4 +135,4 @@ The SAIJI Lap Desk with Adjustable Tilt is the best for long writing sessions �
 
 For most sofa workers, the **LapGear Home Office Lap Desk** is the complete package — stable base, mouse pad area, phone holder, and a work surface big enough for a 15-inch laptop with room to spare. If overheating is a problem with your laptop, add the **HUANUO with fan**. For budget buyers who just need basic stability and heat protection, the **Basic Concepts** model is a $20 no-regrets purchase.
 
-[Shop lap desks on Amazon →](https://www.amazon.com/s?k=lap+desk+sofa+working+laptop){rel="nofollow sponsored" target="_blank"}
+[Shop lap desks on Amazon →](https://www.amazon.com/s?k=lap+desk+sofa+working+laptop&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}

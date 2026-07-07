@@ -61,7 +61,7 @@ A good desk fan solves this. But not all desk fans are WFH-appropriate. The pick
 
 ### 1. Honeywell HTF090B Turbo Fan — Best Overall WFH Desk Fan
 
-**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=Honeywell+HTF090B+turbo+fan){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=Honeywell+HTF090B+turbo+fan&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Honeywell HTF090B has been the most reliable desk fan in its price range for over a decade. It's an 8-inch AC-powered personal fan with a 90-degree pivoting head, 3 speed settings, and a directional design that pushes a concentrated column of air — exactly what you need when you're sitting in one place all day.
 
@@ -79,7 +79,7 @@ The Honeywell HTF090B has been the most reliable desk fan in its price range for
 
 ### 2. FLEXTAIL Tiny Fan 2 Pro — Best Portable Rechargeable Fan
 
-**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=FLEXTAIL+Tiny+Fan+2+Pro){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=FLEXTAIL+Tiny+Fan+2+Pro&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The FLEXTAIL Tiny Fan 2 Pro is a 4-inch personal fan with a built-in rechargeable battery (7–30 hours depending on speed), a magnetic base that sticks to monitors and laptops, and a USB-C charge port. It's for WFH workers who move around — kitchen table in the morning, desk in the afternoon, couch in the evening.
 
@@ -97,7 +97,7 @@ The FLEXTAIL Tiny Fan 2 Pro is a 4-inch personal fan with a built-in rechargeabl
 
 ### 3. Dyson Cool AM06 — Best If Noise Is Your Primary Concern
 
-**Price:** ~$300 | [Search on Amazon →](https://www.amazon.com/s?k=Dyson+Cool+AM06+desk+fan){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$300 | [Search on Amazon →](https://www.amazon.com/s?k=Dyson+Cool+AM06+desk+fan&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Dyson AM06 is in a different category from the other fans in this guide — it costs 10× more than the Honeywell, and for many users it's not worth the premium. But if you're on video calls all day with an open microphone and your meeting software doesn't have noise suppression, the AM06's 43dB low setting is the difference between background fan noise on calls and clean audio.
 
@@ -115,7 +115,7 @@ The Dyson AM06 is in a different category from the other fans in this guide — 
 
 ### 4. OPOLAR Desk Fan — Best USB-Powered Option
 
-**Price:** ~$25 | [Search on Amazon →](https://www.amazon.com/s?k=OPOLAR+USB+desk+fan){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 | [Search on Amazon →](https://www.amazon.com/s?k=OPOLAR+USB+desk+fan&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 USB-powered fans draw 5V from a USB port, which means no power outlet needed — they run from a laptop, USB hub, or USB charger. The OPOLAR is the best USB-powered desk fan because it moves meaningful air at the USB power limit (about 2.5W) without the loud motor whine that cheaper USB fans produce.
 
@@ -132,7 +132,7 @@ USB-powered fans draw 5V from a USB port, which means no power outlet needed —
 
 ### 5. Dreo Nomad One Table Fan — Best Quiet Tower Fan
 
-**Price:** ~$55 | [Search on Amazon →](https://www.amazon.com/s?k=Dreo+Nomad+One+table+fan){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$55 | [Search on Amazon →](https://www.amazon.com/s?k=Dreo+Nomad+One+table+fan&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Dreo Nomad One is a compact tower fan (12 inches tall) that fits on a desk corner and oscillates 70 degrees to cool a larger area than a personal fan. At its lowest setting, it runs 25dB — one of the quietest AC fans available.
 
@@ -151,7 +151,7 @@ The Dreo Nomad One is a compact tower fan (12 inches tall) that fits on a desk c
 
 ### 6. Vornado 460 Small Air Circulator — Best Room Circulation Under $40
 
-**Price:** ~$40 | [Search on Amazon →](https://www.amazon.com/s?k=Vornado+460+small+air+circulator){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$40 | [Search on Amazon →](https://www.amazon.com/s?k=Vornado+460+small+air+circulator&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Vornado 460 doesn't blow air at you — it circulates the air in your entire room using a vortex pattern that eliminates hot spots. In a room where the air stagnates near the ceiling and your work area is 5°F warmer than it should be, a Vornado circulator is more effective than a directional fan.
 

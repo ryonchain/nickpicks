@@ -49,7 +49,7 @@ As for what's actually in a "useful" set: a chef's knife, a paring knife, a brea
 
 ### 1. Wüsthof Classic 8-Piece Block Set — Best Overall
 
-**Price:** ~$350 | [Check on Amazon](https://www.amazon.com/s?k=Wusthof+Classic+8+Piece+Block+Set)
+**Price:** ~$350 | [Check on Amazon](https://www.amazon.com/s?k=Wusthof+Classic+8+Piece+Block+Set&tag=nickpicks-20)
 
 If you buy one knife set and never think about it again, make it the Wüsthof Classic. Wüsthof has been forging knives in Solingen, Germany since 1814, and the Classic line is the standard against which most home cook sets are judged. The 8-piece block includes a 3.5-inch paring knife, a 6-inch utility knife, an 8-inch bread knife, an 8-inch chef's knife, a 9-inch honing steel, kitchen shears, and an acacia wood block. No filler.
 
@@ -68,7 +68,7 @@ The blades are precision-forged from a single piece of high-carbon X50CrMoV15 st
 
 ### 2. Victorinox Swiss Army Fibrox Pro — Best Budget Chef's Knife
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Victorinox+Fibrox+Pro+Chef+Knife)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Victorinox+Fibrox+Pro+Chef+Knife&tag=nickpicks-20)
 
 The Victorinox Fibrox Pro 8-inch chef's knife is the most recommended budget knife among professional cooks, culinary school instructors, and food writers — and for good reason. At roughly $40 for a single chef's knife (Victorinox also sells 3- and 4-piece sets in the $80–$120 range), it punches well above its price class.
 
@@ -89,7 +89,7 @@ The core message: a single $40 Victorinox chef's knife will out-cut every blade 
 
 ### 3. Henckels Classic 15-Piece Block Set — Best Value Block Set
 
-**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Henckels+Classic+15+Piece+Block+Set)
+**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Henckels+Classic+15+Piece+Block+Set&tag=nickpicks-20)
 
 Henckels offers the best block set under $200. The 15-piece set includes a 3-inch paring knife, 5-inch serrated utility knife, 7-inch santoku, 8-inch chef's knife, 8-inch bread knife, six 4.5-inch steak knives, kitchen shears, a honing rod, and a hardwood block. Everything you actually need in one purchase.
 
@@ -108,7 +108,7 @@ The blades use laser-controlled manufacturing for consistent edges and are made 
 
 ### 4. Shun Classic 6-Piece Starter Block — Best Japanese Steel
 
-**Price:** ~$450 | [Check on Amazon](https://www.amazon.com/s?k=Shun+Classic+6+Piece+Starter+Block)
+**Price:** ~$450 | [Check on Amazon](https://www.amazon.com/s?k=Shun+Classic+6+Piece+Starter+Block&tag=nickpicks-20)
 
 For cooks who want Japanese precision and are willing to invest in the sharpening habits that come with it, the Shun Classic 6-Piece Starter Block is the standard entry point. The set includes a 4-inch paring knife, a 6-inch utility knife, an 8-inch chef's knife, a 9-inch bread knife, kitchen shears, and a bamboo block.
 
@@ -130,7 +130,7 @@ Trade-off: these blades require a Japanese-angle whetstone for proper sharpening
 
 ### 5. Chicago Cutlery Fusion 18-Piece Block Set — Best Budget Full Set
 
-**Price:** ~$80 | [Check on Amazon](https://www.amazon.com/s?k=Chicago+Cutlery+Fusion+18+Piece+Block+Set)
+**Price:** ~$80 | [Check on Amazon](https://www.amazon.com/s?k=Chicago+Cutlery+Fusion+18+Piece+Block+Set&tag=nickpicks-20)
 
 Chicago Cutlery's Fusion 18-Piece set is the honest answer to "what's the best knife set under $100?" It's not a precision instrument — the steel is relatively soft, the handles are molded polymer, and the edges won't impress anyone who's used Wüsthof — but everything works, nothing breaks quickly, and the sheer volume makes it practical for households that regularly cook for crowds.
 
@@ -149,7 +149,7 @@ The 18 pieces include a chef's knife, santoku, bread knife, utility knife, parin
 
 ### 6. Laguiole en Aubrac 6-Piece Steak Knife Set — Best Steak Knives
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Laguiole+en+Aubrac+6+Piece+Steak+Knife+Set)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Laguiole+en+Aubrac+6+Piece+Steak+Knife+Set&tag=nickpicks-20)
 
 Laguiole en Aubrac is one of the few steak knife makers worth talking about. Made in the Aubrac region of France by artisans using the same traditional methods for generations, these knives feature single-bevel blades forged from Sandvik 12C27 Swedish stainless steel and handles available in wood, horn, or bone.
 

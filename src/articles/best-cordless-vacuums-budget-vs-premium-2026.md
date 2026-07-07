@@ -74,7 +74,7 @@ The Shark IZ462H represents the inflection point where budget ends and performan
 - MAX mode cuts battery to 20 min — not enough for large homes
 - Heavier than stick vacuums in similar range
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Shark+IZ462H+Vertex+cordless+vacuum&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Shark+IZ462H+Vertex+cordless+vacuum&tag=nickpicks-20)
 
 ---
 
@@ -102,7 +102,7 @@ The Dyson V15 Detect justifies its premium with one killer feature: a built-in l
 - MAX boost mode drains battery in 8–10 minutes
 - Dyson attachments are proprietary — ecosystem lock-in
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Dyson+V15+Detect+Absolute&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Dyson+V15+Detect+Absolute&tag=nickpicks-20)
 
 ---
 
@@ -130,7 +130,7 @@ For secondary room cleanups, quick pet hair removal from couches, or small apart
 - No specialized carpet boost mode
 - Runtime drops noticeably on thick carpet
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Bissell+CleanView+Slim+Cordless&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Bissell+CleanView+Slim+Cordless&tag=nickpicks-20)
 
 ---
 
@@ -158,7 +158,7 @@ The Shark Stratos is where the mid-range earns its keep. The HyperVelocity motor
 - MAX boost drains battery to 15 min — insufficient for large homes on max
 - Dust bin still smaller than Dyson V15
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Shark+IZ540H+Stratos+Cordless+Vacuum&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Shark+IZ540H+Stratos+Cordless+Vacuum&tag=nickpicks-20)
 
 ---
 
@@ -187,7 +187,7 @@ The LG CordZero A9 Ultimate is the most complete cordless system: two swappable 
 - 0.25L vacuum bin means more frequent auto-empty cycles
 - LG filter replacements are harder to source than Dyson
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=LG+CordZero+A9+Ultimate+self-emptying&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=LG+CordZero+A9+Ultimate+self-emptying&tag=nickpicks-20)
 
 ---
 

@@ -17,7 +17,7 @@ If you wake up sweaty, kick off covers, or find yourself flipping to the cool si
 ## Top 5 Bamboo Bed Sheets and Cooling Pillowcases
 
 ### 1. Cariloha Classic Bamboo Sheets
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_1)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_1?tag=nickpicks-20)  
 **Price Range:** $80–$110 (Queen)
 
 **Pros:**
@@ -37,7 +37,7 @@ If you wake up sweaty, kick off covers, or find yourself flipping to the cool si
 ---
 
 ### 2. Mellanni Bamboo Blend Sheet Set
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_2)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_2?tag=nickpicks-20)  
 **Price Range:** $35–$55 (Queen)
 
 **Pros:**
@@ -57,7 +57,7 @@ If you wake up sweaty, kick off covers, or find yourself flipping to the cool si
 ---
 
 ### 3. Ettitude CleanBamboo Sheet Set
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_3)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_3?tag=nickpicks-20)  
 **Price Range:** $130–$180 (Queen)
 
 **Pros:**
@@ -76,7 +76,7 @@ If you wake up sweaty, kick off covers, or find yourself flipping to the cool si
 ---
 
 ### 4. Bedsure Bamboo Cooling Pillowcases (2-Pack)
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_4)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_4?tag=nickpicks-20)  
 **Price Range:** $18–$28 (2-Pack)
 
 **Pros:**
@@ -96,7 +96,7 @@ If you wake up sweaty, kick off covers, or find yourself flipping to the cool si
 ---
 
 ### 5. Luxome Premium Bamboo Sheet Set
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_5)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_5?tag=nickpicks-20)  
 **Price Range:** $90–$120 (Queen)
 
 **Pros:**
@@ -145,4 +145,4 @@ Bamboo sheets are more delicate than cotton. Most need cold or warm water (not h
 
 For the best cooling performance, the **Ettitude CleanBamboo** or **Cariloha Classic** sets are worth every penny. Hot sleepers on a budget should start with the **Bedsure Bamboo Pillowcases** and work up to a full set. Bamboo bedding genuinely sleeps cooler than most synthetic and cotton blends — experience it for yourself. Find the best current prices on Amazon.
 
-*[View all picks on Amazon](https://www.amazon.com/PLACEHOLDER_COLLECTION)*
+*[View all picks on Amazon](https://www.amazon.com/PLACEHOLDER_COLLECTION?tag=nickpicks-20)*

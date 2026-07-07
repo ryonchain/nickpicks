@@ -67,7 +67,7 @@ GPS trackers for cats have different requirements than dog trackers — not all 
 
 ### 1. Tractive GPS 4 LTE — Best Overall for Dogs and Large Cats
 
-**Price:** ~$50 hardware + ~$5/month | [Check on Amazon](https://www.amazon.com/s?k=Tractive+GPS+4+LTE+dog+tracker)
+**Price:** ~$50 hardware + ~$5/month | [Check on Amazon](https://www.amazon.com/s?k=Tractive+GPS+4+LTE+dog+tracker&tag=nickpicks-20)
 
 Tractive's GPS 4 is the best-value real-time GPS tracker for most pets. The hardware is affordable, the subscription is the cheapest on the market at ~$5/month on an annual plan, and coverage spans 175+ countries on cellular networks. Live tracking updates every 2–3 seconds when your pet is on the move, and geofencing with push notifications works reliably on both iOS and Android.
 
@@ -89,7 +89,7 @@ The 1.3 oz weight is appropriate for dogs and cats over 8–10 lbs. For smaller 
 
 ### 2. Tractive GPS Cat Edition — Best Purpose-Built Cat Tracker
 
-**Price:** ~$50 hardware + ~$5/month | [Check on Amazon](https://www.amazon.com/s?k=Tractive+GPS+Cat+Edition)
+**Price:** ~$50 hardware + ~$5/month | [Check on Amazon](https://www.amazon.com/s?k=Tractive+GPS+Cat+Edition&tag=nickpicks-20)
 
 The Cat Edition is a modified version of Tractive's standard tracker with a lighter profile (1.0 oz vs. 1.3 oz) and a reflective strip for nighttime visibility — essential for cats who roam at dusk and dawn. The attachment design is compatible with breakaway cat collars, which is a critical safety feature that the standard dog-focused tracker lacks.
 
@@ -110,7 +110,7 @@ The Cat Edition is a modified version of Tractive's standard tracker with a ligh
 
 ### 3. Fi Series 3 Smart Collar — Best for Active Large Dogs
 
-**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Fi+Series+3+smart+dog+collar)
+**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Fi+Series+3+smart+dog+collar&tag=nickpicks-20)
 
 The Fi Series 3 integrates the GPS tracker directly into the collar hardware — no separate module to attach, and no module to lose if it snags on something. Battery life is exceptional: up to 3 months in low-activity mode, ~30 days with typical GPS use. The collar is high-quality nylon construction and available in sizes for dogs 10 lbs+.
 
@@ -132,7 +132,7 @@ Not appropriate for cats — the integrated collar design doesn't support breaka
 
 ### 4. Whistle Go Explore — Best for Health Monitoring (Dogs)
 
-**Price:** ~$80 hardware + ~$10/month | [Check on Amazon](https://www.amazon.com/s?k=Whistle+Go+Explore+GPS+dog+tracker)
+**Price:** ~$80 hardware + ~$10/month | [Check on Amazon](https://www.amazon.com/s?k=Whistle+Go+Explore+GPS+dog+tracker&tag=nickpicks-20)
 
 The Whistle Go Explore combines GPS location with comprehensive behavioral health monitoring — activity, rest patterns, licking, scratching, and drinking trends. The health insights can flag behavioral changes associated with illness or injury. The 20-day battery in power-save mode is exceptional, and the mid-range subscription includes both location and health features.
 
@@ -154,7 +154,7 @@ Whistle's health monitoring algorithms are calibrated for dogs specifically; thi
 
 ### 5. Jiobit Smart Tag — Best for Small Dogs and Large Cats
 
-**Price:** ~$100 hardware + ~$9/month | [Check on Amazon](https://www.amazon.com/s?k=Jiobit+Smart+Tag+GPS+tracker)
+**Price:** ~$100 hardware + ~$9/month | [Check on Amazon](https://www.amazon.com/s?k=Jiobit+Smart+Tag+GPS+tracker&tag=nickpicks-20)
 
 Jiobit is the smallest and lightest cellular GPS tracker available at 0.6 oz — light enough for small dog breeds and large cats (over 10 lbs) that can't handle heavier trackers. It uses GPS, LTE, Wi-Fi, and Bluetooth in combination, which allows it to track location indoors and outdoors. The flexible loop attachment works with most collar and harness widths, including breakaway cat collars.
 
@@ -174,7 +174,7 @@ Jiobit is the smallest and lightest cellular GPS tracker available at 0.6 oz —
 
 ### 6. Apple AirTag (with Collar Mount) — Best No-Subscription Option
 
-**Price:** ~$30 + collar mount | [Check on Amazon](https://www.amazon.com/s?k=Apple+AirTag+pet+collar+mount)
+**Price:** ~$30 + collar mount | [Check on Amazon](https://www.amazon.com/s?k=Apple+AirTag+pet+collar+mount&tag=nickpicks-20)
 
 The AirTag's Find My network requires no monthly subscription — location updates happen when any iPhone in the Find My network passes within Bluetooth range of your pet's AirTag. In urban and suburban areas, this network is dense enough to locate a lost pet within minutes. In rural areas with fewer iPhones, the coverage gap becomes significant.
 

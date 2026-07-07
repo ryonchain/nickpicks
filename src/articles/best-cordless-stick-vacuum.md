@@ -64,7 +64,7 @@ The Dyson V8 hits the sweet spot where Dyson quality becomes genuinely accessibl
 - Pricier than most on this list ($299+)
 - Battery pack is not swappable (one pack only)
 
-[Check on Amazon](https://www.amazon.com/s?k=Dyson+V8+Absolute&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Dyson+V8+Absolute&tag=nickpicks-20)
 
 ---
 
@@ -91,7 +91,7 @@ The Shark IX141 is the best value on this list. At 3.3 lbs it's the lightest sti
 - Bin capacity is small — frequent emptying needed
 - No motorized floor head attachment for deep carpet cleaning
 
-[Check on Amazon](https://www.amazon.com/s?k=Shark+IX141+cordless+vacuum&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Shark+IX141+cordless+vacuum&tag=nickpicks-20)
 
 ---
 
@@ -118,7 +118,7 @@ The Tineco A11 Hero offers the highest peak suction at 130 AW — impressive for
 - Max power mode cuts runtime to 25 min
 - App features are gimmicky and rarely used
 
-[Check on Amazon](https://www.amazon.com/s?k=Tineco+A11+Hero&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Tineco+A11+Hero&tag=nickpicks-20)
 
 ---
 
@@ -145,7 +145,7 @@ The Bissell Icon 25V runs on a powerful 25V battery system that delivers sustain
 - Bin is smaller than Dyson
 - Heavier than Shark at 4.7 lbs
 
-[Check on Amazon](https://www.amazon.com/s?k=Bissell+Icon+25V&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Bissell+Icon+25V&tag=nickpicks-20)
 
 ---
 
@@ -172,7 +172,7 @@ The Eufy HomeVac H30 Mate is the budget champion. At $89–119 with 16,000 Pa su
 - Smaller bin requires frequent emptying
 - Lower brand recognition than Dyson/Shark
 
-[Check on Amazon](https://www.amazon.com/s?k=Eufy+HomeVac+H30+Mate&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Eufy+HomeVac+H30+Mate&tag=nickpicks-20)
 
 ---
 
@@ -194,4 +194,4 @@ For most households — yes, especially homes with primarily hard floors. Homes 
 
 For the best all-around performance, the **Dyson V8** is still the gold standard. For pet owners on a budget, the **Shark IX141** is exceptional. For maximum suction, go with the **Tineco A11 Hero**.
 
-[Shop cordless vacuums on Amazon](https://www.amazon.com/s?k=cordless+stick+vacuum+lightweight&tag=ryonchain-20)
+[Shop cordless vacuums on Amazon](https://www.amazon.com/s?k=cordless+stick+vacuum+lightweight&tag=nickpicks-20)

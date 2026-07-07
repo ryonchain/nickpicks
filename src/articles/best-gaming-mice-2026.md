@@ -46,21 +46,21 @@ comparisonTable:
       rating: 4.8
       pros: ["60g ultralight body", "HERO 25K sensor", "LIGHTSPEED wireless", "70hr battery"]
       cons: ["Premium price", "Only 2 side buttons"]
-      amazonLink: "https://www.amazon.com/dp/B09NDDM86C?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B09NDDM86C?tag=nickpicks-20"
       badge: "Best Overall"
     - name: "Razer DeathAdder V3"
       price: "~$99"
       rating: 4.5
       pros: ["Best-in-class ergonomics", "Focus Pro 35K sensor", "90hr battery"]
       cons: ["Right-handed only", "Razer Synapse is resource-heavy"]
-      amazonLink: "https://www.amazon.com/dp/B0BY2F9JBH?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B0BY2F9JBH?tag=nickpicks-20"
       badge: "Best Ergonomic"
     - name: "SteelSeries Aerox 3"
       price: "~$59"
       rating: 4.4
       pros: ["IP54 water resistant", "68g honeycomb design", "80M click rated switches"]
       cons: ["Wired only", "8,500 DPI max"]
-      amazonLink: "https://www.amazon.com/dp/B096RT5CD4?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B096RT5CD4?tag=nickpicks-20"
       badge: "Best Value"
 ---
 
@@ -88,7 +88,7 @@ We tested 10 gaming mice across 200+ hours of FPS, MOBA, and RTS play to rank th
 
 ### 1. Logitech G Pro X Superlight 2 — Best Gaming Mouse Overall
 
-**Price:** ~$159 | [Check price on Amazon →](https://www.amazon.com/dp/B09NDDM86C?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$159 | [Check price on Amazon →](https://www.amazon.com/dp/B09NDDM86C?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Logitech G Pro X Superlight 2 is what professional esports athletes actually use. Over half of CS2 and Valorant pros at major tournaments run this mouse. At 60 grams, it's lighter than most wired mice and includes Logitech's LIGHTSPEED 2.4GHz wireless with sub-1ms latency.
 
@@ -110,7 +110,7 @@ The Logitech G Pro X Superlight 2 is what professional esports athletes actually
 
 ### 2. Razer DeathAdder V3 — Best Ergonomic Gaming Mouse
 
-**Price:** ~$99 | [Check price on Amazon →](https://www.amazon.com/dp/B0BY2F9JBH?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$99 | [Check price on Amazon →](https://www.amazon.com/dp/B0BY2F9JBH?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The DeathAdder V3 is Razer's best mouse in 15 years of iteration. The redesigned ergonomic shell fits medium-to-large hands perfectly for palm and claw grip, and the Focus Pro 35K sensor matches or exceeds any other sensor on the market at 100–35,000 DPI.
 
@@ -132,7 +132,7 @@ The DeathAdder V3 is Razer's best mouse in 15 years of iteration. The redesigned
 
 ### 3. SteelSeries Aerox 3 — Best Budget Gaming Mouse
 
-**Price:** ~$59 | [Check price on Amazon →](https://www.amazon.com/dp/B096RT5CD4?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$59 | [Check price on Amazon →](https://www.amazon.com/dp/B096RT5CD4?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 At $59, the SteelSeries Aerox 3 is the best value gaming mouse you can buy. Honeycomb shell brings weight to 68g, TrueMove Core+ sensor is accurate to 8,500 DPI, and the IP54 water resistance rating makes it one of few gaming mice you can use in humid or sweaty conditions without worry.
 
@@ -154,7 +154,7 @@ At $59, the SteelSeries Aerox 3 is the best value gaming mouse you can buy. Hone
 
 ### 4. Glorious Model O 2 — Best Lightweight Gaming Mouse
 
-**Price:** ~$79 | [Check price on Amazon →](https://www.amazon.com/dp/B0CHF5D9JP?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$79 | [Check price on Amazon →](https://www.amazon.com/dp/B0CHF5D9JP?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Glorious has been making ultralight gaming mice longer than anyone, and the Model O 2 is their most refined version. At 59g with no honeycomb cutouts (solid body), it's proof that you don't need holes to make a light mouse. The Bamboleo 26K sensor is legitimately competitive with Logitech HERO and Razer Focus Pro.
 
@@ -175,7 +175,7 @@ Glorious has been making ultralight gaming mice longer than anyone, and the Mode
 
 ### 5. Logitech G305 — Best Wireless Gaming Mouse Under $50
 
-**Price:** ~$39 | [Check price on Amazon →](https://www.amazon.com/dp/B07CMS5Q6P?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$39 | [Check price on Amazon →](https://www.amazon.com/dp/B07CMS5Q6P?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Logitech G305 is a 2018 mouse that refuses to be beaten on value. At $39, it includes LIGHTSPEED 2.4GHz wireless, the HERO 12K sensor, and 250-hour battery life on a single AA battery. No competitor at this price comes close.
 

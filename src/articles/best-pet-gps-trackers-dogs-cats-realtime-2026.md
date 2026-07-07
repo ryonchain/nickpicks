@@ -81,7 +81,7 @@ The Fi Series 3 is the most complete GPS dog collar available. It functions as b
 - Update frequency every 30 seconds (not truly real-time like Tractive's 2-3 seconds)
 - Required subscription makes it significantly more expensive long-term
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Fi+Series+3+GPS+dog+collar&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Fi+Series+3+GPS+dog+collar&tag=nickpicks-20)
 
 ---
 
@@ -112,7 +112,7 @@ The Whistle Go Explore 2 adds health monitoring to GPS tracking — daily activi
 - Clip attachment can loosen over time — check regularly
 - GPS accuracy occasionally drifts in urban environments
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Whistle+Go+Explore+2+GPS+pet+tracker&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Whistle+Go+Explore+2+GPS+pet+tracker&tag=nickpicks-20)
 
 ---
 
@@ -143,7 +143,7 @@ The Tractive Cat LTE is specifically designed for cats — weighing just 35g (wi
 - Less accurate in very rural areas with weak LTE coverage
 - App occasionally delayed in reporting location changes
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Tractive+Cat+LTE+GPS+tracker&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Tractive+Cat+LTE+GPS+tracker&tag=nickpicks-20)
 
 ---
 
@@ -174,7 +174,7 @@ The Apple AirTag is not a GPS tracker — it's Bluetooth, not cellular. But in u
 - AirTag is designed for lost items, not living animals with a collar attachment
 - Does not update in real-time — location only reported when near Apple devices
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Apple+AirTag+4+pack&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Apple+AirTag+4+pack&tag=nickpicks-20)
 
 ---
 
@@ -205,7 +205,7 @@ The Tractive Dog LTE delivers real GPS tracking at the lowest subscription cost 
 - IP67 — not rated for extended submersion (swimming dogs)
 - App UI less polished than Fi and Whistle
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Tractive+Dog+LTE+GPS+tracker&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Tractive+Dog+LTE+GPS+tracker&tag=nickpicks-20)
 
 ---
 

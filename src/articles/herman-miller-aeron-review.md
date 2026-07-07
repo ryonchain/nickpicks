@@ -90,7 +90,7 @@ The two most commonly compared chairs at this price point:
 
 ## Where to Buy
 
-**New from Herman Miller:** $1,495 — [Check on Amazon →](https://www.amazon.com/dp/B0BTTTLNNL)
+**New from Herman Miller:** $1,495 — [Check on Amazon →](https://www.amazon.com/dp/B0BTTTLNNL?tag=nickpicks-20)
 
 **Refurbished (best value):** Herman Miller certified refurbished Aerons are available on eBay and dedicated refurb dealers for $500–$800. Fully functional, often just cosmetically worn. If budget is the primary concern, this is the recommended path.
 
@@ -102,7 +102,7 @@ The Herman Miller Aeron is worth $1,495 if you work at a [standing desk](/articl
 
 It is not worth it as a status symbol or if you sit fewer than 4 hours per day.
 
-**Recommended purchase:** Size B, Graphite — [Check current price on Amazon →](https://www.amazon.com/dp/B0BTTTLNNL)
+**Recommended purchase:** Size B, Graphite — [Check current price on Amazon →](https://www.amazon.com/dp/B0BTTTLNNL?tag=nickpicks-20)
 
 ---
 

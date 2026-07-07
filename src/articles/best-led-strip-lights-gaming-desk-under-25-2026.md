@@ -45,7 +45,7 @@ Ambient lighting transforms a desk from functional to cinematic, and you don't n
 
 **Best for:** Anyone who wants a solid first RGB or RGBIC strip with a capable app and multiple length options, all under $25.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Govee+LED+Strip+Lights+RGB+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Govee+LED+Strip+Lights+RGB+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -61,7 +61,7 @@ Ambient lighting transforms a desk from functional to cinematic, and you don't n
 
 **Best for:** Users who prioritize strips that actually stay stuck and prefer a no-fuss remote over an app.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Lepro+LED+Strip+Lights+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Lepro+LED+Strip+Lights+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ Ambient lighting transforms a desk from functional to cinematic, and you don't n
 
 **Best for:** Cost-conscious buyers who want maximum length and color options for the lowest possible spend — ideal for a first gaming desk setup.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Daybetter+LED+Strip+Lights+gaming+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Daybetter+LED+Strip+Lights+gaming+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -93,7 +93,7 @@ Ambient lighting transforms a desk from functional to cinematic, and you don't n
 
 **Best for:** Gamers and home-office users who want smart-home integration, voice control, and RGBIC multizone effects all under $25.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Kasa+Smart+LED+Strip+TP-Link+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Kasa+Smart+LED+Strip+TP-Link+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -109,7 +109,7 @@ Ambient lighting transforms a desk from functional to cinematic, and you don't n
 
 **Best for:** Minimalists, productivity-focused desk setups, or anyone who wants reliable always-on ambient lighting without apps, remotes, or complexity.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=LE+LED+Strip+Lights+desk+USB){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=LE+LED+Strip+Lights+desk+USB&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

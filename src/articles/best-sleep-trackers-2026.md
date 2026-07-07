@@ -75,7 +75,7 @@ The Oura Ring 4 is the most accurate wrist-worn sleep tracker available to consu
 
 **Watch out for:** The $5.99/month membership is required to access most features. Without it, the ring collects data but shows minimal insights. Ring sizing is done via a free sizing kit (order one, wait ~1 week for your size).
 
-**https://www.amazon.com/s?k=Oura+Ring+4+sleep+tracker**
+**https://www.amazon.com/s?k=Oura+Ring+4+sleep+tracker**&tag=nickpicks-20
 
 ---
 
@@ -94,7 +94,7 @@ WHOOP takes a different philosophy: instead of showing you sleep stages, it focu
 
 **Watch out for:** WHOOP requires more app engagement to get value. If you want a passive tracker, Oura is simpler. WHOOP shines brightest for structured athletes tracking periodization.
 
-**https://www.amazon.com/s?k=WHOOP+4.0+fitness+sleep+tracker**
+**https://www.amazon.com/s?k=WHOOP+4.0+fitness+sleep+tracker**&tag=nickpicks-20
 
 ---
 
@@ -113,7 +113,7 @@ If you want sleep tracking without adding another device to your life, the Fitbi
 
 **Watch out for:** Fitbit sleep accuracy is good but not at Oura's level. The watch form factor means some people remove it for comfort during sleep.
 
-**https://www.amazon.com/s?k=Fitbit+Sense+2+health+smartwatch**
+**https://www.amazon.com/s?k=Fitbit+Sense+2+health+smartwatch**&tag=nickpicks-20
 
 ---
 
@@ -130,7 +130,7 @@ The Garmin Venu 3 is the best option if you refuse to pay a monthly subscription
 
 **Watch out for:** At $449, it's the priciest option on this list. Garmin's ecosystem feels more athletic/GPS-focused than sleep-focused; the sleep UI is solid but not as polished as Oura's.
 
-**https://www.amazon.com/s?k=Garmin+Venu+3+smartwatch**
+**https://www.amazon.com/s?k=Garmin+Venu+3+smartwatch**&tag=nickpicks-20
 
 ---
 
@@ -146,7 +146,7 @@ If wearing anything to bed is a dealbreaker, the Amazon Halo Rise sits on your n
 
 **Watch out for:** Radar-based tracking is less accurate than wrist-worn optical heart rate sensing. It works best for general sleep patterns, not clinical-grade data. Halo subscription ($3.99/mo) is optional but unlocks the best insights.
 
-**https://www.amazon.com/s?k=Amazon+Halo+Rise+sleep+tracker**
+**https://www.amazon.com/s?k=Amazon+Halo+Rise+sleep+tracker**&tag=nickpicks-20
 
 ---
 

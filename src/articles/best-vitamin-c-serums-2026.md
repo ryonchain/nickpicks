@@ -67,7 +67,7 @@ Vitamin C serums vary enormously in active ingredient quality, concentration, an
 
 ### 1. TruSkin Vitamin C Serum — Best Budget
 
-**Price:** ~$20 | [Check on Amazon](https://www.amazon.com/s?k=TruSkin+Vitamin+C+serum)
+**Price:** ~$20 | [Check on Amazon](https://www.amazon.com/s?k=TruSkin+Vitamin+C+serum&tag=nickpicks-20)
 
 TruSkin's vitamin C serum is consistently the highest-rated Amazon option at this price, and the formulation earns it. At 15% sodium ascorbyl phosphate (a stable L-AA derivative) paired with Vitamin E, hyaluronic acid, and botanical extracts, it delivers visible brightening results in 4–6 weeks. Sodium ascorbyl phosphate converts to L-ascorbic acid on skin contact and is significantly more stable than pure L-AA — a smart choice for value buyers.
 
@@ -85,7 +85,7 @@ TruSkin's vitamin C serum is consistently the highest-rated Amazon option at thi
 
 ### 2. SkinCeuticals C E Ferulic — Best Clinical Performance
 
-**Price:** ~$166 | [Check on Amazon](https://www.amazon.com/s?k=SkinCeuticals+C+E+Ferulic+serum)
+**Price:** ~$166 | [Check on Amazon](https://www.amazon.com/s?k=SkinCeuticals+C+E+Ferulic+serum&tag=nickpicks-20)
 
 Skinceuticals C E Ferulic is the most-cited Vitamin C serum in clinical literature and dermatologist recommendations. The patented combination of 15% L-ascorbic acid, 1% alpha tocopherol (Vitamin E), and 0.5% ferulic acid is the gold standard for photoprotection and brightening in a topical antioxidant. The price is hard to justify without context — but in the context of clinically validated efficacy and formulation stability, it's the benchmark.
 
@@ -106,7 +106,7 @@ Skinceuticals C E Ferulic is the most-cited Vitamin C serum in clinical literatu
 
 ### 3. Timeless 20% Vitamin C + E + Ferulic — Best Budget Dupe
 
-**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Timeless+20+percent+Vitamin+C+E+Ferulic+serum)
+**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Timeless+20+percent+Vitamin+C+E+Ferulic+serum&tag=nickpicks-20)
 
 Timeless's serum directly replicates the SkinCeuticals C E Ferulic formulation at a fraction of the cost — 20% L-ascorbic acid with Vitamin E and ferulic acid at the same target pH. Independent consumer testing shows comparable early performance to SkinCeuticals. The dropper packaging is less protective against oxidation than an airless system, so buy smaller bottles and use within 3 months of opening.
 
@@ -126,7 +126,7 @@ Timeless's serum directly replicates the SkinCeuticals C E Ferulic formulation a
 
 ### 4. Paula's Choice C15 Super Booster — Best Formulation Balance
 
-**Price:** ~$49 | [Check on Amazon](https://www.amazon.com/s?k=Paula%27s+Choice+C15+Super+Booster)
+**Price:** ~$49 | [Check on Amazon](https://www.amazon.com/s?k=Paula%27s+Choice+C15+Super+Booster&tag=nickpicks-20)
 
 Paula's Choice uses 15% L-ascorbic acid in an airless pump at a lower pH, stabilized with Vitamin E and ferulic acid. The concentration sweet spot (15% is well-tolerated across most skin types; 20% causes tingling in sensitive users) and the airless pump packaging make this one of the most thoughtfully formulated mid-range options. The "booster" format is designed to be mixed with your existing moisturizer, which extends versatility.
 
@@ -144,7 +144,7 @@ Paula's Choice uses 15% L-ascorbic acid in an airless pump at a lower pH, stabil
 
 ### 5. Mad Hippie Vitamin C Serum — Best for Sensitive Skin
 
-**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Mad+Hippie+Vitamin+C+serum)
+**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Mad+Hippie+Vitamin+C+serum&tag=nickpicks-20)
 
 Mad Hippie uses a multi-form vitamin C approach at lower concentrations specifically designed for reactive and sensitive skin types. The lower L-AA percentage (6.25%) with stabilizing derivatives reduces the risk of tingling, redness, and irritation that higher-concentration serums cause in sensitive users. Konjac root, Vitamin E, ferulic acid, and hyaluronic acid round out the formula.
 
@@ -162,7 +162,7 @@ Mad Hippie uses a multi-form vitamin C approach at lower concentrations specific
 
 ### 6. Revive Science Glow Serum — Best 20% Budget Option
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Revive+Science+Glow+Serum+Vitamin+C)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Revive+Science+Glow+Serum+Vitamin+C&tag=nickpicks-20)
 
 Revive Science delivers the highest available L-ascorbic acid concentration (20%) at a consumer price point, in an airless pump that extends stability. The texture is slightly thicker than water-based serums, which some users prefer for dry skin. At this concentration, tingling on initial application is expected and typically subsides after 1–2 weeks of use.
 

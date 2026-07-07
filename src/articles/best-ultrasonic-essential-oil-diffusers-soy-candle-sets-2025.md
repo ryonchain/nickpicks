@@ -17,7 +17,7 @@ There's a reason the home fragrance category is one of Amazon's fastest-growing 
 ## Top 5 Essential Oil Diffusers and Soy Candle Sets
 
 ### 1. URPOWER 2nd Version Essential Oil Diffuser (500ml)
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_1)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_1?tag=nickpicks-20)  
 **Price Range:** $18–$28  
 **Category:** Ultrasonic Diffuser
 
@@ -39,7 +39,7 @@ There's a reason the home fragrance category is one of Amazon's fastest-growing 
 ---
 
 ### 2. InnoGear Upgraded Diffuser (150ml)
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_2)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_2?tag=nickpicks-20)  
 **Price Range:** $12–$20  
 **Category:** Ultrasonic Diffuser
 
@@ -59,7 +59,7 @@ There's a reason the home fragrance category is one of Amazon's fastest-growing 
 ---
 
 ### 3. ASAKUKI 700ml Premium Essential Oil Diffuser
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_3)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_3?tag=nickpicks-20)  
 **Price Range:** $30–$45  
 **Category:** Ultrasonic Diffuser
 
@@ -80,7 +80,7 @@ There's a reason the home fragrance category is one of Amazon's fastest-growing 
 ---
 
 ### 4. Brooklyn Candle Studio Escapist Collection Soy Candle Set
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_4)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_4?tag=nickpicks-20)  
 **Price Range:** $40–$60 (3-candle set)  
 **Category:** Soy Candle Set
 
@@ -101,7 +101,7 @@ There's a reason the home fragrance category is one of Amazon's fastest-growing 
 ---
 
 ### 5. P.F. Candle Co. Standard Candle Set
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_5)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_5?tag=nickpicks-20)  
 **Price Range:** $30–$50 (2-candle set)  
 **Category:** Soy Candle Set
 
@@ -157,4 +157,4 @@ Not all soy candles are pure soy. "Soy blend" candles may be 80% paraffin with 2
 
 For ultrasonic diffusion, the **URPOWER 500ml** is the best value for most homes, while the **ASAKUKI 700ml** wins for large living spaces. Gift-givers and scent connoisseurs should invest in the **Brooklyn Candle Studio** or **P.F. Candle Co.** sets — both are genuinely impressive and beautifully packaged. Check current prices and gift set availability on Amazon.
 
-*[View all picks on Amazon](https://www.amazon.com/PLACEHOLDER_COLLECTION)*
+*[View all picks on Amazon](https://www.amazon.com/PLACEHOLDER_COLLECTION?tag=nickpicks-20)*

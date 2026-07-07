@@ -47,7 +47,7 @@ The BenQ ScreenBar clips directly to the top of your monitor and illuminates you
 
 The standard ScreenBar typically runs $100–$110, which is slightly above the $50 ceiling, but it appears on sale regularly and a simplified version is often under $50. For serious improvement to desktop illumination, it's the most thoughtfully designed option in this category.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=BenQ+ScreenBar+monitor+light+bar){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=BenQ+ScreenBar+monitor+light+bar&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ The Govee LED desk lamp provides adjustable color temperature (warm to cool whit
 
 Color temperature adjustment is the most useful feature in this price range. Cool white (5000K+) improves focus during deep work; warm white (3000K) is more comfortable during evening hours. Having a lamp that does both covers all scenarios.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Govee+LED+desk+lamp+smart){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Govee+LED+desk+lamp+smart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ The Elgato Key Light Mini is a compact LED panel designed specifically for video
 
 The Key Light Mini is typically $59–$80 and is a significant improvement for anyone who has regular video calls. The diffused panel produces professional-quality lighting that no standard desk lamp can replicate. If you're frequently on video, this is the one upgrade that will most visibly improve your professional appearance on calls.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Elgato+Key+Light+Mini){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Elgato+Key+Light+Mini&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ If your home office has overhead lighting, replacing a standard bulb with a Phil
 
 The bulbs work with Alexa, Google Home, and Apple HomeKit. A single bulb typically runs $20–$30 and requires no hub if you use Bluetooth control.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Philips+Hue+White+smart+bulb){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Philips+Hue+White+smart+bulb&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -85,7 +85,7 @@ The bulbs work with Alexa, Google Home, and Apple HomeKit. A single bulb typical
 
 The TROND LED light bar clips to your monitor like the BenQ ScreenBar but costs significantly less — typically $35–$45. It provides adjustable color temperature and brightness via a touch-sensitive dial, and the clip mechanism fits monitors from 0.4" to 2" thick. For users who want the "no screen glare" benefit of a monitor-top light bar without spending $100, the TROND is the most capable budget alternative.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=TROND+monitor+light+bar+screen+light){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=TROND+monitor+light+bar+screen+light&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -135,7 +135,7 @@ The BenQ ScreenBar monitor light is designed specifically to reduce eye strain �
 
 For most home offices, two purchases cover the essentials: a **Govee LED desk lamp** ($25) for adjustable task lighting, and a **TROND or BenQ monitor light bar** ($40–$100) to illuminate your keyboard and documents without screen glare. If video calls are frequent, add an **Elgato Key Light Mini** and your face will look noticeably more professional from the first call. For ambient desk lighting and behind-monitor bias lighting, [LED strip lights](/articles/best-led-strip-lights-desk-2026/) are an affordable complement to task lighting. For better video call quality alongside your lighting setup, see our [best webcams for home office](/articles/best-webcams-home-office-2026/) guide.
 
-[Shop home office lighting on Amazon →](https://www.amazon.com/s?k=home+office+desk+lighting+LED){rel="nofollow sponsored" target="_blank"}
+[Shop home office lighting on Amazon →](https://www.amazon.com/s?k=home+office+desk+lighting+LED&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

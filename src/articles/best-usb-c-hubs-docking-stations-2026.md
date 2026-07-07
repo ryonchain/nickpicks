@@ -21,21 +21,21 @@ comparisonTable:
       rating: 4.8
       pros: ["Top-rated performance", "Great value"]
       cons: ["Check availability"]
-      amazonLink: "https://www.amazon.com/s?k=Anker+13-in-1+USB-C+Hub&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=Anker+13-in-1+USB-C+Hub&tag=nickpicks-20"
       badge: "Best Overall"
     - name: "CalDigit TS4"
       price: "~$349"
       rating: 4.5
       pros: ["Top-rated performance", "Great value"]
       cons: ["Check availability"]
-      amazonLink: "https://www.amazon.com/s?k=CalDigit+TS4&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=CalDigit+TS4&tag=nickpicks-20"
       badge: "Best Budget"
     - name: "Satechi USB-C Multiport Adapter V3"
       price: "~$99"
       rating: 4.3
       pros: ["Top-rated performance", "Great value"]
       cons: ["Check availability"]
-      amazonLink: "https://www.amazon.com/s?k=Satechi+USB-C+Multiport+Adapter+V3&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=Satechi+USB-C+Multiport+Adapter+V3&tag=nickpicks-20"
       badge: "Best Premium"
 ---
 

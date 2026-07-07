@@ -68,7 +68,7 @@ Key factors to evaluate:
 
 ### 1. Anova Culinary Precision Cooker Pro — Best Overall
 
-**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Anova+Precision+Cooker+Pro+sous+vide)
+**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Anova+Precision+Cooker+Pro+sous+vide&tag=nickpicks-20)
 
 The Anova Pro is the benchmark home immersion circulator. It combines 1200W of power with dual Wi-Fi and Bluetooth connectivity and Anova's extensive recipe app. The tool-free adjustable clamp attaches in one hand, the stainless steel skirt is dishwasher safe, and Anova's community and guide library makes it the best-supported entry into sous vide cooking.
 
@@ -87,7 +87,7 @@ The Anova Pro is the benchmark home immersion circulator. It combines 1200W of p
 
 ### 2. Breville Joule Turbo — Best Premium Option
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Breville+Joule+Turbo+sous+vide)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Breville+Joule+Turbo+sous+vide&tag=nickpicks-20)
 
 The Joule Turbo is the most powerful and most compact sous vide stick on the market. At 1100W, it heats water faster than most competitors. The app is the best in the category — guided visual doneness guides show you exactly what the food looks like at each temperature before you commit. The magnetic base is a unique feature that holds the unit upright in magnetic pots.
 
@@ -107,7 +107,7 @@ The Joule Turbo is the most powerful and most compact sous vide stick on the mar
 
 ### 3. Inkbird ISV-100W — Best Value
 
-**Price:** ~$70 | [Check on Amazon](https://www.amazon.com/s?k=Inkbird+ISV-100W+sous+vide)
+**Price:** ~$70 | [Check on Amazon](https://www.amazon.com/s?k=Inkbird+ISV-100W+sous+vide&tag=nickpicks-20)
 
 The Inkbird ISV-100W delivers 1000W of power with Bluetooth app control at roughly half the price of the Anova Pro. Inkbird's build quality isn't quite at Anova's level — the clamp mechanism is a screw-style vs. tool-free — but the temperature accuracy, pump speed, and heating performance are indistinguishable in use.
 
@@ -125,7 +125,7 @@ The Inkbird ISV-100W delivers 1000W of power with Bluetooth app control at rough
 
 ### 4. Anova Nano — Best for Small Batches
 
-**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Anova+Nano+sous+vide)
+**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Anova+Nano+sous+vide&tag=nickpicks-20)
 
 The Anova Nano is the stripped-down sibling to the Pro — 750W instead of 1200W, Bluetooth only (no Wi-Fi), and a more compact form factor. For single servings, couple portions, or any cook under 8 hours on quantities under 4 lbs, the 750W is sufficient. The smaller footprint is a real advantage in cluttered kitchens.
 
@@ -143,7 +143,7 @@ The Anova Nano is the stripped-down sibling to the Pro — 750W instead of 1200W
 
 ### 5. Wancle Sous Vide Cooker — Best No-App Option
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Wancle+sous+vide+cooker)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Wancle+sous+vide+cooker&tag=nickpicks-20)
 
 The Wancle is the best no-app sous vide option. The digital display and manual dial give you full control without a phone. For cooks who find app-dependency frustrating or who just want to set a temperature and walk away, this delivers reliable ±0.1°C accuracy at a fraction of connected cooker prices.
 
@@ -161,7 +161,7 @@ The Wancle is the best no-app sous vide option. The digital display and manual d
 
 ### 6. VPCOK Sous Vide Cooker — Budget Entry Point
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=VPCOK+sous+vide+cooker)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=VPCOK+sous+vide+cooker&tag=nickpicks-20)
 
 VPCOK's no-app immersion circulator is the least expensive credible sous vide option. The trade-off for the $35 price is reduced temperature accuracy (±0.5°C vs. ±0.1°C on quality cookers) and a 1000W element that runs hotter to compensate. For a first sous vide cook, a weekly meal-prep tool on a tight budget, or a gift for a beginner, the VPCOK does the job.
 

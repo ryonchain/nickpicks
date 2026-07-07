@@ -66,7 +66,7 @@ The Roomba j7+ is the robot vacuum built around pet owners. Its PrecisionVision 
 - Slower cleaning speed than LiDAR competitors
 - Premium price for the dock bundle
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=iRobot+Roomba+j7+plus+robot+vacuum&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=iRobot+Roomba+j7+plus+robot+vacuum&tag=nickpicks-20)
 
 ---
 
@@ -96,7 +96,7 @@ The Roborock S8 Pro Ultra is the all-in-one dock solution: auto-empty, auto-refi
 - Overkill for apartments or hardwood-only homes
 - App has a learning curve for multi-floor setups
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Roborock+S8+Pro+Ultra+robot+vacuum&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Roborock+S8+Pro+Ultra+robot+vacuum&tag=nickpicks-20)
 
 ---
 
@@ -127,7 +127,7 @@ The Eufy RoboVac 11S Max delivers 2,000 Pa of suction in a 2.85-inch slim profil
 - No mopping function
 - Manual emptying required after every 1–2 runs
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Eufy+RoboVac+11S+Max+robot+vacuum&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Eufy+RoboVac+11S+Max+robot+vacuum&tag=nickpicks-20)
 
 ---
 
@@ -157,7 +157,7 @@ The Shark IQ XL punches well above its price with a self-emptying dock and home 
 - App and connectivity sometimes unreliable
 - No mopping capability
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Shark+IQ+XL+RV1001AE+robot+vacuum&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Shark+IQ+XL+RV1001AE+robot+vacuum&tag=nickpicks-20)
 
 ---
 
@@ -187,7 +187,7 @@ The Roborock Q Revo hits the sweet spot between the budget Eufy and the premium 
 - Water tank capacity requires refilling more often than S8 Pro Ultra
 - Higher price than comparable non-mopping options
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Roborock+Q+Revo+robot+vacuum&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Roborock+Q+Revo+robot+vacuum&tag=nickpicks-20)
 
 ---
 

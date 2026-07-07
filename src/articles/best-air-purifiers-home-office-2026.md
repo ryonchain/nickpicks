@@ -73,7 +73,7 @@ This guide covers six of the best air purifiers for home offices, ranked by nois
 
 ### 1. Coway AP-1512HH Mighty — Best Budget Pick
 
-**[Coway AP-1512HH Mighty Air Purifier on Amazon →](https://www.amazon.com/dp/B01728NLNM){rel="nofollow sponsored" target="_blank"}** (~$90–$120)
+**[Coway AP-1512HH Mighty Air Purifier on Amazon →](https://www.amazon.com/dp/B01728NLNM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$90–$120)
 
 The Coway Mighty is one of the bestselling air purifiers in Amazon history, and for good reason: it delivers genuine H13 True HEPA filtration, a 3-stage filter system (pre-filter + carbon + HEPA), an air quality indicator that glows green/yellow/red, and auto mode — all for under $120.
 
@@ -105,7 +105,7 @@ At CADR 246 (dust), it cleans a 360 sq ft room in ~30 minutes on high. The "slee
 
 ### 2. Levoit Core 300 — Best for Small Offices
 
-**[Levoit Core 300 Air Purifier on Amazon →](https://www.amazon.com/dp/B08L73QL3V){rel="nofollow sponsored" target="_blank"}** (~$90–$110)
+**[Levoit Core 300 Air Purifier on Amazon →](https://www.amazon.com/dp/B08L73QL3V?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$90–$110)
 
 The Levoit Core 300 is the most stylish air purifier at this price point — a compact cylindrical design in white or black that looks like a speaker, not a medical device. It's ideal for small home offices (up to 219 sq ft) where aesthetics matter and desk space is premium.
 
@@ -137,7 +137,7 @@ The Levoit Core 300 is the most stylish air purifier at this price point — a c
 
 ### 3. Winix 5500-2 — Best Value for Larger Rooms
 
-**[Winix 5500-2 Air Purifier on Amazon →](https://www.amazon.com/dp/B01D8DKJF2){rel="nofollow sponsored" target="_blank"}** (~$150–$200)
+**[Winix 5500-2 Air Purifier on Amazon →](https://www.amazon.com/dp/B01D8DKJF2?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$150–$200)
 
 The Winix 5500-2 is the step up for home offices 300–400 sq ft or larger. Its CADR of 360 (smoke) is among the highest in its price range, and it adds Winix PlasmaWave — a safe ionization technology that helps neutralize viruses, bacteria, and odors by producing hydroxyls that break down pollutants at the molecular level.
 
@@ -169,7 +169,7 @@ The 4-stage filtration (washable pre-filter + carbon sheet + True HEPA + PlasmaW
 
 ### 4. Levoit Core 400S — Best Smart Purifier
 
-**[Levoit Core 400S Smart Air Purifier on Amazon →](https://www.amazon.com/dp/B08K1P3CJR){rel="nofollow sponsored" target="_blank"}** (~$200–$230)
+**[Levoit Core 400S Smart Air Purifier on Amazon →](https://www.amazon.com/dp/B08K1P3CJR?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$200–$230)
 
 The Core 400S is Levoit's WiFi-connected flagship for mid-size rooms. It covers 403 sq ft (CADR 260), syncs with the VeSync app for real-time air quality monitoring, voice control via Alexa and Google Home, and scheduling.
 
@@ -201,7 +201,7 @@ What makes it worth the premium over the Core 300: the built-in PM2.5 and AQI se
 
 ### 5. Blueair Blue Pure 211+ Auto — Best Scandinavian Design
 
-**[Blueair Blue Pure 211+ Auto Air Purifier on Amazon →](https://www.amazon.com/dp/B09B3KPZJZ){rel="nofollow sponsored" target="_blank"}** (~$280–$320)
+**[Blueair Blue Pure 211+ Auto Air Purifier on Amazon →](https://www.amazon.com/dp/B09B3KPZJZ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$280–$320)
 
 Blueair is a Swedish brand that takes an unusual approach: their HEPASilent technology uses a combination of electrostatic and mechanical filtration that delivers the same particulate removal as True HEPA at significantly lower fan speeds — meaning genuinely quieter operation for the same clean air output.
 
@@ -232,7 +232,7 @@ The Blue Pure 211+ Auto is their high-capacity model for spaces up to 550 sq ft.
 
 ### 6. Rabbit Air MinusA2 — Best Ultra-Quiet Premium Pick
 
-**[Rabbit Air MinusA2 Ultra Quiet Air Purifier on Amazon →](https://www.amazon.com/dp/B007WLVWJK){rel="nofollow sponsored" target="_blank"}** (~$450–$550)
+**[Rabbit Air MinusA2 Ultra Quiet Air Purifier on Amazon →](https://www.amazon.com/dp/B007WLVWJK?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$450–$550)
 
 The Rabbit Air MinusA2 is the pick for people who work in their bedroom or a studio where noise is unacceptable. At its lowest setting, it measures 20.8 dB — below the threshold of what most humans can consciously detect. It can operate 24/7 without ever disturbing sleep or focus.
 

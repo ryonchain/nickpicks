@@ -65,7 +65,7 @@ The AeroGarden Harvest is the best-reviewed beginner smart garden. Six pods, 20W
 
 **Cons:** Proprietary pods cost more than seeds, 6-pod limit restricts variety
 
-**[AeroGarden Harvest on Amazon →](https://www.amazon.com/dp/B07CGCMQKB){rel="nofollow sponsored" target="_blank"}** (ASIN: B07CGCMQKB)
+**[AeroGarden Harvest on Amazon →](https://www.amazon.com/dp/B07CGCMQKB?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07CGCMQKB)
 
 ---
 
@@ -79,7 +79,7 @@ For serious indoor gardeners, the Farm 24XL grows full-size tomatoes, peppers, a
 
 **Cons:** Large footprint (28" × 11"), higher price, requires nutrients every 2 weeks
 
-**[AeroGarden Farm 24XL on Amazon →](https://www.amazon.com/dp/B07K3JM7YM){rel="nofollow sponsored" target="_blank"}** (ASIN: B07K3JM7YM)
+**[AeroGarden Farm 24XL on Amazon →](https://www.amazon.com/dp/B07K3JM7YM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07K3JM7YM)
 
 ---
 
@@ -93,7 +93,7 @@ Click and Grow uses soil pods (not hydroponic) — a differentiator for gardener
 
 **Cons:** Soil pods grow slower than hydroponics, pods are proprietary
 
-**[Click and Grow Smart Garden 9 on Amazon →](https://www.amazon.com/dp/B07Q4GTH7S){rel="nofollow sponsored" target="_blank"}** (ASIN: B07Q4GTH7S)
+**[Click and Grow Smart Garden 9 on Amazon →](https://www.amazon.com/dp/B07Q4GTH7S?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07Q4GTH7S)
 
 ---
 
@@ -107,7 +107,7 @@ The best budget pick. iDOO uses standard 1.8" net cups — compatible with any s
 
 **Cons:** No app connectivity, basic plastic build
 
-**[iDOO 12-Pod Hydroponic System on Amazon →](https://www.amazon.com/dp/B089DZ7PB2){rel="nofollow sponsored" target="_blank"}** (ASIN: B089DZ7PB2)
+**[iDOO 12-Pod Hydroponic System on Amazon →](https://www.amazon.com/dp/B089DZ7PB2?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B089DZ7PB2)
 
 ---
 

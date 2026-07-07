@@ -95,7 +95,7 @@ Features that sound good but matter less: lullaby libraries (you'll use a dedica
 
 **Price: ~$380 (Complete System with Flex Stand)**
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Nanit+Pro+Complete+Monitoring+System){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Nanit+Pro+Complete+Monitoring+System&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Nanit Pro is the monitor that pediatric sleep consultants actually recommend — and it's easy to see why. The camera mounts directly above the crib and uses computer vision to track your baby's breathing motion through a swaddle blanket (included with the Complete system). The app is genuinely one of the best in class: clear sleep analytics, weekly trend reports, and milestone tracking that's useful from day one through toddlerhood.
 
@@ -116,7 +116,7 @@ The Nanit Pro is the monitor that pediatric sleep consultants actually recommend
 
 **Price: ~$160**
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Eufy+SpaceView+Pro+baby+monitor){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Eufy+SpaceView+Pro+baby+monitor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If you want the best standalone monitor — no WiFi, no subscription, no app required — the Eufy SpaceView Pro is it. The 5-inch IPS parent unit is the largest screen in its class, the camera shoots 1080p with true infrared night vision, and the 330° pan plus 110° tilt means you can reposition remotely without tiptoeing into the nursery. The parent unit holds a charge for up to 10 hours on a single battery, which comfortably covers a full night of monitoring.
 
@@ -137,7 +137,7 @@ If you want the best standalone monitor — no WiFi, no subscription, no app req
 
 **Price: ~$200**
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Infant+Optics+DRX-8+Pro+baby+monitor){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Infant+Optics+DRX-8+Pro+baby+monitor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Infant Optics DRX-8 earned a devoted following among parents for one reason: it just works. The Pro version upgrades the original with a 5-inch display, 1080p resolution, and the same interchangeable lens system that made the DRX-8 famous — swap between a standard wide-angle and an optical zoom lens depending on your nursery setup. DECT technology keeps the signal private and interference-free, and the parent unit battery lasts through a full 12-hour night shift.
 
@@ -158,7 +158,7 @@ The Infant Optics DRX-8 earned a devoted following among parents for one reason:
 
 **Price: ~$400**
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Owlet+Dream+Duo+baby+monitor){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Owlet+Dream+Duo+baby+monitor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Owlet Dream Duo pairs a 1080p HD camera with Owlet's Dream Sock — a pulse oximeter worn on baby's foot that tracks heart rate and blood oxygen levels in real time. When readings fall outside normal ranges, the Owlet Base Station glows red and sounds an alarm, even if your phone is on silent. For NICU graduates, premature babies, or parents managing high medical anxiety, this combination of video and physiological monitoring is hard to match.
 
@@ -179,7 +179,7 @@ The Owlet Dream Duo pairs a 1080p HD camera with Owlet's Dream Sock — a pulse 
 
 **Price: ~$60**
 
-[Check price on Amazon →](https://www.amazon.com/s?k=HelloBaby+HB6550+baby+monitor){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=HelloBaby+HB6550+baby+monitor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Not every family needs $300 worth of baby monitor. The HelloBaby HB6550 delivers the fundamentals at a fraction of the cost: 720p video, infrared night vision, two-way audio, a 3.2-inch parent unit display, and a lullaby player. It's FHSS-based (no WiFi, no app, no subscription), the battery lasts around 6–8 hours on video mode, and the signal is stable out to 960 feet rated range. For grandparent use, secondary monitoring in a playroom, or families watching a tight budget in the newborn months, this monitor punches well above its price.
 

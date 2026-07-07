@@ -50,7 +50,7 @@ Oral-B's kids' lineup has earned its reputation the old-fashioned way: by making
 - Round brush heads require more brushing time per tooth than sonic types
 - Character options may not include your child's current favorite
 
-[Check Price on Amazon](https://amazon.com/s?k=Oral-B+Kids+Electric+Toothbrush+Disney)
+[Check Price on Amazon](https://amazon.com/s?k=Oral-B+Kids+Electric+Toothbrush+Disney&tag=nickpicks-20)
 
 ---
 
@@ -70,7 +70,7 @@ The Sonicare for Kids Connected wins over tech-forward parents with its free com
 - Higher price than Oral-B Disney models for similar core cleaning performance
 - Bluetooth pairing can be finicky on older Android devices
 
-[Check Price on Amazon](https://amazon.com/s?k=Philips+Sonicare+for+Kids+Connected)
+[Check Price on Amazon](https://amazon.com/s?k=Philips+Sonicare+for+Kids+Connected&tag=nickpicks-20)
 
 ---
 
@@ -90,7 +90,7 @@ Quip's kids' toothbrush strips everything back to what actually matters: a consi
 - Subscription model is economical but requires signup for best value
 - Vibration intensity is lighter than Oral-B or Sonicare — may be less effective on heavy plaque
 
-[Check Price on Amazon](https://amazon.com/s?k=Quip+Kids+Electric+Toothbrush)
+[Check Price on Amazon](https://amazon.com/s?k=Quip+Kids+Electric+Toothbrush&tag=nickpicks-20)
 
 ---
 
@@ -110,7 +110,7 @@ The Colgate Magik takes the app integration concept further than anyone else wit
 - App engagement tends to fade after several months as novelty wears off
 - Replacement heads are Colgate-specific and less widely stocked than Oral-B
 
-[Check Price on Amazon](https://amazon.com/s?k=Colgate+Magik+Smart+Toothbrush+Kids)
+[Check Price on Amazon](https://amazon.com/s?k=Colgate+Magik+Smart+Toothbrush+Kids&tag=nickpicks-20)
 
 ---
 
@@ -130,7 +130,7 @@ Fairywill has carved out a credible budget-electric-toothbrush niche for adults,
 - Brand is less established — replacement heads may be harder to find locally
 - Build quality is noticeably lighter than Oral-B or Sonicare handles
 
-[Check Price on Amazon](https://amazon.com/s?k=Fairywill+Kids+Sonic+Electric+Toothbrush)
+[Check Price on Amazon](https://amazon.com/s?k=Fairywill+Kids+Sonic+Electric+Toothbrush&tag=nickpicks-20)
 
 ---
 
@@ -150,7 +150,7 @@ By age 8 or 9, kids benefit from adult-level cleaning performance — and the Or
 - Best suited for ages 8 and up — handle size is too large for younger children
 - App is required to unlock full coaching features; some kids resist the routine
 
-[Check Price on Amazon](https://amazon.com/s?k=Oral-B+iO+Series+My+Way)
+[Check Price on Amazon](https://amazon.com/s?k=Oral-B+iO+Series+My+Way&tag=nickpicks-20)
 
 ---
 

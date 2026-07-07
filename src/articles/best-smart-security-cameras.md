@@ -47,7 +47,7 @@ The Arlo Pro 4 is the best outdoor security camera for most homes. It shoots 2K 
 
 It's wire-free and weather-resistant (IP67), with a rechargeable battery that lasts 3–6 months between charges depending on activity. The free Arlo plan includes 30 days of cloud storage for up to 5 cameras — unusually generous compared to Ring and Google. An Arlo hub enables direct-to-hub recording as backup. For outdoor camera coverage without compromises, the Pro 4 is the benchmark.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Arlo+Pro+4+wireless+security+camera){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Arlo+Pro+4+wireless+security+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ The Ring Stick Up Cam is the most flexible camera in the Ring lineup — it work
 
 Motion detection includes customizable zones so you don't trigger alerts every time a car passes. The Ring Basic plan ($3.99/month) enables video history for one camera. If you already have a Ring doorbell or Ring Alarm, the Stick Up Cam is the natural extension — same app, same motion timeline, same Alexa integration. For Amazon households, this ecosystem cohesion is worth the subscription.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Ring+Stick+Up+Cam+security+camera){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Ring+Stick+Up+Cam+security+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ The Wyze Cam v3 costs about $35 and punches well above its price. It shoots 1080
 
 Motion detection accuracy is good, and the siren feature triggers from the app. For a second or third camera in a lower-priority location — a garage, backyard gate, or secondary entry point — the Wyze Cam v3 is the best value option that doesn't require compromise on video quality or weather resistance.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Wyze+Cam+v3+outdoor+security+camera){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Wyze+Cam+v3+outdoor+security+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ The Eufy Security 2K stores footage locally on the included HomeBase hub (with 1
 
 The local storage model means you own your footage — no monthly fee, no concern about what happens to footage on third-party servers. The tradeoff is that if the HomeBase is stolen along with the camera (inside the house during a break-in), you lose the footage. For privacy-conscious homeowners who want no subscription fees, the Eufy 2K is the best option available.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Eufy+Security+2K+indoor+camera+HomeBase){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Eufy+Security+2K+indoor+camera+HomeBase&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -87,7 +87,7 @@ The Google Nest Cam (wired, indoor/outdoor) delivers 1080p HDR video with HDR pr
 
 The camera integrates deeply with Google Home and Google Assistant — you can pull up a live feed on a Nest Hub display with a voice command. Google Nest Aware starts at $6/month for 30-day video history. For homes already using Google Home, Nest Hub, or Chromecast, the Nest Cam's ecosystem integration is genuinely useful and distinguishes it from cheaper alternatives.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Google+Nest+Cam+wired+security){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Google+Nest+Cam+wired+security&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -136,4 +136,4 @@ Most smart home cameras require WiFi for live view, motion alerts, and cloud sto
 
 For outdoor coverage, the **Arlo Pro 4** is the best overall — free cloud storage, 2K video, and wire-free installation. For privacy-focused homeowners who want no monthly fees, the **Eufy Security 2K** is the cleanest solution. Budget shoppers who need both indoor and outdoor coverage should start with the **Wyze Cam v3** and expand from there.
 
-[Shop security cameras on Amazon →](https://www.amazon.com/s?k=smart+home+security+camera+wifi+2K){rel="nofollow sponsored" target="_blank"}
+[Shop security cameras on Amazon →](https://www.amazon.com/s?k=smart+home+security+camera+wifi+2K&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}

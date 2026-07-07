@@ -49,7 +49,7 @@ The Anker 552 is the benchmark mid-range USB-C hub. Nine ports on a single cable
 
 The 552 weighs under 3 oz and fits in a bag pocket, which makes it equally useful at a coffee shop or a dedicated home desk. Power Delivery pass-through at 100W means your laptop charges at full speed while the hub is connected. Build quality is solid aluminum — it runs slightly warm under heavy load but doesn't throttle performance.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Anker+552+USB+C+hub+7-in-1){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Anker+552+USB+C+hub+7-in-1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -59,7 +59,7 @@ If you're running dual 4K monitors, a full desktop peripheral setup, and need wi
 
 This is a desk-stationed product — it's not portable — but for a fixed [home office](/articles/best-home-office-setup-under-1000/) setup it eliminates every dongle and cable you'd otherwise manage. The $250 price tag is real but earns its cost in the sheer breadth of connectivity it replaces. Pair it with a [cable management](/articles/best-cable-management-desk-2026/) tray to keep the dock's output cables organized under the desk.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=CalDigit+TS4+Thunderbolt+4+dock){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=CalDigit+TS4+Thunderbolt+4+dock&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -69,7 +69,7 @@ Not every remote worker needs a full hub with HDMI and SD card slots. If your la
 
 The Sabrent is also the answer for users who still have USB-A inputs on their laptop and want to expand the port count without overcomplicating the setup.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Sabrent+4-port+USB+3.0+hub){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Sabrent+4-port+USB+3.0+hub&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -79,7 +79,7 @@ The Hyper HyperDrive GEN2 is the step up from the Anker 552 for users who need m
 
 The catch is size — it's larger and heavier than a typical travel hub, so it lives on your desk rather than in your bag. For MacBook users who want dual-monitor support without buying a full docking station, this hits the right spot.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=HyperDrive+USB+C+hub+multiport){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=HyperDrive+USB+C+hub+multiport&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -89,7 +89,7 @@ The LENTION CB-C35 covers the essentials at a price point that's hard to beat: U
 
 If you're setting up a secondary workspace, a travel kit, or just need a hub that works without spending $80+, this is the most capable option at the sub-$30 tier.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Lention+USB+C+multiport+hub){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Lention+USB+C+multiport+hub&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -140,7 +140,7 @@ For most remote workers, yes. Nine ports, 100W Power Delivery, 4K HDMI, SD card 
 
 For the majority of remote workers, the **Anker 552** is the right choice — nine ports, solid build, 100W charging, and a price that doesn't hurt. If you're running a full desktop setup with dual monitors, step up to the **CalDigit TS4** and never think about ports again.
 
-[Shop USB hubs on Amazon →](https://www.amazon.com/s?k=USB+C+hub+multiport+adapter){rel="nofollow sponsored" target="_blank"}
+[Shop USB hubs on Amazon →](https://www.amazon.com/s?k=USB+C+hub+multiport+adapter&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

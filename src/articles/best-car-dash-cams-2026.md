@@ -49,7 +49,7 @@ Night vision has also improved dramatically. Sony STARVIS and STARVIS 2 sensors 
 
 ### 1. Vantrue E1 Lite — Best Overall
 
-**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Vantrue+E1+Lite+dash+cam)
+**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Vantrue+E1+Lite+dash+cam&tag=nickpicks-20)
 
 The Vantrue E1 Lite earns the top spot by nailing the fundamentals without overcomplicating anything. It shoots 4K at 30fps using a Sony STARVIS 2 sensor, producing footage that's sharp enough to read plates at distance in most lighting conditions. The compact form factor — smaller than a credit card — means it tucks behind the rearview mirror without obstructing your view.
 
@@ -71,7 +71,7 @@ The companion app works reliably for downloading clips over Wi-Fi, and the loop 
 
 ### 2. VIOFO A119 Mini 2 — Best Budget Under $60
 
-**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=VIOFO+A119+Mini+2+dash+cam)
+**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=VIOFO+A119+Mini+2+dash+cam&tag=nickpicks-20)
 
 The A119 Mini 2 proves you don't need to spend big to get solid dash cam coverage. At under $60, you get 2K 30fps footage, a Sony STARVIS sensor for decent night performance, and a genuinely small profile that's easy to hide behind your mirror. It supports GPS logging, so your speed and location are embedded in every clip — useful for insurance disputes.
 
@@ -92,7 +92,7 @@ If you're new to dash cams or just need reliable coverage on a tight budget, the
 
 ### 3. Viofo A129 Pro Duo — Best 4K Front/Rear
 
-**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Viofo+A129+Pro+Duo+dash+cam)
+**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Viofo+A129+Pro+Duo+dash+cam&tag=nickpicks-20)
 
 Front-and-rear coverage at 4K front resolution for $150 is genuinely impressive, and the A129 Pro Duo delivers it without compromise. The front unit captures 4K at 30fps via Sony STARVIS 2; the rear camera records 1080p, which is more than adequate for capturing tailgaters and rear-end incidents. Both cameras connect via a single cable run along your headliner.
 
@@ -114,7 +114,7 @@ Night footage from both cameras is noticeably better than similarly priced compe
 
 ### 4. Vantrue N4 3-Channel 4K — Best Premium 3-Channel
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Vantrue+N4+3+channel+dash+cam)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Vantrue+N4+3+channel+dash+cam&tag=nickpicks-20)
 
 Three simultaneous channels — front, rear, and interior — make the N4 the definitive choice for rideshare drivers, families, and anyone who wants complete vehicle documentation. The front camera records 4K, the interior and rear each capture 1080p, all running concurrently without performance degradation.
 
@@ -135,7 +135,7 @@ Parking mode is comprehensive: motion detection, time-lapse, and low-bitrate sta
 
 ### 5. Garmin Dash Cam Mini 2 — Best Discreet
 
-**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Garmin+Dash+Cam+Mini+2)
+**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Garmin+Dash+Cam+Mini+2&tag=nickpicks-20)
 
 Garmin built the Mini 2 for drivers who want protection without anyone knowing it's there. It's tiny — barely larger than a car key fob — and mounts flush to the windshield behind the mirror where it's virtually invisible from outside or inside the cabin. Despite its size, it records 1080p at 60fps, which produces smoother, more stable footage than standard 30fps cameras.
 
@@ -154,7 +154,7 @@ Garmin's app integration is among the best in the industry. Automatic incident d
 
 ### 6. Nextbase 622GW — Best for Premium Features
 
-**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Nextbase+622GW+dash+cam)
+**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Nextbase+622GW+dash+cam&tag=nickpicks-20)
 
 The 622GW sits at the top of Nextbase's lineup and shows it. You get 4K 30fps front recording with HDR, built-in Amazon Alexa, What3Words emergency location integration, and the most polished physical design of any camera on this list. The polarized filter reduces windshield glare, and the magnetic mount makes installation and removal a matter of seconds.
 

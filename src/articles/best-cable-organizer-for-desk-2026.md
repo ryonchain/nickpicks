@@ -56,7 +56,7 @@ The JOTO cable management box is the most popular option on Amazon for good reas
 
 **Best for:** Anyone who wants a single box to contain the power strip chaos under or beside the desk.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Joto+cable+management+box){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Joto+cable+management+box&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -73,7 +73,7 @@ Bluelounge makes some of the most thoughtfully designed cable management product
 
 **Best for:** Smaller setups, desk corners, or anyone who wants a product that looks like an Apple accessory.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Bluelounge+CableBox+Mini+cable+management){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Bluelounge+CableBox+Mini+cable+management&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -90,7 +90,7 @@ If your power strip is oversized — an 8-outlet strip, a long surge protector, 
 
 **Best for:** Power users with 8-outlet strips, international adapters, or large UPS battery backups.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=D-Line+cable+management+box){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=D-Line+cable+management+box&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -107,7 +107,7 @@ Most cable boxes sit on the floor or on the desk surface. The Kable Kontrol opti
 
 **Best for:** Minimalist desk setups where even a floor-sitting box feels like too much clutter.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Kable+Kontrol+cable+management+box){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Kable+Kontrol+cable+management+box&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -124,7 +124,7 @@ Under $20 and it works. The Soulwit box doesn't have the premium finish of the B
 
 **Best for:** Budget-conscious buyers who want cable organization without overthinking it.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=cable+management+box+power+strip){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=cable+management+box+power+strip&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -185,7 +185,7 @@ For the core function (hiding a power strip), yes. Premium options add better fi
 
 For most setups, the **JOTO Cable Management Box** is the right call — it fits standard power strips, comes in neutral finishes, and costs under $30. If you want to go premium, the **Bluelounge CableBox Mini** earns its price. And if you want the desk to look like nothing is there at all, the **Kable Kontrol** mounted under the surface is the cleanest outcome you can achieve.
 
-[Shop cable organizer boxes on Amazon →](https://www.amazon.com/s?k=cable+organizer+desk+management){rel="nofollow sponsored" target="_blank"}
+[Shop cable organizer boxes on Amazon →](https://www.amazon.com/s?k=cable+organizer+desk+management&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

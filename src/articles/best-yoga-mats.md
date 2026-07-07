@@ -47,7 +47,7 @@ The Liforme Original is the best yoga mat for home practice if grip and alignmen
 
 At 4.2mm, it's thinner than most mats and designed for vinyasa and power yoga rather than restorative practice. The mat is 185cm long — taller practitioners who feel cramped on standard 173cm mats will appreciate the extra length. At $150, it's an investment, but the grip and alignment features are genuinely useful rather than cosmetic.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Liforme+Original+yoga+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Liforme+Original+yoga+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ The Manduka PRO is built for practitioners who take their practice seriously. Th
 
 Manduka backs the PRO with a lifetime guarantee, which is unusual in any product category. The mat weighs 7.5 lbs — heavier than most, which makes it better suited for home practice than travel. Expect to break it in over the first few sessions; the surface grip improves significantly after 5–10 uses. If you practice regularly and want a mat that outlasts everything else you own, the PRO is the right choice.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Manduka+PRO+yoga+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Manduka+PRO+yoga+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ The Gaiam Premium is a reliable 6mm yoga mat available for $25–$40 depending o
 
 Gaiam mats don't have the durability of the Manduka PRO — expect 1–3 years of regular practice before the surface shows wear. But for someone starting a home yoga practice or practicing 1–2 times per week, the Gaiam Premium is more than adequate. Available in dozens of prints and colors.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Gaiam+Premium+yoga+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Gaiam+Premium+yoga+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ The Jade Harmony is made from natural rubber tapped from rubber trees — no PVC
 
 At 5mm, the cushioning is good for most practice styles. The 68" length works for most practitioners; an extra-long 74" version is available. For practitioners who prefer natural materials or who have sensitivities to PVC or synthetic materials, the Jade Harmony is the best natural alternative. Note: not suitable for practitioners with latex allergies.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Jade+Harmony+yoga+mat+natural+rubber){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Jade+Harmony+yoga+mat+natural+rubber&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -87,7 +87,7 @@ The IUGA Non Slip mat is a 6mm PVC mat with alignment lines and an alignment zon
 
 It's heavier than travel mats and lighter than the Manduka PRO — a good everyday home mat without premium pricing. Available in multiple thicknesses (4mm to 8mm) and lengths. For beginners or budget-conscious practitioners who want alignment guidance built in, the IUGA is the best entry point.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=IUGA+non+slip+yoga+mat+alignment){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=IUGA+non+slip+yoga+mat+alignment&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -138,4 +138,4 @@ Wipe down with a diluted tea tree oil spray (a few drops in water) or a gentle m
 
 For daily home practice, the **Manduka PRO** is the best long-term investment — the durability and lifetime guarantee make the upfront cost rational. For grip and alignment cues, the **Liforme Original** is the standout. Beginners or occasional practitioners should start with the **Gaiam Premium** — it's reliable, affordable, and easy to replace when you're ready to upgrade.
 
-[Shop yoga mats on Amazon →](https://www.amazon.com/s?k=yoga+mat+home+practice+non+slip){rel="nofollow sponsored" target="_blank"}
+[Shop yoga mats on Amazon →](https://www.amazon.com/s?k=yoga+mat+home+practice+non+slip&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}

@@ -52,7 +52,7 @@ What makes this the best all-around pick is the tier spacing: each shelf is tall
 
 **Best for:** Anyone who handles paper documents, mail, invoices, or school assignments and wants a permanent filing system on the desktop.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B01MZ9COGY?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B01MZ9COGY?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -64,7 +64,7 @@ One advantage the Marbrasse has over the SimpleHouseware: it includes a small ac
 
 **Best for:** Budget-conscious buyers who want a complete organizer without spending over $25.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B07PZP8SFJ?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B07PZP8SFJ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -78,7 +78,7 @@ The one trade-off: it's wider than a standard file organizer (to accommodate the
 
 **Best for:** Desk workers who need combined file storage and small-item containment in one unit.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B08JJMXMDF?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B08JJMXMDF?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -90,7 +90,7 @@ If you're setting up a [creator desk](/articles/best-creator-desk-setup-under-30
 
 **Best for:** Small-desk users, apartment workers, or anyone who only needs to store a few folders and doesn't want a full 5-tier unit.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B00NRFNXK2?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B00NRFNXK2?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -102,7 +102,7 @@ If you need a temporary organizational solution, a secondary organizer for a sha
 
 **Best for:** Casual use, temporary setups, or buyers who aren't sure how much they'll actually use a desk organizer.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B07GBFXJ1W?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B07GBFXJ1W?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -156,7 +156,7 @@ Quality wire mesh organizers like the SimpleHouseware and Marbrasse models hold 
 
 For most desks, the **SimpleHouseware 5-Tier** is the right buy — solid build, ample capacity, and a price point that's easy to justify. If you want to spend under $25, the **Marbrasse** is the best value at that ceiling. Need to hide small items? Go with the **SUPERJARE with Drawer** and get both file storage and a hidden compartment in one unit.
 
-[Shop mesh desk organizers on Amazon →](https://www.amazon.com/s?k=mesh+desk+organizer&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Shop mesh desk organizers on Amazon →](https://www.amazon.com/s?k=mesh+desk+organizer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

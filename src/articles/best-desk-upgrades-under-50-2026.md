@@ -56,7 +56,7 @@ The result is noticeably less eye strain during long work sessions. The light is
 
 **One limitation:** The ScreenBar doesn't illuminate the wall behind your monitor. If you want bias lighting (glow behind the monitor for eye comfort), pair it with a short strip of bias lights on the monitor back.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=BenQ+ScreenBar+monitor+light){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=BenQ+ScreenBar+monitor+light&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ It sits to the side of your keyboard and contains the peripheral clutter that ot
 
 **The upgrade path:** If you have more items than one organizer handles, add a two-tier version (~$32) or a drawer unit that fits under the monitor riser (see pick #5).
 
-[Check price on Amazon →](https://www.amazon.com/s?k=mesh+desk+organizer+with+drawers){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=mesh+desk+organizer+with+drawers&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -98,7 +98,7 @@ The typical setup: raceway along the underside of the desk to gather cables from
 
 **Pair it with:** Velcro One-Wrap cable ties (~$8 for 100) to bundle cables at source before they enter the raceway. This is the move professionals use to keep cable management looking clean at every junction.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=J+channel+cable+raceway+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=J+channel+cable+raceway+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -120,7 +120,7 @@ The HUANUO adjustable stand adds a bonus: a pull-out drawer underneath that adds
 
 **Note:** If you want adjustable height (not just a fixed riser), a monitor arm ($35–140) is the better pick — see our [monitor arm guide](/articles/best-monitor-arms-desk-setup-2026/).
 
-[Check price on Amazon →](https://www.amazon.com/s?k=adjustable+monitor+stand+with+drawer){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=adjustable+monitor+stand+with+drawer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -141,7 +141,7 @@ The $15–25 category includes several strong options with USB power, adhesive b
 
 **Best budget option:** The Govee LED Strip Light (~$15 for 6.5 feet) has solid app control and decent adhesive. For color-changing ambiance, the Govee Dreamview (~$35) mounts behind the monitor specifically and offers automatic color matching to screen content.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=LED+strip+lights+desk+USB){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=LED+strip+lights+desk+USB&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

@@ -76,7 +76,7 @@ The Anker MagGo 3-in-1 is the best desk charging solution for iPhone users who a
 - Apple Watch placement is tight — minor positioning required
 - Slightly more expensive than two separate chargers
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+MagGo+3-in-1+charging+station&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+MagGo+3-in-1+charging+station&tag=nickpicks-20)
 
 ---
 
@@ -104,7 +104,7 @@ The Belkin BoostCharge Pro is the single-device Qi2 pad for iPhone users who wan
 - More expensive than generic Qi pads for the same speed
 - Doesn't work at 15W on older iPhones or non-Qi2 Android
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Belkin+BoostCharge+Pro+Qi2+wireless+charger&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Belkin+BoostCharge+Pro+Qi2+wireless+charger&tag=nickpicks-20)
 
 ---
 
@@ -133,7 +133,7 @@ The ESR CryoBoost 3-in-1 delivers the multi-device charging experience at roughl
 - Power adapter sold separately
 - Apple Watch charger arm is fixed (not adjustable angle)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=ESR+CryoBoost+3-in-1+wireless+charger&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=ESR+CryoBoost+3-in-1+wireless+charger&tag=nickpicks-20)
 
 ---
 
@@ -162,7 +162,7 @@ The Anker 313 is the correct answer to "I just want a wireless charging pad that
 - No magnetic alignment — placement matters more
 - Not ideal for use through thick cases
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+313+wireless+charging+pad&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+313+wireless+charging+pad&tag=nickpicks-20)
 
 ---
 
@@ -192,7 +192,7 @@ The Mophie 3-in-1 Travel Charger is designed for the specific use case of packin
 - No USB-A port for other device charging simultaneously
 - Adapter is included but only one port
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Mophie+3-in-1+travel+wireless+charger&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Mophie+3-in-1+travel+wireless+charger&tag=nickpicks-20)
 
 ---
 

@@ -95,7 +95,7 @@ The Ergotron LX ships with hardware for both clamp mount and grommet mount, so y
 
 **Yes, buy it.** The Ergotron LX earns its price through build quality that outlasts multiple monitors, positioning that doesn't require daily re-adjustment, and reach that cheaper arms physically cannot match. This is the arm most desk setup regulars end up at after cycling through two or three cheaper options first.
 
-[Check current price on Amazon →](https://www.amazon.com/dp/B00BST5CCY){rel="nofollow sponsored" target="_blank"}
+[Check current price on Amazon →](https://www.amazon.com/dp/B00BST5CCY?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

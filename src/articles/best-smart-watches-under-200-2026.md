@@ -52,7 +52,7 @@ The Galaxy Watch FE brings Samsung's polished One UI Watch experience down to an
 - Best experienced with Samsung Galaxy phones
 - No native sleep apnea detection (available on higher models)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Samsung+Galaxy+Watch+FE&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Samsung+Galaxy+Watch+FE&tag=nickpicks-20)
 
 ---
 
@@ -74,7 +74,7 @@ If fitness tracking is your priority, no watch under $200 beats the Garmin Venu 
 - More limited smartwatch features vs. Wear OS or watchOS
 - No LTE/cellular option
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Garmin+Venu+Sq+2&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Garmin+Venu+Sq+2&tag=nickpicks-20)
 
 ---
 
@@ -96,7 +96,7 @@ The Amazfit GTR 4 delivers a stunning AMOLED display, 14-day battery life, and 1
 - Zepp Health app is not as polished as Garmin Connect
 - Some health metrics are less clinically validated than top-tier brands
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Amazfit+GTR+4+smartwatch&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Amazfit+GTR+4+smartwatch&tag=nickpicks-20)
 
 ---
 
@@ -118,7 +118,7 @@ Fitbit's platform remains one of the most approachable for people new to fitness
 - No built-in music storage
 - Less robust workout tracking vs. Garmin at this price
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Fitbit+Sense+2&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Fitbit+Sense+2&tag=nickpicks-20)
 
 ---
 
@@ -140,7 +140,7 @@ For iPhone users who want the Apple Watch experience without the Series 9 price,
 - No always-on display or ECG sensor
 - Battery life is still just 18 hours (day-to-day fine, overnight tracking requires overnight charging)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Apple+Watch+SE+2nd+generation&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Apple+Watch+SE+2nd+generation&tag=nickpicks-20)
 
 ---
 

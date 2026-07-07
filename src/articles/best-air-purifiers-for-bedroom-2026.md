@@ -74,7 +74,7 @@ The Core 300S is the benchmark bedroom air purifier. At 24 dB on Sleep mode — 
 
 **What to watch:** 219 sq ft is the sweet spot for a standard bedroom; too small for large master suites. Step up to the Core 400S for larger rooms.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=levoit+core+300s+air+purifier){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=levoit+core+300s+air+purifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -91,7 +91,7 @@ The Coway Mighty has been the best-value air purifier on the market for years, a
 
 **What to watch:** The ionizer produces trace ozone — disable it for bedroom use. Design is functional but dated compared to newer models.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=coway+ap-1512hh+mighty){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=coway+ap-1512hh+mighty&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -108,7 +108,7 @@ Master bedrooms over 300 square feet need a more powerful unit, and the Winix 55
 
 **What to watch:** PlasmaWave ionizer should be disabled in enclosed bedroom use. Larger footprint than compact models.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=winix+5500-2+air+purifier){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=winix+5500-2+air+purifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -125,7 +125,7 @@ The Blue Pure 311i+ Max combines Blueair's Swedish industrial design with a part
 
 **What to watch:** HEPASilent is not a traditional True HEPA filter — it performs similarly but uses a different mechanism. Higher cost than Levoit or Coway equivalents.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=blueair+blue+pure+311i+max){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=blueair+blue+pure+311i+max&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -142,7 +142,7 @@ The Core 400S delivers the same near-silence as the Core 300S — 24 dB on Sleep
 
 **What to watch:** At ~$200, it's twice the price of the Core 300S. For standard-size bedrooms under 250 sq ft, the 300S is sufficient.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=levoit+core+400s+air+purifier){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=levoit+core+400s+air+purifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -159,7 +159,7 @@ For those who prioritize absolute silence above everything else, the Rabbit Air 
 
 **What to watch:** At ~$430, it's a significant investment. Filter replacements run ~$100 every two years.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=rabbit+air+minusa2+air+purifier){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=rabbit+air+minusa2+air+purifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

@@ -49,21 +49,21 @@ comparisonTable:
       rating: 4.7
       pros: ["App + Stream Deck control", "2800–6500K range", "No flicker", "Premium construction"]
       cons: ["Expensive", "Overkill for casual use", "Requires separate stand"]
-      amazonLink: "https://www.amazon.com/dp/B0829QGX7S?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B0829QGX7S?tag=nickpicks-20"
       badge: "Best Streaming"
     - name: "Neewer 18\" Ring Light"
       price: "~$55"
       rating: 4.5
       pros: ["Large 18\" diameter", "Ball head for angle adjustment", "Stand included", "Great for photography"]
       cons: ["Bulky for small desks", "Basic controls"]
-      amazonLink: "https://www.amazon.com/dp/B074QVYWV7?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B074QVYWV7?tag=nickpicks-20"
       badge: "Best Photography"
     - name: "UBeesize 10\" Ring Light"
       price: "~$22"
       rating: 4.4
       pros: ["Very affordable", "Compact tripod included", "Phone holder included", "USB powered"]
       cons: ["Limited brightness for professional work", "Plastic build"]
-      amazonLink: "https://www.amazon.com/dp/B07VQQM1RN?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B07VQQM1RN?tag=nickpicks-20"
       badge: "Best Value"
 ---
 
@@ -90,7 +90,7 @@ We tested 9 ring lights across remote work video calls, streaming setups, and ph
 
 ## #1 Elgato Ring Light — Best for Streaming
 
-**Price:** ~$199 | [Check on Amazon](https://www.amazon.com/dp/B0829QGX7S?tag=nickpicks0a-20)
+**Price:** ~$199 | [Check on Amazon](https://www.amazon.com/dp/B0829QGX7S?tag=nickpicks-20)
 
 The Elgato Ring Light is the definitive choice for streamers and content creators already in the Elgato ecosystem. It controls via the Elgato Control Center app and can be operated directly from a Stream Deck button — instantly adjusting brightness and color temperature mid-stream without touching the light. The flicker-free LED produces clean color across the 2800–6500K range, and the 12" diameter provides even face illumination.
 
@@ -121,7 +121,7 @@ The Elgato Ring Light is the definitive choice for streamers and content creator
 
 ## #2 Neewer 18-Inch LED Ring Light — Best for Photography
 
-**Price:** ~$55 | [Check on Amazon](https://www.amazon.com/dp/B074QVYWV7?tag=nickpicks0a-20)
+**Price:** ~$55 | [Check on Amazon](https://www.amazon.com/dp/B074QVYWV7?tag=nickpicks-20)
 
 The Neewer 18" is the classic photography and videography ring light — large enough to fill a subject's face with even, wrapping light, tall enough on its 78" stand to serve as a key light for portrait sessions, and affordable enough that it's been the go-to beginner photography lighting solution for years. Color temperature adjusts from 3200K to 5600K with a simple dial controller.
 
@@ -152,7 +152,7 @@ The Neewer 18" is the classic photography and videography ring light — large e
 
 ## #3 UBeesize 10-Inch Selfie Ring Light — Best Budget
 
-**Price:** ~$22 | [Check on Amazon](https://www.amazon.com/dp/B07VQQM1RN?tag=nickpicks0a-20)
+**Price:** ~$22 | [Check on Amazon](https://www.amazon.com/dp/B07VQQM1RN?tag=nickpicks-20)
 
 The UBeesize 10" is the bestselling budget ring light on Amazon for good reason — it ships with a compact tripod that doubles as a desktop stand, a phone holder that fits most smartphones, USB power (works from a laptop or wall adapter), and three color modes (warm, daylight, natural). For $22, it transforms video call quality dramatically.
 
@@ -182,7 +182,7 @@ The UBeesize 10" is the bestselling budget ring light on Amazon for good reason 
 
 ## #4 Lume Cube Ring Light Pro — Best for Desks
 
-**Price:** ~$89 | [Check on Amazon](https://www.amazon.com/dp/B08K9W8SWH?tag=nickpicks0a-20)
+**Price:** ~$89 | [Check on Amazon](https://www.amazon.com/dp/B08K9W8SWH?tag=nickpicks-20)
 
 The Lume Cube Ring Light Pro is designed for the desk — it clamps to monitors or comes with a compact stand, connects via USB-C, and produces high-quality flicker-free light from a 6" form factor. It's the best option when space is limited and you need a premium result without the bulk of larger ring lights.
 
@@ -213,7 +213,7 @@ The Lume Cube Ring Light Pro is designed for the desk — it clamps to monitors 
 
 ## #5 Emart 8-Inch Ring Light — Best for Beginners
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/dp/B07PS2LGWT?tag=nickpicks0a-20)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/dp/B07PS2LGWT?tag=nickpicks-20)
 
 The Emart 8" is a compact ring light on a flexible mini tripod — perfect for YouTubers and beginners who need a simple, plug-and-play solution that doesn't require assembly or mounting decisions. Three color modes, 10 brightness levels, and a phone holder are included. The flexible tripod arms make it easy to position on any desk surface.
 
@@ -244,7 +244,7 @@ The Emart 8" is a compact ring light on a flexible mini tripod — perfect for Y
 
 ## #6 IVISII 19-Inch Ring Light — Best for Video Production
 
-**Price:** ~$79 | [Check on Amazon](https://www.amazon.com/dp/B08B19BKQF?tag=nickpicks0a-20)
+**Price:** ~$79 | [Check on Amazon](https://www.amazon.com/dp/B08B19BKQF?tag=nickpicks-20)
 
 The IVISII 19" is the largest ring light in this roundup — 19 inches of diameter produces 4200 lux of even, wrapping illumination ideal for professional video production, live streams with multiple participants, and portrait photography. The 79" stand adjusts to any height, and the 3200–6000K range covers every lighting scenario.
 

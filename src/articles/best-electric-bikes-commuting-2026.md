@@ -61,7 +61,7 @@ We evaluated commuter e-bikes on the factors that matter for actual daily use: r
 
 ### 1. Rad Power RadCity 5 Plus — Best Overall Commuter E-Bike
 
-**Price:** ~$1,699 | [Check price on Amazon →](https://www.amazon.com/s?k=rad+power+radcity+5+plus+ebike&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$1,699 | [Check price on Amazon →](https://www.amazon.com/s?k=rad+power+radcity+5+plus+ebike&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Rad Power RadCity 5 Plus is the most complete commuter e-bike package available in its price range. Where most e-bikes require you to purchase fenders, lights, and a cargo rack separately (adding $150–300 to the cost), the RadCity ships with all of them standard. It's designed from the ground up for daily utility use rather than recreation.
 
@@ -86,7 +86,7 @@ The Rad Power RadCity 5 Plus is the most complete commuter e-bike package availa
 
 ### 2. Aventon Pace 500.3 — Best E-Bike for Speed Commuters
 
-**Price:** ~$1,399 | [Check price on Amazon →](https://www.amazon.com/s?k=aventon+pace+500+ebike&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$1,399 | [Check price on Amazon →](https://www.amazon.com/s?k=aventon+pace+500+ebike&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Aventon Pace 500.3 is a Class 3 e-bike with a 28 mph top assisted speed — the fastest class legal for road use in most US states. For commuters on multi-lane roads or longer routes where speed matters, the difference between 20 mph and 28 mph cuts commute time noticeably on routes over 5 miles.
 
@@ -110,7 +110,7 @@ The Aventon Pace 500.3 is a Class 3 e-bike with a 28 mph top assisted speed — 
 
 ### 3. Trek Verve+ 2 — Best Premium Commuter E-Bike
 
-**Price:** ~$2,599 | [Check price on Amazon →](https://www.amazon.com/s?k=trek+verve+plus+2+ebike&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$2,599 | [Check price on Amazon →](https://www.amazon.com/s?k=trek+verve+plus+2+ebike&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Trek's Verve+ 2 uses a Bosch Active Line Plus mid-drive motor — a fundamentally different motor architecture from the hub motors on most e-bikes. Mid-drive motors sit at the crank (pedal bracket) rather than the rear hub, creating a lower center of gravity, more natural pedaling feel, and better performance on steep hills because the motor works through the bike's gears.
 
@@ -133,7 +133,7 @@ Trek's Verve+ 2 uses a Bosch Active Line Plus mid-drive motor — a fundamentall
 
 ### 4. Lectric XP 3.0 — Best Folding Commuter E-Bike
 
-**Price:** ~$999 | [Check price on Amazon →](https://www.amazon.com/s?k=lectric+xp+3.0+folding+ebike&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$999 | [Check price on Amazon →](https://www.amazon.com/s?k=lectric+xp+3.0+folding+ebike&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Lectric XP 3.0 folds in half in under 5 seconds, making it the only e-bike on this list that fits in a car trunk, apartment closet, or under a desk. For commuters who combine e-biking with public transit, can't store a full-size bike at home, or live in buildings without secure bike storage, this folding design solves a real problem.
 
@@ -158,7 +158,7 @@ The Lectric XP 3.0 folds in half in under 5 seconds, making it the only e-bike o
 
 ### 5. Ride1Up Cafe Cruiser — Best E-Bike for Comfort Commuting
 
-**Price:** ~$1,695 | [Check price on Amazon →](https://www.amazon.com/s?k=ride1up+cafe+cruiser+ebike&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$1,695 | [Check price on Amazon →](https://www.amazon.com/s?k=ride1up+cafe+cruiser+ebike&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Ride1Up Cafe Cruiser prioritizes riding comfort over maximum range or speed — a legitimate optimization for commuters who spend 45+ minutes daily on a bike. An upright cruiser geometry, swept-back handlebars, wide saddle, and 2.4" tires make longer rides significantly more comfortable than performance-oriented e-bikes.
 

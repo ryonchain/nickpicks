@@ -57,7 +57,7 @@ But not all mats are built the same. The difference between a $30 foam mat and a
 
 ### 1. Topo by Ergodriven — Best Overall for Serious Standing Desk Users
 
-**Price:** ~$80–$100 | [Check price on Amazon →](https://www.amazon.com/s?k=Topo+Ergodriven+anti-fatigue+standing+mat){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$80–$100 | [Check price on Amazon →](https://www.amazon.com/s?k=Topo+Ergodriven+anti-fatigue+standing+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Fatigue rating:** ★★★★★ — best in class
 
@@ -84,7 +84,7 @@ Head-to-head, the Topo's terrain design meaningfully outperforms flat mats for s
 
 ### 2. Amazon Basics Anti-Fatigue Standing Comfort Mat — Best Budget Option
 
-**Price:** ~$30–$40 | [Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+anti-fatigue+standing+mat){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30–$40 | [Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+anti-fatigue+standing+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Fatigue rating:** ★★★ — solid for shorter sessions
 
@@ -111,7 +111,7 @@ The foam density is adequate for sessions under 30 minutes. For longer sessions,
 
 ### 3. Sky Solutions Anti-Fatigue Mat — Best Mid-Range Flat Mat
 
-**Price:** ~$40–$60 | [Check price on Amazon →](https://www.amazon.com/s?k=Sky+Solutions+anti-fatigue+mat){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$40–$60 | [Check price on Amazon →](https://www.amazon.com/s?k=Sky+Solutions+anti-fatigue+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Fatigue rating:** ★★★★ — above average for a flat mat
 
@@ -138,7 +138,7 @@ At 0.8 inches, it's slightly thicker than average, which contributes to the cush
 
 ### 4. WellnessMats Original — Best for Long-Term Durability
 
-**Price:** ~$90–$130 | [Check price on Amazon →](https://www.amazon.com/s?k=WellnessMats+Original+standing+mat){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$90–$130 | [Check price on Amazon →](https://www.amazon.com/s?k=WellnessMats+Original+standing+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Fatigue rating:** ★★★★ — premium flat mat performance
 
@@ -166,7 +166,7 @@ The aesthetic quality is also noticeably higher than foam alternatives. The text
 
 ### 5. Kangaroo Original Standing Mat — Best for Sit-Stand Transitions
 
-**Price:** ~$35–$50 | [Check price on Amazon →](https://www.amazon.com/s?k=Kangaroo+anti-fatigue+standing+mat){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35–$50 | [Check price on Amazon →](https://www.amazon.com/s?k=Kangaroo+anti-fatigue+standing+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Fatigue rating:** ★★★½ — good for transitional use
 

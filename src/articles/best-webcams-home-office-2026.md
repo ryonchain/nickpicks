@@ -71,7 +71,7 @@ The C920s has been the benchmark webcam for years for good reason: a glass lens 
 
 **Best for:** Standard home office video calls, anyone upgrading from a laptop camera for the first time.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B07K986YLL)
+[Check price on Amazon →](https://www.amazon.com/dp/B07K986YLL?tag=nickpicks-20)
 
 ---
 
@@ -82,7 +82,7 @@ The Kiyo Pro uses an adaptive light sensor instead of standard autogain, produci
 
 **Best for:** Home offices with challenging lighting (dim rooms, backlighting, mixed sources).
 
-[Check price on Amazon →](https://www.amazon.com/dp/B08N1WK1JB)
+[Check price on Amazon →](https://www.amazon.com/dp/B08N1WK1JB?tag=nickpicks-20)
 
 ---
 
@@ -93,7 +93,7 @@ The C922 adds 60fps at 720p and Personify background replacement software over t
 
 **Best for:** Content creators, frequent presenters, anyone who does regular screen-sharing demos.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B01MTTMPKT)
+[Check price on Amazon →](https://www.amazon.com/dp/B01MTTMPKT?tag=nickpicks-20)
 
 ---
 
@@ -104,7 +104,7 @@ The Brio is Logitech's 4K flagship: genuine 4K HDR, Windows Hello IR facial reco
 
 **Best for:** Executives, content creators who record locally, Windows Hello users.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B01N5UOYC4)
+[Check price on Amazon →](https://www.amazon.com/dp/B01N5UOYC4?tag=nickpicks-20)
 
 ---
 
@@ -115,7 +115,7 @@ The MX Brio 705's RightSight 2 auto-framing tracks your movement and keeps you c
 
 **Best for:** Presenters, teachers, anyone who moves around during video calls.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B0C6JW7QNQ)
+[Check price on Amazon →](https://www.amazon.com/dp/B0C6JW7QNQ?tag=nickpicks-20)
 
 ---
 
@@ -126,7 +126,7 @@ The Anker C300 delivers 1080p/60fps, AI auto-framing, and an f/1.8 aperture for 
 
 **Best for:** Budget-conscious remote workers who want a genuine upgrade from their laptop camera.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B08VFMKYNQ)
+[Check price on Amazon →](https://www.amazon.com/dp/B08VFMKYNQ?tag=nickpicks-20)
 
 ---
 

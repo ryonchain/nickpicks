@@ -64,7 +64,7 @@ The FLEXISPOT M7B is the standing desk converter that most serious home office u
 - Keyboard tray depth is minimal for users with large mice
 - Surface is not height-adjustable independently of the main platform
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=FLEXISPOT+M7B+standing+desk+converter&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=FLEXISPOT+M7B+standing+desk+converter&tag=nickpicks-20)
 
 ---
 
@@ -92,7 +92,7 @@ The only electric converter that justifies its premium: one-touch motorized heig
 - Requires power outlet nearby
 - Overkill for single-user setups
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Vari+electric+standing+desk+converter&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Vari+electric+standing+desk+converter&tag=nickpicks-20)
 
 ---
 
@@ -121,7 +121,7 @@ The HUANUO is the best converter under $100 for users who need dual-monitor real
 - Some wobble at maximum height with dual monitors loaded
 - Lever lock can slip on heavy loads
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=HUANUO+standing+desk+converter+dual+monitor&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=HUANUO+standing+desk+converter+dual+monitor&tag=nickpicks-20)
 
 ---
 
@@ -149,7 +149,7 @@ The Ergotron WorkFit-T has a smaller footprint than most converters (just 23 × 
 - Slightly above $150 budget (but often on sale)
 - No cable management included
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Ergotron+WorkFit-T+standing+desk+converter&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Ergotron+WorkFit-T+standing+desk+converter&tag=nickpicks-20)
 
 ---
 
@@ -177,7 +177,7 @@ For users who need maximum workspace width without paying a premium, the Mount-I
 - Less refined build quality vs. FLEXISPOT at similar prices
 - Surface height range tops out at 17" (shorter than competitors)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Mount-It+standing+desk+converter&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Mount-It+standing+desk+converter&tag=nickpicks-20)
 
 ---
 

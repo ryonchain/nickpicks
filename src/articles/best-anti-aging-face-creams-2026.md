@@ -59,7 +59,7 @@ Anti-aging face creams are one of the biggest skincare categories — and one of
 
 ### 1. Estée Lauder Advanced Night Repair — Best Overall Anti-Aging Serum
 
-**Price:** ~$95 (1 oz) | [Check price on Amazon](https://www.amazon.com/dp/B0019IC7J2)
+**Price:** ~$95 (1 oz) | [Check price on Amazon](https://www.amazon.com/dp/B0019IC7J2?tag=nickpicks-20)
 
 Advanced Night Repair is a beauty industry institution for a reason. This serum has been reformulated regularly since 1982, and the current version packs hyaluronic acid, niacinamide, and Estée Lauder's proprietary ChronoluxCB technology that works with the skin's natural nighttime repair process.
 
@@ -77,7 +77,7 @@ Advanced Night Repair is a beauty industry institution for a reason. This serum 
 
 ### 2. La Mer Crème de la Mer — Best Luxury Anti-Aging Moisturizer
 
-**Price:** ~$195 (1 oz) | [Check price on Amazon](https://www.amazon.com/dp/B07DJJ4KQK)
+**Price:** ~$195 (1 oz) | [Check price on Amazon](https://www.amazon.com/dp/B07DJJ4KQK?tag=nickpicks-20)
 
 Crème de la Mer is the archetype of luxury skincare — and it genuinely delivers on hydration and radiance for dry to very dry skin. The Miracle Broth™ base (sea kelp fermented for 3–4 months) creates a moisturizing effect that derm-tested skincare enthusiasts consistently rate among the highest for dry skin conditions.
 
@@ -95,7 +95,7 @@ Crème de la Mer is the archetype of luxury skincare — and it genuinely delive
 
 ### 3. Olay Regenerist Micro-Sculpting Cream — Best Drugstore Anti-Aging Cream
 
-**Price:** ~$28 (1.7 oz) | [Check price on Amazon](https://www.amazon.com/dp/B00IKIVVHA)
+**Price:** ~$28 (1.7 oz) | [Check price on Amazon](https://www.amazon.com/dp/B00IKIVVHA?tag=nickpicks-20)
 
 In independent blind panel tests, Olay Regenerist has beaten creams costing 10× more. Consumer Reports consistently rates it the best value anti-aging moisturizer in its category. The Amino-Peptide Complex II + niacinamide formula penetrates multiple skin surface layers to visibly firm and hydrate.
 
@@ -113,7 +113,7 @@ In independent blind panel tests, Olay Regenerist has beaten creams costing 10×
 
 ### 4. RoC Retinol Correxion Line Smoothing Cream — Best Retinol Cream
 
-**Price:** ~$25 (1 oz) | [Check price on Amazon](https://www.amazon.com/dp/B00007YDTY)
+**Price:** ~$25 (1 oz) | [Check price on Amazon](https://www.amazon.com/dp/B00007YDTY?tag=nickpicks-20)
 
 Retinol is the most clinically proven over-the-counter anti-aging ingredient — and RoC Retinol Correxion is the best way to start using it. RoC uses pure stabilized retinol rather than retinol derivatives (retinyl palmitate, retinaldehyde), which means faster, more visible results.
 
@@ -131,7 +131,7 @@ Retinol is the most clinically proven over-the-counter anti-aging ingredient —
 
 ### 5. Lancôme Rénergie Lift Multi-Action — Best Premium Day Cream
 
-**Price:** ~$135 (2.6 oz) | [Check price on Amazon](https://www.amazon.com/dp/B01N0A2T7L)
+**Price:** ~$135 (2.6 oz) | [Check price on Amazon](https://www.amazon.com/dp/B01N0A2T7L?tag=nickpicks-20)
 
 Lancôme's Rénergie formula is formulated specifically for day use — it includes SPF 15 (should be layered with SPF 30+), a triple anti-aging active blend, and a skin-lifting effect that gives an immediate visible firmness compared to moisturizer-only products.
 
@@ -147,7 +147,7 @@ Lancôme's Rénergie formula is formulated specifically for day use — it inclu
 
 ### 6. Neutrogena Rapid Wrinkle Repair — Best Budget Retinol Cream
 
-**Price:** ~$22 (1 oz) | [Check price on Amazon](https://www.amazon.com/dp/B00CQKBK52)
+**Price:** ~$22 (1 oz) | [Check price on Amazon](https://www.amazon.com/dp/B00CQKBK52?tag=nickpicks-20)
 
 Neutrogena's Accelerated Retinol SA formula combines retinol with glucose complex to accelerate cell turnover faster than retinol alone. It's a gentle, beginner-friendly entry into retinol treatment at a price that makes sense for first-time users.
 

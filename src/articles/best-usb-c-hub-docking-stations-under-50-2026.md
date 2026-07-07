@@ -49,7 +49,7 @@ These aren't the basic 4-port USB passthrough hubs. The picks below include 4K H
 
 **Best for:** Anyone who wants a single sub-$50 hub that handles a monitor, keyboard, mouse, SD card, and laptop charging without compromise.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Anker+552+USB-C+Hub+9-in-1){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Anker+552+USB-C+Hub+9-in-1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -65,7 +65,7 @@ These aren't the basic 4-port USB passthrough hubs. The picks below include 4K H
 
 **Best for:** MacBook users who want minimal desk clutter and primarily need HDMI + USB-A + charging in a hub that looks like it belongs on the machine.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=LENTION+6-in-1+USB-C+Hub+4K+HDMI+MacBook){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=LENTION+6-in-1+USB-C+Hub+4K+HDMI+MacBook&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -81,7 +81,7 @@ These aren't the basic 4-port USB passthrough hubs. The picks below include 4K H
 
 **Best for:** Budget buyers, students, Chromebook users, and anyone who uses their external monitor mainly for video or presentations rather than all-day productivity work.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Hiearcool+USB+C+Hub+7-in-1+laptop){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Hiearcool+USB+C+Hub+7-in-1+laptop&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -97,7 +97,7 @@ These aren't the basic 4-port USB passthrough hubs. The picks below include 4K H
 
 **Best for:** Remote workers who need a wired Ethernet connection for video calls or VPN access, combined with a monitor output and laptop charging, all from one hub under $50.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=VAVA+USB+C+Hub+8-in-1+Ethernet+HDMI){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=VAVA+USB+C+Hub+8-in-1+Ethernet+HDMI&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -114,7 +114,7 @@ These aren't the basic 4-port USB passthrough hubs. The picks below include 4K H
 
 **Best for:** Travelers, commuters, and hybrid workers who need HDMI output and USB-A ports when away from home, packed light.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=uni+USB-C+to+HDMI+multiport+adapter+4K){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=uni+USB-C+to+HDMI+multiport+adapter+4K&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

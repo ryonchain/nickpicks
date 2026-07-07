@@ -62,7 +62,7 @@ The Nexstand K2 is the cult favorite among frequent travelers and remote workers
 - No angle adjustment — height only
 - Not ideal for very heavy laptops (15"+)
 
-[Check on Amazon](https://www.amazon.com/s?k=Nexstand+K2+laptop+stand&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Nexstand+K2+laptop+stand&tag=nickpicks-20)
 
 ---
 
@@ -89,7 +89,7 @@ The Rain Design mStand 360 is the premium option here. Solid CNC-machined alumin
 - Heavy (1.5 lbs) — not portable
 - Pricier than foldable alternatives
 
-[Check on Amazon](https://www.amazon.com/s?k=Rain+Design+mStand+360&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Rain+Design+mStand+360&tag=nickpicks-20)
 
 ---
 
@@ -116,7 +116,7 @@ The Lamicall stand bridges the gap between portability and premium feel. Aluminu
 - Base is smaller than desktop-focused stands
 - Rubber pads can discolor over time
 
-[Check on Amazon](https://www.amazon.com/s?k=Lamicall+adjustable+laptop+stand&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Lamicall+adjustable+laptop+stand&tag=nickpicks-20)
 
 ---
 
@@ -143,7 +143,7 @@ The Roost V3 is the engineering marvel of laptop stands. It collapses to the siz
 - Takes a few tries to learn the setup/teardown mechanism
 - No angle adjustment
 
-[Check on Amazon](https://www.amazon.com/s?k=Roost+laptop+stand+V3&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Roost+laptop+stand+V3&tag=nickpicks-20)
 
 ---
 
@@ -171,7 +171,7 @@ The Ergotron LX with a laptop tray attachment is the best ergonomic investment f
 - Not portable in any sense
 - Most expensive option here
 
-[Check on Amazon](https://www.amazon.com/s?k=Ergotron+LX+laptop+arm&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Ergotron+LX+laptop+arm&tag=nickpicks-20)
 
 ---
 
@@ -193,4 +193,4 @@ Yes — elevating the laptop improves airflow beneath it, which can reduce opera
 
 For travel and portability, the **Nexstand K2** or **Roost V3** are the top picks. For a clean permanent desk setup, the **Rain Design mStand 360** is worth every penny. For the most ergonomic adjustability, go with the **Lamicall**.
 
-[Shop laptop stands on Amazon](https://www.amazon.com/s?k=adjustable+laptop+stand+ergonomic&tag=ryonchain-20)
+[Shop laptop stands on Amazon](https://www.amazon.com/s?k=adjustable+laptop+stand+ergonomic&tag=nickpicks-20)

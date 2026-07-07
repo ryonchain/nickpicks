@@ -64,7 +64,7 @@ This guide covers six retinol serums worth using — from proven drugstore picks
 
 ### 1. RoC Retinol Correxion Line Smoothing Serum — Best Drugstore Retinol
 
-**[RoC Retinol Correxion Line Smoothing Serum on Amazon →](https://www.amazon.com/dp/B0030ID6LM){rel="nofollow sponsored" target="_blank"}** (~$25–$35)
+**[RoC Retinol Correxion Line Smoothing Serum on Amazon →](https://www.amazon.com/dp/B0030ID6LM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$25–$35)
 
 RoC has been making retinol products since the 1990s, and their Correxion serum has decades of clinical backing. The formula uses pure retinol at a concentration that delivers visible results without requiring a period of harsh adjustment that other retinols cause.
 
@@ -88,7 +88,7 @@ The serum absorbs quickly, isn't greasy, and works under makeup the next morning
 
 ### 2. CeraVe Resurfacing Retinol Serum — Best for Sensitive Skin
 
-**[CeraVe Resurfacing Retinol Serum on Amazon →](https://www.amazon.com/dp/B07TG3SPDH){rel="nofollow sponsored" target="_blank"}** (~$20–$30)
+**[CeraVe Resurfacing Retinol Serum on Amazon →](https://www.amazon.com/dp/B07TG3SPDH?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$20–$30)
 
 CeraVe's retinol serum pairs encapsulated retinol with three essential ceramides and niacinamide — a combination specifically designed to minimize irritation while maintaining efficacy. Encapsulated retinol releases slowly into skin, reducing the redness and peeling that sends most retinol beginners back to the drugstore shelf.
 
@@ -112,7 +112,7 @@ If you've tried retinol before and had a bad reaction, this is the formula to re
 
 ### 3. L'Oreal Paris Revitalift 0.3% Pure Retinol Serum — Best Mid-Strength Drugstore
 
-**[L'Oreal Paris Revitalift 0.3% Pure Retinol Serum on Amazon →](https://www.amazon.com/dp/B01M5BWRQW){rel="nofollow sponsored" target="_blank"}** (~$25–$35)
+**[L'Oreal Paris Revitalift 0.3% Pure Retinol Serum on Amazon →](https://www.amazon.com/dp/B01M5BWRQW?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$25–$35)
 
 The L'Oreal Revitalift is transparently labeled at 0.3% pure retinol — one of the few drugstore brands that states its concentration clearly. At 0.3%, this is mid-strength and appropriate for people who've used lower concentrations for 8+ weeks and want to step up.
 
@@ -136,7 +136,7 @@ L'Oreal conducted a 12-week study showing visible reduction in wrinkle depth and
 
 ### 4. The Ordinary Retinol 1% in Squalane — Best Value High-Strength Option
 
-**[The Ordinary Retinol 1% in Squalane on Amazon →](https://www.amazon.com/dp/B07TWQ4JVG){rel="nofollow sponsored" target="_blank"}** (~$8–$12)
+**[The Ordinary Retinol 1% in Squalane on Amazon →](https://www.amazon.com/dp/B07TWQ4JVG?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$8–$12)
 
 The Ordinary makes the ingredients list for one reason: they sell 1% retinol in a clean squalane base for under $12. That's the same concentration as many $60–$100 serums in a single-ingredient, no-fragrance formula that lets you know exactly what you're applying.
 
@@ -161,7 +161,7 @@ The catch: no barrier support ingredients (no ceramides, no niacinamide), which 
 
 ### 5. Neutrogena Rapid Wrinkle Repair Retinol Serum — Best for Speed
 
-**[Neutrogena Rapid Wrinkle Repair Retinol Serum on Amazon →](https://www.amazon.com/dp/B01N3RQKXG){rel="nofollow sponsored" target="_blank"}** (~$20–$28)
+**[Neutrogena Rapid Wrinkle Repair Retinol Serum on Amazon →](https://www.amazon.com/dp/B01N3RQKXG?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$20–$28)
 
 Neutrogena's accelerated retinol formula uses Retinol SA — a stabilized retinol with glucose complex designed to activate more quickly than standard retinol formulas. The brand claims visible results in one week (surface texture) and one month (fine lines) — claims backed by clinical studies Neutrogena has published.
 
@@ -185,7 +185,7 @@ The glycerin and glucose complex also improves skin's natural moisture retention
 
 ### 6. SkinMedica Retinol Complex 0.25 — Best Luxury Entry Retinol
 
-**[SkinMedica Retinol Complex 0.25 on Amazon →](https://www.amazon.com/dp/B004YVP57G){rel="nofollow sponsored" target="_blank"}** (~$85–$100)
+**[SkinMedica Retinol Complex 0.25 on Amazon →](https://www.amazon.com/dp/B004YVP57G?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$85–$100)
 
 SkinMedica is a physician-grade brand originally developed for post-procedure skin recovery. Their 0.25% Retinol Complex uses a proprietary buffer system that gradually releases retinol while supporting barrier function — designed specifically to deliver results with minimal irritation.
 

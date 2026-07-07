@@ -69,7 +69,7 @@ RoC's Retinol Correxion line has more published clinical data than almost any ot
 - Not suitable for sensitive skin prone to retinol reactions
 - Rich texture can feel heavy under concealer
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=RoC+Retinol+Correxion+eye+cream&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=RoC+Retinol+Correxion+eye+cream&tag=nickpicks-20)
 
 ---
 
@@ -99,7 +99,7 @@ Neutrogena's Rapid Wrinkle Repair Eye Cream uses accelerated retinol SA — a re
 - Smaller jar size than competitors
 - Not suitable for use morning and night (PM only for retinol)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Neutrogena+Rapid+Wrinkle+Repair+eye+cream&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Neutrogena+Rapid+Wrinkle+Repair+eye+cream&tag=nickpicks-20)
 
 ---
 
@@ -129,7 +129,7 @@ Olay Eyes Ultimate combines three concerns in one product: dark circles, puffine
 - Metal tip loses its cooling effect quickly at room temperature
 - Niacinamide-sensitive skin may experience breakouts
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Olay+Eyes+Ultimate+Eye+Cream&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Olay+Eyes+Ultimate+Eye+Cream&tag=nickpicks-20)
 
 ---
 
@@ -159,7 +159,7 @@ Kiehl's Creamy Eye Treatment is the richest formula on this list — it's been a
 - More expensive than drugstore options
 - Light fragrance may irritate very sensitive eyes
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Kiehl%27s+Creamy+Eye+Treatment+Avocado&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Kiehl%27s+Creamy+Eye+Treatment+Avocado&tag=nickpicks-20)
 
 ---
 
@@ -189,7 +189,7 @@ CeraVe's Eye Repair Cream is the dermatologist's recommendation for sensitive, r
 - No puffiness-specific actives
 - Plain texture doesn't feel luxurious
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=CeraVe+Eye+Repair+Cream&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=CeraVe+Eye+Repair+Cream&tag=nickpicks-20)
 
 ---
 
@@ -219,7 +219,7 @@ Peter Thomas Roth's Potent-C Eye Cream is built around 5% vitamin C (THD ascorba
 - Results require consistent use for 6–8 weeks
 - Vitamin C can cause sensitivity in very fair or reactive skin
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Peter+Thomas+Roth+Potent-C+Eye+Cream&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Peter+Thomas+Roth+Potent-C+Eye+Cream&tag=nickpicks-20)
 
 ---
 

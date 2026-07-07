@@ -50,7 +50,7 @@ The good news: the three dominant brands — Osprey, Gregory, and Deuter — all
 
 ### 1. Osprey Atmos AG 65 — Best Overall
 
-**Price:** ~$270 | [Check price on Amazon →](https://www.amazon.com/dp/B07PBN7GBW?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$270 | [Check price on Amazon →](https://www.amazon.com/dp/B07PBN7GBW?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Osprey Atmos AG 65 has been the best-selling backpacking pack in North America for five consecutive years, and it earns the position. The Anti-Gravity (AG) suspension system — a continuous suspended mesh back panel and hipbelt that conform to your torso — provides ventilation and load distribution that genuinely feel different from traditional framesheets. On a 4-day trip, the difference in back sweat and hot spots is noticeable.
 
@@ -76,7 +76,7 @@ Osprey's "All Mighty Guarantee" is the best warranty in the outdoor industry: an
 
 ### 2. Gregory Baltoro 65 — Best for Heavy Loads
 
-**Price:** ~$330 | [Check price on Amazon →](https://www.amazon.com/dp/B001Q3LXJW?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$330 | [Check price on Amazon →](https://www.amazon.com/dp/B001Q3LXJW?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 When carrying heavy loads — 35 lbs and above — the Gregory Baltoro 65 transfers weight to the hips more effectively than the Osprey Atmos. Gregory's Response A3 suspension adjusts dynamically as you move, and the hipbelt padding is thicker and more structured than the Osprey's for sustained heavy carrying.
 
@@ -102,7 +102,7 @@ The trade-off is weight: at 5 lbs 2 oz, the Baltoro isn't the choice for light-a
 
 ### 3. Deuter Aircontact Lite 65+10 — Best European-Style Fit
 
-**Price:** ~$240 | [Check price on Amazon →](https://www.amazon.com/dp/B07BBXL37L?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$240 | [Check price on Amazon →](https://www.amazon.com/dp/B07BBXL37L?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Deuter is the dominant brand in European backpacking for a reason: the Aircontact system's back-panel-to-hip-transfer geometry fits European torso proportions (typically shorter torso-to-hip ratio) better than the fit assumptions built into American packs. The "+10" extension in the name means the top lid can extend to add 10L of capacity — useful when gear doesn't fit cleanly in 65L.
 
@@ -128,7 +128,7 @@ At ~$240, it's the best-value premium pack on this list.
 
 ### 4. REI Co-op Flash 55 — Best Lightweight Option
 
-**Price:** ~$199 | [Check price on Amazon →](https://www.amazon.com/s?k=REI+Flash+55+backpack&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$199 | [Check price on Amazon →](https://www.amazon.com/s?k=REI+Flash+55+backpack&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The REI Flash 55 at 2 lbs 14 oz bridges the gap between ultralight and conventional backpacking. It carries 20–35 lbs comfortably — most backpackers targeting light setups with a quilt, lightweight tent, and stove system fall in this range. The aluminum stay and padded hipbelt provide real load transfer, unlike frameless ultralight packs.
 
@@ -152,7 +152,7 @@ At $199 with REI's 1-year unconditional return policy, the Flash 55 is the entry
 
 ### 5. Hyperlite Mountain Gear 3400 Southwest — Best Ultralight Pack
 
-**Price:** ~$325 | [Check price on Amazon →](https://www.amazon.com/s?k=Hyperlite+Mountain+Gear+3400+Southwest&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$325 | [Check price on Amazon →](https://www.amazon.com/s?k=Hyperlite+Mountain+Gear+3400+Southwest&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Hyperlite 3400 Southwest weighs 26 oz — 14 oz less than the next-lightest pack on this list. Built from Dyneema Composite Fabric (formerly Cuben Fiber), it's waterproof, tear-resistant, and stronger per gram than any other pack material available. This is the pack that thru-hikers and ultralight obsessives choose when pack weight is a religion.
 

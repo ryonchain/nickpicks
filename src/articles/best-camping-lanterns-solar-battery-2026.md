@@ -74,7 +74,7 @@ The AlpenGlow 500 is the benchmark hybrid lantern: solar panel on top, 500-lumen
 - Color modes drain battery faster than white
 - Premium price at $80–$100
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=BioLite+AlpenGlow+500+lantern&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=BioLite+AlpenGlow+500+lantern&tag=nickpicks-20)
 
 ---
 
@@ -104,7 +104,7 @@ The Black Diamond Moji+ is the best compact lantern for backpackers who want sol
 - Solar charging is supplemental, not primary
 - Small battery capacity (cannot charge phones)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Black+Diamond+Moji+rechargeable+lantern&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Black+Diamond+Moji+rechargeable+lantern&tag=nickpicks-20)
 
 ---
 
@@ -134,7 +134,7 @@ When you need real brightness — illuminating a large campsite, a group kitchen
 - Cylindrical shape less packable than flat-panel designs
 - Goal Zero solar panels sold separately
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Goal+Zero+Lighthouse+600&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Goal+Zero+Lighthouse+600&tag=nickpicks-20)
 
 ---
 
@@ -165,7 +165,7 @@ The LuminAID PackLite Max is the most portable solar lantern on the market. It p
 - Cannot charge phones
 - Inflation required each use — minor inconvenience
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=LuminAID+PackLite+Max+solar+lantern&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=LuminAID+PackLite+Max+solar+lantern&tag=nickpicks-20)
 
 ---
 
@@ -195,7 +195,7 @@ For car camping where battery availability is guaranteed, the Coleman Quad Pro i
 - Environmental cost of disposable batteries
 - No solar or USB — dependent on battery supply
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Coleman+Quad+Pro+4-panel+lantern&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Coleman+Quad+Pro+4-panel+lantern&tag=nickpicks-20)
 
 ---
 

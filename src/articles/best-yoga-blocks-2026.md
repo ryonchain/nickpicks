@@ -57,7 +57,7 @@ Here are the best yoga blocks in 2026, covering foam and cork options for every 
 
 ### 1. Manduka Recycled Foam Yoga Block — Best Overall Yoga Block
 
-**Price:** ~$18 | [Check price on Amazon →](https://www.amazon.com/s?k=Manduka+recycled+foam+yoga+block){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$18 | [Check price on Amazon →](https://www.amazon.com/s?k=Manduka+recycled+foam+yoga+block&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Manduka's recycled foam yoga block is the best all-around choice because it hits the ideal balance between firm support and comfortable contact. It doesn't compress under body weight the way cheap foam blocks do, but it's softer against ribs and hips than cork during restorative poses. The recycled foam construction makes it lighter than cork (5.6 oz) while maintaining structural integrity under sustained pressure.
 
@@ -76,7 +76,7 @@ Manduka's recycled foam yoga block is the best all-around choice because it hits
 
 ### 2. Gaiam Cork Yoga Block — Best Cork Yoga Block
 
-**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=Gaiam+cork+yoga+block){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=Gaiam+cork+yoga+block&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Cork yoga blocks are the preferred choice for hot yoga, Bikram, and any practice with heavy perspiration — cork grips better when wet than foam does, and it's naturally antimicrobial so it doesn't develop odor over time. Gaiam's cork block is firm without being uncomfortably hard, and it's more affordable than premium cork options while delivering the same material benefits.
 
@@ -95,7 +95,7 @@ Cork yoga blocks are the preferred choice for hot yoga, Bikram, and any practice
 
 ### 3. Hugger Mugger Cork Yoga Block — Best Premium Cork Block
 
-**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/s?k=Hugger+Mugger+cork+yoga+block){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/s?k=Hugger+Mugger+cork+yoga+block&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Hugger Mugger is one of yoga's original prop brands, and their cork block is built to noticeably higher standards than mass-market cork options. The cork is denser and more tightly compressed, which means better structural integrity over time — it won't crumble or develop pitting the way some cheap cork blocks do with regular use. The dimensions are slightly different (3.5" vs 4" on the short face) which some practitioners prefer for specific poses.
 
@@ -114,7 +114,7 @@ Hugger Mugger is one of yoga's original prop brands, and their cork block is bui
 
 ### 4. BalanceFrom High Density Foam Yoga Block — Best Budget Yoga Block
 
-**Price:** ~$10 | [Check price on Amazon →](https://www.amazon.com/s?k=BalanceFrom+high+density+foam+yoga+block){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$10 | [Check price on Amazon →](https://www.amazon.com/s?k=BalanceFrom+high+density+foam+yoga+block&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The BalanceFrom foam block is the smart starting point for new practitioners who want to try yoga blocks without committing $20+ per block before knowing whether they'll stick with the practice. It's denser than truly cheap foam, won't collapse during use, and comes in a two-pack for under $20 — giving you both blocks needed for poses like triangle and half-moon without spending extra.
 
@@ -133,7 +133,7 @@ The BalanceFrom foam block is the smart starting point for new practitioners who
 
 ### 5. Lululemon Lift and Lengthen Yoga Block — Best Foam Block for Hot Yoga
 
-**Price:** ~$38 | [Check price on Amazon →](https://www.amazon.com/s?k=Lululemon+Lift+and+Lengthen+yoga+block){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$38 | [Check price on Amazon →](https://www.amazon.com/s?k=Lululemon+Lift+and+Lengthen+yoga+block&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Lululemon's yoga block is expensive for a foam block, but it addresses the main weakness of foam in hot yoga: sweat absorption. The outer coating is moisture-resistant and wipes clean rather than absorbing perspiration into the foam core. It's also denser than standard EVA foam, with a more substantial feel that competes with cork in structural firmness while remaining lighter.
 
@@ -166,7 +166,7 @@ Lululemon's yoga block is expensive for a foam block, but it addresses the main 
 
 *All prices are approximate and subject to change. Check linked product pages for current pricing.*
 
-[Shop yoga blocks on Amazon →](https://www.amazon.com/s?k=yoga+blocks){rel="nofollow sponsored" target="_blank"}
+[Shop yoga blocks on Amazon →](https://www.amazon.com/s?k=yoga+blocks&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Frequently Asked Questions
 

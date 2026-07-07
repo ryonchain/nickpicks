@@ -101,7 +101,7 @@ Rubber roller extractors use flexible fins that scoop hair into the bin without 
 
 ### 1. iRobot Roomba j9+ — Best Robot Vacuum for Pet Hair Overall
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=iRobot+Roomba+j9+){rel="nofollow sponsored" target="_blank"}** (~$699)
+**[Check price on Amazon →](https://www.amazon.com/s?k=iRobot+Roomba+j9+&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$699)
 
 The Roomba j9+ is iRobot's most refined pet-hair machine — and after years of iterating on the j-series, they've nailed the fundamentals. The dual rubber extractors flex and counter-rotate to lift embedded hair from carpet without tangling. The result is a brush roll you can go weeks without cleaning.
 
@@ -122,7 +122,7 @@ PrecisionVision Navigation uses a camera to recognize and avoid pet waste, cable
 
 ### 2. Roborock S8 MaxV Ultra — Best Suction Power and Self-Maintenance
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Roborock+S8+MaxV+Ultra){rel="nofollow sponsored" target="_blank"}** (~$1,399)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Roborock+S8+MaxV+Ultra&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$1,399)
 
 The S8 MaxV Ultra sits at the apex of the robot vacuum category — and 10,000 Pa isn't marketing fluff. On thick rugs with multiple dogs' worth of embedded hair, it pulls up debris that other robots leave behind. Overkill for a single cat, but exactly right for heavy-duty pet households.
 
@@ -143,7 +143,7 @@ The Ultra dock auto-empties the dustbin, auto-refills the mop water tank, and ho
 
 ### 3. Shark Matrix Pro 2-in-1 — Best Mid-Range for Pet Owners
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Shark+Matrix+Pro+2-in-1+robot+vacuum){rel="nofollow sponsored" target="_blank"}** (~$549)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Shark+Matrix+Pro+2-in-1+robot+vacuum&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$549)
 
 Shark's Matrix Clean Home Mapping uses LiDAR to map the floor and clean in a grid pattern — every square foot gets crossed twice. The result is noticeably more thorough coverage than random-path competitors. At 4,200 Pa, suction handles medium-pile carpet pet hair without issue.
 
@@ -165,7 +165,7 @@ The self-emptying bagless base is a standout at this price — no bags to buy, j
 
 ### 4. Dreametech L20 Ultra — Best Value Self-Empty + Mop Combo
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Dreametech+L20+Ultra){rel="nofollow sponsored" target="_blank"}** (~$799)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Dreametech+L20+Ultra&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$799)
 
 Dreametech has rapidly closed the features-per-dollar gap with Roborock, and the L20 Ultra is the clearest proof. At 7,000 Pa, it tackles medium and thick carpet pet hair confidently. The dock auto-empties, auto-washes mop pads, and auto-refills the water tank — the same autonomy loop as the Roborock, for $600 less.
 
@@ -187,7 +187,7 @@ The mop pad auto-lifts on carpet detection, making it viable for mixed-floor hom
 
 ### 5. Eufy RoboVac X9 Pro — Best Budget Pet Hair Robot Vacuum with Mop
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Eufy+RoboVac+X9+Pro){rel="nofollow sponsored" target="_blank"}** (~$349)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Eufy+RoboVac+X9+Pro&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$349)
 
 The Eufy X9 Pro delivers 5,500 Pa suction, dual spinning mop pads (1.5 N downforce each), and LiDAR navigation at a price that undercuts the competition by hundreds of dollars. The mop system is unusually effective at dried paw prints and muddy hard floors.
 

@@ -60,7 +60,7 @@ Before you spend a dollar, get clear on fuel type. This single decision shapes y
 
 ### 1. Weber Spirit II E-310 Gas Grill — Best Gas Grill Overall
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Weber+Spirit+II+E-310+Gas+Grill){rel="nofollow sponsored" target="_blank"}** (~$499)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Weber+Spirit+II+E-310+Gas+Grill&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$499)
 
 Weber has been making the best mid-range gas grills for decades, and the Spirit II E-310 is the clearest example of why. It's not the cheapest three-burner grill on the market, but it outperforms grills at twice the price where it counts: heat consistency, build quality, and longevity.
 
@@ -81,7 +81,7 @@ The GS4 grilling system — Weber's proprietary burner, ignition, and grease man
 
 ### 2. Traeger Ironwood 885 Pellet Grill — Best Pellet Grill for Beginners to Pitmasters
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Traeger+Ironwood+885+Pellet+Grill){rel="nofollow sponsored" target="_blank"}** (~$1,099)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Traeger+Ironwood+885+Pellet+Grill&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$1,099)
 
 The Traeger Ironwood 885 is where serious outdoor cooking begins. At 885 square inches of total cooking area across two racks, it handles everything from a single brisket to four racks of ribs. Traeger's WiFIRE technology lets you monitor and adjust temperature from your phone — a genuine game-changer when you're running a 10-hour smoke.
 
@@ -102,7 +102,7 @@ The Ironwood generation introduced Traeger's downdraft exhaust system, which rec
 
 ### 3. Weber Original Kettle Premium 22-inch — Best Charcoal Grill Overall
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Weber+Original+Kettle+Premium+22+inch){rel="nofollow sponsored" target="_blank"}** (~$219)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Weber+Original+Kettle+Premium+22+inch&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$219)
 
 The Weber Kettle is the most iconic grill in backyard cooking history for a reason. Fifty-plus years of refinement have produced a charcoal grill that's nearly perfect at this price point. The 22-inch cooking grate gives you 363 square inches of primary cooking area — plenty for a family of four or a small cookout.
 
@@ -123,7 +123,7 @@ The Premium edition adds the One-Touch cleaning system (a rotating steel blade t
 
 ### 4. Blackstone 36-inch Griddle — Best Flat-Top Gas Griddle
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Blackstone+36+inch+Griddle){rel="nofollow sponsored" target="_blank"}** (~$397)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Blackstone+36+inch+Griddle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$397)
 
 The Blackstone 36-inch Griddle is a different beast entirely — no grates, no grill marks, just 720 square inches of flat cold-rolled steel over four independently controlled burners. It's the outdoor griddle that launched a category, and it's still the benchmark.
 
@@ -144,7 +144,7 @@ Where a traditional grill can't cook eggs, pancakes, smash burgers, or stir-fry,
 
 ### 5. Z Grills 700D4E Pellet Grill — Best Budget Pellet Grill
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Z+Grills+700D4E+Pellet+Grill){rel="nofollow sponsored" target="_blank"}** (~$499)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Z+Grills+700D4E+Pellet+Grill&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$499)
 
 Z Grills has been the open secret in the pellet grill world for years. Their grills use the same basic pellet-feed auger and PID controller technology as Traeger at roughly half the price. The 700D4E delivers 700 square inches of total cooking area, a temperature range of 180°F–450°F, and a PID controller that holds temperatures within ±5°F.
 
@@ -165,7 +165,7 @@ It's not built to the same standard as a Traeger — the steel gauge is thinner,
 
 ### 6. Napoleon Prestige 500 Gas Grill — Best Premium Gas Grill
 
-**[Check price on Amazon →](https://www.amazon.com/s?k=Napoleon+Prestige+500+Gas+Grill){rel="nofollow sponsored" target="_blank"}** (~$1,199)
+**[Check price on Amazon →](https://www.amazon.com/s?k=Napoleon+Prestige+500+Gas+Grill&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$1,199)
 
 If you want the best gas grill money can buy without going commercial, the Napoleon Prestige 500 is it. Four main burners produce 48,000 BTU across 500 square inches of primary cooking area — plus a 10,000 BTU infrared rear burner for a rotisserie kit (included) and a 15,000 BTU side burner. Cast stainless steel WAVE cooking grids heat evenly and give you sear marks that look straight out of a restaurant.
 

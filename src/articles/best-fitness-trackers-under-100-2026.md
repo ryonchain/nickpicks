@@ -49,7 +49,7 @@ Key factors to evaluate:
 
 ### 1. Fitbit Charge 6 — Best Overall
 
-**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=Fitbit+Charge+6)
+**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=Fitbit+Charge+6&tag=nickpicks-20)
 
 The Fitbit Charge 6 is the tracker most people should buy. Google's ownership of Fitbit has paid off in software: the Charge 6 integrates with Google Maps, YouTube Music, and Google Wallet, while still running on the mature Fitbit app that tens of millions of users already know. The hardware is a meaningful upgrade over the Charge 5, with a more responsive touchscreen and a physical side button that makes navigation far less frustrating.
 
@@ -69,7 +69,7 @@ Heart rate monitoring is among the best in this price range — resting and mode
 
 ### 2. Amazfit Band 7 — Best Battery Life
 
-**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Amazfit+Band+7)
+**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Amazfit+Band+7&tag=nickpicks-20)
 
 Eighteen days of battery life is not a typo. The Amazfit Band 7 is the tracker you grab before a two-week trip and forget to charge until you're home. It packs a 1.47-inch AMOLED display — larger than most bands in its class — along with 120 sports modes, SpO2 monitoring, stress tracking, and sleep analysis powered by Zepp's improving AI algorithms.
 
@@ -89,7 +89,7 @@ At roughly $45, it undercuts the Fitbit Charge 6 by more than half. Heart rate a
 
 ### 3. Garmin Vivosmart 5 — Best for Athletes
 
-**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=Garmin+Vivosmart+5)
+**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=Garmin+Vivosmart+5&tag=nickpicks-20)
 
 Garmin's reputation for accurate biometric data is well-earned, and the Vivosmart 5 brings that into the sub-$100 category. This is the tracker for serious fitness users who want Body Battery (Garmin's energy level score), Pulse Ox overnight tracking, and stress monitoring that genuinely informs training decisions.
 
@@ -109,7 +109,7 @@ Garmin Connect is the best companion app in this comparison — rich with histor
 
 ### 4. Xiaomi Smart Band 8 — Best Budget Under $40
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Xiaomi+Smart+Band+8)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Xiaomi+Smart+Band+8&tag=nickpicks-20)
 
 At $35, the Xiaomi Smart Band 8 is the value anomaly of this category. It features a bright 1.62-inch AMOLED display, 16-day battery life, 150 workout modes, and a lightweight 27-gram design. For step tracking, sleep monitoring, and heart rate logging during everyday activity, it delivers results that compete with devices costing three times as much.
 
@@ -129,7 +129,7 @@ The Zepp Life app is serviceable, though not as polished as Fitbit or Garmin Con
 
 ### 5. Samsung Galaxy Fit3 — Best for Samsung Users
 
-**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=Samsung+Galaxy+Fit3)
+**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=Samsung+Galaxy+Fit3&tag=nickpicks-20)
 
 The Galaxy Fit3 occupies the sweet spot between budget and midrange: $50 with a 1.6-inch AMOLED display, 13-day battery, and one of the better sleep tracking implementations in this price tier. Samsung Health's sleep analysis is detailed, offering sleep scores and snoring detection (when paired with a Galaxy phone).
 
@@ -149,7 +149,7 @@ The integration with Samsung's ecosystem is the headline feature — Galaxy phon
 
 ### 6. Whoop 4.0 — Best Recovery Tracking (Subscription Required)
 
-**Price:** Hardware free + subscription | [Check on Amazon](https://www.amazon.com/s?k=Whoop+4.0)
+**Price:** Hardware free + subscription | [Check on Amazon](https://www.amazon.com/s?k=Whoop+4.0&tag=nickpicks-20)
 
 The Whoop 4.0 is technically free as hardware — you pay a monthly subscription (~$30/month) that includes the band. It earns a mention because it's genuinely best-in-class for recovery and HRV-based training guidance, used by professional athletes and coaches. The screenless wearable focuses entirely on sleep, strain, and recovery metrics.
 

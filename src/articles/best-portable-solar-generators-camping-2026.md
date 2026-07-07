@@ -66,7 +66,7 @@ The Explorer 500 is Jackery's sweet spot — enough power for a weekend trip, li
 
 **Cons:** Older NMC chemistry, USB-C is only 18W, no pass-through charging
 
-**[Jackery Explorer 500 on Amazon →](https://www.amazon.com/dp/B082TMBYR6){rel="nofollow sponsored" target="_blank"}** (ASIN: B082TMBYR6)
+**[Jackery Explorer 500 on Amazon →](https://www.amazon.com/dp/B082TMBYR6?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B082TMBYR6)
 
 ---
 
@@ -80,7 +80,7 @@ EcoFlow's X-Stream charging technology is the standout feature — the DELTA Min
 
 **Cons:** Heavier at 24.3 lbs, pricier than Jackery equivalent
 
-**[EcoFlow DELTA Mini on Amazon →](https://www.amazon.com/dp/B09J7N4G26){rel="nofollow sponsored" target="_blank"}** (ASIN: B09J7N4G26)
+**[EcoFlow DELTA Mini on Amazon →](https://www.amazon.com/dp/B09J7N4G26?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B09J7N4G26)
 
 ---
 
@@ -94,7 +94,7 @@ The Bluetti AC200P is for serious off-grid campers, van lifers, and emergency ho
 
 **Cons:** Heavy at 61 lbs, significant price jump
 
-**[Bluetti AC200P on Amazon →](https://www.amazon.com/dp/B08GHTTGWY){rel="nofollow sponsored" target="_blank"}** (ASIN: B08GHTTGWY)
+**[Bluetti AC200P on Amazon →](https://www.amazon.com/dp/B08GHTTGWY?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B08GHTTGWY)
 
 ---
 
@@ -108,7 +108,7 @@ The entry-level pick for minimalist campers. Weighs only 6.6 lbs. Handles phone 
 
 **Cons:** Limited to small devices, only one AC outlet
 
-**[Jackery Explorer 240 on Amazon →](https://www.amazon.com/dp/B07D29QNMJ){rel="nofollow sponsored" target="_blank"}** (ASIN: B07D29QNMJ)
+**[Jackery Explorer 240 on Amazon →](https://www.amazon.com/dp/B07D29QNMJ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07D29QNMJ)
 
 ---
 

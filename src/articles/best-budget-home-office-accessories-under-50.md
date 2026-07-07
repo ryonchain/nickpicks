@@ -67,7 +67,7 @@ We rounded up the best home office accessories under $50 that actually make a di
 
 ### 1. BlueLounge CableBox — Best Cable Management Under $50
 
-**Price:** ~$28 | [Check price on Amazon →](https://www.amazon.com/dp/B005GFXUBY){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$28 | [Check price on Amazon →](https://www.amazon.com/dp/B005GFXUBY?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The CableBox is the single fastest way to eliminate the power strip, surge protector, and plug cluster that lives on most home office floors. It's a plastic box with a lid — your surge protector lives inside, and only the one cable you need exits through a cutout at the end.
 
@@ -86,7 +86,7 @@ The CableBox is the single fastest way to eliminate the power strip, surge prote
 
 ### 2. VIVO Single Monitor Stand Riser — Best Ergonomic Upgrade Under $50
 
-**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/dp/B00DML1U52){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/dp/B00DML1U52?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The most common ergonomic error in home offices is a monitor that sits too low — making you look down, straining your neck, and causing the slow shoulder compression that becomes chronic pain over years. A $25 monitor riser adds 4–5 inches of height and puts your screen at proper eye level.
 
@@ -106,7 +106,7 @@ The most common ergonomic error in home offices is a monitor that sits too low �
 
 ### 3. Anker 7-in-1 USB-C Hub — Best Laptop Hub Under $50
 
-**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/dp/B07CZPKJG3){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/dp/B07CZPKJG3?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Modern laptops have stripped ports down to one or two USB-C connections. The Anker 7-in-1 hub adds HDMI, USB-A, SD card reader, and PD charging passthrough — turning a minimalist laptop into a functional desktop workstation.
 
@@ -126,7 +126,7 @@ Modern laptops have stripped ports down to one or two USB-C connections. The Ank
 
 ### 4. AmazonBasics Cable Management Sleeve — Best Cable Organizer Under $10
 
-**Price:** ~$9 | [Check price on Amazon →](https://www.amazon.com/dp/B01L1JQ7MK){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$9 | [Check price on Amazon →](https://www.amazon.com/dp/B01L1JQ7MK?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 A cable sleeve bundles loose cables running from your desk to the floor into a single clean column. Instead of 6 individual cables dangling visibly, you get one neat tube. At $9 for a 19-inch sleeve, it's the highest ROI item in this guide.
 
@@ -145,7 +145,7 @@ A cable sleeve bundles loose cables running from your desk to the floor into a s
 
 ### 5. Velcro One-Wrap Thin Cable Ties (100-pack) — Best Cable Bundling Solution
 
-**Price:** ~$8 | [Check price on Amazon →](https://www.amazon.com/dp/B001E1Y5O6){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$8 | [Check price on Amazon →](https://www.amazon.com/dp/B001E1Y5O6?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Velcro One-Wrap ties are the professional cable management secret. Unlike zip ties that you cut and discard every time you reconfigure, Velcro ties open and close indefinitely. IT departments use them exclusively for this reason.
 
@@ -162,7 +162,7 @@ Velcro One-Wrap ties are the professional cable management secret. Unlike zip ti
 
 ### 6. Kasa Smart Plug Mini 2-Pack — Best Automation Under $20
 
-**Price:** ~$17 | [Check price on Amazon →](https://www.amazon.com/dp/B091DR6JC5){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$17 | [Check price on Amazon →](https://www.amazon.com/dp/B091DR6JC5?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Two smart plugs at $17 give you immediate automation wins: schedule your monitor light to turn off at midnight, control your desk lamp by voice, or set your coffee maker to start brewing 10 minutes before your first meeting.
 
@@ -179,7 +179,7 @@ Two smart plugs at $17 give you immediate automation wins: schedule your monitor
 
 ### 7. Bamboo Desk Organizer with Drawer — Best Desk Declutter Under $35
 
-**Price:** ~$32 | [Check price on Amazon →](https://www.amazon.com/dp/B07T3FHPTM){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$32 | [Check price on Amazon →](https://www.amazon.com/dp/B07T3FHPTM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Paper, pens, sticky notes, headphones, and charging cables collect on desks like clutter gravity. A bamboo desk organizer with multiple compartments and a pull-out drawer contains the chaos while looking attractive enough that it becomes a desk feature instead of a necessity.
 

@@ -63,7 +63,7 @@ The category has matured significantly. The picks below are reliable enough to r
 
 ### 1. Litter-Robot 4 — Best Overall
 
-**[Litter-Robot 4 on Amazon →](https://www.amazon.com/dp/B0BPKS69KB){rel="nofollow sponsored" target="_blank"}** (~$699)
+**[Litter-Robot 4 on Amazon →](https://www.amazon.com/dp/B0BPKS69KB?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$699)
 
 The Litter-Robot 4 is the gold standard of self-cleaning litter boxes. It's been refined over four generations, and the fourth version adds a laser-based litter level sensor, OdorTrap system with carbon filtration, whisper-quiet motor, and a direct-connect app with usage tracking per cat.
 
@@ -89,7 +89,7 @@ Yes, $699 is a lot. But Litter-Robot has been making this device since 1999, the
 
 ### 2. PetSafe ScoopFree Crystal Pro — Best for Odor Control
 
-**[PetSafe ScoopFree Crystal Pro Self-Cleaning Cat Litter Box on Amazon →](https://www.amazon.com/dp/B07BPCWC1M){rel="nofollow sponsored" target="_blank"}** (~$150–$170)
+**[PetSafe ScoopFree Crystal Pro Self-Cleaning Cat Litter Box on Amazon →](https://www.amazon.com/dp/B07BPCWC1M?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$150–$170)
 
 The ScoopFree uses crystal litter instead of clay — and this is a significant advantage for odor control. Crystal litter absorbs urine on contact and dehydrates waste, eliminating odor far better than clay. You'll empty the disposable tray once a month (for one cat) instead of weekly.
 
@@ -114,7 +114,7 @@ The trade-off: proprietary disposable trays cost $20–$30 each. Over a year wit
 
 ### 3. PETKIT PURA X — Best Tech Features Under $300
 
-**[PETKIT PURA X Self-Cleaning Cat Litter Box on Amazon →](https://www.amazon.com/dp/B09BF3BPKN){rel="nofollow sponsored" target="_blank"}** (~$250–$280)
+**[PETKIT PURA X Self-Cleaning Cat Litter Box on Amazon →](https://www.amazon.com/dp/B09BF3BPKN?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$250–$280)
 
 The PETKIT PURA X competes directly with the Litter-Robot 4 at a fraction of the price. It has a rotating sphere design, an infrared weight sensor that detects when your cat exits, an app with usage logs, and a deodorization system. It works with standard clumping clay litter.
 
@@ -139,7 +139,7 @@ The hardware is solid and the app is actively developed. The trade-off vs. the L
 
 ### 4. Omega Paw Roll'N Clean — Best Manual Self-Cleaning Option
 
-**[Omega Paw Roll'N Clean Litter Box on Amazon →](https://www.amazon.com/dp/B0002AT3EU){rel="nofollow sponsored" target="_blank"}** (~$35–$45)
+**[Omega Paw Roll'N Clean Litter Box on Amazon →](https://www.amazon.com/dp/B0002AT3EU?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$35–$45)
 
 Not every self-cleaning litter box needs electronics. The Omega Paw Roll'N Clean works by rolling the globe — clumps separate from clean litter and fall into a pull-out tray. You empty the tray and roll the unit back. The whole process takes 15 seconds.
 
@@ -164,7 +164,7 @@ No electricity, no WiFi, no app. Just a dome-shaped box that separates clumps fr
 
 ### 5. Litter Genie Self-Cleaning System — Best Odor Containment for Standard Boxes
 
-**[Litter Genie Cat Litter Disposal System on Amazon →](https://www.amazon.com/dp/B00IPZIQUW){rel="nofollow sponsored" target="_blank"}** (~$25–$35, refill bags extra)
+**[Litter Genie Cat Litter Disposal System on Amazon →](https://www.amazon.com/dp/B00IPZIQUW?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$25–$35, refill bags extra)
 
 The Litter Genie isn't a self-cleaning box — it's a waste disposal system that pairs with your existing box to completely contain odor between full changes. You scoop waste into the Litter Genie, and the multi-layer bag system seals it so tightly that there's essentially no odor escape until you empty it (every 2 weeks for one cat).
 

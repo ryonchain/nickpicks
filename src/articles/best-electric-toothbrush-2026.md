@@ -21,21 +21,21 @@ comparisonTable:
       rating: 4.8
       pros: ["Top-rated performance", "Great value"]
       cons: ["Check availability"]
-      amazonLink: "https://www.amazon.com/s?k=Top+Product&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=Top+Product&tag=nickpicks-20"
       badge: "Best Overall"
     - name: "Budget Product"
       price: "~$99"
       rating: 4.5
       pros: ["Top-rated performance", "Great value"]
       cons: ["Check availability"]
-      amazonLink: "https://www.amazon.com/s?k=Budget+Product&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=Budget+Product&tag=nickpicks-20"
       badge: "Best Budget"
     - name: "Premium Product"
       price: "~$99"
       rating: 4.3
       pros: ["Top-rated performance", "Great value"]
       cons: ["Check availability"]
-      amazonLink: "https://www.amazon.com/s?k=Premium+Product&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=Premium+Product&tag=nickpicks-20"
       badge: "Best Premium"
 ---
 

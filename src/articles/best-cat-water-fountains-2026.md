@@ -69,7 +69,7 @@ The Catit Flower Fountain has sold millions of units because it works. The tripl
 - Pump is submersible — must be fully submerged or it runs dry
 - Replacement filters should be changed monthly (ongoing cost)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Catit+Flower+Fountain+cat+water&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Catit+Flower+Fountain+cat+water&tag=nickpicks-20)
 
 ---
 
@@ -99,7 +99,7 @@ Pioneer Pet's Raindrop Fountain is the stainless steel option for cats who won't
 - Stainless steel costs more than plastic alternatives
 - Raindrop stream is louder than bubble or fountain designs
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Pioneer+Pet+Raindrop+Fountain+stainless&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Pioneer+Pet+Raindrop+Fountain+stainless&tag=nickpicks-20)
 
 ---
 
@@ -129,7 +129,7 @@ The PetSafe Drinkwell Platinum holds 168 oz (nearly 1.3 gallons) — enough for 
 - Stream can splash on certain settings
 - Larger reservoir means more bacteria growth if not cleaned weekly
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=PetSafe+Drinkwell+Platinum+cat+fountain&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=PetSafe+Drinkwell+Platinum+cat+fountain&tag=nickpicks-20)
 
 ---
 
@@ -159,7 +159,7 @@ The PETKIT Eversweet is the smart cat fountain — it monitors water consumption
 - Proprietary PETKIT filters (not universal)
 - Battery backup shortens filter life if not plugged in regularly
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=PETKIT+Eversweet+smart+cat+fountain&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=PETKIT+Eversweet+smart+cat+fountain&tag=nickpicks-20)
 
 ---
 
@@ -189,7 +189,7 @@ The Veken fountain delivers quality at budget price. The 84 oz BPA-free tank, tr
 - Filter change interval is shorter than premium filters
 - LED indicator can be distracting in dark rooms
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Veken+cat+water+fountain&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Veken+cat+water+fountain&tag=nickpicks-20)
 
 ---
 
@@ -219,7 +219,7 @@ Ceramic fountains solve the biggest problem with plastic: bacterial biofilm. Cer
 - Ceramic can chip if dropped
 - Limited color and design options
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=PetSafe+ceramic+cat+water+fountain&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=PetSafe+ceramic+cat+water+fountain&tag=nickpicks-20)
 
 ---
 

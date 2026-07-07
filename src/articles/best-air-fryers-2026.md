@@ -67,7 +67,7 @@ Key factors to evaluate:
 
 ### 1. Cosori Pro II 5.8 Qt — Best Overall
 
-**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Cosori+Pro+II+5.8+qt+air+fryer)
+**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Cosori+Pro+II+5.8+qt+air+fryer&tag=nickpicks-20)
 
 The Cosori Pro II earns the top spot for combining a useful 5.8 qt capacity with 13 cooking presets, a 450°F maximum temperature, and a genuinely easy-to-clean square basket that doesn't waste corner space. The square basket geometry fits more food per cubic foot than round alternatives.
 
@@ -85,7 +85,7 @@ The Cosori Pro II earns the top spot for combining a useful 5.8 qt capacity with
 
 ### 2. Ninja Foodi DZ401 10 Qt Dual Basket — Best for Families
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Ninja+Foodi+DZ401+dual+basket+air+fryer)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Ninja+Foodi+DZ401+dual+basket+air+fryer&tag=nickpicks-20)
 
 The DZ401's DualZone technology lets each 5 qt basket operate independently — different foods, different temperatures, different cook times — and synchronizes them to finish simultaneously. For families eating different preferences or cooking a protein and a side at the same time, this eliminates the waiting-around problem.
 
@@ -103,7 +103,7 @@ The DZ401's DualZone technology lets each 5 qt basket operate independently — 
 
 ### 3. Instant Vortex Plus 6 Qt — Best Value for the Capacity
 
-**Price:** ~$80 | [Check on Amazon](https://www.amazon.com/s?k=Instant+Vortex+Plus+6+qt+air+fryer)
+**Price:** ~$80 | [Check on Amazon](https://www.amazon.com/s?k=Instant+Vortex+Plus+6+qt+air+fryer&tag=nickpicks-20)
 
 Instant Pot's air fryer line brings the same reliable performance as their pressure cooker lineup. The 6 qt Vortex Plus offers dehydrate functionality (down to 95°F) alongside standard air fry, roast, bake, broil, and reheat modes. For the price, this is the most versatile cooking mode set available.
 
@@ -121,7 +121,7 @@ Instant Pot's air fryer line brings the same reliable performance as their press
 
 ### 4. Philips Premium XXL 7 Qt — Best for Build Quality
 
-**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Philips+Premium+XXL+air+fryer)
+**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Philips+Premium+XXL+air+fryer&tag=nickpicks-20)
 
 Philips invented the air fryer category and their Premium XXL reflects that engineering history. The Rapid Air technology circulates heat in a starfish pattern for more even cooking than standard top-down systems. The build quality — metal exterior, premium nonstick basket — is noticeably above the Cosori and Ninja tier.
 
@@ -141,7 +141,7 @@ Philips invented the air fryer category and their Premium XXL reflects that engi
 
 ### 5. Ninja AF101 4 Qt — Best Compact
 
-**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=Ninja+AF101+4+qt+air+fryer)
+**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=Ninja+AF101+4+qt+air+fryer&tag=nickpicks-20)
 
 Ninja's original AF101 remains one of the most popular air fryers for 1–2 person households. The 4 qt round basket is more compact than the Cosori but handles standard portions — a pound of chicken wings, two salmon fillets, a full bag of frozen fries. The wide temperature range (105–400°F) covers dehydrating as well as standard cooking.
 
@@ -158,7 +158,7 @@ Ninja's original AF101 remains one of the most popular air fryers for 1–2 pers
 
 ### 6. Chefman 2 Qt Compact — Best for Minimal Cooking
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Chefman+2+qt+compact+air+fryer)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Chefman+2+qt+compact+air+fryer&tag=nickpicks-20)
 
 If you live alone and mostly reheat leftovers, crisp up frozen snacks, or make occasional small portions, a 2 qt air fryer does the job at a fraction of the price. The Chefman 2 Qt is manual dial-control — no digital display, no presets — which means fewer things to break and less learning curve.
 

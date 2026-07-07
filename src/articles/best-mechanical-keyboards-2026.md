@@ -28,7 +28,7 @@ We've tested mechanical keyboards across switch types (linear, tactile, clicky),
 
 ### 1. Keychron Q5 Max — Best All-Rounder for Typing & Gaming
 
-**[Check price on Amazon](https://www.amazon.com/s?k=keychron+q5+max&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=keychron+q5+max&tag=nickpicks-20)**
 
 The Q5 Max is a 96% layout wireless keyboard built for people who want one board for everything. The CNC aluminum case, double-gasket mount, and QMK/VIA compatibility produce a typing experience that rivals keyboards costing twice as much. Hot-swap sockets let you experiment with switches without soldering. Wireless via Bluetooth 5.1 and 2.4GHz; wired via USB-C.
 
@@ -52,7 +52,7 @@ The Q5 Max is a 96% layout wireless keyboard built for people who want one board
 
 ### 2. Logitech G Pro X TKL Wireless — Best for Competitive Gaming
 
-**[Check price on Amazon](https://www.amazon.com/s?k=logitech+g+pro+x+tkl+wireless&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=logitech+g+pro+x+tkl+wireless&tag=nickpicks-20)**
 
 The G Pro X TKL Wireless is the keyboard esports professionals reach for. LIGHTSPEED wireless is genuinely indistinguishable from wired in gameplay — no competitive disadvantage. TKL layout (no numpad) gives you more mouse room on a standard desk. Hot-swappable GX switches let you change feel without soldering.
 
@@ -76,7 +76,7 @@ The G Pro X TKL Wireless is the keyboard esports professionals reach for. LIGHTS
 
 ### 3. Keychron C3 Pro — Best Budget Mechanical Keyboard
 
-**[Check price on Amazon](https://www.amazon.com/s?k=keychron+c3+pro&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=keychron+c3+pro&tag=nickpicks-20)**
 
 If you're new to mechanical keyboards and want to try before committing to $150+, the Keychron C3 Pro is the strongest recommendation in the under-$50 tier. Hot-swap sockets mean you can experiment with different switches. QMK support enables full key remapping. TKL layout keeps it compact. The build is plastic — not premium — but the fundamentals are hard to beat at this price.
 
@@ -100,7 +100,7 @@ If you're new to mechanical keyboards and want to try before committing to $150+
 
 ### 4. Nuphy Air96 V2 — Best Wireless Low-Profile Keyboard
 
-**[Check price on Amazon](https://www.amazon.com/s?k=nuphy+air96+v2&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=nuphy+air96+v2&tag=nickpicks-20)**
 
 Most mechanical keyboards are thick. The Nuphy Air96 V2 uses low-profile mechanical switches that sit only 12.4mm tall — close to a laptop keyboard profile — making it desk-friendly without a wrist rest. Triple wireless connectivity (three Bluetooth channels + 2.4GHz) plus wired via USB-C. 96% layout squeezes the numpad into a compact footprint.
 
@@ -123,7 +123,7 @@ Most mechanical keyboards are thick. The Nuphy Air96 V2 uses low-profile mechani
 
 ### 5. Ducky One 3 TKL — Best Premium TKL for Typing
 
-**[Check price on Amazon](https://www.amazon.com/s?k=ducky+one+3+tkl&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=ducky+one+3+tkl&tag=nickpicks-20)**
 
 Ducky has made premium TKL boards for over a decade, and the One 3 is the most refined version yet. Hot-swap sockets, PBT double-shot keycaps, and a gasket-mount design produce a board that sounds and feels significantly more expensive than its price. Wide switch availability (Cherry, Kailh, Gateron) lets you tune the experience exactly.
 

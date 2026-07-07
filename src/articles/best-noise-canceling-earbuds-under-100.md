@@ -47,7 +47,7 @@ The Soundcore Space A40 from Anker routinely tests among the best ANC performers
 
 Call quality is strong for this price: a dual-microphone setup with noise reduction handles indoor calls reliably, and voice pickup is clear enough for Zoom and Teams calls. The app is one of the better earbud apps available — stable, with meaningful settings rather than just marketing features.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Anker+Soundcore+A40+noise+canceling+earbuds){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Anker+Soundcore+A40+noise+canceling+earbuds&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ The Jabra Evolve2 Buds are designed specifically for professional use. Unlike co
 
 These appear occasionally below $100 during sales, though they typically run $120–$150. If work calls are your primary use case, they're worth the occasional deal hunt.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Jabra+Evolve2+noise+canceling+earbuds){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Jabra+Evolve2+noise+canceling+earbuds&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ The Sony WF-C700N is Sony's budget ANC entry, and it punches above its weight cl
 
 Battery life is 7.5 hours on a charge with ANC on, which is solid but slightly below the Space A40. The case adds two more full charges. It supports Bluetooth multipoint (connecting to two devices simultaneously), which is useful if you switch between a phone and laptop frequently.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Sony+WF-C700N+noise+canceling+earbuds){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Sony+WF-C700N+noise+canceling+earbuds&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ The EarFun Air Pro 4 consistently appears on best-value ANC lists for good reaso
 
 If you're skeptical about spending even $80–100 on earbuds, the Air Pro 4 is the most reassuring proof-of-concept — it won't disappoint.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=EarFun+Air+Pro+4+noise+canceling+earbuds){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=EarFun+Air+Pro+4+noise+canceling+earbuds&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -85,7 +85,7 @@ If you're skeptical about spending even $80–100 on earbuds, the Air Pro 4 is t
 
 For Android users, especially those deep in the Google ecosystem, the Pixel Buds A-Series offer tight integration: automatic switching between Pixel devices, real-time translation, and Google Assistant integration that actually works. The ANC is passive rather than active, but the secure fit creates substantial isolation on its own. At ~$60–$80 depending on sales, these are a legitimate daily driver for Android users.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Google+Pixel+Buds+A+Series){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Google+Pixel+Buds+A+Series&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -135,7 +135,7 @@ Yes at moderate listening volumes. Prolonged use at high volumes (over 85 dB) ca
 
 For most users, the **Anker Soundcore Space A40** is the best combination of ANC performance, battery life, and call quality under $100 — and it's regularly available under $70. If work calls dominate your day, check Jabra Evolve2 Buds pricing: they're the right tool for the job when you can catch them near the $100 mark.
 
-[Shop noise-canceling earbuds on Amazon →](https://www.amazon.com/s?k=noise+canceling+wireless+earbuds){rel="nofollow sponsored" target="_blank"}
+[Shop noise-canceling earbuds on Amazon →](https://www.amazon.com/s?k=noise+canceling+wireless+earbuds&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

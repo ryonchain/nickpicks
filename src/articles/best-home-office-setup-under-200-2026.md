@@ -70,7 +70,7 @@ If you're tight on budget, skip the smart plugs ($17 savings). The core five ite
 
 ### 1. VIVO Single Monitor Stand Riser — Fix Ergonomics First
 
-**Price:** ~$25 | [Search on Amazon →](https://www.amazon.com/s?k=VIVO+single+monitor+stand+riser){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 | [Search on Amazon →](https://www.amazon.com/s?k=VIVO+single+monitor+stand+riser&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Every productive home office starts with monitors at eye level. A screen that sits too low — which is nearly every monitor on a flat desk — forces your neck down for hours, compressing your cervical spine and causing the shoulder tension that becomes chronic pain over years.
 
@@ -89,7 +89,7 @@ A $25 monitor riser lifts your screen 4.25 inches and adds an under-riser shelf 
 
 ### 2. Anker 7-in-1 USB-C Hub — The Laptop Connectivity Fix
 
-**Price:** ~$40 | [Search on Amazon →](https://www.amazon.com/s?k=Anker+7-in-1+USB-C+hub){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$40 | [Search on Amazon →](https://www.amazon.com/s?k=Anker+7-in-1+USB-C+hub&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Laptop-first setups run out of ports immediately. One USB-C for your external monitor, one for power — and you've used your entire port budget on a MacBook. The Anker 7-in-1 hub adds seven ports from a single USB-C connection: HDMI, three USB-A, SD, microSD, and power passthrough.
 
@@ -106,7 +106,7 @@ Laptop-first setups run out of ports immediately. One USB-C for your external mo
 
 ### 3. Logitech MK270 Wireless Keyboard and Mouse Combo — Best Budget Combo
 
-**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=Logitech+MK270+wireless+keyboard+mouse+combo){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=Logitech+MK270+wireless+keyboard+mouse+combo&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Using a laptop keyboard and trackpad all day is a posture disaster. Moving the keyboard to a comfortable position — with your wrists flat and elbows at 90 degrees — requires an external keyboard. The MK270 is the most reliable sub-$35 wireless combo available.
 
@@ -123,7 +123,7 @@ Using a laptop keyboard and trackpad all day is a posture disaster. Moving the k
 
 ### 4. Logitech C920 HD Pro Webcam — Still the Best Under $70
 
-**Price:** ~$70 | [Search on Amazon →](https://www.amazon.com/s?k=Logitech+C920+HD+Pro+webcam){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$70 | [Search on Amazon →](https://www.amazon.com/s?k=Logitech+C920+HD+Pro+webcam&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Built-in laptop cameras run at 720p with no autofocus and a fixed field-of-view that puts you in unflattering close-up from the laptop sitting on your desk. The C920 delivers 1080p/30fps, autofocus, stereo mics, and a proper 78-degree field of view that fits your face in the frame naturally.
 
@@ -141,7 +141,7 @@ Built-in laptop cameras run at 720p with no autofocus and a fixed field-of-view 
 
 ### 5. BUBM Desk Pad — Foundation for the Whole Setup
 
-**Price:** ~$20 | [Search on Amazon →](https://www.amazon.com/s?k=BUBM+desk+pad+mat){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$20 | [Search on Amazon →](https://www.amazon.com/s?k=BUBM+desk+pad+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 A desk mat anchors your setup visually, gives your mouse a smooth surface, and protects your desk surface. At $20, it's the single item that makes a budget setup look intentional instead of assembled from spare parts.
 
@@ -157,7 +157,7 @@ A desk mat anchors your setup visually, gives your mouse a smooth surface, and p
 
 ### 6. AmazonBasics Cable Management Sleeve — Clean Up in 10 Minutes
 
-**Price:** ~$9 | [Search on Amazon →](https://www.amazon.com/s?k=AmazonBasics+cable+management+sleeve){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$9 | [Search on Amazon →](https://www.amazon.com/s?k=AmazonBasics+cable+management+sleeve&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Once your monitor, hub, webcam, and keyboard are connected, you'll have cables running to the floor. A 19-inch cable sleeve bundles them into one clean column for under $10.
 
@@ -170,7 +170,7 @@ Once your monitor, hub, webcam, and keyboard are connected, you'll have cables r
 
 ### 7. Kasa Smart Plug Mini 2-Pack — Add Automation for $17
 
-**Price:** ~$17 | [Search on Amazon →](https://www.amazon.com/s?k=Kasa+smart+plug+mini+2+pack){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$17 | [Search on Amazon →](https://www.amazon.com/s?k=Kasa+smart+plug+mini+2+pack&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Two smart plugs add scheduling and voice control to your desk lamp and monitor power strip — turning off non-essential desk electronics automatically when you leave. At $17 for two, the convenience-to-cost ratio is high.
 

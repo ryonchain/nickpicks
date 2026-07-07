@@ -61,7 +61,7 @@ Smart thermostats need continuous power to run Wi-Fi radios and displays. Older 
 
 ## 1. Google Nest Thermostat (2020) — Best Smart Thermostat for Renters
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Google+Nest+Thermostat+2020)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Google+Nest+Thermostat+2020&tag=nickpicks-20)**
 
 The 2020 Google Nest Thermostat is the smart thermostat most renters should buy. Its Nest Power Connector (included) solves the C-wire problem on most systems without any additional wiring — the connector installs in the furnace's control board and provides continuous power.
 
@@ -88,7 +88,7 @@ The swiping touchscreen interface replaces physical knobs with a clean display. 
 
 ## 2. Emerson Sensi Touch 2 — Best for Landlord Approval
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Emerson+Sensi+Touch+2+smart+thermostat)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Emerson+Sensi+Touch+2+smart+thermostat&tag=nickpicks-20)**
 
 The Emerson Sensi Touch 2 is the thermostat most landlords will approve without hesitation — it looks and operates like a traditional programmable thermostat, just smarter. No elaborate installation, no hub required, no conspicuous hardware. If your landlord is skeptical of smart home devices, the Sensi's familiar form factor avoids the conversation.
 
@@ -114,7 +114,7 @@ Installation is straightforward: 4 wires max on most systems, and Emerson's app 
 
 ## 3. Mysa Smart Thermostat for Electric Baseboard — Best for Baseboard Heat
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Mysa+smart+thermostat+electric+baseboard)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Mysa+smart+thermostat+electric+baseboard&tag=nickpicks-20)**
 
 If your apartment uses electric baseboard heaters, the Mysa is essentially your only smart thermostat option. Standard smart thermostats (Nest, Ecobee, Sensi) are designed for 24V low-voltage systems — they cannot replace the line-voltage (120V or 240V) switches that control electric baseboard heat. The Mysa is designed specifically for line-voltage systems.
 
@@ -140,7 +140,7 @@ Fully reversible when you move: reconnect the original thermostat.
 
 ## 4. Honeywell Home RTH7560E — Best Simple Programmable Option
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Honeywell+RTH7560E+programmable+thermostat)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Honeywell+RTH7560E+programmable+thermostat&tag=nickpicks-20)**
 
 Not every renter needs Wi-Fi scheduling and app control. If your goal is a programmable thermostat that saves on heating/cooling costs without the complexity of a smart system, the Honeywell RTH7560E is the most reliable choice in this category.
 
@@ -165,7 +165,7 @@ Not every renter needs Wi-Fi scheduling and app control. If your goal is a progr
 
 ## 5. Amazon Smart Thermostat — Best Budget Smart Thermostat
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Amazon+Smart+Thermostat)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Amazon+Smart+Thermostat&tag=nickpicks-20)**
 
 At ~$65 with Alexa Thermostat Controller included, the Amazon Smart Thermostat is the lowest entry point into app-controlled smart thermostats. Compatible with most 24V forced-air systems, no C-wire required (uses Power Bridge adapter). Alexa-native means voice control is seamless if you're already in the Amazon ecosystem.
 

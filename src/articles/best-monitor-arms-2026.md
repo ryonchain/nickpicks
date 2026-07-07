@@ -28,7 +28,7 @@ We've tested monitor arms across single-monitor, dual-monitor, and ultrawide con
 
 ### 1. Ergotron LX Single Monitor Arm — Best Overall
 
-**[Check price on Amazon](https://www.amazon.com/s?k=ergotron+lx+single+monitor+arm&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=ergotron+lx+single+monitor+arm&tag=nickpicks-20)**
 
 The Ergotron LX is the benchmark for monitor arms. Its Constant Force mechanism holds monitor position precisely — no slow drift or jittery readjustment after two weeks. The cable management routes wires through the arm itself. Full articulation: tilt, pan, rotate (portrait mode), and extension up to 25 inches from the desk. Compatible with monitors 7–25 lbs and VESA 75×75 or 100×100.
 
@@ -51,7 +51,7 @@ The Ergotron LX is the benchmark for monitor arms. Its Constant Force mechanism 
 
 ### 2. Amazon Basics Single Monitor Arm — Best Budget Pick
 
-**[Check price on Amazon](https://www.amazon.com/s?k=amazon+basics+single+monitor+arm&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=amazon+basics+single+monitor+arm&tag=nickpicks-20)**
 
 The Amazon Basics arm is manufactured by Ergotron and shares much of its internal mechanism — at roughly one-third the cost. Full tilt, pan, and rotation. Desk clamp mount. VESA 75×75 and 100×100 compatible. Weight capacity up to 25 lbs. The finish is less premium and the cable management less elegant, but the functional core is nearly identical to the Ergotron LX.
 
@@ -73,7 +73,7 @@ The Amazon Basics arm is manufactured by Ergotron and shares much of its interna
 
 ### 3. VIVO Dual Monitor Arm — Best Dual-Monitor Setup
 
-**[Check price on Amazon](https://www.amazon.com/s?k=vivo+dual+monitor+arm+desk+mount&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=vivo+dual+monitor+arm+desk+mount&tag=nickpicks-20)**
 
 The VIVO dual arm is the most popular dual-monitor mount on Amazon for good reason: it handles two monitors up to 27" and 13.2 lbs each, costs a fraction of Ergotron's dual offering, and provides solid articulation for productivity setups. Both arms articulate independently. Desk clamp or grommet mount included. Available in black and white.
 
@@ -96,7 +96,7 @@ The VIVO dual arm is the most popular dual-monitor mount on Amazon for good reas
 
 ### 4. North Bayou Gas Spring Arm — Best for Heavy Monitors
 
-**[Check price on Amazon](https://www.amazon.com/s?k=north+bayou+gas+spring+monitor+arm&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=north+bayou+gas+spring+monitor+arm&tag=nickpicks-20)**
 
 North Bayou's gas spring arms handle heavier monitors (up to 33 lbs) that typical arms can't support. Ultrawide 34"+ monitors, heavy professional displays, and 32" 4K monitors all land in this weight range. The gas spring mechanism provides effortless repositioning. Budget pricing for the weight capacity offered.
 
@@ -118,7 +118,7 @@ North Bayou's gas spring arms handle heavier monitors (up to 33 lbs) that typica
 
 ### 5. Ergotron LX Dual — Best Premium Dual-Monitor Arm
 
-**[Check price on Amazon](https://www.amazon.com/s?k=ergotron+lx+dual+monitor+arm&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=ergotron+lx+dual+monitor+arm&tag=nickpicks-20)**
 
 For users who want the Ergotron LX experience across two monitors, the LX Dual stacks two Constant Force arms on a single desk post. Each arm supports 7–20 lbs. Full articulation on each arm independently. The result is the most stable, position-accurate dual-monitor setup available without custom fabrication.
 

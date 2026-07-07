@@ -61,7 +61,7 @@ The 2026 market has seen one notable shift: **Liforme's AlignForMe system** (ali
 
 ### 1. Lululemon The Reversible Mat 5mm — Best Overall
 
-**Price:** ~$78 | [Check price on Amazon →](https://www.amazon.com/s?k=lululemon+reversible+yoga+mat+5mm&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$78 | [Check price on Amazon →](https://www.amazon.com/s?k=lululemon+reversible+yoga+mat+5mm&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Lululemon Reversible Mat earns its place as the best all-around yoga mat through a simple design insight: two surfaces in one mat. The smooth side performs well in dry, temperature-controlled studios. The textured side grips through sweat in hot yoga or outdoor practice. Most practitioners pick a side and stick with it — but having the option is genuinely useful when your practice style changes.
 
@@ -86,7 +86,7 @@ The 5mm thickness hits the practical sweet spot: enough cushioning for sensitive
 
 ### 2. Manduka PRO Yoga Mat 6mm — Best Premium Mat
 
-**Price:** ~$140 | [Check price on Amazon →](https://www.amazon.com/dp/B086MYMFBC?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$140 | [Check price on Amazon →](https://www.amazon.com/dp/B086MYMFBC?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Manduka PRO is the mat that experienced yogis buy when they're tired of replacing mats. The closed-cell, high-density PVC construction is so durable that Manduka offers a **lifetime guarantee** — the only major yoga mat brand that does. Serious practitioners buy one and use it for decades.
 
@@ -111,7 +111,7 @@ The 6mm dense foam absorbs impact better than any other mat on this list, making
 
 ### 3. Liforme Original Yoga Mat — Best for Alignment
 
-**Price:** ~$140 | [Check price on Amazon →](https://www.amazon.com/dp/B00NCGLSNI?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$140 | [Check price on Amazon →](https://www.amazon.com/dp/B00NCGLSNI?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Liforme's signature feature is the **AlignForMe system**: a series of alignment markers etched into the mat surface — a central line, angled guides for feet in Warrior poses, and markers for hand placement in Down Dog. For practitioners working to improve their alignment, these guides accelerate the feedback loop significantly versus occasional corrections from a teacher.
 
@@ -137,7 +137,7 @@ At 4.2mm, it's thinner than the Lululemon and Manduka, trading some cushioning f
 
 ### 4. Gaiam Essentials Thick Yoga Mat 6mm — Best Budget Mat
 
-**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/dp/B01LP0TY6E?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/dp/B01LP0TY6E?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 For beginners or casual practitioners, the Gaiam Essentials Thick is the most cost-effective entry point. At 6mm, it's the thickest mat on this list — excellent cushioning for people new to floor work who need to protect their knees and wrists while they build flexibility.
 
@@ -162,7 +162,7 @@ The PVC material grips adequately on dry floors. It won't perform in hot yoga an
 
 ### 5. JadeYoga Harmony Mat — Best Eco-Friendly Option
 
-**Price:** ~$79 | [Check price on Amazon →](https://www.amazon.com/dp/B0007M2JYQ?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$79 | [Check price on Amazon →](https://www.amazon.com/dp/B0007M2JYQ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The JadeYoga Harmony is the premium eco-option: tapped natural rubber from rubber trees, no PVC or synthetic materials. For every mat sold, Jade plants a tree. The environmental credentials are legitimate, not greenwashing.
 

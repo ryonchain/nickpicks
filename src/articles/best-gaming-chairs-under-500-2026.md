@@ -60,7 +60,7 @@ We spent time sitting in, testing, and researching the top gaming chairs under $
 
 ## 1. Secretlab TITAN Evo 2022 — Best Overall Gaming Chair
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Secretlab+Titan+gaming+chair){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Secretlab+Titan+gaming+chair&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Secretlab is the gaming chair brand that earned endorsements from League of Legends pro teams and then kept earning them by actually making good chairs. The TITAN Evo 2022 is the culmination of years of iteration.
 
@@ -82,7 +82,7 @@ Secretlab is the gaming chair brand that earned endorsements from League of Lege
 
 ## 2. Razer Iskur V2 — Best for Built-in Lumbar System
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Razer+Iskur+V2+gaming+chair){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Razer+Iskur+V2+gaming+chair&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Razer built the Iskur V2 as their answer to the legitimate criticism that gaming chairs don't support your lower back properly. The result is a multi-layered lumbar support system that can be adjusted to match your spine's natural curve.
 
@@ -104,7 +104,7 @@ Razer built the Iskur V2 as their answer to the legitimate criticism that gaming
 
 ## 3. AndaSeat Kaiser 3 — Best Value for Larger Bodies
 
-[Check price on Amazon →](https://www.amazon.com/s?k=AndaSeat+Kaiser+3+gaming+chair){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=AndaSeat+Kaiser+3+gaming+chair&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 AndaSeat doesn't have the name recognition of Secretlab or Razer, but the Kaiser 3 consistently outperforms chairs at twice its price in long-session comfort tests. The 330 lb weight limit and XL size make it the go-to recommendation for larger-framed gamers.
 
@@ -125,7 +125,7 @@ AndaSeat doesn't have the name recognition of Secretlab or Razer, but the Kaiser
 
 ## 4. DXRacer Formula Series — Best Budget Gaming Chair
 
-[Check price on Amazon →](https://www.amazon.com/s?k=DXRacer+Formula+gaming+chair){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=DXRacer+Formula+gaming+chair&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 DXRacer invented the gaming chair category when they adapted racing seat designs for computer users in the mid-2000s. The Formula Series is their entry-level line, and while it's not the ergonomic marvel of the Secretlab or Razer, it's a reasonable entry point if you're new to the category and budget-constrained.
 
@@ -146,7 +146,7 @@ DXRacer invented the gaming chair category when they adapted racing seat designs
 
 ## 5. Corsair T3 Rush — Best Fabric Gaming Chair
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Corsair+T3+Rush+gaming+chair){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Corsair+T3+Rush+gaming+chair&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Most gaming chairs use vinyl or PU leather, which looks great but traps heat and can crack after 18–24 months. The Corsair T3 Rush uses a soft, breathable fabric cover — the same approach that made office chairs like the Steelcase Leap famous for all-day comfort.
 
@@ -168,7 +168,7 @@ Most gaming chairs use vinyl or PU leather, which looks great but traps heat and
 
 ## 6. RESPAWN 110 — Best Budget Pick Under $200
 
-[Check price on Amazon →](https://www.amazon.com/s?k=RESPAWN+110+racing+style+gaming+chair){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=RESPAWN+110+racing+style+gaming+chair&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If you need a gaming chair on a tight budget, the RESPAWN 110 is the safest choice under $200. Build quality won't compete with premium options, but it delivers the core features (recline, lumbar pillow, footrest) at a price that doesn't require commitment.
 

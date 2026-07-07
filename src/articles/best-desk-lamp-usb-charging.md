@@ -62,7 +62,7 @@ The BenQ ScreenBar is designed specifically for monitor mounting, but BenQ's fre
 - No wireless charging pad
 - Pricier than basic options
 
-[Check on Amazon](https://www.amazon.com/s?k=BenQ+e-Reading+LED+desk+lamp&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=BenQ+e-Reading+LED+desk+lamp&tag=nickpicks-20)
 
 ---
 
@@ -89,7 +89,7 @@ The TaoTronics TT-DL13 is the best-value pick here. Five color modes span warm r
 - No eye-care certification badge (though flicker-free)
 - Touch controls can be accidentally triggered
 
-[Check on Amazon](https://www.amazon.com/s?k=TaoTronics+TT-DL13+desk+lamp&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=TaoTronics+TT-DL13+desk+lamp&tag=nickpicks-20)
 
 ---
 
@@ -116,7 +116,7 @@ The Baseus lamp is the most feature-loaded option at this price. You get USB-A, 
 - Base is heavier than competitors due to charging coil
 - Less color temperature range than BenQ
 
-[Check on Amazon](https://www.amazon.com/s?k=Baseus+LED+desk+lamp+wireless+charging&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Baseus+LED+desk+lamp+wireless+charging&tag=nickpicks-20)
 
 ---
 
@@ -144,7 +144,7 @@ The Govee Smart Lamp is the pick for smart home users. App control, Alexa/Google
 - Wi-Fi connectivity adds one more thing that can break
 - Arm is less solid than BenQ or TaoTronics
 
-[Check on Amazon](https://www.amazon.com/s?k=Govee+smart+LED+desk+lamp&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Govee+smart+LED+desk+lamp&tag=nickpicks-20)
 
 ---
 
@@ -171,7 +171,7 @@ The Vari lamp is built with the standing desk crowd in mind. Its sturdy clamp mo
 - Fewer brightness levels than competitors
 - Clamp mount won't work on very thick desktops
 
-[Check on Amazon](https://www.amazon.com/s?k=Vari+desk+lamp&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Vari+desk+lamp&tag=nickpicks-20)
 
 ---
 
@@ -193,4 +193,4 @@ Yes — clamp mounts are ideal for standing desks. The Vari lamp is specifically
 
 For all-around value, the **TaoTronics TT-DL13** is hard to beat under $40. For USB versatility including wireless charging, the **Baseus** wins. For smart home integration, go with **Govee**.
 
-[Shop desk lamps on Amazon](https://www.amazon.com/s?k=LED+desk+lamp+USB+charging&tag=ryonchain-20)
+[Shop desk lamps on Amazon](https://www.amazon.com/s?k=LED+desk+lamp+USB+charging&tag=nickpicks-20)

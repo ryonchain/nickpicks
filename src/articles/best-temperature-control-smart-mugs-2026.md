@@ -57,7 +57,7 @@ Here are the best temperature control smart mugs in 2026, including the best pic
 
 ### 1. Ember Mug 2 (14 oz) — Best Overall Temperature Control Smart Mug
 
-**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/s?k=Ember+Mug+2+14oz+temperature+control){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/s?k=Ember+Mug+2+14oz+temperature+control&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Ember Mug 2 is the benchmark product that defines the temperature control mug category. Pour hot coffee or tea in, set your target temperature in the Ember app (anywhere from 120°F to 145°F), and the mug maintains it precisely until the last sip. It runs 80 minutes on battery alone — enough for most desk sessions — and indefinitely when resting on the included charging coaster.
 
@@ -76,7 +76,7 @@ The Ember Mug 2 is the benchmark product that defines the temperature control mu
 
 ### 2. Ember Travel Mug 2+ (12 oz) — Best Smart Mug for Commuting
 
-**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=Ember+Travel+Mug+2+plus+smart){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$200 | [Check price on Amazon →](https://www.amazon.com/s?k=Ember+Travel+Mug+2+plus+smart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Ember Travel Mug 2+ takes the core Ember technology and puts it in a spill-proof, commute-ready form. The push-to-open lid seals completely when closed — it won't spill in a bag or car cupholder. Battery life extends to 3 hours, which covers most commutes plus a morning of desk use before you need the charging coaster. It connects to the same Ember app as the standard Mug 2.
 
@@ -95,7 +95,7 @@ The Ember Travel Mug 2+ takes the core Ember technology and puts it in a spill-p
 
 ### 3. Joule Cups Temperature Control Mug — Best Ember Alternative
 
-**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/s?k=Joule+Cups+temperature+control+mug}{rel="nofollow sponsored" target="_blank"}
+**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/s?k=Joule+Cups+temperature+control+mug&tag=nickpicks-20}{rel="nofollow sponsored" target="_blank"}
 
 The Joule Cups mug from ChefSteps is the most credible alternative to Ember's lineup. It offers a larger 16 oz capacity (a full two cups of coffee), 90 minutes of battery life, a wider temperature range (100–145°F, which accommodates cold brew settings below what Ember supports), and Bluetooth app control. At $100 it's $30-50 cheaper than comparable Ember configurations.
 
@@ -112,7 +112,7 @@ The Joule Cups mug from ChefSteps is the most credible alternative to Ember's li
 
 ### 4. Cosori Electric Mug Warmer — Best Budget Smart Mug Warmer
 
-**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=Cosori+electric+mug+warmer+smart+desk){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=Cosori+electric+mug+warmer+smart+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If you already have a mug you love and don't want to replace it, a smart mug warmer is the $30 answer. The Cosori warmer is a heated coaster that connects to an app (or operates via touch controls) and maintains any mug placed on it at your target temperature — 104°F to 140°F. It works with any ceramic, glass, or metal mug with a flat bottom.
 
@@ -131,7 +131,7 @@ If you already have a mug you love and don't want to replace it, a smart mug war
 
 ### 5. Fellow Stagg EKG+ Electric Kettle with App — Best Smart Kettle for Tea Drinkers
 
-**Price:** ~$195 | [Check price on Amazon →](https://www.amazon.com/s?k=Fellow+Stagg+EKG+plus+electric+kettle+smart){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$195 | [Check price on Amazon →](https://www.amazon.com/s?k=Fellow+Stagg+EKG+plus+electric+kettle+smart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 For tea drinkers, the temperature problem starts at the kettle — different tea types require different brewing temperatures, and a standard boiling kettle ruins green tea and white tea immediately. The Fellow Stagg EKG+ heats water to a precise target temperature (anywhere from 135°F to 212°F), holds that temperature for up to 60 minutes, and connects to the Fellow app for scheduled brewing routines.
 
@@ -169,7 +169,7 @@ Smart mugs with heating elements maintain temperature by continuously measuring 
 
 *All prices are approximate and subject to change. Check linked product pages for current pricing.*
 
-[Shop smart mugs on Amazon →](https://www.amazon.com/s?k=temperature+control+smart+mug){rel="nofollow sponsored" target="_blank"}
+[Shop smart mugs on Amazon →](https://www.amazon.com/s?k=temperature+control+smart+mug&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Frequently Asked Questions
 

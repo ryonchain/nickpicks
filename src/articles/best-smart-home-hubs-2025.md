@@ -47,7 +47,7 @@ Your smart home is only as smart as its hub. The right smart home hub connects a
 
 ### 1. Amazon Echo (4th Gen) — Best Hub for Alexa Homes
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Echo+4th+generation+smart+home+hub&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Echo+4th+generation+smart+home+hub&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 The 4th-generation Echo is the center of any Alexa household. It has a built-in Zigbee hub (controls Philips Hue, SmartThings sensors, and more without a separate bridge), Matter controller support, and Alexa's best voice recognition. The spherical design fits any room, and at $99 it's a strong value.
 
@@ -69,7 +69,7 @@ The 4th-generation Echo is the center of any Alexa household. It has a built-in 
 
 ### 2. Amazon Echo Hub — Best Dedicated Smart Home Control Panel
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Echo+Hub+smart+home+control+panel&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Echo+Hub+smart+home+control+panel&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 Released in 2024, the Echo Hub is Amazon's first dedicated smart home control panel. An 8-inch touchscreen mounted on your wall (or on a stand) gives you a full dashboard view of all your devices, scenes, and cameras. No speaker built in — it's purely a control hub.
 
@@ -90,7 +90,7 @@ Released in 2024, the Echo Hub is Amazon's first dedicated smart home control pa
 
 ### 3. Google Nest Hub (2nd Gen) — Best Hub for Google Homes
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Google+Nest+Hub+2nd+gen&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Google+Nest+Hub+2nd+gen&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 The Nest Hub's 7-inch display shows your camera feeds, calendar, routines, and smart home controls in a dashboard format. It added sleep tracking radar (Soli chip) in the 2nd gen — the display monitors your sleep without a wearable. It's a genuine smart home hub and a bedside companion in one.
 
@@ -111,7 +111,7 @@ The Nest Hub's 7-inch display shows your camera feeds, calendar, routines, and s
 
 ### 4. Apple HomePod mini — Best Hub for Apple Homes
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Apple+HomePod+mini&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Apple+HomePod+mini&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 The HomePod mini is a Thread border router, HomeKit hub, and Siri speaker in a hockey-puck-sized device. It runs all HomeKit automations locally — even without internet — and enables Thread mesh networking for the next generation of smart home devices. If you're in the Apple ecosystem, it's a no-brainer.
 
@@ -133,7 +133,7 @@ The HomePod mini is a Thread border router, HomeKit hub, and Siri speaker in a h
 
 ### 5. Samsung SmartThings Hub v3 — Best for Maximum Device Compatibility
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Samsung+SmartThings+Hub+v3&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Samsung+SmartThings+Hub+v3&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 If you have a mix of Zigbee, Z-Wave, WiFi, and Matter devices from different brands, SmartThings is the most interoperable hub available. It works with 5,000+ device brands and supports local processing for core automation rules. It connects to Alexa and Google Home so you can use voice commands from your preferred assistant.
 

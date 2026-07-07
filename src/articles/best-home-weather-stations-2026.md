@@ -61,7 +61,7 @@ We evaluated these stations on sensor accuracy, wireless range, display quality,
 
 ### 1. Ambient Weather WS-2902 — Best Overall Home Weather Station
 
-**Price:** ~$190 | [Check price on Amazon →](https://www.amazon.com/s?k=ambient+weather+ws-2902+weather+station&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$190 | [Check price on Amazon →](https://www.amazon.com/s?k=ambient+weather+ws-2902+weather+station&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Ambient Weather WS-2902 is the most popular home weather station in the US for good reason: it combines a comprehensive 7-in-1 outdoor sensor array, built-in Wi-Fi connectivity, a clear color display, and community data sharing in a package that most homeowners can install in an afternoon without special tools.
 
@@ -92,7 +92,7 @@ The Ambient Weather WS-2902 is the most popular home weather station in the US f
 
 ### 2. Davis Vantage Vue — Best Professional-Grade Home Weather Station
 
-**Price:** ~$450 | [Check price on Amazon →](https://www.amazon.com/s?k=davis+vantage+vue+weather+station&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$450 | [Check price on Amazon →](https://www.amazon.com/s?k=davis+vantage+vue+weather+station&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Davis Instruments is the gold standard for personal weather station accuracy — their sensors are used by aviation, agricultural operations, and research institutions. The Vantage Vue is their consumer-accessible station with professional-grade sensor quality, designed for users who need the most accurate local data possible.
 
@@ -113,7 +113,7 @@ Davis Instruments is the gold standard for personal weather station accuracy —
 
 ### 3. AcuRite Iris (5-in-1) — Best Budget Home Weather Station
 
-**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/s?k=acurite+iris+5-in-1+weather+station&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/s?k=acurite+iris+5-in-1+weather+station&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 AcuRite's Iris (5-in-1) is the best entry-level weather station for homeowners who want more than a basic thermometer but don't need professional-grade accuracy. At $100, it measures wind, rain, temperature, humidity, and pressure, and connects to AcuRite's My AcuRite app and Weather Underground.
 
@@ -139,7 +139,7 @@ AcuRite's Iris (5-in-1) is the best entry-level weather station for homeowners w
 
 ### 4. Ecowitt GW2000 — Best for Smart Home Integration
 
-**Price:** ~$130 (hub only; sensors sold separately) | [Check price on Amazon →](https://www.amazon.com/s?k=ecowitt+gw2000+weather+station+hub&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$130 (hub only; sensors sold separately) | [Check price on Amazon →](https://www.amazon.com/s?k=ecowitt+gw2000+weather+station+hub&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Ecowitt's approach to home weather is modular: you buy the Wi-Fi gateway (GW2000) and add the sensors you actually want. The gateway connects to Home Assistant, MQTT, HomeKit (via plugins), and Ecowitt's own service. For smart home enthusiasts who want weather data integrated with automations, this is the most flexible system.
 
@@ -160,7 +160,7 @@ Ecowitt's approach to home weather is modular: you buy the Wi-Fi gateway (GW2000
 
 ### 5. La Crosse Technology S81120 — Best Simple Indoor/Outdoor Display
 
-**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/s?k=la+crosse+technology+s81120+wireless+weather+station&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/s?k=la+crosse+technology+s81120+wireless+weather+station&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 For households that just want accurate indoor and outdoor temperature/humidity on a clear display — without wind sensors, rain gauges, or Wi-Fi setup — the La Crosse S81120 is the simplest and most reliable option.
 

@@ -123,7 +123,7 @@ A burr grinder crushes beans between two abrasive surfaces (burrs) set at a prec
 
 ### 1. Baratza Encore ESP — Best Overall
 
-**Price:** ~$180 | [Check on Amazon](https://www.amazon.com/s?k=Baratza+Encore+ESP)
+**Price:** ~$180 | [Check on Amazon](https://www.amazon.com/s?k=Baratza+Encore+ESP&tag=nickpicks-20)
 
 The Baratza Encore ESP is the standard recommendation for a reason: it legitimately covers the full grind range from espresso-fine to coarse French press in a single machine. The "ESP" designation signals a modified lower burr carrier that allows finer grind settings than the original Encore, pushing into actual espresso territory — typically 3–8 on the 40-step dial depending on your espresso machine.
 
@@ -144,7 +144,7 @@ Baratza's real value proposition is serviceability. The grinder is designed to b
 
 ### 2. OXO Brew Conical Burr Grinder — Best Value for Drip & Pour-Over
 
-**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=OXO+Brew+conical+burr+grinder)
+**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=OXO+Brew+conical+burr+grinder&tag=nickpicks-20)
 
 OXO's conical burr grinder hits the sweet spot between performance and price for drip and pour-over brewing. The 15 settings (each with a micro-setting) give more than enough range to dial in any non-espresso brew method. The dosing scale allows you to grind directly to a set number of cups (1–12), avoiding the guesswork that plagues most home grinders. Grounds are directed into the hopper magnetically — a small design detail that eliminates the static-cling mess common to cheaper grinders.
 
@@ -165,7 +165,7 @@ Build quality is what you'd expect from OXO: robust, intuitive, and designed to 
 
 ### 3. Fellow Ode Brew Grinder Gen 2 — Best for Pour-Over & Filter Coffee
 
-**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Fellow+Ode+Brew+Grinder+Gen+2)
+**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Fellow+Ode+Brew+Grinder+Gen+2&tag=nickpicks-20)
 
 The Fellow Ode Gen 2 is designed exclusively for filter coffee — pour-over, drip, AeroPress, and French press — and within that scope it outperforms everything else at twice the price. The 64mm flat burr set delivers grind distribution graphs that professional baristas would approve of: tight particle size distribution, minimal fines, and exceptional clarity in the cup. If you're serious about filter brewing and want to taste what your beans actually taste like without grinder interference, this is the machine.
 
@@ -187,7 +187,7 @@ The Gen 2 upgrade added anti-static properties (a persistent complaint about the
 
 ### 4. 1Zpresso JX-Pro — Best Manual Grinder
 
-**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=1Zpresso+JX-Pro)
+**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=1Zpresso+JX-Pro&tag=nickpicks-20)
 
 Manual coffee grinders have exploded in popularity among quality-focused home brewers because the physics are simple: stainless steel conical burrs driven by hand produce zero electrical interference, zero heat from a motor, and complete quiet. The 1Zpresso JX-Pro is the benchmark manual grinder for its price — 48mm stainless steel conical burrs and 90 clicks of adjustment give it more precision than most electric grinders at this price, with a range that covers espresso through coarse pour-over.
 
@@ -208,7 +208,7 @@ Grinding takes 30–60 seconds for a single espresso dose, 60–90 seconds for a
 
 ### 5. Hamilton Beach Fresh Grind — Best Budget Blade Grinder
 
-**Price:** ~$20 | [Check on Amazon](https://www.amazon.com/s?k=Hamilton+Beach+Fresh+Grind+blade+grinder)
+**Price:** ~$20 | [Check on Amazon](https://www.amazon.com/s?k=Hamilton+Beach+Fresh+Grind+blade+grinder&tag=nickpicks-20)
 
 The Hamilton Beach Fresh Grind is the right blade grinder if you've decided a blade grinder is what you need. It is fast, easy to clean, and reliable for drip coffee brewing where grind consistency matters less — the basket filter and longer extraction time of a drip machine are more forgiving of mixed particle sizes than espresso or pour-over. For occasional coffee drinkers who also grind spices and herbs, a blade grinder's versatility makes it the practical choice over a dedicated burr grinder.
 

@@ -49,7 +49,7 @@ The connectivity piece also adds up over time. Nutritional databases with hundre
 
 ### 1. Greater Goods Nourish Smart Scale — Best Overall
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Greater+Goods+Nourish+Smart+Scale)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Greater+Goods+Nourish+Smart+Scale&tag=nickpicks-20)
 
 The Greater Goods Nourish is the rare kitchen scale that genuinely earns the "smart" label. Its companion app connects over Bluetooth and gives you access to a solid nutritional database with barcode scanning, per-ingredient tracking, and macro breakdowns that update in real time as you add food to the platform.
 
@@ -70,7 +70,7 @@ Battery life is genuinely good because the scale uses AAA batteries rather than 
 
 ### 2. Etekcity ESN00 Smart Food Scale — Best App-Connected
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Etekcity+ESN00+Smart+Food+Scale)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Etekcity+ESN00+Smart+Food+Scale&tag=nickpicks-20)
 
 Etekcity's ESN00 runs on the VeSync platform, which is the same app ecosystem that powers their smart plugs, air purifiers, and fitness devices. If you already use VeSync for anything else, this scale slides into your setup without any friction. The VeSync app is polished, the food database is large, and the Bluetooth pairing is fast and reliable.
 
@@ -89,7 +89,7 @@ The scale itself is slim, modern-looking, and accurate to 1g across its 11 lb ca
 
 ### 3. AWS LB-3000 Digital Pocket Scale — Best for Baking Precision
 
-**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=AWS+LB-3000+Digital+Pocket+Scale)
+**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=AWS+LB-3000+Digital+Pocket+Scale&tag=nickpicks-20)
 
 The AWS LB-3000 is not a "smart" scale — no app, no Bluetooth, no nutritional database. What it has is 0.1g precision across a 3,000g range, which is exactly what serious bakers need and most scales can't deliver.
 
@@ -110,7 +110,7 @@ The compact form factor features a backlit display, removes for easy cleaning, a
 
 ### 4. OXO Good Grips 11 lb Digital Scale — Best Traditional / Most Reliable
 
-**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=OXO+Good+Grips+11+lb+Digital+Scale)
+**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=OXO+Good+Grips+11+lb+Digital+Scale&tag=nickpicks-20)
 
 OXO has been making kitchen tools that last for thirty years, and the Good Grips scale reflects that philosophy entirely. No app, no connectivity, no subscription — just a thoughtfully designed digital scale that reads accurately to 1g, handles 11 lbs, and comes with a pull-out display so you can read it even with a large mixing bowl blocking the unit.
 
@@ -129,7 +129,7 @@ That pull-out display solves a real problem: you can't see the numbers with a la
 
 ### 5. RENPHO Food Scale with Nutrition — Best Nutrition Display
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=RENPHO+Food+Scale+with+Nutrition)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=RENPHO+Food+Scale+with+Nutrition&tag=nickpicks-20)
 
 RENPHO has carved out a strong position in connected health, and the food scale brings that philosophy to the kitchen. The RENPHO Health app breaks down not just calories, protein, carbs, and fat, but also fiber, sugar, sodium, cholesterol, and a range of micronutrients. For anyone managing blood pressure, tracking fiber, or monitoring sodium intake, that granularity is genuinely useful.
 
@@ -148,7 +148,7 @@ The app syncs with Apple Health and Google Fit, making it the best choice for iO
 
 ### 6. Escali Primo Digital Scale — Best Budget Reliable
 
-**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Escali+Primo+Digital+Scale)
+**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Escali+Primo+Digital+Scale&tag=nickpicks-20)
 
 The Escali Primo has appeared on "best of" lists for years because it works accurately, it's built to last, and it costs $25. No app, no Bluetooth — just a reliable 1g-resolution scale with an 11 lb capacity, a stainless steel platform, and a tare button that does exactly what a tare button should do.
 

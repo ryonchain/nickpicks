@@ -21,21 +21,21 @@ comparisonTable:
       rating: 4.8
       pros: ["Top-rated performance", "Great value"]
       cons: ["Check availability"]
-      amazonLink: "https://www.amazon.com/s?k=FlexiSpot+M7Q&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=FlexiSpot+M7Q&tag=nickpicks-20"
       badge: "Best Overall"
     - name: "VIVO Dual Monitor Desk Converter"
       price: "~$99"
       rating: 4.5
       pros: ["Top-rated performance", "Great value"]
       cons: ["Check availability"]
-      amazonLink: "https://www.amazon.com/s?k=VIVO+Dual+Monitor+Desk+Converter&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=VIVO+Dual+Monitor+Desk+Converter&tag=nickpicks-20"
       badge: "Best Budget"
     - name: "FlexiSpot AlcoveRiser M2B"
       price: "~$199"
       rating: 4.3
       pros: ["Top-rated performance", "Great value"]
       cons: ["Check availability"]
-      amazonLink: "https://www.amazon.com/s?k=FlexiSpot+AlcoveRiser+M2B&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=FlexiSpot+AlcoveRiser+M2B&tag=nickpicks-20"
       badge: "Best Premium"
 ---
 

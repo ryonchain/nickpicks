@@ -63,7 +63,7 @@ The HidrateSpark PRO is the most established name in smart hydration. A sensor p
 - No temperature number display — LED color only
 - Battery lasts ~2 weeks; USB charging required
 
-[Check on Amazon](https://www.amazon.com/s?k=HidrateSpark+PRO+smart+water+bottle&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=HidrateSpark+PRO+smart+water+bottle&tag=nickpicks-20)
 
 ---
 
@@ -90,7 +90,7 @@ Note: The Owala FreeSip itself is not smart out of the box, but it's included he
 - No display of any kind
 - Puck sold separately adds cost
 
-[Check on Amazon](https://www.amazon.com/s?k=Owala+FreeSip+32oz&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Owala+FreeSip+32oz&tag=nickpicks-20)
 
 ---
 
@@ -117,7 +117,7 @@ The Thermos Connected Bottle is the one to buy if you want a visible temperature
 - 18-hour insulation is below the best on this list
 - Battery life ~30 days (CR2016 coin cell — easy to replace)
 
-[Check on Amazon](https://www.amazon.com/s?k=Thermos+Connected+Hydration+Bottle&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Thermos+Connected+Hydration+Bottle&tag=nickpicks-20)
 
 ---
 
@@ -145,7 +145,7 @@ The Cirkul system is unique: flavor cartridges attach to the lid and infuse the 
 - Insulation is below stainless competitors
 - Not ideal for hot beverages
 
-[Check on Amazon](https://www.amazon.com/s?k=Cirkul+smart+water+bottle&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Cirkul+smart+water+bottle&tag=nickpicks-20)
 
 ---
 
@@ -172,7 +172,7 @@ The Rebo is a strong challenger to the HidrateSpark at a slightly lower price. I
 - LED strip adds minor bulk
 - Fewer third-party integrations than HidrateSpark
 
-[Check on Amazon](https://www.amazon.com/s?k=Rebo+smart+water+bottle&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Rebo+smart+water+bottle&tag=nickpicks-20)
 
 ---
 
@@ -194,4 +194,4 @@ The bottle body typically is, but the lid with electronics usually isn't. Always
 
 For the most accurate tracking and best ecosystem, the **HidrateSpark PRO** is the gold standard. For a visible temperature display, choose the **Thermos Connected**. For people who struggle with plain water, **Cirkul** is the most effective behavioral intervention.
 
-[Shop smart water bottles on Amazon](https://www.amazon.com/s?k=smart+water+bottle+hydration+tracking&tag=ryonchain-20)
+[Shop smart water bottles on Amazon](https://www.amazon.com/s?k=smart+water+bottle+hydration+tracking&tag=nickpicks-20)

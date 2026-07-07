@@ -69,7 +69,7 @@ The Kensington Duo Gel Wave is the ergonomics benchmark for wrist-rest mouse pad
 - Cloth surface absorbs oils over time (machine wash needed every few months)
 - Wave profile feels unusual for a few days until adjusted to
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Kensington+Duo+Gel+Wave+mouse+pad&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Kensington+Duo+Gel+Wave+mouse+pad&tag=nickpicks-20)
 
 ---
 
@@ -99,7 +99,7 @@ The Razer Strider XXL covers your entire desk at 36" × 16" — keyboard and mou
 - 36" width may not cover the largest desks
 - Razer branding (logo) is visible — minor aesthetic point
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Razer+Strider+XXL+desk+pad&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Razer+Strider+XXL+desk+pad&tag=nickpicks-20)
 
 ---
 
@@ -129,7 +129,7 @@ The Gimars memory foam mouse pad is the best option if you prefer memory foam ov
 - Foam can develop permanent compression spots after 12–18 months
 - Not waterproof (liquid spills damage foam)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Gimars+memory+foam+wrist+rest+mouse+pad&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Gimars+memory+foam+wrist+rest+mouse+pad&tag=nickpicks-20)
 
 ---
 
@@ -159,7 +159,7 @@ The ECHOGEAR combines an extended 31" × 14" desk pad with an attached gel wrist
 - Thick profile (0.8") raises your hand level — may require chair height adjustment
 - Microfiber surface shows oil spots more visibly than cloth alternatives
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=ECHOGEAR+large+mouse+pad+wrist+rest&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=ECHOGEAR+large+mouse+pad+wrist+rest&tag=nickpicks-20)
 
 ---
 
@@ -189,7 +189,7 @@ The Fellowes Crystals is a standalone wrist rest, not a full mouse pad — it pa
 - Must be paired with a separate mouse pad
 - Doesn't address full forearm support
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Fellowes+Crystals+Gel+wrist+rest&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Fellowes+Crystals+Gel+wrist+rest&tag=nickpicks-20)
 
 ---
 
@@ -219,7 +219,7 @@ Some users find hard mouse pads more ergonomic because they require less force t
 - Louder mousing sounds than cloth pads
 - Hard polymer scratches over time from mouse feet
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=SteelSeries+QcK+Hard+mouse+pad&tag=nickpicks0a-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=SteelSeries+QcK+Hard+mouse+pad&tag=nickpicks-20)
 
 ---
 

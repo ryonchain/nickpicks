@@ -77,7 +77,7 @@ The FlexiSpot E7 Pro has become the benchmark for mid-range electric standing de
 - Heavy to assemble — two-person job recommended
 - Not ideal for very small spaces (minimum desk width: 42")
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=FlexiSpot+E7+Pro+standing+desk&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=FlexiSpot+E7+Pro+standing+desk&tag=nickpicks-20)
 
 ---
 
@@ -107,7 +107,7 @@ The Uplift V2 is the choice for buyers who want the best-in-class electric stand
 - Long shipping times for custom desktop configurations
 - Assembly still requires two people
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Uplift+V2+standing+desk&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Uplift+V2+standing+desk&tag=nickpicks-20)
 
 ---
 
@@ -136,7 +136,7 @@ The VIVO Manual Crank is the right answer for budget buyers who want the health 
 - No programmable presets — you adjust every time
 - Lower max height (45.1") limits very tall users standing position
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=VIVO+manual+crank+height+adjustable+standing+desk&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=VIVO+manual+crank+height+adjustable+standing+desk&tag=nickpicks-20)
 
 ---
 
@@ -166,7 +166,7 @@ The Autonomous SmartDesk Pro is the best entry point for an electric standing de
 - Desktop surface scratches more easily than bamboo or premium laminates
 - Assembly instructions could be clearer
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Autonomous+SmartDesk+Pro+standing+desk&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Autonomous+SmartDesk+Pro+standing+desk&tag=nickpicks-20)
 
 ---
 
@@ -196,7 +196,7 @@ The FlexiSpot E1L is the electric L-shaped desk for dual-monitor power users who
 - 275 lb capacity lower than the E7 Pro's 355 lb
 - L-shaped desks harder to reposition once set up
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=FlexiSpot+E1L+L-shaped+standing+desk&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=FlexiSpot+E1L+L-shaped+standing+desk&tag=nickpicks-20)
 
 ---
 

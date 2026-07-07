@@ -51,7 +51,7 @@ The Braun Silk-Expert Pro 5 has held the top position in independent at-home IPL
 - Corded design limits positioning flexibility in some treatment areas
 - Does not work on blonde, grey, red, or white hair (requires contrast between hair and skin)
 
-[Check Price on Amazon](https://amazon.com/s?k=Braun+Silk-Expert+Pro+5+IPL)
+[Check Price on Amazon](https://amazon.com/s?k=Braun+Silk-Expert+Pro+5+IPL&tag=nickpicks-20)
 
 ---
 
@@ -72,7 +72,7 @@ The Ulike Air 3 uses Sapphire Ice-Cooling Technology to actively cool the treatm
 - Cooling mechanism adds bulk — slightly heavier than Braun
 - App features add value but are not required for effective use
 
-[Check Price on Amazon](https://amazon.com/s?k=Ulike+Air+3+IPL+Hair+Removal)
+[Check Price on Amazon](https://amazon.com/s?k=Ulike+Air+3+IPL+Hair+Removal&tag=nickpicks-20)
 
 ---
 
@@ -93,7 +93,7 @@ The Jovs Venus Pro II includes an RF (Radio Frequency) function alongside IPL, w
 - Less clinical validation data compared to Braun or Philips Lumea
 - Customer service response times have varied in user reports
 
-[Check Price on Amazon](https://amazon.com/s?k=Jovs+Venus+Pro+II+IPL)
+[Check Price on Amazon](https://amazon.com/s?k=Jovs+Venus+Pro+II+IPL&tag=nickpicks-20)
 
 ---
 
@@ -114,7 +114,7 @@ The Philips Lumea Prestige is the most complete at-home IPL system available: fo
 - Corded design constrains movement compared to cordless alternatives
 - Similar price to Braun with more hardware complexity — neither is definitively better
 
-[Check Price on Amazon](https://amazon.com/s?k=Philips+Lumea+Prestige+IPL)
+[Check Price on Amazon](https://amazon.com/s?k=Philips+Lumea+Prestige+IPL&tag=nickpicks-20)
 
 ---
 
@@ -135,7 +135,7 @@ Every other device in this comparison uses IPL — Intense Pulsed Light, which i
 - Treatment time for large areas (full legs) is longer than IPL devices — approximately 30 minutes
 - Higher intensity means more discomfort than cooled IPL alternatives
 
-[Check Price on Amazon](https://amazon.com/s?k=Tria+Beauty+4X+Laser+Hair+Removal)
+[Check Price on Amazon](https://amazon.com/s?k=Tria+Beauty+4X+Laser+Hair+Removal&tag=nickpicks-20)
 
 ---
 
@@ -156,7 +156,7 @@ The SmoothSkin Pure Fit is designed for users who want to start treating as quic
 - Less intensity customization than multi-level competitors
 - 30-minute battery life requires full charge for large treatment sessions
 
-[Check Price on Amazon](https://amazon.com/s?k=SmoothSkin+Pure+Fit+IPL)
+[Check Price on Amazon](https://amazon.com/s?k=SmoothSkin+Pure+Fit+IPL&tag=nickpicks-20)
 
 ---
 

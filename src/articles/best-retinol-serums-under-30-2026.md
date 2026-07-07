@@ -76,7 +76,7 @@ RoC has been making retinol products for decades. The Correxion serum uses pure 
 
 **Cons:** Retinol concentration not disclosed on packaging, may cause purging initially
 
-**[RoC Retinol Correxion Serum on Amazon →](https://www.amazon.com/dp/B00027DC7G){rel="nofollow sponsored" target="_blank"}** (ASIN: B00027DC7G)
+**[RoC Retinol Correxion Serum on Amazon →](https://www.amazon.com/dp/B00027DC7G?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B00027DC7G)
 
 ---
 
@@ -90,7 +90,7 @@ One of the few drugstore retinol products that discloses its concentration: 0.3%
 
 **Cons:** Too strong for very sensitive skin, can sting initially
 
-**[L'Oreal Revitalift 0.3% Retinol Serum on Amazon →](https://www.amazon.com/dp/B07N3WBK2G){rel="nofollow sponsored" target="_blank"}** (ASIN: B07N3WBK2G)
+**[L'Oreal Revitalift 0.3% Retinol Serum on Amazon →](https://www.amazon.com/dp/B07N3WBK2G?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07N3WBK2G)
 
 ---
 
@@ -104,7 +104,7 @@ Neutrogena uses their patented Accelerated Retinol SA formula, pairing retinol w
 
 **Cons:** Retinol concentration not disclosed, contains fragrance
 
-**[Neutrogena Rapid Wrinkle Repair Serum on Amazon →](https://www.amazon.com/dp/B07P13MS67){rel="nofollow sponsored" target="_blank"}** (ASIN: B07P13MS67)
+**[Neutrogena Rapid Wrinkle Repair Serum on Amazon →](https://www.amazon.com/dp/B07P13MS67?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07P13MS67)
 
 ---
 
@@ -118,7 +118,7 @@ CeraVe's retinol serum uses encapsulated retinol (slower, steadier release = les
 
 **Cons:** Lower effective retinol delivery than non-encapsulated formulas
 
-**[CeraVe Skin Renewing Retinol Serum on Amazon →](https://www.amazon.com/dp/B08BF3LQFF){rel="nofollow sponsored" target="_blank"}** (ASIN: B08BF3LQFF)
+**[CeraVe Skin Renewing Retinol Serum on Amazon →](https://www.amazon.com/dp/B08BF3LQFF?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B08BF3LQFF)
 
 ---
 

@@ -124,7 +124,7 @@ In 2026, the gap between budget and premium has narrowed significantly. Sub-$150
 
 ### 1. Vantrue E2 Lite — Best Overall
 
-**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Vantrue+E2+Lite+dual+dash+cam)
+**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Vantrue+E2+Lite+dual+dash+cam&tag=nickpicks-20)
 
 The Vantrue E2 Lite earns the top spot by delivering the core features that matter — 4K front resolution, a 1080p rear camera, and rock-solid loop recording — at a price that does not require a financial commitment. The front camera uses a Sony STARVIS 2 sensor with f/1.8 aperture, producing sharp, color-accurate footage in challenging pre-dawn and dusk conditions where cheaper sensors wash out.
 
@@ -144,7 +144,7 @@ Setup is genuinely simple: the magnetic mount snaps on cleanly, the 11-foot rear
 
 ### 2. Viofo A139 Pro — Best Video Quality Under $200
 
-**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Viofo+A139+Pro+dash+cam)
+**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Viofo+A139+Pro+dash+cam&tag=nickpicks-20)
 
 Viofo has been a benchmark brand for video quality among serious dash cam reviewers, and the A139 Pro demonstrates exactly why. The front camera pairs a Sony STARVIS 2 IMX678 sensor with an f/1.6 aperture — the widest aperture in this category — producing night footage that is visibly better than most competitors at twice the price. License plate readability at night is the clearest test, and the A139 Pro passes it where others fail.
 
@@ -164,7 +164,7 @@ The dual-band WiFi (2.4 GHz and 5 GHz) is a genuine differentiator: the faster 5
 
 ### 3. Nextbase 622GW — Best Features & Ecosystem
 
-**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Nextbase+622GW+dash+cam)
+**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Nextbase+622GW+dash+cam&tag=nickpicks-20)
 
 Nextbase built the 622GW around a complete ecosystem rather than a standalone camera, and for drivers who want every feature, this approach pays off. The Nextbase app is the most polished in the category — footage management, emergency SOS, and Alexa integration all work without the friction common to Chinese-brand apps. The 3-inch touchscreen is bright and responsive. Emergency SOS automatically contacts emergency services with your GPS location if a severe impact is detected and you don't respond to an alert within 60 seconds — a genuinely useful safety feature, not just a marketing bullet.
 
@@ -184,7 +184,7 @@ The 4K front camera performs excellently in daylight; night vision is good but n
 
 ### 4. Garmin Dash Cam 67W — Best for Garmin Users
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Garmin+Dash+Cam+67W)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Garmin+Dash+Cam+67W&tag=nickpicks-20)
 
 Garmin brings its navigation heritage to the dash cam space with the 67W, and the result is a camera that prioritizes reliability, software polish, and ecosystem integration over raw video specs. The 1440p front resolution is a step below 4K but is fully adequate for license plate capture at normal following distances. The 180° ultra-wide field of view is the widest of any camera reviewed here — useful for capturing lane-change incidents and intersection situations that narrower cameras miss.
 
@@ -204,7 +204,7 @@ Garmin Vault provides 3 hours of free cloud storage, with a paid tier for more. 
 
 ### 5. BlackVue DR970X-2CH — Best Cloud Dash Cam
 
-**Price:** ~$350 | [Check on Amazon](https://www.amazon.com/s?k=BlackVue+DR970X-2CH)
+**Price:** ~$350 | [Check on Amazon](https://www.amazon.com/s?k=BlackVue+DR970X-2CH&tag=nickpicks-20)
 
 If cloud connectivity is a hard requirement — for fleet management, remote monitoring, or maximizing evidence preservation — the BlackVue DR970X-2CH is the definitive choice. BlackVue Cloud provides live streaming, remote video playback, GPS tracking, and automatic evidence backup over WiFi (or optional LTE module). When an impact is detected, the camera automatically uploads the clip to the cloud before it can be overwritten or the camera stolen. For high-value vehicles, commercial use, or drivers with theft concerns, that capability is irreplaceable.
 

@@ -65,7 +65,7 @@ Serious Steel makes the resistance bands used by physical therapists and CrossFi
 - Flat loop bands require different exercises than tube bands
 - Higher cost per band vs. budget alternatives
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Serious+Steel+resistance+bands&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Serious+Steel+resistance+bands&tag=nickpicks-20)
 
 ---
 
@@ -94,7 +94,7 @@ The Fit Simplify set is consistently the best-selling resistance band set on Ama
 - Extra Heavy band resistance is lower than marketed for experienced users
 - Latex may snap after 12–18 months of heavy use
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Fit+Simplify+resistance+loop+bands&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Fit+Simplify+resistance+loop+bands&tag=nickpicks-20)
 
 ---
 
@@ -123,7 +123,7 @@ Fabric resistance bands are specifically for hip, glute, and leg work. Unlike la
 - Only three resistance levels (not as graduated as latex sets)
 - Not suitable for upper body tube-band exercises
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Victorem+fabric+resistance+bands&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Victorem+fabric+resistance+bands&tag=nickpicks-20)
 
 ---
 
@@ -152,7 +152,7 @@ Tube bands with handles are the closest resistance band analog to dumbbells — 
 - Door anchor has some attachment stability issues at high loads
 - Latex tubes don't last as long as flat natural latex bands
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=SPRI+tube+resistance+bands+handles&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=SPRI+tube+resistance+bands+handles&tag=nickpicks-20)
 
 ---
 
@@ -181,7 +181,7 @@ The Thenex set is built for serious strength work. The five flat loop bands rang
 - Foam handles reduce some exercise precision vs. full tube-band grips
 - Larger and bulkier to store than light band sets
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Thenex+heavy+duty+resistance+bands&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Thenex+heavy+duty+resistance+bands&tag=nickpicks-20)
 
 ---
 

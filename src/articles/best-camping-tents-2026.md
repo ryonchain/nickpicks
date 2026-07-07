@@ -50,7 +50,7 @@ In 2026, the major trend is **materials improvement at price** — fabrics that 
 
 ### 1. REI Co-op Passage 2 — Best Overall
 
-**Price:** ~$179 | [Check price on Amazon →](https://www.amazon.com/s?k=REI+Co-op+Passage+2+tent&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$179 | [Check price on Amazon →](https://www.amazon.com/s?k=REI+Co-op+Passage+2+tent&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The REI Passage 2 hits the intersection of price, performance, and practicality that most car campers need. At 4 lbs 6 oz, it's light enough to carry on shorter backpacking trips but spacious enough for two adults with gear. The two-door, two-vestibule design gives each person their own entrance and gear storage — a detail budget tents skip that makes a real difference in the morning routine.
 
@@ -76,7 +76,7 @@ Setup is fast — two-pole crossed design with color-coded clips goes up in unde
 
 ### 2. MSR Hubba Hubba 2 — Best Backpacking Tent
 
-**Price:** ~$350 | [Check price on Amazon →](https://www.amazon.com/dp/B001OYBJ4W?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$350 | [Check price on Amazon →](https://www.amazon.com/dp/B001OYBJ4W?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The MSR Hubba Hubba 2 is the backpacking tent that experienced hikers consistently recommend when asked "what tent should I buy?" The combination of 3.5 lbs, full storm protection, and MSR's pole engineering makes it the most capable tent at its weight class.
 
@@ -102,7 +102,7 @@ For severe weather, the Hubba Hubba's seam-sealed construction, 30D fly fabric, 
 
 ### 3. Coleman Sundome 2-Person Tent — Best Budget Option
 
-**Price:** ~$65 | [Check price on Amazon →](https://www.amazon.com/dp/B00359CKW2?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$65 | [Check price on Amazon →](https://www.amazon.com/dp/B00359CKW2?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 For casual campground camping on fair-weather nights, the Coleman Sundome does everything it needs to do at a price that eliminates the financial risk of a new hobby. Two people fit comfortably, setup takes 15 minutes following Coleman's instructions, and the E-port cable pass-through (patented by Coleman) lets you run power to the tent from a campsite electrical hookup — useful at developed campgrounds.
 
@@ -129,7 +129,7 @@ For the target use case — two friends camping at a developed campground 3 nigh
 
 ### 4. Big Agnes Copper Spur HV UL2 — Best Ultralight Tent
 
-**Price:** ~$550 | [Check price on Amazon →](https://www.amazon.com/dp/B07ZT9HPCV?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$550 | [Check price on Amazon →](https://www.amazon.com/dp/B07ZT9HPCV?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Big Agnes Copper Spur HV UL2 is the benchmark ultralight backpacking tent: 2 lbs 11 oz with two doors, two vestibules, and enough interior volume (29 sq ft floor area) to fit two people and their gear without feeling like a coffin. At that weight, the Copper Spur has no reasonable competitor for two-person ultralight camping.
 
@@ -155,7 +155,7 @@ The price reflects the engineering: 15D Silnylon fabrics, titanium-alloy stakes,
 
 ### 5. NEMO Dagger OSMO 2P — Best Mid-Range Backpacking Tent
 
-**Price:** ~$300 | [Check price on Amazon →](https://www.amazon.com/s?k=NEMO+Dagger+OSMO+2+person+tent&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$300 | [Check price on Amazon →](https://www.amazon.com/s?k=NEMO+Dagger+OSMO+2+person+tent&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The NEMO Dagger OSMO fills the gap between the REI Passage 2 (best car camping value) and the MSR Hubba Hubba (best backpacking performance). At 3 lbs 13 oz, it's light enough for moderate backpacking trips, and NEMO's OSMO fabric technology means the tent is dimensionally stable when wet — it doesn't sag or distort in rain the way standard nylon does.
 

@@ -71,7 +71,7 @@ One of the top-reviewed cooling beds on Amazon. The Coolin' Comfort uses a breat
 
 **Cons:** Not a gel mat — passive cooling only
 
-**[K&H Coolin' Comfort Dog Bed on Amazon →](https://www.amazon.com/dp/B000MMM9GQ){rel="nofollow sponsored" target="_blank"}** (ASIN: B000MMM9GQ)
+**[K&H Coolin' Comfort Dog Bed on Amazon →](https://www.amazon.com/dp/B000MMM9GQ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B000MMM9GQ)
 
 ---
 
@@ -85,7 +85,7 @@ The CHILLZ mat is the budget-friendly gel mat pick. Pressure-activated gel cools
 
 **Cons:** Can be punctured by sharp nails, needs to reset between long naps
 
-**[CHILLZ Dog Cooling Mat on Amazon →](https://www.amazon.com/dp/B07BSHWTSZ){rel="nofollow sponsored" target="_blank"}** (ASIN: B07BSHWTSZ)
+**[CHILLZ Dog Cooling Mat on Amazon →](https://www.amazon.com/dp/B07BSHWTSZ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07BSHWTSZ)
 
 ---
 
@@ -99,7 +99,7 @@ The best pick for outdoor use. High-density polyethylene mesh suspends your dog 
 
 **Cons:** No active cooling (relies on airflow), not ideal indoors with AC
 
-**[Coolaroo Elevated Dog Bed on Amazon →](https://www.amazon.com/dp/B00DCFM512){rel="nofollow sponsored" target="_blank"}** (ASIN: B00DCFM512)
+**[Coolaroo Elevated Dog Bed on Amazon →](https://www.amazon.com/dp/B00DCFM512?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B00DCFM512)
 
 ---
 
@@ -113,7 +113,7 @@ Uses non-toxic polymer gel that stays cool for 3–4 hours of continuous contact
 
 **Cons:** Heavier and less packable than standard gel mats
 
-**[Green Pet Shop Cooling Mat on Amazon →](https://www.amazon.com/dp/B079MHNZDC){rel="nofollow sponsored" target="_blank"}** (ASIN: B079MHNZDC)
+**[Green Pet Shop Cooling Mat on Amazon →](https://www.amazon.com/dp/B079MHNZDC?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B079MHNZDC)
 
 ---
 

@@ -73,7 +73,7 @@ Other specs that matter at this price range:
 
 ### 1. Oral-B Pro 1000 — Best Overall
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Oral-B+Pro+1000+electric+toothbrush)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Oral-B+Pro+1000+electric+toothbrush&tag=nickpicks-20)
 
 The Pro 1000 represents the sweet spot in Oral-B's lineup — the oscillating-rotating technology matches more expensive Oral-B models, and the inclusion of a pressure sensor prevents the gum damage that plagues aggressive brushers. Dozens of clinical studies back the round-head oscillating design.
 
@@ -91,7 +91,7 @@ The Pro 1000 represents the sweet spot in Oral-B's lineup — the oscillating-ro
 
 ### 2. Fairywill Sonic P11 — Best Value
 
-**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Fairywill+P11+sonic+electric+toothbrush)
+**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Fairywill+P11+sonic+electric+toothbrush&tag=nickpicks-20)
 
 For $25, the Fairywill P11 delivers 40,000 vibrations per minute, 8 replacement brush heads, 5 cleaning modes, and a full month of battery life. The lack of a pressure sensor is the notable absence, but for buyers with normal brushing habits, it's hard to argue with the value-to-feature ratio.
 
@@ -109,7 +109,7 @@ For $25, the Fairywill P11 delivers 40,000 vibrations per minute, 8 replacement 
 
 ### 3. Philips Sonicare 4100 — Best Sonic with Pressure Sensor
 
-**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Philips+Sonicare+4100+electric+toothbrush)
+**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Philips+Sonicare+4100+electric+toothbrush&tag=nickpicks-20)
 
 If you want the Sonicare sonic experience with a pressure sensor included, the 4100 is the entry point. Philips' pressure sensor is particularly well-implemented — it automatically slows the brush when you press too hard rather than just alerting with a light.
 
@@ -127,7 +127,7 @@ If you want the Sonicare sonic experience with a pressure sensor included, the 4
 
 ### 4. Colgate E1 Smart Toothbrush — Best App Integration
 
-**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=Colgate+E1+smart+toothbrush)
+**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=Colgate+E1+smart+toothbrush&tag=nickpicks-20)
 
 The E1 is the most tech-forward option at this price: it connects via Bluetooth to Colgate's app, which uses AI to map your brushing coverage in real time, showing exactly which teeth you're missing. For anyone who's repeatedly been told by a dentist they're missing the same spots, this feedback loop can be genuinely behavior-changing.
 
@@ -147,7 +147,7 @@ The E1 is the most tech-forward option at this price: it connects via Bluetooth 
 
 ### 5. Burst Sonic Toothbrush — Best Battery Life
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Burst+sonic+toothbrush)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Burst+sonic+toothbrush&tag=nickpicks-20)
 
 Burst's charcoal-infused brush heads and exceptional battery life (up to 4 weeks per charge) have earned a loyal following. The handle is notably premium-feeling for the price point, and the pressure sensor is clean and responsive. Brush head subscriptions are available if you want automatic replacements.
 
@@ -165,7 +165,7 @@ Burst's charcoal-infused brush heads and exceptional battery life (up to 4 weeks
 
 ### 6. Oral-B Vitality Plus — Best Entry-Level
 
-**Price:** ~$20 | [Check on Amazon](https://www.amazon.com/s?k=Oral-B+Vitality+Plus+electric+toothbrush)
+**Price:** ~$20 | [Check on Amazon](https://www.amazon.com/s?k=Oral-B+Vitality+Plus+electric+toothbrush&tag=nickpicks-20)
 
 The Vitality Plus is the cheapest way to get Oral-B's oscillating-rotating technology. It skips the pressure sensor and has a shorter battery life (2 weeks), but the core brushing mechanism is the same as the Pro 1000. Compatible with all standard Oral-B replacement heads.
 

@@ -52,7 +52,7 @@ IP67 rated, which means it's fully dustproof and can be submerged in water up to
 
 **Best for:** Desk workers, commuters, hikers, and anyone who wants a speaker they can clip anywhere and forget about.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B08PJ8CHKV?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B08PJ8CHKV?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -64,7 +64,7 @@ It's IP67 rated like the JBL, with a 16-hour battery life that's genuinely bette
 
 **Best for:** Music lovers who want maximum bass impact without spending more than $50.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B0C4V1XVTM?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B0C4V1XVTM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -76,7 +76,7 @@ Sound quality is balanced rather than bass-heavy: music sounds clear at moderate
 
 **Best for:** Budget-first buyers, secondary speakers for a bedroom or outdoor workspace, anyone who wants solid audio without paying JBL prices.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B06XNKXRTN?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B06XNKXRTN?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -90,7 +90,7 @@ The one limitation: at $49, it's at the top of this price range, and for desk or
 
 **Best for:** Outdoor enthusiasts, beach/pool use, anyone who needs a genuinely rugged portable speaker.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B0B3ZX9X95?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B0B3ZX9X95?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -102,7 +102,7 @@ Sound is solid for its size — better bass response than you'd expect from such
 
 **Best for:** Ultralight travelers, cyclists, and minimalists who need a speaker that disappears into their bag.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B09XQKCLKQ?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/dp/B09XQKCLKQ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -172,7 +172,7 @@ Yes for convenience — USB-C is reversible and uses the same cables as modern p
 
 For most buyers, the **JBL Clip 4** is the right choice — it sounds great, clips anywhere, and handles outdoor use without issue. If budget is the priority, the **Anker Soundcore 2** delivers 24-hour battery and solid audio at the lowest cost in this category. Bass-heads should grab the **Sony SRS-XB100**.
 
-[Shop Bluetooth speakers on Amazon →](https://www.amazon.com/s?k=bluetooth+speaker+under+50&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+[Shop Bluetooth speakers on Amazon →](https://www.amazon.com/s?k=bluetooth+speaker+under+50&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

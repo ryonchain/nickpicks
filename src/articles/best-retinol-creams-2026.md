@@ -67,7 +67,7 @@ Key factors to evaluate:
 
 ### 1. RoC Retinol Correxion Line Smoothing Serum — Best for Beginners
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=RoC+Retinol+Correxion+Line+Smoothing+Serum)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=RoC+Retinol+Correxion+Line+Smoothing+Serum&tag=nickpicks-20)
 
 RoC's encapsulated retinol formula has been independently studied in multiple clinical trials and consistently delivers measurable improvement in fine lines within 4–12 weeks of regular use. The encapsulation makes it significantly less irritating than pure retinol at equivalent concentrations, which is why dermatologists recommend it as a starting point.
 
@@ -84,7 +84,7 @@ RoC's encapsulated retinol formula has been independently studied in multiple cl
 
 ### 2. Paula's Choice 1% Retinol Treatment — Best for Advanced Users
 
-**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=Paula%27s+Choice+1%25+retinol+treatment)
+**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=Paula%27s+Choice+1%25+retinol+treatment&tag=nickpicks-20)
 
 Paula's Choice 1% is the strongest OTC retinol concentration widely available without a prescription. It combines pure retinol with vitamin C and peptides in a silicone-based serum that absorbs without residue. At 1%, results come faster — but this is not a formula for retinol newbies. Start at 2 nights per week maximum.
 
@@ -104,7 +104,7 @@ Paula's Choice 1% is the strongest OTC retinol concentration widely available wi
 
 ### 3. Neutrogena Rapid Wrinkle Repair Retinol Cream — Best Drugstore Option
 
-**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Neutrogena+Rapid+Wrinkle+Repair+retinol+cream)
+**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Neutrogena+Rapid+Wrinkle+Repair+retinol+cream&tag=nickpicks-20)
 
 Neutrogena's Rapid Wrinkle Repair uses their accelerated retinol SA — a combination of retinol, glucose complex, and hyaluronic acid that, in their clinical data, delivers results in as few as one week. It's the most accessible entry point for retinol, available at most grocery and drug stores.
 
@@ -123,7 +123,7 @@ Neutrogena's Rapid Wrinkle Repair uses their accelerated retinol SA — a combin
 
 ### 4. Olay Regenerist Retinol 24 Night Moisturizer — Best for Sensitive Skin
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Olay+Regenerist+Retinol+24+Night+Moisturizer)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Olay+Regenerist+Retinol+24+Night+Moisturizer&tag=nickpicks-20)
 
 Olay's Retinol 24 formula is designed for skin that has struggled with retinol sensitivity. The lower retinol concentration is embedded in a rich night moisturizer that includes niacinamide — which independently reduces fine lines and strengthens the skin barrier. The niacinamide counteracts some of retinol's drying and irritation effects.
 
@@ -141,7 +141,7 @@ Olay's Retinol 24 formula is designed for skin that has struggled with retinol s
 
 ### 5. La Roche-Posay Redermic R — Best for European-Formulation Sensibility
 
-**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=La+Roche-Posay+Redermic+R+retinol+cream)
+**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=La+Roche-Posay+Redermic+R+retinol+cream&tag=nickpicks-20)
 
 La Roche-Posay's dermatological heritage shows in the Redermic R formula — pure retinol plus retinyl acetate (a gentler precursor), embedded in a hydrating base designed to be tolerated by reactive skin. It's the most frequently recommended retinol by European dermatologists for moderate skin sensitivity.
 
@@ -158,7 +158,7 @@ La Roche-Posay's dermatological heritage shows in the Redermic R formula — pur
 
 ### 6. Differin Gel (Adapalene 0.1%) — Best Retinoid for Acne and Aging
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Differin+gel+adapalene+0.1%25)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Differin+gel+adapalene+0.1%25&tag=nickpicks-20)
 
 Differin is not retinol — it's adapalene, a third-generation synthetic retinoid that was prescription-only until 2016. It's more stable, less irritating, and more targeted to acne than traditional retinol. The anti-aging benefits (collagen stimulation, cell turnover acceleration) are comparable to retinol at equivalent concentrations.
 

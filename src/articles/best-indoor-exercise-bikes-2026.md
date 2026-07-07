@@ -62,7 +62,7 @@ In 2026, the competitive landscape looks very different. Peloton faces serious c
 
 ## 1. Peloton Bike+ — Best for Connected Cycling Classes
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Peloton+Bike+Plus+indoor+cycle){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Peloton+Bike+Plus+indoor+cycle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Peloton's Bike+ is the bike that started the connected fitness revolution, and despite years of competition and company turbulence, it remains the class leader in one critical area: the quality and quantity of live and on-demand cycling classes.
 
@@ -85,7 +85,7 @@ Peloton's Bike+ is the bike that started the connected fitness revolution, and d
 
 ## 2. NordicTrack S22i Studio Bike — Best Alternative to Peloton
 
-[Check price on Amazon →](https://www.amazon.com/s?k=NordicTrack+S22i+studio+cycle){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=NordicTrack+S22i+studio+cycle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 NordicTrack's S22i does something Peloton doesn't: it inclines and declines, simulating outdoor terrain. This makes it genuinely useful for cyclists training for outdoor riding or triathletes who want specific hill work.
 
@@ -108,7 +108,7 @@ NordicTrack's S22i does something Peloton doesn't: it inclines and declines, sim
 
 ## 3. Echelon EX-5s Connect Bike — Best Value Connected Bike
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Echelon+EX-5S+smart+connect+bike){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Echelon+EX-5S+smart+connect+bike&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Echelon is the genuine Peloton alternative for price-conscious buyers who still want a connected cycling experience with an instructor-led class library. The EX-5s offers a 21.5" touchscreen and access to Echelon's class platform at roughly half the cost of entry-level Peloton.
 
@@ -131,7 +131,7 @@ Echelon is the genuine Peloton alternative for price-conscious buyers who still 
 
 ## 4. Schwinn IC4 — Best Bike Without a Subscription
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Schwinn+IC4+indoor+cycling+bike){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Schwinn+IC4+indoor+cycling+bike&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Schwinn IC4 is the top recommendation for anyone who rejects the idea of paying a monthly subscription for an exercise bike indefinitely. It's a quality indoor cycling bike — solid build, good resistance, Bluetooth connectivity — that works with free apps (Peloton's app, Zwift, SoulCycle at Home) rather than requiring its own proprietary subscription.
 
@@ -154,7 +154,7 @@ The Schwinn IC4 is the top recommendation for anyone who rejects the idea of pay
 
 ## 5. Bowflex VeloCore — Best for Core Workouts
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Bowflex+VeloCore+bike){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Bowflex+VeloCore+bike&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Bowflex's VeloCore is genuinely unique in the indoor cycling market: it leans side to side. This isn't a gimmick — leaning engages your core muscles the same way outdoor cycling does, making every session into a compound workout. It's the most innovative bike on this list if you're looking for something beyond standard indoor cycling.
 
@@ -176,7 +176,7 @@ Bowflex's VeloCore is genuinely unique in the indoor cycling market: it leans si
 
 ## 6. Sunny Health & Fitness SF-B1805 — Best Budget Bike
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Sunny+Health+Fitness+exercise+bike+indoor){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Sunny+Health+Fitness+exercise+bike+indoor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If your goal is simply to add cardio to your routine without spending $800+, the Sunny Health & Fitness SF-B1805 delivers reliable indoor cycling at a fraction of connected bike prices. There's no screen, no subscription, and no Bluetooth — just a solid flywheel and adjustable resistance.
 

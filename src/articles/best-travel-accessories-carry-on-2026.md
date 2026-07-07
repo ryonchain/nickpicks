@@ -67,7 +67,7 @@ We've tested these across dozens of trips to find the best travel accessories th
 
 ### 1. Shacke Pak Packing Cubes (6-Set) — Best Overall Carry-On Organizer
 
-**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/dp/B00MGPJWI2){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/dp/B00MGPJWI2?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Packing cubes are the single most impactful upgrade to carry-on travel. The Shacke Pak 6-set includes two large cubes (shirts, pants), two medium cubes (underwear, accessories), one small cube, and a laundry bag — covering every category without overcomplicating it.
 
@@ -86,7 +86,7 @@ Packing cubes are the single most impactful upgrade to carry-on travel. The Shac
 
 ### 2. Anker PowerCore 10000 — Best Portable Charger for Carry-On Travel
 
-**Price:** ~$26 | [Check price on Amazon →](https://www.amazon.com/dp/B0194WDVHI){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$26 | [Check price on Amazon →](https://www.amazon.com/dp/B0194WDVHI?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 At 10,000mAh, the Anker PowerCore gives you 2–3 full phone charges in a package that fits in your front jeans pocket. It's been the gold standard budget power bank for years, and nothing has knocked it off the top spot at this price.
 
@@ -105,7 +105,7 @@ At 10,000mAh, the Anker PowerCore gives you 2–3 full phone charges in a packag
 
 ### 3. TRTL Pillow Plus — Best Travel Neck Pillow
 
-**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/dp/B01N55YD5L){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/dp/B01N55YD5L?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The TRTL Pillow solved the fundamental problem with classic horseshoe pillows — they don't actually support your neck in the position you fall asleep. The TRTL wraps around your neck like a scarf with an internal ribbed support structure that holds your head upright without the pillow shifting.
 
@@ -124,7 +124,7 @@ The TRTL Pillow solved the fundamental problem with classic horseshoe pillows �
 
 ### 4. Cocoon Grid-It Organizer — Best Cable and Tech Organizer
 
-**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/dp/B002HU27UW){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/dp/B002HU27UW?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Grid-It is a rubberized board with an elastic grid that holds cables, adapters, earbuds, pens, lip balm, and anything else that usually rattles loose in your bag. It comes in multiple sizes — the small fits in a jacket pocket, the medium fits in a personal item bag's front pocket.
 
@@ -143,7 +143,7 @@ The Grid-It is a rubberized board with an elastic grid that holds cables, adapte
 
 ### 5. AmazonBasics Hanging Travel Toiletry Kit — Best Toiletry Organizer
 
-**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/dp/B01J84KBIQ){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/dp/B01J84KBIQ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 A hanging toiletry bag turns any towel bar, hook, or shower rod into an organized vanity. No unpacking bottles onto a wet counter — everything hangs at eye level while you use it and zips up in 10 seconds.
 
@@ -162,7 +162,7 @@ A hanging toiletry bag turns any towel bar, hook, or shower rod into an organize
 
 ### 6. Gonex Compression Packing Cubes — Best for Overpacking Situations
 
-**Price:** ~$28 | [Check price on Amazon →](https://www.amazon.com/dp/B07V44K3XC){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$28 | [Check price on Amazon →](https://www.amazon.com/dp/B07V44K3XC?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Gonex's compression cubes add a second zip that compresses clothing down by about 60%, letting you fit a week of clothes in a bag designed for a 3-day trip. The compression zip is simple — no vacuum required.
 
@@ -179,7 +179,7 @@ Gonex's compression cubes add a second zip that compresses clothing down by abou
 
 ### 7. Anker USB-C Travel Adapter — Best International Power Adapter
 
-**Price:** ~$36 | [Check price on Amazon →](https://www.amazon.com/dp/B078LTCPBD){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$36 | [Check price on Amazon →](https://www.amazon.com/dp/B078LTCPBD?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 A single universal adapter replaces a bag of country-specific plugs. The Anker PowerExtend USB-C covers Type A, B, C, G, and I outlets and includes USB-A and USB-C ports for simultaneous device charging.
 

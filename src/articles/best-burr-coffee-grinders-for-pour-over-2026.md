@@ -82,7 +82,7 @@ The Encore ESP is the updated version of Baratza's best-selling Encore, adding e
 - Slow by commercial standards (but adequate for home use)
 - No built-in scale or timer
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Baratza+Encore+ESP&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Baratza+Encore+ESP&tag=nickpicks-20)
 
 ---
 
@@ -112,7 +112,7 @@ The Fellow Ode Gen 2 is purpose-built for filter coffee: pour-over, French press
 - Single-dose slows workflow for high-volume households
 - No dosing cup included in base model
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Fellow+Ode+Brew+Grinder+Gen+2&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Fellow+Ode+Brew+Grinder+Gen+2&tag=nickpicks-20)
 
 ---
 
@@ -142,7 +142,7 @@ The Breville Smart Grinder Pro covers the widest grind range of any home grinder
 - Louder than Baratza Encore at equivalent settings
 - Plastic grind path creates occasional static issues
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Breville+Smart+Grinder+Pro&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Breville+Smart+Grinder+Pro&tag=nickpicks-20)
 
 ---
 
@@ -172,7 +172,7 @@ The Timemore C3 Pro is the best manual burr grinder for travel, camping, or supp
 - Not fine enough for true espresso
 - Replacement burrs less available than Baratza
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Timemore+C3+Pro+hand+grinder&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Timemore+C3+Pro+hand+grinder&tag=nickpicks-20)
 
 ---
 
@@ -202,7 +202,7 @@ The Sette 270 is the espresso-first grinder for households serious about espress
 - Louder than filter grinders in daily use
 - Not designed for sharing between espresso and filter households
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Baratza+Sette+270&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Baratza+Sette+270&tag=nickpicks-20)
 
 ---
 

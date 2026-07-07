@@ -68,7 +68,7 @@ Marketing leans heavily on RPM and speed levels, but two specs actually determin
 
 ### 1. Theragun Prime — Best Overall
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Theragun+Prime+massage+gun)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Theragun+Prime+massage+gun&tag=nickpicks-20)
 
 The Theragun Prime delivers the 16mm amplitude that separates real percussive therapy from surface vibration. The triangular handle allows six grip positions, letting you reach your own upper back, glutes, and hamstrings without contorting. It pairs with the Therabody app for guided routines, though you don't need the app to get value from it.
 
@@ -87,7 +87,7 @@ The Theragun Prime delivers the 16mm amplitude that separates real percussive th
 
 ### 2. Hypervolt 2 Pro — Best Stall Force
 
-**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Hypervolt+2+Pro+massage+gun)
+**Price:** ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Hypervolt+2+Pro+massage+gun&tag=nickpicks-20)
 
 The Hypervolt 2 Pro's standout spec is 60 lbs of stall force — double the Theragun Prime. Under hard pressure on dense muscle groups like quads and hamstrings, it doesn't bog down. The 14mm amplitude is slightly less than Theragun's 16mm but still reaches deep tissue effectively. It's quieter than most devices in its class.
 
@@ -106,7 +106,7 @@ The Hypervolt 2 Pro's standout spec is 60 lbs of stall force — double the Ther
 
 ### 3. Bob and Brad Q2 Mini — Best Budget
 
-**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=Bob+and+Brad+Q2+Mini+massage+gun)
+**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=Bob+and+Brad+Q2+Mini+massage+gun&tag=nickpicks-20)
 
 The Q2 Mini is exceptional value. At 12mm amplitude and 35 lbs stall force, it outperforms its price category significantly — most sub-$100 guns top out at 10mm amplitude and 15–20 lbs stall force. The quiet brushless motor runs at 45 dB, battery life is a standout 4 hours, and the compact form fits in a gym bag easily.
 
@@ -127,7 +127,7 @@ The Q2 Mini is exceptional value. At 12mm amplitude and 35 lbs stall force, it o
 
 ### 4. Ekrin B37S — Best Battery Life
 
-**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Ekrin+B37S+massage+gun)
+**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Ekrin+B37S+massage+gun&tag=nickpicks-20)
 
 The B37S delivers 8 hours of battery life — more than any comparable device at this price. Its 56 lbs stall force handles sustained pressure without shutting off, and the angled handle design makes self-treatment of hard-to-reach areas easier. Build quality feels closer to premium devices than its mid-range price suggests.
 
@@ -146,7 +146,7 @@ The B37S delivers 8 hours of battery life — more than any comparable device at
 
 ### 5. Achedaway Pro — Best Power-to-Price
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Achedaway+Pro+massage+gun)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Achedaway+Pro+massage+gun&tag=nickpicks-20)
 
 The Achedaway Pro matches Theragun's 16mm amplitude but pairs it with 80 lbs of stall force — the highest of any device here. It's genuinely difficult to stall under normal use, which means consistent percussion depth regardless of how hard you press. The low 45 dB noise level is also exceptional for a device this powerful.
 
@@ -165,7 +165,7 @@ The Achedaway Pro matches Theragun's 16mm amplitude but pairs it with 80 lbs of 
 
 ### 6. Theragun Relief — Best for Beginners and Sensitive Users
 
-**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=Theragun+Relief+massage+gun)
+**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=Theragun+Relief+massage+gun&tag=nickpicks-20)
 
 The Relief is Theragun's entry-level device, designed for users who find standard percussive massage too aggressive. The 10mm amplitude and 20 lbs stall force deliver gentler treatment — appropriate for post-surgery recovery, older adults, or anyone starting percussive therapy who has been discouraged by intensity. It still uses the triangular Theragun handle design.
 

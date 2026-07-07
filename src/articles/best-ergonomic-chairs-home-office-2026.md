@@ -61,7 +61,7 @@ We sat in these chairs through full workdays (not 20-minute showroom tests) and 
 
 ### 1. Steelcase Leap V2 — Best Overall Ergonomic Chair
 
-**Price:** ~$1,400 | [Check price on Amazon →](https://www.amazon.com/s?k=steelcase+leap+v2+ergonomic+chair&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$1,400 | [Check price on Amazon →](https://www.amazon.com/s?k=steelcase+leap+v2+ergonomic+chair&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Steelcase Leap V2 is consistently the top-rated ergonomic chair among physical therapists and ergonomics specialists because of one feature that no other chair replicates as well: LiveBack Technology. As you shift, lean, and move throughout the day, the Leap's back flexes and adjusts to maintain contact with your spine rather than staying rigid while you move around it.
 
@@ -86,7 +86,7 @@ The Steelcase Leap V2 is consistently the top-rated ergonomic chair among physic
 
 ### 2. Herman Miller Aeron (Remastered) — Best Mesh Seating
 
-**Price:** ~$1,400 | [Check price on Amazon →](https://www.amazon.com/s?k=herman+miller+aeron+remastered+chair&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$1,400 | [Check price on Amazon →](https://www.amazon.com/s?k=herman+miller+aeron+remastered+chair&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Herman Miller Aeron is the most recognizable ergonomic chair on earth for good reason: its 8Z Pellicle mesh seat and back distribute weight evenly across the sitting surface, eliminating the pressure points that cause numbness during long sessions. The mesh also allows full airflow — the Aeron is the best chair for users who run hot or work in warm environments.
 
@@ -106,7 +106,7 @@ The Herman Miller Aeron is the most recognizable ergonomic chair on earth for go
 
 ### 3. Branch Ergonomic Chair — Best Budget Ergonomic Chair
 
-**Price:** ~$335 | [Check price on Amazon →](https://www.amazon.com/s?k=branch+ergonomic+chair+office&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$335 | [Check price on Amazon →](https://www.amazon.com/s?k=branch+ergonomic+chair+office&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Branch Ergonomic Chair is the best value in ergonomic seating under $500, delivering 11 adjustment points that match or exceed chairs at $600–700 from other brands. Branch cut costs through direct-to-consumer sales rather than through dealer showrooms — the chair itself is genuinely well-engineered.
 
@@ -137,7 +137,7 @@ The Branch Ergonomic Chair is the best value in ergonomic seating under $500, de
 
 ### 4. Humanscale Freedom — Best Self-Adjusting Recline
 
-**Price:** ~$1,200 | [Check price on Amazon →](https://www.amazon.com/s?k=humanscale+freedom+ergonomic+chair&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$1,200 | [Check price on Amazon →](https://www.amazon.com/s?k=humanscale+freedom+ergonomic+chair&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Humanscale Freedom is designed around a radical simplicity principle: instead of giving you 20 levers to adjust, it eliminates most of them. The recline mechanism uses your body weight as the counterbalance — the more you weigh, the more resistance you feel when reclining. No tilt tension knob, no recline lock. Just sit and recline naturally.
 
@@ -157,7 +157,7 @@ The Humanscale Freedom is designed around a radical simplicity principle: instea
 
 ### 5. Autonomous ErgoChair Pro — Best Ergonomic Chair Under $500
 
-**Price:** ~$499 | [Check price on Amazon →](https://www.amazon.com/s?k=autonomous+ergochair+pro&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$499 | [Check price on Amazon →](https://www.amazon.com/s?k=autonomous+ergochair+pro&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Autonomous ErgoChair Pro competes directly with the Branch Ergonomic Chair for the sub-$500 budget position. At $499, it provides a full adjustable lumbar system, mesh back, and seat tilt adjustment that's missing from many chairs in its class.
 

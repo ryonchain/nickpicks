@@ -121,7 +121,7 @@ The portable power station market has matured dramatically. Three years ago, the
 
 ### 1. EcoFlow DELTA 2 Max — Best Overall
 
-**Price:** ~$1,200 | [Check on Amazon](https://www.amazon.com/s?k=EcoFlow+DELTA+2+Max)
+**Price:** ~$1,200 | [Check on Amazon](https://www.amazon.com/s?k=EcoFlow+DELTA+2+Max&tag=nickpicks-20)
 
 The EcoFlow DELTA 2 Max represents the best balance of capacity, solar performance, and usable output in 2026. At 2048Wh, it stores enough energy to run a 12V camping fridge for 40+ hours, power a CPAP machine for four nights, or keep critical home appliances running through a 24-hour outage. The 2400W continuous AC output (5000W surge) handles virtually any appliance you'd realistically connect to a portable station, including window air conditioners and power tools.
 
@@ -142,7 +142,7 @@ The defining feature is 1000W max solar input — the highest in this price tier
 
 ### 2. Jackery Explorer 1000 Plus — Best Mid-Range Solar
 
-**Price:** ~$800 | [Check on Amazon](https://www.amazon.com/s?k=Jackery+Explorer+1000+Plus)
+**Price:** ~$800 | [Check on Amazon](https://www.amazon.com/s?k=Jackery+Explorer+1000+Plus&tag=nickpicks-20)
 
 The Jackery Explorer 1000 Plus has earned its place as one of the best-selling power stations in the US for good reason. The 1264Wh LFP battery provides meaningful capacity for extended camping — enough for a weekend of charging all devices, running LED lighting, and powering a portable fridge through most nights. The 2000W continuous output (4000W surge) handles most appliances short of heating elements.
 
@@ -163,7 +163,7 @@ What sets the 1000 Plus apart at this price is 500W max solar input with a well-
 
 ### 3. Bluetti AC200L — Best Solar Input
 
-**Price:** ~$1,100 | [Check on Amazon](https://www.amazon.com/s?k=Bluetti+AC200L)
+**Price:** ~$1,100 | [Check on Amazon](https://www.amazon.com/s?k=Bluetti+AC200L&tag=nickpicks-20)
 
 The Bluetti AC200L is the solar enthusiast's pick. With 1200W max solar input — the highest of any unit under $1,500 — it can recharge from a 1000W panel setup in approximately 2 hours, turning a sunny day into a complete power reset regardless of prior use. The MPPT controller is among the most efficient in the category, consistently squeezing 10–15% more output from panels than competitors in variable cloud conditions.
 
@@ -184,7 +184,7 @@ At 2048Wh and 2400W continuous output, the AC200L is capacity-equivalent to the 
 
 ### 4. Anker SOLIX C800 — Best Lightweight Option
 
-**Price:** ~$500 | [Check on Amazon](https://www.amazon.com/s?k=Anker+SOLIX+C800)
+**Price:** ~$500 | [Check on Amazon](https://www.amazon.com/s?k=Anker+SOLIX+C800&tag=nickpicks-20)
 
 At 21 pounds, the Anker SOLIX C800 achieves a power-to-weight ratio that no comparably priced competitor can match. For buyers who need portability above all — festival camping, kayak trips, backpacking base camps — 768Wh in a 21-pound package is the sweet spot. The 1600W continuous output handles most devices including induction cooktops briefly and power tools, while the 400W solar input delivers a full recharge in around 2 hours.
 
@@ -205,7 +205,7 @@ Anker's hardware build quality is exceptional — clean industrial design, a wel
 
 ### 5. EcoFlow RIVER 2 Pro — Best Budget Mid-Range
 
-**Price:** ~$350 | [Check on Amazon](https://www.amazon.com/s?k=EcoFlow+RIVER+2+Pro)
+**Price:** ~$350 | [Check on Amazon](https://www.amazon.com/s?k=EcoFlow+RIVER+2+Pro&tag=nickpicks-20)
 
 The EcoFlow RIVER 2 Pro fills the gap between ultra-portable stations and serious capacity units. At 768Wh and 800W continuous output, it handles most personal devices — laptops, phones, small fans, LED lighting — for a weekend without breaking a sweat. The 220W solar input supports a full recharge from a 200W panel in around 4 hours, making it solar-capable without the complexity of larger systems.
 

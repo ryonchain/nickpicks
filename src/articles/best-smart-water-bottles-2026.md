@@ -124,7 +124,7 @@ None of these features improve the water itself, but the best outcomes research 
 
 ### 1. HidrateSpark PRO — Best Hydration Tracker
 
-**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=HidrateSpark+PRO+smart+water+bottle)
+**Price:** ~$60 | [Check on Amazon](https://www.amazon.com/s?k=HidrateSpark+PRO+smart+water+bottle&tag=nickpicks-20)
 
 HidrateSpark is the established leader in tracked hydration, and the PRO model earns its position. The built-in flow sensor measures how much you drink with each sip, syncing via Bluetooth to the HidrateSpark app and from there to Apple Health, Garmin Connect, Fitbit, and other fitness platforms. For users who track their health data holistically — steps, sleep, calories, workouts — having hydration in the same dashboard is genuinely useful.
 
@@ -145,7 +145,7 @@ The LED glow reminder is the most distinctive feature: the bottle glows in a col
 
 ### 2. LARQ Bottle PureVis — Best with UV Purification
 
-**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=LARQ+Bottle+PureVis)
+**Price:** ~$100 | [Check on Amazon](https://www.amazon.com/s?k=LARQ+Bottle+PureVis&tag=nickpicks-20)
 
 The LARQ PureVis combines UV-C LED purification with hydration tracking and a temperature display in one premium bottle. The UV-C system (active in the cap) neutralizes 99.99% of harmful bacteria and viruses in the water every 2 hours automatically — making it the right choice for travelers, hikers using questionable water sources, or anyone who has concerns about municipal water quality. The digital temperature display on the cap shows drink temperature clearly; the LED ring provides hydration reminders.
 
@@ -166,7 +166,7 @@ Hydration tracking syncs to the LARQ app via Bluetooth. App integration is more 
 
 ### 3. Hydracy Time Marker Bottle — Best No-Tech Option
 
-**Price:** ~$15 | [Check on Amazon](https://www.amazon.com/s?k=Hydracy+water+bottle+time+marker)
+**Price:** ~$15 | [Check on Amazon](https://www.amazon.com/s?k=Hydracy+water+bottle+time+marker&tag=nickpicks-20)
 
 The Hydracy time-marker bottle proves that solving the hydration problem doesn't require electronics. The 32 oz Tritan plastic bottle is printed with time markers from 8 AM to 8 PM, showing exactly how much of the bottle you should have consumed by each hour to hit your daily water goal. The concept is simple and it works — the visual time cue is a passive reminder that's always visible without any app, battery, or Bluetooth.
 
@@ -187,7 +187,7 @@ At $15, it's 4–6× cheaper than electronic smart bottles. The Tritan plastic i
 
 ### 4. Owala FreeSip — Best General-Use Insulated Bottle
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Owala+FreeSip+water+bottle)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Owala+FreeSip+water+bottle&tag=nickpicks-20)
 
 The Owala FreeSip is not technically a "smart" bottle — it has no sensors, display, or app. But it belongs in this comparison because it represents the best general-use insulated bottle for the majority of buyers who don't actually need electronic hydration tracking. The FreeSip lid's dual-use design (sip directly or swig from the opening) is the most practical everyday bottle lid in the category, and the 24-hour cold / 12-hour hot insulation performance is excellent.
 
@@ -209,7 +209,7 @@ If you've been considering a smart bottle and are unsure whether you'll actually
 
 ### 5. REBO Hydration Tracking Bottle — Best Value Smart Bottle
 
-**Price:** ~$55 | [Check on Amazon](https://www.amazon.com/s?k=REBO+smart+water+bottle)
+**Price:** ~$55 | [Check on Amazon](https://www.amazon.com/s?k=REBO+smart+water+bottle&tag=nickpicks-20)
 
 The REBO offers the core smart bottle feature set — Bluetooth hydration tracking, LED display showing intake progress, and app connectivity — at a price that undercuts the HidrateSpark PRO by about $5 while adding a visible LED progress display on the body. The flow sensor accurately detects sip volume; the app tracks daily and historical intake. The insulated stainless steel body handles temperature retention comparably to HidrateSpark.
 

@@ -47,7 +47,7 @@ The Sony WH-1000XM4 regularly goes on sale at $149 and sometimes lower. At this 
 
 Sound quality is warm and detailed with excellent bass extension. The 30-hour battery with ANC active is the best in class. Multipoint connection pairs to two devices simultaneously, so you can switch between phone and laptop without manual re-pairing. Speak-to-chat pauses music automatically when you start talking.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Sony+WH-1000XM4+wireless+headphones){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Sony+WH-1000XM4+wireless+headphones&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ The Jabra Evolve2 55 is designed specifically for business use. Its microphone u
 
 Battery runs 36 hours with ANC on. The headband is reinforced for durability through a full workday with the headset on and off. The Evolve2 55 costs more than most headphones on this list, but for anyone on calls 3+ hours per day, the microphone quality alone justifies the price.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Jabra+Evolve2+55+wireless+headset){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Jabra+Evolve2+55+wireless+headset&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ The Anker Soundcore Q45 delivers solid ANC and good sound quality at around $55 
 
 The multipoint connection pairs to two devices, and the foldable design makes it compact for travel. Sound quality is V-shaped with boosted bass and highs — good for pop and hip-hop, less ideal for classical or jazz. For anyone who wants functional ANC headphones without spending more than $60, the Q45 is the clear choice.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Anker+Soundcore+Q45+headphones){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Anker+Soundcore+Q45+headphones&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ The Sennheiser HD 450BT prioritizes audio accuracy over ANC performance. Its 38m
 
 ANC is effective but not class-leading. Battery runs 30 hours, and the foldable design is travel-friendly. Sennheiser's Smart Control app lets you adjust EQ and ANC levels. If audio quality is your primary criterion, the HD 450BT is the best under $150.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Sennheiser+HD+450BT+wireless){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Sennheiser+HD+450BT+wireless&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -87,7 +87,7 @@ The JBL Tune 770NC is a commuter-focused headphone with Adaptive ANC, 70 hours o
 
 Sound leans toward JBL's signature bass-heavy tuning, which works well for podcasts and playlists during a commute. The quick charge delivers 4 hours from 10 minutes. Build quality is solid for the price. For daily commuters who want the longest battery life and reliable ANC at under $100, the Tune 770NC is the best option.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=JBL+Tune+770NC+headphones){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=JBL+Tune+770NC+headphones&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -138,4 +138,4 @@ Over-ear headphones generally provide stronger ANC than earbuds because the larg
 
 The **Sony WH-1000XM4** is the best Bluetooth headphone under $150 when on sale — nothing else in the category matches its ANC performance and battery life at this price. For business calls, the **Jabra Evolve2 55** is worth the premium. On a tight budget, the **Anker Soundcore Q45** delivers reliable ANC and sound quality at half the price of the competition.
 
-[Shop Bluetooth headphones on Amazon →](https://www.amazon.com/s?k=bluetooth+headphones+noise+canceling+under+150){rel="nofollow sponsored" target="_blank"}
+[Shop Bluetooth headphones on Amazon →](https://www.amazon.com/s?k=bluetooth+headphones+noise+canceling+under+150&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}

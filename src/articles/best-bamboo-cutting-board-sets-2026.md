@@ -72,7 +72,7 @@ Other specs to evaluate:
 
 ### 1. Royal Craft Wood 3-Piece Bamboo Set — Best Overall
 
-**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Royal+Craft+Wood+bamboo+cutting+board+set)
+**Price:** ~$45 | [Check on Amazon](https://www.amazon.com/s?k=Royal+Craft+Wood+bamboo+cutting+board+set&tag=nickpicks-20)
 
 Royal Craft Wood's 3-piece set is the most well-rounded package in this price range — properly deep juice grooves (5mm), stable rubber feet that actually grip the counter, and three sizes that cover every kitchen task. The bamboo surface is smooth and consistent, and the boards arrive without the rough patches or uneven finishes that plague cheaper sets.
 
@@ -90,7 +90,7 @@ Royal Craft Wood's 3-piece set is the most well-rounded package in this price ra
 
 ### 2. Totally Bamboo 3-Piece Set — Best Brand Reputation
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Totally+Bamboo+cutting+board+set)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Totally+Bamboo+cutting+board+set&tag=nickpicks-20)
 
 Totally Bamboo has been making bamboo kitchen products since 2001 — longer than most competitors — and their institutional knowledge shows in the consistency of their boards. The 3-piece set is slightly thinner than the Royal Craft Wood option, and the juice grooves are shallower, but the bamboo quality and finish are excellent.
 
@@ -108,7 +108,7 @@ Totally Bamboo has been making bamboo kitchen products since 2001 — longer tha
 
 ### 3. Teakhaus End-Grain Bamboo Board — Best for Knife Care
 
-**Price:** ~$80+ | [Check on Amazon](https://www.amazon.com/s?k=Teakhaus+end+grain+cutting+board)
+**Price:** ~$80+ | [Check on Amazon](https://www.amazon.com/s?k=Teakhaus+end+grain+cutting+board&tag=nickpicks-20)
 
 End-grain boards are the gold standard for knife longevity — the cutting edge slips between wood fibers rather than across them, reducing dulling significantly over repeated use. Teakhaus makes end-grain boards in both teak and bamboo; the bamboo option is lighter while maintaining the self-healing surface properties that make end-grain worth the investment.
 
@@ -126,7 +126,7 @@ End-grain boards are the gold standard for knife longevity — the cutting edge 
 
 ### 4. Bambüsi Premium 3-Board Set — Best Value Set
 
-**Price:** ~$38 | [Check on Amazon](https://www.amazon.com/s?k=Bambusi+bamboo+cutting+board+set)
+**Price:** ~$38 | [Check on Amazon](https://www.amazon.com/s?k=Bambusi+bamboo+cutting+board+set&tag=nickpicks-20)
 
 Bambüsi's 3-board set hits the price-performance balance that makes it the easy mid-range recommendation. Slightly thinner than the Royal Craft Wood option but well-finished, with consistent rubber feet and medium-depth juice grooves. Includes a hanging hole on each board for compact storage.
 
@@ -144,7 +144,7 @@ Bambüsi's 3-board set hits the price-performance balance that makes it the easy
 
 ### 5. Greener Chef Extra-Large Bamboo Board — Best Single Large Board
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Greener+Chef+large+bamboo+cutting+board)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Greener+Chef+large+bamboo+cutting+board&tag=nickpicks-20)
 
 For cooks who primarily need one large prep surface, Greener Chef's oversized board (17"×11") is the pick. The extra surface area handles full loaves of bread, large roasts, and pizza without food falling off the edge — the perennial complaint with smaller boards.
 
@@ -162,7 +162,7 @@ For cooks who primarily need one large prep surface, Greener Chef's oversized bo
 
 ### 6. Sonder Los Angeles End-Grain Set — Best Premium End-Grain
 
-**Price:** ~$95 | [Check on Amazon](https://www.amazon.com/s?k=Sonder+Los+Angeles+end+grain+cutting+board)
+**Price:** ~$95 | [Check on Amazon](https://www.amazon.com/s?k=Sonder+Los+Angeles+end+grain+cutting+board&tag=nickpicks-20)
 
 Sonder LA makes some of the most visually striking end-grain cutting boards available — the exposed bamboo end-grain creates a geometric checkerboard or herringbone pattern that doubles as a serving board. At 2 inches thick, these boards are stable, substantial, and genuinely beautiful on a counter.
 

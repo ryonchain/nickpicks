@@ -37,7 +37,7 @@ Before you ever touch the standing preset, nail your seated position. This is yo
 
 The same elbow rule applies: stand upright, let your arms fall naturally, bend to 90°, and set the desk to meet your hands there. For most people this puts the desk surface roughly at hip-to-belly-button height.
 
-**Anti-fatigue mat: non-negotiable.** Standing on a hard floor puts compressive load on your joints that will have you sitting down before your timer goes off. The [Topo Comfort Mat by Ergodriven](https://www.amazon.com/dp/B00V3TO9EK){rel="nofollow sponsored" target="_blank"} includes a raised ridge and footrest that keeps you shifting weight without thinking about it. See our roundup of the [best standing desk mats](/articles/best-standing-desk-mats-2026/) for more options.
+**Anti-fatigue mat: non-negotiable.** Standing on a hard floor puts compressive load on your joints that will have you sitting down before your timer goes off. The [Topo Comfort Mat by Ergodriven](https://www.amazon.com/dp/B00V3TO9EK?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"} includes a raised ridge and footrest that keeps you shifting weight without thinking about it. See our roundup of the [best standing desk mats](/articles/best-standing-desk-mats-2026/) for more options.
 
 ---
 
@@ -58,7 +58,7 @@ A rat's nest of cables actively discourages you from adjusting desk height becau
 3. Mount a power strip to the underside of the desk so it travels with the surface.
 4. Leave a deliberate 12-inch loop before the floor anchor so the desk can rise without pulling tight.
 
-A proper [cable management kit](https://www.amazon.com/dp/B0CMR1BBDN){rel="nofollow sponsored" target="_blank"} typically includes cable raceways, adhesive clips, velcro ties, and a cord sleeve — enough to go from chaos to clean in under an hour.
+A proper [cable management kit](https://www.amazon.com/dp/B0CMR1BBDN?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"} typically includes cable raceways, adhesive clips, velcro ties, and a cord sleeve — enough to go from chaos to clean in under an hour.
 
 ---
 
@@ -75,7 +75,7 @@ Anchor the habit to something you already do: stand when you take a call, sit wh
 Even with the right setup, a few predictable errors undercut the whole system:
 
 - **Setting your standing height too high.** The most common mistake. If your shoulders are shrugging or your elbows are above 90°, lower the desk. Comfort beats posture-textbook perfection.
-- **Skipping the anti-fatigue mat.** Standing on a hard floor adds compressive load to your knees and lower back. Without a mat, most people sit back down within 15 minutes. A quality anti-fatigue mat like the [Topo by Ergodriven](https://www.amazon.com/dp/B00V3TO9EK){rel="nofollow sponsored" target="_blank"} keeps you standing longer without thinking about it.
+- **Skipping the anti-fatigue mat.** Standing on a hard floor adds compressive load to your knees and lower back. Without a mat, most people sit back down within 15 minutes. A quality anti-fatigue mat like the [Topo by Ergodriven](https://www.amazon.com/dp/B00V3TO9EK?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"} keeps you standing longer without thinking about it.
 - **Forgetting to recheck monitor height at standing position.** Your monitor arm height that worked for sitting will likely be too low when you're standing. Confirm eye level matches the top third of your screen in both positions.
 - **Using only one preset.** If you have to manually dial the desk height every time you switch, you won't switch. Program both presets immediately — sit and stand locked in before you put anything on the desk.
 - **Skipping the habit-building phase.** The first week feels awkward. Start with 20 minutes standing per hour and build from there. Rushing to 50/50 on day one leads to sore feet and abandonment.

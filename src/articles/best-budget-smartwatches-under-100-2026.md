@@ -74,7 +74,7 @@ The Galaxy Watch FE (Fan Edition) brings Samsung's core Galaxy Watch features do
 
 **What to watch:** Works best with Samsung Android phones; some features (ECG, blood pressure) require Samsung Health. Battery life is short by budget watch standards — you'll charge it every 1–2 days.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=samsung+galaxy+watch+fe){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=samsung+galaxy+watch+fe&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -91,7 +91,7 @@ The Amazfit GTS 4 Mini is the best smartwatch for people who hate charging. Its 
 
 **What to watch:** The Zepp OS app ecosystem is more limited than Wear OS or watchOS. No ECG or advanced cardiac monitoring at this price.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=amazfit+gts+4+mini+smartwatch){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=amazfit+gts+4+mini+smartwatch&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -108,7 +108,7 @@ Fitbit's Versa 4 is the most health-focused smartwatch under $100, offering ECG,
 
 **What to watch:** The square design won't appeal to everyone. Fitbit Premium ($10/month after trial) unlocks many advanced features. Best with Android (Google) but works with iPhone.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=fitbit+versa+4){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=fitbit+versa+4&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -125,7 +125,7 @@ Garmin's GPS accuracy is class-leading, and the Vivoactive 5 brings it to an acc
 
 **What to watch:** Garmin Connect app has a steeper learning curve than simpler alternatives. AMOLED display drains battery faster than traditional MIP displays used in older Garmins.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=garmin+vivoactive+5){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=garmin+vivoactive+5&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -142,7 +142,7 @@ The Apple Watch SE 2nd gen is the entry point to the Apple Watch ecosystem. For 
 
 **What to watch:** Requires an iPhone — no Android support. Battery life is shorter than Android competitors at this price. No always-on display or ECG (those are Apple Watch Series 9/Ultra features).
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=apple+watch+se+2nd+generation){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=apple+watch+se+2nd+generation&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -159,7 +159,7 @@ At ~$50, the Amazfit Bip 5 is the best sub-$60 smartwatch available. The 1.91-in
 
 **What to watch:** Uses connected GPS (requires phone for route tracking), not built-in GPS. Less accurate health sensors than the GTS 4 Mini or premium options.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=amazfit+bip+5+smartwatch){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=amazfit+bip+5+smartwatch&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

@@ -53,7 +53,7 @@ Gold Standard Whey has been the benchmark protein powder for over a decade, and 
 - Some flavors are significantly better than others (Chocolate is great; some fruity flavors are not)
 - Per-pound cost is higher than generic alternatives
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Optimum+Nutrition+Gold+Standard+Whey&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Optimum+Nutrition+Gold+Standard+Whey&tag=nickpicks-20)
 
 ---
 
@@ -76,7 +76,7 @@ Transparent Labs earns its name: they publish full ingredient sourcing, no artif
 - Stevia taste is noticeable if you're sensitive to it
 - Limited availability in brick-and-mortar retail
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Transparent+Labs+Grass+Fed+Whey+Protein+Isolate&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Transparent+Labs+Grass+Fed+Whey+Protein+Isolate&tag=nickpicks-20)
 
 ---
 
@@ -99,7 +99,7 @@ For vegans, vegetarians, or anyone avoiding dairy, Garden of Life Sport is the p
 - Higher per-serving price than equivalent whey proteins
 - Taste profile takes some adjustment vs. whey
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Garden+of+Life+Sport+Organic+Protein+Powder&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Garden+of+Life+Sport+Organic+Protein+Powder&tag=nickpicks-20)
 
 ---
 
@@ -122,7 +122,7 @@ Dymatize ISO100 uses hydrolyzed whey protein isolate — pre-digested whey that'
 - Not suitable for lactose intolerant users
 - Smaller serving sizes mean faster consumption of a tub
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Dymatize+ISO100+Hydrolyzed+Protein+Powder&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Dymatize+ISO100+Hydrolyzed+Protein+Powder&tag=nickpicks-20)
 
 ---
 
@@ -145,7 +145,7 @@ MyProtein Impact Whey is the answer when you need consistent, quality protein su
 - Some flavors are significantly less enjoyable than others
 - Artificial sweeteners (sucralose) used in most flavors
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=MyProtein+Impact+Whey+Protein&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=MyProtein+Impact+Whey+Protein&tag=nickpicks-20)
 
 ---
 

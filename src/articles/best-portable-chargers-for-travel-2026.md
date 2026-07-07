@@ -62,7 +62,7 @@ Always check the Wh rating on the label, not just the mAh, since voltage varies 
 
 ## 1. Anker 737 Power Bank — Best High-Capacity Travel Charger
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Anker+737+Power+Bank+26800)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Anker+737+Power+Bank+26800&tag=nickpicks-20)**
 
 The Anker 737 is the power bank for serious travelers who carry a laptop. 140W total output from three ports (two USB-C, one USB-A) means you can charge a MacBook Pro at full speed while simultaneously charging a phone and AirPods. The 26,800mAh capacity charges a 13" MacBook about 1.5x and a phone 5–6x.
 
@@ -89,7 +89,7 @@ The built-in LCD display shows remaining battery percentage and current input/ou
 
 ## 2. Anker 313 Power Bank — Best Budget Travel Power Bank
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Anker+313+Power+Bank+10000)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Anker+313+Power+Bank+10000&tag=nickpicks-20)**
 
 At ~$20, the Anker 313 is the portable charger to toss in a travel bag and forget about until you need it. 10,000mAh charges an iPhone about 2x or a Galaxy about 1.5x. No fancy display, no 140W charging — just a reliable battery in a pocket-sized form factor.
 
@@ -114,7 +114,7 @@ One USB-C port (for input), one USB-A port (for output), and an LED indicator sh
 
 ## 3. Mophie Powerstation PD 10K — Best Premium Compact Travel Charger
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Mophie+Powerstation+PD+10K)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Mophie+Powerstation+PD+10K&tag=nickpicks-20)**
 
 Mophie's Powerstation PD 10K earns its price with build quality and output performance. 30W USB-C PD charges iPhones to 50% in 30 minutes and delivers passable speed to small tablets. The fabric exterior resists fingerprints and feels premium in the hand. Two output ports (USB-C and USB-A) handle phone + earbuds simultaneously.
 
@@ -138,7 +138,7 @@ It's the power bank to recommend to someone who cares about how their accessorie
 
 ## 4. Baseus 65W Power Bank 20000mAh — Best for Laptop Charging on the Go
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Baseus+65W+power+bank+20000mAh)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Baseus+65W+power+bank+20000mAh&tag=nickpicks-20)**
 
 The Baseus 65W sits between budget 10,000mAh banks and the premium Anker 737 in capacity and price. 20,000mAh at 65W output charges most laptops (Surface, MacBook Air, smaller ThinkPads) adequately — not at full cable speed, but enough to maintain or slow-charge during a flight.
 
@@ -162,7 +162,7 @@ Three ports (2x USB-C, 1x USB-A), LED display showing percentage, and a 74Wh rat
 
 ## 5. Anker PowerCore Slim 10000 PD — Best Slim Travel Power Bank
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Anker+PowerCore+Slim+10000+PD)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Anker+PowerCore+Slim+10000+PD&tag=nickpicks-20)**
 
 The PowerCore Slim 10000 is the carry-everywhere travel charger. At 6.7 oz and 5.9" x 2.8" x 0.6", it fits inside a jacket pocket and won't weigh down a small crossbody bag. 22W USB-C PD output fast charges most smartphones. USB-A output handles accessories.
 

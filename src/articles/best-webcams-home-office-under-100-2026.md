@@ -46,7 +46,7 @@ The C920s is the benchmark home office webcam for good reason: a Carl Zeiss–ce
 
 **Best for:** First-time upgraders from a laptop camera, anyone who wants the "just works" pick that's been the default recommendation for years.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+C920S+HD+Pro+webcam){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+C920S+HD+Pro+webcam&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -59,7 +59,7 @@ If your home office is dim, north-facing, or you frequently take calls at dusk o
 
 **Best for:** Dim rooms, inconsistent lighting, anyone who doesn't want to buy a separate ring light.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Razer+Kiyo+streaming+webcam){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Razer+Kiyo+streaming+webcam&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -72,7 +72,7 @@ AI auto-framing works reasonably well, keeping you centered when you shift posit
 
 **Best for:** Budget-conscious users who want modern features (60fps, AI framing) without paying Logitech's brand premium.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Anker+PowerConf+C300+webcam){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Anker+PowerConf+C300+webcam&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -85,7 +85,7 @@ Low-light performance is adequate but not excellent — the f/2.4 aperture is na
 
 **Best for:** Students, part-time remote workers, anyone whose budget is hard-capped at $50 and wants a reliable 1080p upgrade.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+C615+portable+webcam){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+C615+portable+webcam&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -98,7 +98,7 @@ The C922 also includes a tripod mount (the C920s doesn't) and ships with a 3-mon
 
 **Best for:** Content creators, frequent presenters who want smoother video, anyone who regularly does on-screen demos or slides.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+C922+Pro+Stream+webcam){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+C922+Pro+Stream+webcam&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

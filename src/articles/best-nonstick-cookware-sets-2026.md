@@ -68,7 +68,7 @@ The two dominant nonstick coating technologies have real differences that affect
 
 ### 1. T-fal Signature Nonstick 12-Piece Set — Best Budget
 
-**Price:** ~$70 | [Check on Amazon](https://www.amazon.com/s?k=T-fal+Signature+Nonstick+12-piece+cookware+set)
+**Price:** ~$70 | [Check on Amazon](https://www.amazon.com/s?k=T-fal+Signature+Nonstick+12-piece+cookware+set&tag=nickpicks-20)
 
 T-fal's Signature set is the most practical entry-level nonstick set available. The standout feature is T-fal's patented Thermo-Spot indicator — a heat-sensitive pattern on the pan base that turns solid red when the pan reaches optimal cooking temperature, preventing overcrowding cold and under-searing food. The PTFE coating handles eggs, fish, and pancakes without sticking for years with proper care.
 
@@ -86,7 +86,7 @@ T-fal's Signature set is the most practical entry-level nonstick set available. 
 
 ### 2. GreenPan Valencia Pro — Best Ceramic Set
 
-**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=GreenPan+Valencia+Pro+cookware+set)
+**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=GreenPan+Valencia+Pro+cookware+set&tag=nickpicks-20)
 
 GreenPan's Thermolon Minerals Pro ceramic coating is the best-performing ceramic nonstick available in a consumer set. It outperforms most PTFE coatings at high heat, tolerates up to 600°F in the oven, and releases food cleanly for longer than competing ceramic coatings. The hard-anodized exterior with induction-compatible base makes it functional on all cooktop types.
 
@@ -105,7 +105,7 @@ GreenPan's Thermolon Minerals Pro ceramic coating is the best-performing ceramic
 
 ### 3. Calphalon Classic Nonstick 10-Piece Set — Best Mid-Range PTFE
 
-**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Calphalon+Classic+Nonstick+10-piece+cookware+set)
+**Price:** ~$130 | [Check on Amazon](https://www.amazon.com/s?k=Calphalon+Classic+Nonstick+10-piece+cookware+set&tag=nickpicks-20)
 
 Calphalon's Classic set uses dual-layer PTFE nonstick over a hard-anodized aluminum body — noticeably more durable than T-fal's entry-level coating. The interior is slightly textured for better browning control, and the long stay-cool handles are comfortable for extended cooking sessions. Oven-safe to 450°F covers most typical baking and broiling tasks.
 
@@ -123,7 +123,7 @@ Calphalon's Classic set uses dual-layer PTFE nonstick over a hard-anodized alumi
 
 ### 4. All-Clad HA1 Nonstick 10-Piece Set — Best Premium
 
-**Price:** ~$350 | [Check on Amazon](https://www.amazon.com/s?k=All-Clad+HA1+nonstick+cookware+set)
+**Price:** ~$350 | [Check on Amazon](https://www.amazon.com/s?k=All-Clad+HA1+nonstick+cookware+set&tag=nickpicks-20)
 
 All-Clad's HA1 uses three layers of PTFE over hard-anodized aluminum with a stainless steel base for induction compatibility. The construction is noticeably heavier and more even-heating than consumer-grade sets. All-Clad's reputation for longevity is earned — with proper care, this set will outlast two or three budget sets.
 
@@ -142,7 +142,7 @@ All-Clad's HA1 uses three layers of PTFE over hard-anodized aluminum with a stai
 
 ### 5. Rachael Ray Cucina 12-Piece Set — Best Colorful Budget Set
 
-**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Rachael+Ray+Cucina+nonstick+12-piece+cookware+set)
+**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Rachael+Ray+Cucina+nonstick+12-piece+cookware+set&tag=nickpicks-20)
 
 Rachael Ray's Cucina hits a value point between T-fal and Calphalon with a more aesthetically considered design — available in multiple matte colors with rubberized handles. The PTFE coating performs comparably to T-fal at this price, but the dual-riveted handles and slightly heavier aluminum gauge feel more substantial. Good option for buyers who care about kitchen aesthetics alongside performance.
 
@@ -160,7 +160,7 @@ Rachael Ray's Cucina hits a value point between T-fal and Calphalon with a more 
 
 ### 6. Gotham Steel 20-Piece Set — Best Large Set
 
-**Price:** ~$70 | [Check on Amazon](https://www.amazon.com/s?k=Gotham+Steel+20+piece+cookware+set)
+**Price:** ~$70 | [Check on Amazon](https://www.amazon.com/s?k=Gotham+Steel+20+piece+cookware+set&tag=nickpicks-20)
 
 Gotham Steel's ceramic-titanium coating offers PTFE-free nonstick in a massive 20-piece set at budget pricing. The inclusion of bakeware (baking sheets, cake pans) alongside cookware makes this a genuine kitchen-in-a-box for new households. Nonstick performance is solid initially; expect to replace in 1–2 years with regular use, consistent with ceramic coatings generally.
 

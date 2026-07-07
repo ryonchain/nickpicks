@@ -67,7 +67,7 @@ We've tested and analyzed 15+ strollers for 2026 — evaluating maneuverability,
 
 **Who should consider it:** Families planning multiple children, parents who want premium build quality, anyone who wants to buy one stroller and be done.
 
-[Check UPPAbaby VISTA V2 pricing on Amazon →](https://www.amazon.com/dp/B0823QJ6R4)
+[Check UPPAbaby VISTA V2 pricing on Amazon →](https://www.amazon.com/dp/B0823QJ6R4?tag=nickpicks-20)
 
 ---
 
@@ -99,7 +99,7 @@ We've tested and analyzed 15+ strollers for 2026 — evaluating maneuverability,
 
 **Best for:** Active parents who run 3+ times/week, families that prioritize outdoor adventures and trail use.
 
-[Check BOB Revolution Flex 3.0 pricing on Amazon →](https://www.amazon.com/dp/B08RGR9X7F)
+[Check BOB Revolution Flex 3.0 pricing on Amazon →](https://www.amazon.com/dp/B08RGR9X7F?tag=nickpicks-20)
 
 ---
 
@@ -115,7 +115,7 @@ We've tested and analyzed 15+ strollers for 2026 — evaluating maneuverability,
 
 **Best for:** Urban families, parents who navigate crowded spaces daily, active families who want more capability than a lightweight stroller.
 
-[Check Baby Jogger City Mini GT2 pricing on Amazon →](https://www.amazon.com/dp/B07S8RKYXJ)
+[Check Baby Jogger City Mini GT2 pricing on Amazon →](https://www.amazon.com/dp/B07S8RKYXJ?tag=nickpicks-20)
 
 ---
 
@@ -129,7 +129,7 @@ We've tested and analyzed 15+ strollers for 2026 — evaluating maneuverability,
 
 **Best for:** Budget-conscious families, existing Chicco car seat owners, parents who want solid reliability without premium pricing.
 
-[Check Chicco Bravo pricing on Amazon →](https://www.amazon.com/dp/B07V2WRQXC)
+[Check Chicco Bravo pricing on Amazon →](https://www.amazon.com/dp/B07V2WRQXC?tag=nickpicks-20)
 
 ---
 

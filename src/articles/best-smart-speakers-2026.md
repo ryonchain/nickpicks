@@ -28,7 +28,7 @@ We've tested smart speakers across Amazon Echo, Google Nest, and Apple HomePod p
 
 ### 1. Amazon Echo Studio — Best Alexa Smart Speaker for Sound Quality
 
-**[Check price on Amazon](https://www.amazon.com/s?k=amazon+echo+studio+smart+speaker&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=amazon+echo+studio+smart+speaker&tag=nickpicks-20)**
 
 The Echo Studio is Amazon's flagship smart speaker — a five-driver, 330W peak system with Dolby Atmos and 3D audio processing. It genuinely sounds like a standalone Bluetooth speaker twice its price. Spatial audio processes tracks in real time for a wider soundstage. Far-field microphones pick up Alexa commands across a large room even during loud music playback.
 
@@ -58,7 +58,7 @@ The Echo Studio is Amazon's flagship smart speaker — a five-driver, 330W peak 
 
 ### 2. Amazon Echo Dot (5th Gen) — Best Budget Alexa Speaker
 
-**[Check price on Amazon](https://www.amazon.com/s?k=amazon+echo+dot+5th+gen&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=amazon+echo+dot+5th+gen&tag=nickpicks-20)**
 
 The Echo Dot 5th Gen is the best budget smart speaker available — a significant upgrade over previous Dots with a larger driver, improved sound, and a new Motion Detection feature that triggers routines when someone enters or leaves the room. At under $50, it's the lowest-cost entry into Alexa's full feature set.
 
@@ -87,7 +87,7 @@ The Echo Dot 5th Gen is the best budget smart speaker available — a significan
 
 ### 3. Google Nest Audio — Best Google Assistant Smart Speaker
 
-**[Check price on Amazon](https://www.amazon.com/s?k=google+nest+audio+smart+speaker&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=google+nest+audio+smart+speaker&tag=nickpicks-20)**
 
 The Google Nest Audio delivers better voice recognition and knowledge accuracy than Amazon Alexa — Google Search is embedded in every answer. It's noticeably better at understanding complex questions, follow-up queries, and ambiguous requests. Sound quality is solid for a room-sized speaker, with warm mids and decent bass from its 75mm woofer.
 
@@ -117,7 +117,7 @@ The Google Nest Audio delivers better voice recognition and knowledge accuracy t
 
 ### 4. Google Nest Mini (2nd Gen) — Best Budget Google Speaker
 
-**[Check price on Amazon](https://www.amazon.com/s?k=google+nest+mini+2nd+gen&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=google+nest+mini+2nd+gen&tag=nickpicks-20)**
 
 The Nest Mini is Google's compact, ultra-affordable smart speaker — full Google Assistant functionality in a hockey puck form factor. Better microphones than the first generation, wall-mountable via the rear indent, and available in four colors. Not a music speaker, but the best voice interface for under $50.
 
@@ -139,7 +139,7 @@ The Nest Mini is Google's compact, ultra-affordable smart speaker — full Googl
 
 ### 5. Apple HomePod (2nd Gen) — Best for Apple Ecosystem
 
-**[Check price on Amazon](https://www.amazon.com/s?k=apple+homepod+2nd+generation&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=apple+homepod+2nd+generation&tag=nickpicks-20)**
 
 The Apple HomePod is the premium Siri smart speaker — outstanding sound quality, tight iPhone/Apple Watch integration, and the most private smart home ecosystem (all processing happens on-device). The 2nd Gen adds temperature and humidity sensors, Thread networking, and Matter support. It's a remarkable speaker that happens to have Siri built in.
 
@@ -171,7 +171,7 @@ The Apple HomePod is the premium Siri smart speaker — outstanding sound qualit
 
 ### 6. Apple HomePod Mini — Best Compact Apple Smart Speaker
 
-**[Check price on Amazon](https://www.amazon.com/s?k=apple+homepod+mini&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=apple+homepod+mini&tag=nickpicks-20)**
 
 The HomePod Mini brings most of the HomePod experience at one-third the cost. Built-in HomeKit hub, Thread support, Handoff (pass audio from iPhone to HomePod seamlessly), and Intercom between rooms. Surprisingly full sound from its compact size. Available in five colors.
 

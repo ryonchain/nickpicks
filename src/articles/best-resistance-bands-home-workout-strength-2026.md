@@ -78,7 +78,7 @@ The Fit Simplify set of five loop bands is the best starting point for home work
 - Not suitable for pull-up assist (too narrow, wrong size)
 - Some users report latex smell initially
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Fit+Simplify+resistance+loop+bands+set&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Fit+Simplify+resistance+loop+bands+set&tag=nickpicks-20)
 
 ---
 
@@ -108,7 +108,7 @@ WOD Nation's pull-up assist bands are the go-to for people working toward unassi
 - Pull-up bar required (sold separately)
 - Heavier resistance bands are bulkier to store
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=WOD+Nation+pull-up+assist+bands&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=WOD+Nation+pull-up+assist+bands&tag=nickpicks-20)
 
 ---
 
@@ -138,7 +138,7 @@ Bodylastics' stackable tube system is the best tube band set for mimicking cable
 - Door anchor requires a suitable door (doesn't work on hollow core doors)
 - Tube bands have shorter lifespan than flat latex bands at equivalent use
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Bodylastics+stackable+tube+resistance+bands&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Bodylastics+stackable+tube+resistance+bands&tag=nickpicks-20)
 
 ---
 
@@ -168,7 +168,7 @@ Gymreapers fabric bands solve the core problem with latex loop bands for glute a
 - Heavier and bulkier than latex loops for travel
 - Resistance levels less precise than tube band stacking
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Gymreapers+fabric+resistance+bands&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Gymreapers+fabric+resistance+bands&tag=nickpicks-20)
 
 ---
 
@@ -199,7 +199,7 @@ Rogue's Monster Bands are the standard in serious strength training facilities. 
 - Heavy bands not suitable for lightweight activation work
 - Requires a power rack or pull-up bar for most applications
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Rogue+Monster+resistance+bands&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Rogue+Monster+resistance+bands&tag=nickpicks-20)
 
 ---
 

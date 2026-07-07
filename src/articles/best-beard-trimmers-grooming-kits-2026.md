@@ -61,7 +61,7 @@ We tested these trimmers across stubble (1–3mm), short beard (5–10mm), and f
 
 ### 1. Philips Norelco OneBlade 360 — Best All-Around Beard Trimmer
 
-**Price:** ~$50 | [Check price on Amazon →](https://www.amazon.com/s?k=philips+norelco+oneblade+360&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$50 | [Check price on Amazon →](https://www.amazon.com/s?k=philips+norelco+oneblade+360&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Philips Norelco OneBlade 360 improved on the original OneBlade with a dual-sided blade that cuts on both the top edge and the wrapped 360° edge — the curved side navigates under the nose, along the jawline, and around sideburns more naturally than straight-edged trimmers.
 
@@ -83,7 +83,7 @@ The OneBlade 360 is most useful for the detail work that trimmers typically stru
 
 ### 2. Braun Series 9 BT9420 — Best Precision Beard Trimmer
 
-**Price:** ~$130 | [Check price on Amazon →](https://www.amazon.com/s?k=braun+series+9+bt9420+beard+trimmer&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$130 | [Check price on Amazon →](https://www.amazon.com/s?k=braun+series+9+bt9420+beard+trimmer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Braun's Series 9 BT9420 is the precision trimmer for users who want exact length settings without estimating guard thickness. A slide adjustment wheel on the trimmer body sets length from 0.5mm to 21mm in 0.5mm increments — 39 settings without swapping attachments.
 
@@ -103,7 +103,7 @@ Braun's Series 9 BT9420 is the precision trimmer for users who want exact length
 
 ### 3. Wahl Lithium Ion+ Beard Trimmer — Best Budget Trimmer
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=wahl+lithium+ion+plus+beard+trimmer&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=wahl+lithium+ion+plus+beard+trimmer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Wahl has been manufacturing barber clippers and trimmers for over 100 years, and the Lithium Ion+ is their consumer flagship: a simple, reliable trimmer with one of the longest battery lives in the category and Wahl's self-sharpening, precision-ground blades that stay sharp longer than most competitors.
 
@@ -124,7 +124,7 @@ Wahl has been manufacturing barber clippers and trimmers for over 100 years, and
 
 ### 4. Panasonic ER-GB80-S — Best Trimmer for Thick Beards
 
-**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/s?k=panasonic+er-gb80-s+beard+trimmer&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/s?k=panasonic+er-gb80-s+beard+trimmer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Panasonic ER-GB80-S is built specifically for dense, coarse beard hair. Its stainless steel X-shaped blade runs at 8,200 cutting strokes per minute — higher than most consumer trimmers — and the wider blade gap accommodates thicker hair shafts without jamming.
 
@@ -146,7 +146,7 @@ The Panasonic ER-GB80-S is built specifically for dense, coarse beard hair. Its 
 
 ### 5. Gillette All Purpose Styler 3-in-1 — Best Value Grooming Kit
 
-**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/s?k=gillette+all+purpose+styler+3-in-1&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/s?k=gillette+all+purpose+styler+3-in-1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Gillette All Purpose Styler 3-in-1 is the best entry-level grooming kit: shave (with the ProGlide razor cartridge), edge (bare trimmer blade for lines), and trim (with the 3 length combs). At $25, it's the lowest-cost way to get a complete grooming set for travel, gym bags, or a second bathroom kit.
 

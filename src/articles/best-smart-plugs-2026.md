@@ -61,7 +61,7 @@ Smart plugs convert any standard outlet into a remotely controllable, schedulabl
 
 ## 1. Kasa KP115 — Best Overall Smart Plug
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Kasa+KP115+smart+plug)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Kasa+KP115+smart+plug&tag=nickpicks-20)**
 
 The Kasa KP115 combines energy monitoring, broad smart home compatibility, and reliable performance at an unbeatable price. The energy monitoring is the differentiator at this price point — real-time wattage, daily/monthly kWh consumption, and cost estimates based on your utility rate.
 
@@ -87,7 +87,7 @@ The slim profile leaves the adjacent outlet accessible — a small but meaningfu
 
 ## 2. Amazon Smart Plug — Best for Alexa Homes
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Amazon+Smart+Plug)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Amazon+Smart+Plug&tag=nickpicks-20)**
 
 The Amazon Smart Plug is the simplest smart plug available for Alexa households. Setup takes under a minute via the Alexa app — scan the QR code, plug it in, done. No separate app, no account creation beyond your existing Amazon account.
 
@@ -113,7 +113,7 @@ No energy monitoring. Scheduling, routines, and voice control all work well.
 
 ## 3. Wemo Mini Smart Plug — Best for Stability Without a Hub
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Wemo+Mini+Smart+Plug)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Wemo+Mini+Smart+Plug&tag=nickpicks-20)**
 
 Wemo (by Belkin) has been in the smart plug market longer than most competitors, and the stability record shows. The Wemo Mini supports Alexa, Google Home, and Apple HomeKit — the only plug in this roundup with full tri-ecosystem support. If you have a mixed Alexa/Siri/Google home, this matters.
 
@@ -139,7 +139,7 @@ No energy monitoring is the notable gap. At ~$25, it's the most expensive option
 
 ## 4. Kasa EP25 — Best Outdoor Smart Plug
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Kasa+EP25+outdoor+smart+plug)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Kasa+EP25+outdoor+smart+plug&tag=nickpicks-20)**
 
 The Kasa EP25 is designed for outdoor use: IP64 weather-resistant rating, two independently controlled outlets, and energy monitoring on each outlet. String lights, holiday decorations, outdoor appliances, and landscape lighting all become schedulable and remotely controllable.
 
@@ -163,7 +163,7 @@ The dual independent outlets set it apart from outdoor plugs that control both s
 
 ## 5. Govee Smart Plug — Best Budget Energy Monitor
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Govee+Smart+Plug+energy+monitor)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Govee+Smart+Plug+energy+monitor&tag=nickpicks-20)**
 
 At ~$12 per plug, the Govee Smart Plug is the lowest-cost energy monitoring option available. The Govee app shows real-time wattage and historical consumption — the same core functionality as the Kasa KP115 at a lower price.
 

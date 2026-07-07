@@ -47,7 +47,7 @@ The Logitech ERGO K860 is the best ergonomic keyboard for most people. Its curve
 
 The K860 connects via both Bluetooth and the Unifying USB receiver, runs on two AA batteries for up to two years, and works on Mac and Windows. The adjustment period is short — most users adapt within 2–3 days. If you're looking for one ergonomic keyboard that doesn't require a commitment, this is it.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+ERGO+K860+ergonomic+keyboard){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+ERGO+K860+ergonomic+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ The Microsoft Sculpt separates the keyboard into two domed halves with a physica
 
 It's wireless-only via USB dongle, and battery life runs 3–6 months depending on usage. The key feel is responsive without being loud. At $60–$80, the Sculpt offers genuine ergonomic improvement at a price most people can justify without much thought.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Microsoft+Sculpt+ergonomic+keyboard){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Microsoft+Sculpt+ergonomic+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ The Kinesis Freestyle2 separates completely into two independent modules connect
 
 The base model comes in a standard flat configuration; add the VIP3 accessory kit if you want tenting angles. The learning curve is real (about a week to comfortable speed), but for anyone with existing wrist or shoulder issues, the ability to set each hand independently is worth it. Available in both wired and Bluetooth versions.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Kinesis+Freestyle2+split+ergonomic+keyboard){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Kinesis+Freestyle2+split+ergonomic+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ The MX Keys isn't a split ergonomic keyboard, but its low-profile design and sph
 
 It connects to up to three devices via Bluetooth and switches between them with a single button press — useful if you work across laptop, desktop, and tablet. Battery lasts up to 10 days with backlighting on, up to 5 months without. If you want a premium everyday keyboard with better ergonomics than standard flat boards, the MX Keys delivers.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Keys+wireless+keyboard){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Keys+wireless+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -87,7 +87,7 @@ The Perixx PERIBOARD-512 is a wired ergonomic keyboard with a curved split layou
 
 It's USB-only and lacks the wireless flexibility of the higher-end options, but it works reliably and the typing feel is consistent. A solid pick for anyone who wants to try ergonomic typing before committing to a more expensive board.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Perixx+PERIBOARD-512+ergonomic+keyboard){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Perixx+PERIBOARD-512+ergonomic+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -134,4 +134,4 @@ The K860 has a curved split layout specifically designed for ergonomics. The MX 
 
 For most people, the **Logitech ERGO K860** is the right ergonomic keyboard. It's the easiest transition from a standard keyboard, the build quality is excellent, and it's regularly available under $100. If you need full positional freedom for each hand or have serious wrist issues, the **Kinesis Freestyle2** gives you that flexibility at a comparable price.
 
-[Shop ergonomic keyboards on Amazon →](https://www.amazon.com/s?k=ergonomic+keyboard+home+office+under+100){rel="nofollow sponsored" target="_blank"}
+[Shop ergonomic keyboards on Amazon →](https://www.amazon.com/s?k=ergonomic+keyboard+home+office+under+100&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}

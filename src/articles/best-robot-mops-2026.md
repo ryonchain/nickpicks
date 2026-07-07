@@ -50,7 +50,7 @@ The Roborock S8 MaxV Ultra sits at the top of the robot mop category for one sim
 - Dock footprint is large — needs dedicated floor space
 - Initial mapping run takes 45–60 minutes in larger homes
 
-[Check Price on Amazon](https://amazon.com/s?k=Roborock+S8+MaxV+Ultra)
+[Check Price on Amazon](https://amazon.com/s?k=Roborock+S8+MaxV+Ultra&tag=nickpicks-20)
 
 ---
 
@@ -70,7 +70,7 @@ The Deebot X2 Omni earns its runner-up position with a distinctive square body t
 - Shorter battery life on large floor plans above 2,500 sq ft
 - Replacement mop pads are a recurring cost
 
-[Check Price on Amazon](https://amazon.com/s?k=Ecovacs+Deebot+X2+Omni)
+[Check Price on Amazon](https://amazon.com/s?k=Ecovacs+Deebot+X2+Omni&tag=nickpicks-20)
 
 ---
 
@@ -90,7 +90,7 @@ If you already own a robot vacuum and just need mopping handled, the Braava Jet 
 - Weaker on truly stubborn dried messes without pre-treatment
 - Higher per-run cost from disposable or reusable pad upkeep
 
-[Check Price on Amazon](https://amazon.com/s?k=iRobot+Braava+Jet+m6)
+[Check Price on Amazon](https://amazon.com/s?k=iRobot+Braava+Jet+m6&tag=nickpicks-20)
 
 ---
 
@@ -110,7 +110,7 @@ The Narwal Freo X Ultra stands out with its dual rotating triangular mop pads th
 - Higher price than competing vacuum-mop combos with similar specs
 - Rotating mop mechanism adds mechanical complexity over time
 
-[Check Price on Amazon](https://amazon.com/s?k=Narwal+Freo+X+Ultra)
+[Check Price on Amazon](https://amazon.com/s?k=Narwal+Freo+X+Ultra&tag=nickpicks-20)
 
 ---
 
@@ -131,7 +131,7 @@ At under $200, the Bissell SpinWave Robot delivers genuine mopping performance w
 - No self-cleaning dock; pads must be hand-washed
 - Not suitable for carpet at all
 
-[Check Price on Amazon](https://amazon.com/s?k=Bissell+SpinWave+Robot)
+[Check Price on Amazon](https://amazon.com/s?k=Bissell+SpinWave+Robot&tag=nickpicks-20)
 
 ---
 
@@ -151,7 +151,7 @@ The Dreame L20 Ultra punches well above its price point. Dual rotating mop pads 
 - App is functional but less polished than Roborock's ecosystem
 - Mop pad replacement frequency depends heavily on floor type and traffic
 
-[Check Price on Amazon](https://amazon.com/s?k=Dreame+L20+Ultra+robot+mop)
+[Check Price on Amazon](https://amazon.com/s?k=Dreame+L20+Ultra+robot+mop&tag=nickpicks-20)
 
 ---
 

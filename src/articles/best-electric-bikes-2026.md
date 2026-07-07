@@ -52,7 +52,7 @@ The RadCity 5 Plus continues to be the gold standard for urban commuters. Its 75
 - Display could be more intuitive
 - Ships partially assembled (not plug-and-play for everyone)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Rad+Power+Bikes+RadCity+5+Plus&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Rad+Power+Bikes+RadCity+5+Plus&tag=nickpicks-20)
 
 ---
 
@@ -74,7 +74,7 @@ If you want to leave the pavement behind, the Aventon Aventure.2 is the most cap
 - Rear suspension only (no front fork suspension)
 - Larger footprint requires more storage space
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Aventon+Aventure.2+electric+bike&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Aventon+Aventure.2+electric+bike&tag=nickpicks-20)
 
 ---
 
@@ -96,7 +96,7 @@ The Lectric XP 3.0 is the benchmark for budget e-bikes and one of the best-selli
 - Step-over frame only on base model
 - Folding mechanism takes practice to master
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Lectric+XP+3.0+electric+bike&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Lectric+XP+3.0+electric+bike&tag=nickpicks-20)
 
 ---
 
@@ -118,7 +118,7 @@ For riders who want a luxury commuting experience backed by a major bike brand's
 - Heavier than non-motorized bikes at ~55 lbs
 - Bosch motor limits top assist speed to 20 mph (Class 1)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Trek+Allant+electric+bike&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Trek+Allant+electric+bike&tag=nickpicks-20)
 
 ---
 
@@ -140,7 +140,7 @@ The Turbo Vado SL proves you don't have to sacrifice weight for electric assist.
 - Smaller battery (320Wh base) limits range
 - Not suitable for heavy hauling or cargo
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Specialized+Turbo+Vado+SL+electric+bike&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Specialized+Turbo+Vado+SL+electric+bike&tag=nickpicks-20)
 
 ---
 

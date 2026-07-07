@@ -105,8 +105,8 @@ The FlexiSpot E7 Pro is the best standing desk under $600 for most home office u
 
 If you have a standard-height desk setup and a mid-weight monitor arrangement, the standard E7 at $449 saves $100 with nearly identical performance.
 
-**Buy the E7 Pro:** [Check current price on Amazon →](https://www.amazon.com/dp/B09YZC3C1V)  
-**Buy the standard E7:** [Check current price on Amazon →](https://www.amazon.com/dp/B08CLF9LQP)
+**Buy the E7 Pro:** [Check current price on Amazon →](https://www.amazon.com/dp/B09YZC3C1V?tag=nickpicks-20)  
+**Buy the standard E7:** [Check current price on Amazon →](https://www.amazon.com/dp/B08CLF9LQP?tag=nickpicks-20)
 
 ## Frequently Asked Questions
 

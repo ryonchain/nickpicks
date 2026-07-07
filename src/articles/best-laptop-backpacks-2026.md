@@ -48,21 +48,21 @@ comparisonTable:
       rating: 4.7
       pros: ["Organized business layout", "Luggage sleeve", "Laptop + tablet pockets", "Professional look"]
       cons: ["No USB charging port", "Basic padding", "No TSA-open layout"]
-      amazonLink: "https://www.amazon.com/dp/B004OERIXY?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B004OERIXY?tag=nickpicks-20"
       badge: "Best Professional"
     - name: "Matein Travel Backpack"
       price: "~$35"
       rating: 4.6
       pros: ["USB charging port", "TSA-friendly layout", "Large capacity", "Great value"]
       cons: ["Lower build quality than premium options", "Less refined organization"]
-      amazonLink: "https://www.amazon.com/dp/B06XWSNPKB?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B06XWSNPKB?tag=nickpicks-20"
       badge: "Best Value"
     - name: "Targus Drifter II"
       price: "~$55"
       rating: 4.5
       pros: ["TSA-friendly layout", "Dedicated laptop sleeve", "Ergonomic straps", "Multiple compartments"]
       cons: ["Dated styling", "Smaller capacity than others at this price"]
-      amazonLink: "https://www.amazon.com/dp/B008ZQKQM4?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B008ZQKQM4?tag=nickpicks-20"
       badge: "Best TSA"
 ---
 
@@ -89,7 +89,7 @@ We carried 8 laptop backpacks for 30+ days across office commutes, flights, and 
 
 ## #1 Osprey Arcane Large Day Pack — Best Premium
 
-**Price:** ~$115 | [Check on Amazon](https://www.amazon.com/dp/B07XSYDBG2?tag=nickpicks0a-20)
+**Price:** ~$115 | [Check on Amazon](https://www.amazon.com/dp/B07XSYDBG2?tag=nickpicks-20)
 
 Osprey makes the best outdoor backpacks in the world, and the Arcane Large Day brings that quality to laptop carry. The 20L capacity is perfectly sized for daily commuting without becoming unwieldy, the padded laptop sleeve fits up to 15", and the materials (recycled fabric, bluesign-certified) are among the best you'll find in this category.
 
@@ -119,7 +119,7 @@ Osprey makes the best outdoor backpacks in the world, and the Arcane Large Day b
 
 ## #2 Samsonite Classic Business Backpack — Best Professional
 
-**Price:** ~$65 | [Check on Amazon](https://www.amazon.com/dp/B004OERIXY?tag=nickpicks0a-20)
+**Price:** ~$65 | [Check on Amazon](https://www.amazon.com/dp/B004OERIXY?tag=nickpicks-20)
 
 The Samsonite Classic Business is the go-to laptop backpack for corporate environments — it has the organization professionals need (dedicated laptop sleeve, tablet pocket, multiple accessory compartments), the luggage pass-through for rolling a carry-on, and a conservative design that fits in any office setting.
 
@@ -149,7 +149,7 @@ The Samsonite Classic Business is the go-to laptop backpack for corporate enviro
 
 ## #3 Matein Travel Laptop Backpack — Best Budget
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/dp/B06XWSNPKB?tag=nickpicks0a-20)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/dp/B06XWSNPKB?tag=nickpicks-20)
 
 The Matein is the best-selling budget laptop backpack on Amazon for a reason: TSA-friendly layout, USB charging port, large 35L capacity, and dedicated laptop and tablet compartments — all for $35. Build quality can't match Samsonite or Osprey, but for students and budget-conscious buyers, it delivers exceptional value.
 
@@ -181,7 +181,7 @@ The Matein is the best-selling budget laptop backpack on Amazon for a reason: TS
 
 ## #4 Timbuk2 Authority Laptop Backpack — Best Commuter
 
-**Price:** ~$89 | [Check on Amazon](https://www.amazon.com/dp/B01LWLIXRN?tag=nickpicks0a-20)
+**Price:** ~$89 | [Check on Amazon](https://www.amazon.com/dp/B01LWLIXRN?tag=nickpicks-20)
 
 Timbuk2 has built bags in San Francisco since 1989, and the Authority is their best laptop backpack for urban commuters. The top-load design with a dedicated organizer pocket keeps everyday essentials accessible, the padded straps are excellent, and the 25L capacity hits the sweet spot between daily carry and travel versatility.
 
@@ -211,7 +211,7 @@ Timbuk2 has built bags in San Francisco since 1989, and the Authority is their b
 
 ## #5 Targus Drifter II Backpack — Best TSA-Friendly
 
-**Price:** ~$55 | [Check on Amazon](https://www.amazon.com/dp/B008ZQKQM4?tag=nickpicks0a-20)
+**Price:** ~$55 | [Check on Amazon](https://www.amazon.com/dp/B008ZQKQM4?tag=nickpicks-20)
 
 The Targus Drifter II is the classic TSA-friendly laptop backpack — the dedicated laptop compartment opens completely flat for X-ray screening, saving minutes at every airport security checkpoint. Multiple compartments keep accessories organized, and the padded back panel and straps are comfortable for long airport walks.
 
@@ -241,7 +241,7 @@ The Targus Drifter II is the classic TSA-friendly laptop backpack — the dedica
 
 ## #6 Tortuga Setout Backpack — Best for Travel
 
-**Price:** ~$129 | [Check on Amazon](https://www.amazon.com/dp/B07KN1HFPX?tag=nickpicks0a-20)
+**Price:** ~$129 | [Check on Amazon](https://www.amazon.com/dp/B07KN1HFPX?tag=nickpicks-20)
 
 The Tortuga Setout is the best laptop backpack for frequent flyers — it's specifically designed to function as a personal item on planes, with a clamshell opening for easy packing, a dedicated 15" laptop sleeve, and front-access organization for documents and accessories. At 35L, it fits under the seat in most planes.
 

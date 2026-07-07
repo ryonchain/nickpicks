@@ -63,7 +63,7 @@ This guide compares the best physical planners and desk notebooks for home offic
 
 ### 1. Passion Planner Weekly — Best All-in-One Weekly Planner
 
-**Price:** ~$35 | [Search on Amazon →](https://www.amazon.com/s?k=Passion+Planner+weekly){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Search on Amazon →](https://www.amazon.com/s?k=Passion+Planner+weekly&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Passion Planner combines weekly scheduling with goal-setting infrastructure. Each week spread has a time-blocked daily column, a "space of infinite possibility" section for brain dumps, and a weekly focus box that forces you to choose one priority before the week starts. At the monthly level, it includes a reflection section and a personal goal tracker.
 
@@ -82,7 +82,7 @@ The Passion Planner combines weekly scheduling with goal-setting infrastructure.
 
 ### 2. Full Focus Planner by Michael Hyatt — Best for Goal-Oriented Executives
 
-**Price:** ~$45 (90 days) | [Search on Amazon →](https://www.amazon.com/s?k=Full+Focus+Planner+Michael+Hyatt){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$45 (90 days) | [Search on Amazon →](https://www.amazon.com/s?k=Full+Focus+Planner+Michael+Hyatt&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Full Focus Planner is a 90-day quarterly planner built around Michael Hyatt's productivity system: quarterly goals, weekly previews, and daily Big 3 task lists. Every day has three sections — "Big 3" tasks, a daily schedule in 30-minute blocks, and notes — structured to surface your three most important actions and make them non-negotiable.
 
@@ -100,7 +100,7 @@ The Full Focus Planner is a 90-day quarterly planner built around Michael Hyatt'
 
 ### 3. Hobonichi Techo Cousin A5 — Best for Bullet Journal Flexibility
 
-**Price:** ~$50 | [Search on Amazon →](https://www.amazon.com/s?k=Hobonichi+Techo+Cousin+A5){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$50 | [Search on Amazon →](https://www.amazon.com/s?k=Hobonichi+Techo+Cousin+A5&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Hobonichi Techo is not a pre-structured planner — it's a blank-ish daily notebook on which you build your own system. Each day gets one full A5 page of 4mm grid paper (Tomoe River, the lightest fountain-pen-compatible paper available) with just a date at the top. You decide what goes on the page.
 
@@ -118,7 +118,7 @@ The Hobonichi Techo is not a pre-structured planner — it's a blank-ish daily n
 
 ### 4. Moleskine Classic Notebook (Large) — Best Daily Desk Notebook
 
-**Price:** ~$20 | [Search on Amazon →](https://www.amazon.com/s?k=Moleskine+Classic+Notebook+large+ruled){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$20 | [Search on Amazon →](https://www.amazon.com/s?k=Moleskine+Classic+Notebook+large+ruled&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Not every note belongs in a structured planner. Meeting notes, brain dumps, research captures, and client discussion records want a place that isn't fighting with your daily schedule. The Moleskine Classic is the most reliable desk notebook for this purpose — reliable binding, good paper, and a brand identity that communicates "I take notes seriously" in client-facing settings.
 
@@ -135,7 +135,7 @@ Not every note belongs in a structured planner. Meeting notes, brain dumps, rese
 
 ### 5. Post-it Super Sticky Notes — Best Desk Task Capture System
 
-**Price:** ~$15 (multipack) | [Search on Amazon →](https://www.amazon.com/s?k=Post-it+Super+Sticky+Notes+multipack){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$15 (multipack) | [Search on Amazon →](https://www.amazon.com/s?k=Post-it+Super+Sticky+Notes+multipack&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Sticky notes work as a task capture system when used with intention. The Super Sticky version (2× adhesive) stays on monitor bezels and desk surfaces without sliding off — critical for a note that needs to stay in your visual field until you complete the task.
 
@@ -151,7 +151,7 @@ Sticky notes work as a task capture system when used with intention. The Super S
 
 ### 6. Panda Planner Pro — Best Daily Planner for Habit Tracking
 
-**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=Panda+Planner+Pro){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Search on Amazon →](https://www.amazon.com/s?k=Panda+Planner+Pro&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Panda Planner Pro is a 6-month daily planner that combines daily scheduling with a habit tracker, gratitude section, and monthly review. It's designed around positive psychology principles — explicitly tracking what went well in addition to what needs to get done.
 

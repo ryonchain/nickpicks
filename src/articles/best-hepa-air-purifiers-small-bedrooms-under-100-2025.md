@@ -17,7 +17,7 @@ If you're waking up with a stuffy nose, scratchy throat, or allergy symptoms tha
 ## Our Top 5 HEPA Air Purifiers for Small Bedrooms Under $100
 
 ### 1. Levoit Core 300-S
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_1)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_1?tag=nickpicks-20)  
 **Price Range:** $75–$99
 
 **Pros:**
@@ -36,7 +36,7 @@ If you're waking up with a stuffy nose, scratchy throat, or allergy symptoms tha
 ---
 
 ### 2. Winix 5500-2
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_2)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_2?tag=nickpicks-20)  
 **Price Range:** $90–$99
 
 **Pros:**
@@ -55,7 +55,7 @@ If you're waking up with a stuffy nose, scratchy throat, or allergy symptoms tha
 ---
 
 ### 3. Blueair Blue Pure 411i Max
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_3)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_3?tag=nickpicks-20)  
 **Price Range:** $80–$95
 
 **Pros:**
@@ -74,7 +74,7 @@ If you're waking up with a stuffy nose, scratchy throat, or allergy symptoms tha
 ---
 
 ### 4. Coway AP-1512HH Mighty
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_4)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_4?tag=nickpicks-20)  
 **Price Range:** $80–$99
 
 **Pros:**
@@ -93,7 +93,7 @@ If you're waking up with a stuffy nose, scratchy throat, or allergy symptoms tha
 ---
 
 ### 5. GermGuardian AC4825E
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_5)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_5?tag=nickpicks-20)  
 **Price Range:** $50–$70
 
 **Pros:**
@@ -135,4 +135,4 @@ Match the purifier's rated coverage to your room size, and then size up slightly
 
 For most small bedrooms, the **Levoit Core 300-S** is the clear winner — it offers the best combination of filtration efficiency, noise level, and smart features at the price. Allergy sufferers who want automatic adjustment should look at the **Coway Mighty** or **Winix 5500-2**. Check current prices on Amazon and start breathing better tonight.
 
-*[View all picks on Amazon](https://www.amazon.com/PLACEHOLDER_COLLECTION)*
+*[View all picks on Amazon](https://www.amazon.com/PLACEHOLDER_COLLECTION?tag=nickpicks-20)*

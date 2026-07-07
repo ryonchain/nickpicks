@@ -68,7 +68,7 @@ Key buying criteria:
 
 ### 1. Stasher Reusable Silicone Bags — Best Overall
 
-**Price:** ~$12–22 each | [Check on Amazon](https://www.amazon.com/s?k=Stasher+reusable+silicone+bag)
+**Price:** ~$12–22 each | [Check on Amazon](https://www.amazon.com/s?k=Stasher+reusable+silicone+bag&tag=nickpicks-20)
 
 Stasher invented the pinch-loc silicone bag category and remains the gold standard. The patented seal creates a genuinely airtight closure that holds liquids without drips — a level of reliability many competitors still haven't matched. The bags are oven-safe, microwave-safe, sous-vide compatible, and boilable, making them genuinely multi-purpose beyond just storage.
 
@@ -86,7 +86,7 @@ Stasher invented the pinch-loc silicone bag category and remains the gold standa
 
 ### 2. LQCOOL Reusable Silicone Bags — Best Value Set
 
-**Price:** ~$30/set | [Check on Amazon](https://www.amazon.com/s?k=LQCOOL+reusable+silicone+bags+set)
+**Price:** ~$30/set | [Check on Amazon](https://www.amazon.com/s?k=LQCOOL+reusable+silicone+bags+set&tag=nickpicks-20)
 
 LQCOOL's multi-size set covers the four most useful capacities — snack, sandwich, medium, and large — at a fraction of Stasher's per-bag cost. The zip-seal design is more intuitive for household members who struggle with the pinch-loc learning curve. Build quality is good for the price, with consistent reports of seals holding through 200+ dishwasher cycles.
 
@@ -104,7 +104,7 @@ LQCOOL's multi-size set covers the four most useful capacities — snack, sandwi
 
 ### 3. Zip Top Reusable Silicone Bags — Best Upright Design
 
-**Price:** ~$18–25 each | [Check on Amazon](https://www.amazon.com/s?k=Zip+Top+reusable+silicone+bag)
+**Price:** ~$18–25 each | [Check on Amazon](https://www.amazon.com/s?k=Zip+Top+reusable+silicone+bag&tag=nickpicks-20)
 
 Zip Top's design innovation is the built-in flat base — the bag stands upright on its own, which changes the meal prep experience. Packing salads, leftovers, or grain bowls into an upright bag is dramatically easier than wrestling a floppy bag open. The one-piece zip seal is intuitive and reliable.
 
@@ -122,7 +122,7 @@ Zip Top's design innovation is the built-in flat base — the bag stands upright
 
 ### 4. Bumkins Reusable Silicone Bags — Best 3-Pack Value
 
-**Price:** ~$25 for 3-pack | [Check on Amazon](https://www.amazon.com/s?k=Bumkins+reusable+silicone+bags)
+**Price:** ~$25 for 3-pack | [Check on Amazon](https://www.amazon.com/s?k=Bumkins+reusable+silicone+bags&tag=nickpicks-20)
 
 Bumkins packages three useful sizes in one purchase at a price that makes the per-bag cost competitive with premium options. Build quality is solid — the brand has a long history in food-safe silicone products for children. The wide-opening design makes filling and cleaning easier than narrow-top alternatives.
 
@@ -140,7 +140,7 @@ Bumkins packages three useful sizes in one purchase at a price that makes the pe
 
 ### 5. WeeSprout Silicone Food Bags — Best for Families with Kids
 
-**Price:** ~$25/set | [Check on Amazon](https://www.amazon.com/s?k=WeeSprout+silicone+food+storage+bags)
+**Price:** ~$25/set | [Check on Amazon](https://www.amazon.com/s?k=WeeSprout+silicone+food+storage+bags&tag=nickpicks-20)
 
 WeeSprout's four-piece set is designed around family food storage — the sizes and labeling make portion control and school lunch packing intuitive. The bags use double-zipper seals for an extra layer of leak protection, which matters when a lunch bag gets tossed in a backpack.
 
@@ -158,7 +158,7 @@ WeeSprout's four-piece set is designed around family food storage — the sizes 
 
 ### 6. Homelabs Silicone Storage Bags — Best 6-Piece Set
 
-**Price:** ~$28/set | [Check on Amazon](https://www.amazon.com/s?k=Homelabs+reusable+silicone+bags)
+**Price:** ~$28/set | [Check on Amazon](https://www.amazon.com/s?k=Homelabs+reusable+silicone+bags&tag=nickpicks-20)
 
 Six bags across multiple sizes for under $30 — Homelabs offers the lowest per-bag cost on this list for a set that covers snack through large storage. The pinch-seal design matches Stasher's closure approach without the Stasher price premium. Best suited for dry food and produce storage rather than liquid-heavy applications.
 

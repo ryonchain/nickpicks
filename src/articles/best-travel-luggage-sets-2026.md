@@ -51,7 +51,7 @@ Samsonite's Winfield 3 DLX is the benchmark for what a mid-range luggage set sho
 - Price fluctuates significantly; watch for sale events to hit the value window
 - Polycarbonate shows deep scratches from abrasive belt systems more than textured ABS
 
-[Check Price on Amazon](https://amazon.com/s?k=Samsonite+Winfield+3+DLX+3-Piece+Set)
+[Check Price on Amazon](https://amazon.com/s?k=Samsonite+Winfield+3+DLX+3-Piece+Set&tag=nickpicks-20)
 
 ---
 
@@ -71,7 +71,7 @@ American Tourister (a Samsonite brand) occupies the entry-to-mid tier with relia
 - Handles feel lighter than Samsonite — quality gap is noticeable side-by-side
 - Fewer color options than Winfield 3 DLX
 
-[Check Price on Amazon](https://amazon.com/s?k=American+Tourister+Moonlight+3-Piece+Hardside)
+[Check Price on Amazon](https://amazon.com/s?k=American+Tourister+Moonlight+3-Piece+Hardside&tag=nickpicks-20)
 
 ---
 
@@ -91,7 +91,7 @@ Travelpro is the brand of choice for airline crew, and the Maxlite 5 set shows w
 - No rigid protection for fragile items packed inside
 - Higher price point than American Tourister for equivalent piece count
 
-[Check Price on Amazon](https://amazon.com/s?k=Travelpro+Maxlite+5+Luggage+Set)
+[Check Price on Amazon](https://amazon.com/s?k=Travelpro+Maxlite+5+Luggage+Set&tag=nickpicks-20)
 
 ---
 
@@ -111,7 +111,7 @@ Coolife has become a reliable mid-budget option for travelers who want a polycar
 - Handles don't lock as firmly at each height setting as premium brands
 - Brand warranty support can be slow — keep purchase documentation
 
-[Check Price on Amazon](https://amazon.com/s?k=Coolife+Luggage+3+Piece+Set)
+[Check Price on Amazon](https://amazon.com/s?k=Coolife+Luggage+3+Piece+Set&tag=nickpicks-20)
 
 ---
 
@@ -131,7 +131,7 @@ The Rockland Melbourne exists to prove that a three-piece luggage set under $100
 - Handle extension mechanism feels loose compared to Samsonite or Travelpro
 - Not recommended for frequent travel or rough baggage handling environments
 
-[Check Price on Amazon](https://amazon.com/s?k=Rockland+Melbourne+3-Piece+Luggage+Set)
+[Check Price on Amazon](https://amazon.com/s?k=Rockland+Melbourne+3-Piece+Luggage+Set&tag=nickpicks-20)
 
 ---
 
@@ -152,7 +152,7 @@ The AmazonBasics three-piece set is a pragmatic budget choice with one important
 - Interior lacks the organization features of mid-range sets
 - Amazon branding is noticeable — not for travelers who care about aesthetics
 
-[Check Price on Amazon](https://amazon.com/s?k=AmazonBasics+Hardside+Spinner+Luggage+3-Piece)
+[Check Price on Amazon](https://amazon.com/s?k=AmazonBasics+Hardside+Spinner+Luggage+3-Piece&tag=nickpicks-20)
 
 ---
 

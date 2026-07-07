@@ -59,7 +59,7 @@ The tradeoff: compression cubes are heavier (due to the double-zipper constructi
 
 ### 1. Eagle Creek Pack-It Reveal Cube Set — Best Overall
 
-**[Eagle Creek Pack-It Reveal on Amazon →](https://www.amazon.com/s?k=Eagle+Creek+Pack-It+Reveal+Cube+Set){rel="nofollow sponsored" target="_blank"}** (~$45–$65 for a 3-piece set)
+**[Eagle Creek Pack-It Reveal on Amazon →](https://www.amazon.com/s?k=Eagle+Creek+Pack-It+Reveal+Cube+Set&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$45–$65 for a 3-piece set)
 
 Eagle Creek has been making packing cubes longer than almost anyone, and the Pack-It Reveal line is their best. The defining feature is a clear top panel that shows you exactly what's inside without opening — a small detail that becomes extremely useful when quickly pulling items from your bag at security or a hotel.
 
@@ -80,7 +80,7 @@ Eagle Creek has been making packing cubes longer than almost anyone, and the Pac
 
 ### 2. Compression Packing Cubes by BAGGU — Best Compression Cubes
 
-**[BAGGU Compression Packing Cubes on Amazon →](https://www.amazon.com/s?k=BAGGU+compression+packing+cubes){rel="nofollow sponsored" target="_blank"}** (~$38–$48 for a set)
+**[BAGGU Compression Packing Cubes on Amazon →](https://www.amazon.com/s?k=BAGGU+compression+packing+cubes&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$38–$48 for a set)
 
 BAGGU's compression cubes are the carry-on traveler's best friend. A single large BAGGU compression cube can hold a week of t-shirts and compress down to about the size of a hardcover book. The secondary compression zipper is smooth and doesn't require wrestling the cube flat — a common complaint with cheaper compression cubes.
 
@@ -102,7 +102,7 @@ BAGGU's compression cubes are the carry-on traveler's best friend. A single larg
 
 ### 3. Osprey Ultralight Packing Cube Set — Best Lightweight
 
-**[Osprey Ultralight Packing Cubes on Amazon →](https://www.amazon.com/s?k=Osprey+ultralight+packing+cube+set){rel="nofollow sponsored" target="_blank"}** (~$35–$45 for a 3-piece set)
+**[Osprey Ultralight Packing Cubes on Amazon →](https://www.amazon.com/s?k=Osprey+ultralight+packing+cube+set&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$35–$45 for a 3-piece set)
 
 Osprey's ultralight cubes are made from a featherweight ripstop that adds almost no weight to your pack — important for backpackers and ultralight travel enthusiasts who count grams. The mesh sides allow airflow (great for dirty laundry cubes) and make them look full when overpacked so you can redistribute.
 
@@ -123,7 +123,7 @@ Osprey's ultralight cubes are made from a featherweight ripstop that adds almost
 
 ### 4. Amazon Basics 4-Piece Packing Cube Set — Best Budget
 
-**[Amazon Basics Packing Cubes on Amazon →](https://www.amazon.com/dp/B085WWMWNQ){rel="nofollow sponsored" target="_blank"}** (~$18–$22)
+**[Amazon Basics Packing Cubes on Amazon →](https://www.amazon.com/dp/B085WWMWNQ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$18–$22)
 
 At under $22 for four cubes, the Amazon Basics set is the obvious recommendation for casual travelers who want organization without overthinking it. Quality is serviceable — zippers hold, fabric doesn't tear easily, and the four-size variety (one each of small, medium, large, and slim) covers most packing scenarios.
 
@@ -145,7 +145,7 @@ At under $22 for four cubes, the Amazon Basics set is the obvious recommendation
 
 ### 5. Calpak Packing Cube Set — Best for Aesthetic Organization
 
-**[Calpak Packing Cubes on Amazon →](https://www.amazon.com/s?k=Calpak+packing+cube+set){rel="nofollow sponsored" target="_blank"}** (~$40–$50)
+**[Calpak Packing Cubes on Amazon →](https://www.amazon.com/s?k=Calpak+packing+cube+set&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$40–$50)
 
 Calpak makes luggage that looks good, and their packing cubes follow the same ethos. Matching luggage-grade nylon, coordinated color options that work with their bag line, and solid construction that goes beyond fashion-forward aesthetics. The cubes are genuine quality, not just good looking.
 

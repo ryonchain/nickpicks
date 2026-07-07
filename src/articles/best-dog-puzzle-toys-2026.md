@@ -57,7 +57,7 @@ Here are the best dog puzzle toys in 2026, covering every difficulty level and e
 
 ### 1. Outward Hound Nina Ottosson Dog Tornado Puzzle — Best Overall Dog Puzzle Toy
 
-**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=Outward+Hound+Nina+Ottosson+Dog+Tornado+puzzle){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=Outward+Hound+Nina+Ottosson+Dog+Tornado+puzzle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Nina Ottosson Dog Tornado is the gold standard for Level 2 dog puzzle toys — it's the right step up from beginner puzzles that a dog solves instantly. Three rotating layers of compartments each hide treats, and the dog must rotate each layer independently to expose the treats beneath. There are no easily removable small parts, it cleans in the dishwasher, and it's sized appropriately for dogs from small to large.
 
@@ -76,7 +76,7 @@ The Nina Ottosson Dog Tornado is the gold standard for Level 2 dog puzzle toys �
 
 ### 2. Kong Classic Dog Toy — Best Treat-Dispensing Puzzle Toy
 
-**Price:** ~$15 | [Check price on Amazon →](https://www.amazon.com/s?k=Kong+Classic+dog+toy}{rel="nofollow sponsored" target="_blank"}
+**Price:** ~$15 | [Check price on Amazon →](https://www.amazon.com/s?k=Kong+Classic+dog+toy&tag=nickpicks-20}{rel="nofollow sponsored" target="_blank"}
 
 The Kong Classic has been the benchmark treat-dispensing dog toy for decades for good reason: it's nearly indestructible for most dogs, safe for unsupervised use, and endlessly variable in difficulty based on how you stuff it. Packing it loosely with kibble creates a beginner puzzle. Stuffing it with peanut butter and freezing it solid creates a 20-30 minute engagement session for determined dogs.
 
@@ -95,7 +95,7 @@ The Kong Classic has been the benchmark treat-dispensing dog toy for decades for
 
 ### 3. Outward Hound Hide-A-Squirrel Plush Puzzle — Best Sniff-and-Find Dog Puzzle
 
-**Price:** ~$15 | [Check price on Amazon →](https://www.amazon.com/s?k=Outward+Hound+Hide-A-Squirrel+plush+puzzle){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$15 | [Check price on Amazon →](https://www.amazon.com/s?k=Outward+Hound+Hide-A-Squirrel+plush+puzzle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Hide-A-Squirrel is a plush tree trunk stuffed with multiple squeaky squirrel toys that the dog must pull out and locate. Unlike treat-based puzzles, this engages prey drive and scent work — the dog hunts the squirrels by smell and feel rather than working for food. It's particularly effective for terriers, hounds, and any breed with a strong sniff-and-find instinct.
 
@@ -114,7 +114,7 @@ The Hide-A-Squirrel is a plush tree trunk stuffed with multiple squeaky squirrel
 
 ### 4. Trixie Activity Flip Board — Best Advanced Dog Puzzle
 
-**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/s?k=Trixie+Activity+Flip+Board+dog+puzzle){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 | [Check price on Amazon →](https://www.amazon.com/s?k=Trixie+Activity+Flip+Board+dog+puzzle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Trixie Activity Flip Board is a Level 3 multi-mechanism puzzle that requires a dog to operate six different mechanisms simultaneously: flip cones, slide drawers, pull drawers, rotate discs, and lift covers — each hiding different treat compartments. It's the most cognitively demanding puzzle in this roundup and appropriate for dogs who solve Level 2 puzzles quickly. Trixie's Activity line is the benchmark for advanced dog puzzle toys.
 
@@ -133,7 +133,7 @@ The Trixie Activity Flip Board is a Level 3 multi-mechanism puzzle that requires
 
 ### 5. Snuffle Mat for Dogs by STELLAIRE CHERN — Best Snuffle Mat for Dogs
 
-**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=STELLAIRE+CHERN+snuffle+mat+dog){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$20 | [Check price on Amazon →](https://www.amazon.com/s?k=STELLAIRE+CHERN+snuffle+mat+dog&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Snuffle mats engage a dog's sense of smell by hiding treats or kibble within the mat's fabric loops and folds — the dog must sniff out each piece individually. Sniffing is inherently calming for dogs (it engages the parasympathetic nervous system), making snuffle mats particularly effective for anxious dogs, dogs recovering from surgery, and older dogs who can't handle intense physical play. STELLAIRE CHERN makes a particularly dense and well-constructed mat that holds treats securely across many foraging sessions.
 
@@ -166,7 +166,7 @@ Snuffle mats engage a dog's sense of smell by hiding treats or kibble within the
 
 *All prices are approximate and subject to change. Check linked product pages for current pricing.*
 
-[Shop dog puzzle toys on Amazon →](https://www.amazon.com/s?k=dog+puzzle+toys){rel="nofollow sponsored" target="_blank"}
+[Shop dog puzzle toys on Amazon →](https://www.amazon.com/s?k=dog+puzzle+toys&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Frequently Asked Questions
 

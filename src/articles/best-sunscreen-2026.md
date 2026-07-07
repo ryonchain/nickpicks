@@ -50,7 +50,7 @@ The second variable: **broad-spectrum protection**. UVB rays cause burns and ski
 
 ### 1. EltaMD UV Clear — Best for Sensitive & Acne-Prone Skin
 
-**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/dp/B002MSN3QQ?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/dp/B002MSN3QQ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 EltaMD UV Clear is the sunscreen most frequently recommended by dermatologists for sensitive, acne-prone, or rosacea-prone skin. Its mineral zinc oxide formula provides broad-spectrum protection without the chemical filters (oxybenzone, avobenzone) that trigger breakouts or irritation in reactive skin types. The 9% zinc oxide is concentrated enough to provide reliable UVA/UVB protection but formulated to absorb clear without the white cast that most mineral sunscreens leave behind.
 
@@ -76,7 +76,7 @@ The texture is lightweight and slightly dewy — it works as a standalone moistu
 
 ### 2. Supergoop! Unseen Sunscreen SPF 40 — Best Invisible Application
 
-**Price:** ~$38 | [Check price on Amazon →](https://www.amazon.com/dp/B07DW4ZGY5?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$38 | [Check price on Amazon →](https://www.amazon.com/dp/B07DW4ZGY5?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Supergoop! Unseen Sunscreen solved the single largest barrier to daily SPF compliance: it looks, feels, and functions like a makeup primer. The clear, silicone-gel formula applies with no white cast, no greasy residue, and no detectable texture after a few seconds — it disappears into skin and creates a smoothing base for foundation or concealer. People who "can't tolerate sunscreen" daily often have no issue with Unseen because it doesn't read as sunscreen on the skin.
 
@@ -102,7 +102,7 @@ The limitation: SPF 40 is meaningful but not optimal for extended outdoor exposu
 
 ### 3. La Roche-Posay Anthelios Melt-in Milk SPF 100 — Best High-SPF Option
 
-**Price:** ~$33 | [Check price on Amazon →](https://www.amazon.com/dp/B01LWJSXLM?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$33 | [Check price on Amazon →](https://www.amazon.com/dp/B01LWJSXLM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 La Roche-Posay has built its reputation on dermatologically tested formulas for sensitive skin, and the Anthelios Melt-in Milk SPF 100 delivers maximum UV protection in a format designed for face and body use. SPF 100 is particularly relevant for outdoor enthusiasts and people with sun sensitivity conditions (lupus, photosensitivity, post-procedure skin) where every percentage point of additional UVB filtration matters.
 
@@ -128,7 +128,7 @@ At ~$33 for 3 oz., the price-per-ounce is significantly lower than EltaMD or Sup
 
 ### 4. Neutrogena Ultra Sheer Dry-Touch SPF 100+ — Best Budget Option
 
-**Price:** ~$18 | [Check price on Amazon →](https://www.amazon.com/dp/B003PIV9CI?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$18 | [Check price on Amazon →](https://www.amazon.com/dp/B003PIV9CI?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Neutrogena Ultra Sheer is the gold standard for affordable high-SPF protection. At ~$18 for 3 oz., it costs 50–75% less per ounce than premium alternatives while delivering SPF 100+ broad-spectrum coverage in a genuinely wearable formula. The Helioplex® technology photostabilizes avobenzone (which degrades rapidly without photostabilizers), providing reliable UVA protection that basic chemical formulas don't maintain.
 
@@ -154,7 +154,7 @@ For everyday users who go through sunscreen quickly (children, outdoor workers, 
 
 ### 5. Banana Boat Ultra Sport SPF 50+ — Best for Sports & Outdoor Activities
 
-**Price:** ~$12 | [Check price on Amazon →](https://www.amazon.com/dp/B0018GDYMO?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$12 | [Check price on Amazon →](https://www.amazon.com/dp/B0018GDYMO?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Banana Boat Ultra Sport SPF 50+ is designed specifically for sweat and water resistance during outdoor activity. Its formula is water-resistant for up to 80 minutes — the maximum allowed claim under FDA regulations — and withstands sweat, swimming, and toweling better than daily facial sunscreens. The lotion texture applies smoothly to large body areas quickly, making pre-activity full-body application practical.
 

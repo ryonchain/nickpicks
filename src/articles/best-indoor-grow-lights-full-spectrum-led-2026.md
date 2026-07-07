@@ -90,7 +90,7 @@ The Spider Farmer SF-2000 is the standard recommendation for a 2×4 ft grow area
 - 200W draws noticeable electricity ($15–25/month depending on hours)
 - Coverage drops at edges (all panels do — this one less than most)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Spider+Farmer+SF-2000+LED+grow+light&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Spider+Farmer+SF-2000+LED+grow+light&tag=nickpicks-20)
 
 ---
 
@@ -120,7 +120,7 @@ The Mars Hydro TS 1000 covers a 3×3 ft vegetative area and a 2×2 ft flowering 
 - No dimming capability (on/off only)
 - Less even PPFD distribution than SF-2000
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Mars+Hydro+TS+1000+LED+grow+light&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Mars+Hydro+TS+1000+LED+grow+light&tag=nickpicks-20)
 
 ---
 
@@ -150,7 +150,7 @@ The Barrina T5 grow light strips are the best solution for seedling trays, herb 
 - No built-in timer (need to add separately)
 - Intensity drops off quickly at distances over 6 inches
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Barrina+T5+grow+light+strips&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Barrina+T5+grow+light+strips&tag=nickpicks-20)
 
 ---
 
@@ -180,7 +180,7 @@ The AC Infinity IONBOARD S24 earns its place for smart home integration: the Blu
 - 2×4 ft coverage is smaller than SF-2000 at similar price
 - AC Infinity ecosystem lock-in for full features
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=AC+Infinity+IONBOARD+S24+grow+light&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=AC+Infinity+IONBOARD+S24+grow+light&tag=nickpicks-20)
 
 ---
 
@@ -210,7 +210,7 @@ For a single houseplant, orchid, or small succulent arrangement, the Juhefa clip
 - Clip mechanism can scratch delicate furniture
 - PPFD not rated (typical for budget clip-on category)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Juhefa+full+spectrum+clip+on+grow+light&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Juhefa+full+spectrum+clip+on+grow+light&tag=nickpicks-20)
 
 ---
 

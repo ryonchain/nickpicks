@@ -52,7 +52,7 @@ The Secretlab TITAN Evo has been the benchmark for gaming chairs since its redes
 - Leatherette will eventually peel (3–5 years of heavy use)
 - Seat is firmer than some competitors — break-in period required
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Secretlab+TITAN+Evo+gaming+chair&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Secretlab+TITAN+Evo+gaming+chair&tag=nickpicks-20)
 
 ---
 
@@ -74,7 +74,7 @@ If you're willing to invest in your body like you invest in your GPU, the Herman
 - No recline past 104° (not suitable for reclined gaming)
 - Minimalist aesthetic — doesn't "look like a gaming chair"
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Herman+Miller+Logitech+Embody+gaming+chair&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Herman+Miller+Logitech+Embody+gaming+chair&tag=nickpicks-20)
 
 ---
 
@@ -96,7 +96,7 @@ The RESPAWN 110 is the benchmark for chairs under $250. It doesn't try to be an 
 - Lumbar pillow is strap-on and can shift during long sessions
 - Not suitable for tall users (over 6'2") or those needing extra-wide seating
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=RESPAWN+110+racing+gaming+chair&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=RESPAWN+110+racing+gaming+chair&tag=nickpicks-20)
 
 ---
 
@@ -118,7 +118,7 @@ Razer's second-generation Iskur addressed the main complaints of its predecessor
 - Razer green branding is polarizing if you prefer subtle aesthetics
 - Heavier than average (64 lbs) — harder to move around
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Razer+Iskur+V2+gaming+chair&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Razer+Iskur+V2+gaming+chair&tag=nickpicks-20)
 
 ---
 
@@ -140,7 +140,7 @@ The Nouhaus Ergo3D bridges the gap between gaming chair aesthetics and office ch
 - Maximum weight capacity is 250 lbs (lower than some competitors)
 - Less recline range than pure gaming chairs (up to 135°)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Nouhaus+Ergo3D+gaming+chair&tag=YOURTAG-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Nouhaus+Ergo3D+gaming+chair&tag=nickpicks-20)
 
 ---
 

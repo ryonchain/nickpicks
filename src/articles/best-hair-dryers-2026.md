@@ -50,7 +50,7 @@ The core difference is **ionic technology and motor placement**. Premium dryers 
 
 ### 1. Dyson Supersonic — Best Overall
 
-**Price:** ~$430 | [Check price on Amazon →](https://www.amazon.com/dp/B01LZKBTHQ?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$430 | [Check price on Amazon →](https://www.amazon.com/dp/B01LZKBTHQ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Dyson Supersonic remains the benchmark for hair dryers. Its digital brushless motor — mounted in the handle, not the barrel — spins at 110,000 RPM and controls airflow with precision that conventional dryers can't match. The result is faster drying at lower peak temperatures, which means less cuticle damage over repeat use.
 
@@ -78,7 +78,7 @@ The case against: $430 is genuinely expensive, and the 1600W output is lower tha
 
 ### 2. T3 Cura Luxe — Best Professional-Grade Option
 
-**Price:** ~$270 | [Check price on Amazon →](https://www.amazon.com/dp/B07BFQMXJF?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$270 | [Check price on Amazon →](https://www.amazon.com/dp/B07BFQMXJF?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The T3 Cura Luxe offers the closest performance to the Dyson Supersonic at a $160 discount. Its IonAir technology combines negative ion generation with a digital AC motor for consistent airflow and ion delivery that reduces frizz comparably to Dyson on most hair types. The 3-setting heat control gives genuine flexibility: low for fine hair, medium for regular drying, high for thick or coarse hair.
 
@@ -104,7 +104,7 @@ The T3 lacks Dyson's magnetic attachment system — swapping nozzles requires a 
 
 ### 3. Revlon One-Step Volumizer Plus — Best Budget Option
 
-**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/dp/B01LSUQSB0?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/dp/B01LSUQSB0?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Revlon One-Step Volumizer Plus is the rare product that genuinely over-delivers relative to its price. It combines a dryer and a large round brush into a single tool that simultaneously dries and shapes hair — dramatically reducing total styling time compared to using a dryer and brush separately. The oval barrel with nylon + tufted bristles creates volume and wave without the technique required for traditional round-brush blowouts.
 
@@ -130,7 +130,7 @@ The 2-speed, 2-heat simplicity is a feature, not a limitation: high for most hai
 
 ### 4. Shark HyperAIR — Best Dyson Alternative
 
-**Price:** ~$280 | [Check price on Amazon →](https://www.amazon.com/dp/B0BSPQF31J?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$280 | [Check price on Amazon →](https://www.amazon.com/dp/B0BSPQF31J?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Shark HyperAIR IQ is the most credible Dyson competitor. Like the Supersonic, it uses a handle-mounted digital brushless motor to control airflow without excess heat. Shark's IQ technology auto-detects attachment type and adjusts airflow accordingly — a genuine innovation that Dyson doesn't match. In practice, it means the diffuser runs at diffuser-appropriate airflow automatically without manual adjustment.
 
@@ -156,7 +156,7 @@ The weaknesses: the HyperAIR is heavier than Dyson at 2.0 lbs, the magnetic atta
 
 ### 5. BaByliss Pro Nano Titanium — Best Professional Salon Dryer
 
-**Price:** ~$130 | [Check price on Amazon →](https://www.amazon.com/dp/B0090X6VTO?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$130 | [Check price on Amazon →](https://www.amazon.com/dp/B0090X6VTO?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The BaByliss Pro Nano Titanium is what professional salons use when the priority is raw speed and durability over consumer comfort. At 2000W with a professional AC motor, it dries faster than any other dryer on this list — thick, coarse, or very long hair that takes 15+ minutes in a consumer dryer is done in 8–10 minutes. The titanium ionic technology produces strong ion output at high heat, reducing frizz even during high-power drying.
 

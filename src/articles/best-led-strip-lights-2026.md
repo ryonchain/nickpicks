@@ -28,7 +28,7 @@ We've tested LED strips across room setups, behind monitors, under desks, and al
 
 ### 1. Govee RGBIC LED Strip Lights — Best for Room Ambiance
 
-**[Check price on Amazon](https://www.amazon.com/s?k=govee+rgbic+led+strip+lights+room&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=govee+rgbic+led+strip+lights+room&tag=nickpicks-20)**
 
 Govee's RGBIC strips use independent LED control — multiple colors can display simultaneously along the strip, producing gradient effects that standard single-color-per-segment strips can't achieve. 16 million colors, music sync mode, and app scenes make this the go-to for room ambiance lighting. Works with Alexa, Google Home, and Google Assistant.
 
@@ -60,7 +60,7 @@ Govee's RGBIC strips use independent LED control — multiple colors can display
 
 ### 2. Govee Gaming LED Light Strips for TV and Monitor — Best for Gaming Setups
 
-**[Check price on Amazon](https://www.amazon.com/s?k=govee+gaming+led+light+strip+tv+monitor&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=govee+gaming+led+light+strip+tv+monitor&tag=nickpicks-20)**
 
 Govee's gaming-specific strips are shorter and designed to mount behind TVs or monitors, creating bias lighting that reduces eye strain during long sessions. The real-time camera sync feature uses a camera pointed at the screen to match the strip's colors to whatever is displayed — greens when you're in a forest, red during an explosion. Dramatic effect for gaming and movies.
 
@@ -90,7 +90,7 @@ Govee's gaming-specific strips are shorter and designed to mount behind TVs or m
 
 ### 3. Philips Hue Gradient Lightstrip — Best Premium Smart LED Strip
 
-**[Check price on Amazon](https://www.amazon.com/s?k=philips+hue+gradient+lightstrip&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=philips+hue+gradient+lightstrip&tag=nickpicks-20)**
 
 Philips Hue is the gold standard for smart home lighting — rock-solid reliability, the broadest smart home integrations, and the most polished app experience. The Gradient Lightstrip takes it further: multiple colors flow simultaneously along the strip, and it integrates with Hue Entertainment to sync to game audio, movie audio, or music at sub-100ms latency. Requires a Philips Hue Bridge (sold separately).
 
@@ -121,7 +121,7 @@ Philips Hue is the gold standard for smart home lighting — rock-solid reliabil
 
 ### 4. Govee Envisual TV Backlight Kit — Best Budget Smart LED with App Control
 
-**[Check price on Amazon](https://www.amazon.com/s?k=govee+envisual+tv+backlight+kit&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=govee+envisual+tv+backlight+kit&tag=nickpicks-20)**
 
 The Govee Envisual is a purpose-built TV backlight kit with camera-based screen sync at a budget price. It's the best entry point for screen-reactive lighting without committing to Philips Hue pricing. App control, music sync, and preset scenes. Works with most 55"–65" TVs. Self-adhesive mounting.
 
@@ -150,7 +150,7 @@ The Govee Envisual is a purpose-built TV backlight kit with camera-based screen 
 
 ### 5. Kasa Smart LED Light Strips — Best Budget Room LED Strip
 
-**[Check price on Amazon](https://www.amazon.com/s?k=kasa+smart+led+light+strip&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=kasa+smart+led+light+strip&tag=nickpicks-20)**
 
 The Kasa Smart LED strips offer Alexa, Google Home, and native Matter support at a competitive price. Standard RGB (not RGBIC, so one color at a time), bright at up to 1,000 lumens, and reliable Wi-Fi connectivity. The Kasa app is less feature-rich than Govee but more stable and simpler to configure. Good choice for users who want smart control without a complicated setup.
 

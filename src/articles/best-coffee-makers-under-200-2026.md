@@ -64,7 +64,7 @@ This guide covers six coffee makers under $200 that are actually worth owning �
 
 ### 1. Cuisinart DCC-3200P1 — Best Overall
 
-**[Cuisinart DCC-3200P1 14-Cup Coffee Maker on Amazon →](https://www.amazon.com/dp/B07N7Y3X42){rel="nofollow sponsored" target="_blank"}** (~$100–$120)
+**[Cuisinart DCC-3200P1 14-Cup Coffee Maker on Amazon →](https://www.amazon.com/dp/B07N7Y3X42?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$100–$120)
 
 The Cuisinart DCC-3200P1 is our top overall pick because it hits every benchmark: 14-cup capacity, fully programmable with a 24-hour auto-brew, adjustable brew strength, and a 1–4 cup setting that adjusts extraction for smaller batches (so the coffee doesn't taste watered down).
 
@@ -88,7 +88,7 @@ The stainless steel exterior is built to last, the carafe has a drip-free pour, 
 
 ### 2. OXO Brew 9-Cup Coffee Maker — Best for Coffee Purists
 
-**[OXO Brew 9-Cup Coffee Maker on Amazon →](https://www.amazon.com/dp/B084SR4Q18){rel="nofollow sponsored" target="_blank"}** (~$150–$180)
+**[OXO Brew 9-Cup Coffee Maker on Amazon →](https://www.amazon.com/dp/B084SR4Q18?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$150–$180)
 
 The OXO Brew is SCAA-certified, which means it meets the Specialty Coffee Association of America's standards for proper brew temperature (197–205°F) and extraction time. Most coffee makers under $200 don't qualify.
 
@@ -112,7 +112,7 @@ You get a rainmaker showerhead that saturates grounds evenly, an insulated caraf
 
 ### 3. Ninja CE251 12-Cup Programmable — Best Budget Pick
 
-**[Ninja CE251 12-Cup Programmable Coffee Maker on Amazon →](https://www.amazon.com/dp/B07Q9BCN6M){rel="nofollow sponsored" target="_blank"}** (~$60–$70)
+**[Ninja CE251 12-Cup Programmable Coffee Maker on Amazon →](https://www.amazon.com/dp/B07Q9BCN6M?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$60–$70)
 
 The Ninja CE251 delivers programmable brewing, adjustable brew strength, and a mid-brew pause feature at a price that undercuts most competitors by half. It's not fancy, but it works consistently and has earned over 20,000 positive reviews.
 
@@ -136,7 +136,7 @@ The adjustable warming plate keeps coffee hot without burning it (a common compl
 
 ### 4. Hamilton Beach 49350 2-Way Brewer — Best for Mixed Households
 
-**[Hamilton Beach 49350 2-Way Brewer on Amazon →](https://www.amazon.com/dp/B07XW1RRRL){rel="nofollow sponsored" target="_blank"}** (~$70–$80)
+**[Hamilton Beach 49350 2-Way Brewer on Amazon →](https://www.amazon.com/dp/B07XW1RRRL?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$70–$80)
 
 The 2-Way Brewer solves the household standoff between "I want a full pot" and "I just want one cup." It brews into a full 12-cup carafe on one side and accepts a travel mug (included) on the other for single-serve brewing using regular coffee grounds — no pods needed.
 
@@ -160,7 +160,7 @@ It's not the best at either job — a dedicated single-serve machine beats it fo
 
 ### 5. Keurig K-Classic K50 — Best Single-Serve Pod Machine
 
-**[Keurig K-Classic K50 Coffee Maker on Amazon →](https://www.amazon.com/dp/B07GV2S1GS){rel="nofollow sponsored" target="_blank"}** (~$100–$130)
+**[Keurig K-Classic K50 Coffee Maker on Amazon →](https://www.amazon.com/dp/B07GV2S1GS?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$100–$130)
 
 The Keurig K-Classic is the most widely available single-serve pod coffee maker, and for good reason: it's fast (less than a minute per cup), offers three brew sizes (6, 8, 10 oz), and accepts thousands of K-Cup flavors across every brand imaginable.
 
@@ -184,7 +184,7 @@ The trade-offs are real: K-Cups cost more per cup than ground coffee, and the co
 
 ### 6. Mr. Coffee 12-Cup Programmable — Best Under $40
 
-**[Mr. Coffee 12-Cup Programmable Coffee Maker on Amazon →](https://www.amazon.com/dp/B01MRFLM9E){rel="nofollow sponsored" target="_blank"}** (~$30–$40)
+**[Mr. Coffee 12-Cup Programmable Coffee Maker on Amazon →](https://www.amazon.com/dp/B01MRFLM9E?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$30–$40)
 
 Mr. Coffee is the entry-level pick for anyone who needs a programmable drip machine without spending more than $40. It has a 24-hour delay brew, a removable filter basket, and a grab-and-go pause-and-pour feature. No frills.
 

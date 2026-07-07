@@ -66,7 +66,7 @@ For most home cooks, an immersion blender is the more practical tool.
 
 ### 1. KitchenAid KHBV53 Variable Speed Hand Blender — Best Overall
 
-**[KitchenAid KHBV53 on Amazon →](https://www.amazon.com/dp/B007JE6RBQ){rel="nofollow sponsored" target="_blank"}** (~$45–$50)
+**[KitchenAid KHBV53 on Amazon →](https://www.amazon.com/dp/B007JE6RBQ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$45–$50)
 
 KitchenAid's variable-speed corded hand blender hits the sweet spot of build quality, power (240W), and ease of use. The variable speed dial — not just a high/low switch — gives you real control over texture, which matters for soups that need a partial blend vs. a complete puree. Stainless steel bell guard and blade resist discoloration and odor absorption.
 
@@ -89,7 +89,7 @@ KitchenAid's variable-speed corded hand blender hits the sweet spot of build qua
 
 ### 2. Braun MultiQuick 5 Vario — Best Ergonomics and Control
 
-**[Braun MultiQuick 5 on Amazon →](https://www.amazon.com/dp/B007XE8VKU){rel="nofollow sponsored" target="_blank"}** (~$40–$55)
+**[Braun MultiQuick 5 on Amazon →](https://www.amazon.com/dp/B007XE8VKU?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$40–$55)
 
 Braun's MultiQuick 5 Vario uses an innovative squeeze-to-speed control — the harder you squeeze the trigger, the higher the speed. This intuitive design replaces the awkward low/high toggle found on most blenders and gives you variable speed without taking your eyes off the pot. The PowerBell blade design is engineered to pull food into the blade rather than pushing it away, reducing blending time.
 
@@ -111,7 +111,7 @@ Braun's MultiQuick 5 Vario uses an innovative squeeze-to-speed control — the h
 
 ### 3. Mueller Ultra-Stick Hand Blender — Best Budget
 
-**[Mueller Ultra-Stick on Amazon →](https://www.amazon.com/dp/B074WF5BHQ){rel="nofollow sponsored" target="_blank"}** (~$25–$35)
+**[Mueller Ultra-Stick on Amazon →](https://www.amazon.com/dp/B074WF5BHQ?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$25–$35)
 
 At around $25–$30, the Mueller Ultra-Stick is the most recommended budget immersion blender available. 500W motor (overspec'd for this price, which is a plus), stainless steel blade guard, nine variable speeds, and a straightforward design that does exactly what it's supposed to do. It won't feel as premium as the KitchenAid, but it outperforms its price.
 
@@ -133,7 +133,7 @@ At around $25–$30, the Mueller Ultra-Stick is the most recommended budget imme
 
 ### 4. Hamilton Beach 2-Speed Hand Blender — Best for Casual Cooks
 
-**[Hamilton Beach Hand Blender on Amazon →](https://www.amazon.com/dp/B001U0K6HM){rel="nofollow sponsored" target="_blank"}** (~$20–$30)
+**[Hamilton Beach Hand Blender on Amazon →](https://www.amazon.com/dp/B001U0K6HM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$20–$30)
 
 Hamilton Beach's entry-level immersion blender is the simplest option on this list: two speeds (low and high), a single large button, and a tapered blade guard designed to minimize splashing. It handles soups, dressings, and light smoothies without any fuss. At $20–$25, it's the easiest recommendation for someone who rarely blends and doesn't want to think about it.
 
@@ -155,7 +155,7 @@ Hamilton Beach's entry-level immersion blender is the simplest option on this li
 
 ### 5. Vitamix Immersion Blender — Best Premium Option
 
-**[Vitamix Immersion Blender on Amazon →](https://www.amazon.com/dp/B008DTBMXY){rel="nofollow sponsored" target="_blank"}** (~$75–$100)
+**[Vitamix Immersion Blender on Amazon →](https://www.amazon.com/dp/B008DTBMXY?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$75–$100)
 
 The Vitamix immersion blender is over the $50 threshold, but it's included here because it's in a meaningfully different performance category — and for cooks who blend daily, it's the right answer. A 5-speed 625W motor, a stainless steel blade and shaft, and Vitamix's legendary build quality make this the last immersion blender you'll ever buy.
 

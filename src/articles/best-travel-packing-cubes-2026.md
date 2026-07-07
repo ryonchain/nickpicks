@@ -79,7 +79,7 @@ Other key considerations:
 
 ### 1. Eagle Creek Pack-It Specter Cubes — Best Overall
 
-**Price:** ~$55/4-piece set | [Check on Amazon](https://www.amazon.com/s?k=Eagle+Creek+Pack-It+Specter+packing+cubes)
+**Price:** ~$55/4-piece set | [Check on Amazon](https://www.amazon.com/s?k=Eagle+Creek+Pack-It+Specter+packing+cubes&tag=nickpicks-20)
 
 Eagle Creek's Specter line is the benchmark for frequent travel packing cubes. The ultra-lightweight silnylon fabric is strong enough for checked-bag use while weighing almost nothing — the full 4-piece set weighs under 3 oz. The mesh top panel is the standout feature: you can see exactly what's in each cube without unzipping, which eliminates the cube-by-cube search that defeats the purpose of organization.
 
@@ -97,7 +97,7 @@ Eagle Creek's Specter line is the benchmark for frequent travel packing cubes. T
 
 ### 2. Amazon Basics 4-Piece Packing Cube Set — Best Budget
 
-**Price:** ~$18 | [Check on Amazon](https://www.amazon.com/s?k=Amazon+Basics+packing+cubes)
+**Price:** ~$18 | [Check on Amazon](https://www.amazon.com/s?k=Amazon+Basics+packing+cubes&tag=nickpicks-20)
 
 Amazon's own packing cubes deliver the organizational benefit — compartmentalized clothing that loads and unloads neatly — at a price where the risk is zero. The polyester construction isn't as durable as ripstop nylon, and there's no mesh panel, but for occasional travel or first-timers testing the concept, this set is the obvious starting point.
 
@@ -114,7 +114,7 @@ Amazon's own packing cubes deliver the organizational benefit — compartmentali
 
 ### 3. Gonex Compression Packing Cubes — Best Compression Set
 
-**Price:** ~$40/6-piece set | [Check on Amazon](https://www.amazon.com/s?k=Gonex+compression+packing+cubes)
+**Price:** ~$40/6-piece set | [Check on Amazon](https://www.amazon.com/s?k=Gonex+compression+packing+cubes&tag=nickpicks-20)
 
 Gonex's 6-piece compression set is the value leader in compression cubes — the dual-zipper compression system works properly (unlike some budget compression cubes that claim compression but deliver little), and the 6-piece coverage includes useful sizes from extra-small to extra-large.
 
@@ -132,7 +132,7 @@ Gonex's 6-piece compression set is the value leader in compression cubes — the
 
 ### 4. Osprey Ultralight Cubes — Best for Backpack Travel
 
-**Price:** ~$48/3-piece set | [Check on Amazon](https://www.amazon.com/s?k=Osprey+ultralight+packing+cubes)
+**Price:** ~$48/3-piece set | [Check on Amazon](https://www.amazon.com/s?k=Osprey+ultralight+packing+cubes&tag=nickpicks-20)
 
 Osprey designed these cubes alongside their backpack line, so the shapes and corners are optimized for loading into cylindrical backpack compartments rather than rectangular suitcases. The 3-piece set (XS, S, L) covers core organization needs with industry-leading durability and a clean Osprey aesthetic.
 
@@ -150,7 +150,7 @@ Osprey designed these cubes alongside their backpack line, so the shapes and cor
 
 ### 5. Peak Design Packing Cubes — Best Premium Quality
 
-**Price:** ~$79/3-piece set | [Check on Amazon](https://www.amazon.com/s?k=Peak+Design+packing+cubes)
+**Price:** ~$79/3-piece set | [Check on Amazon](https://www.amazon.com/s?k=Peak+Design+packing+cubes&tag=nickpicks-20)
 
 Peak Design's cubes use 100% recycled nylon with their ultra-durable construction standard — the same quality control that makes their bags last decades. The handle attachment system integrates with Peak Design bags, but works just as well in any suitcase. If you want the highest-quality packing cubes that will outlast every suitcase you own, this is the set.
 
@@ -168,7 +168,7 @@ Peak Design's cubes use 100% recycled nylon with their ultra-durable constructio
 
 ### 6. eBags Classic Packing Cubes — Best 3-Pack Mid-Range
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=eBags+classic+packing+cubes+3+piece)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=eBags+classic+packing+cubes+3+piece&tag=nickpicks-20)
 
 eBags pioneered the packing cube category and their Classic set remains a solid mid-range option. The 3-piece set in small, medium, and large covers the most common organization needs, and the durable polyester has earned eBags a loyal following among road warriors. A slim/laundry bag upgrade set is also available separately.
 

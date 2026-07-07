@@ -46,7 +46,7 @@ You don't need to spend a fortune to carry your laptop safely and stylishly. The
 
 **Best for:** Anyone who wants maximum laptop protection in a minimal footprint, especially as a secondary carrier inside a larger travel bag.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Tomtoc+360+Protective+Laptop+Sleeve){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Tomtoc+360+Protective+Laptop+Sleeve&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -63,7 +63,7 @@ You don't need to spend a fortune to carry your laptop safely and stylishly. The
 
 **Best for:** Daily commuters who need to carry a laptop, charger, lunch, and a water bottle in one organized bag without going over $50.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=MATEIN+Laptop+Backpack){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=MATEIN+Laptop+Backpack&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -80,7 +80,7 @@ You don't need to spend a fortune to carry your laptop safely and stylishly. The
 
 **Best for:** Office commuters who want a polished, TSA-ready bag that doesn't look like a hiking pack when they walk into a conference room.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Targus+CityLite+Laptop+Backpack){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Targus+CityLite+Laptop+Backpack&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -97,7 +97,7 @@ You don't need to spend a fortune to carry your laptop safely and stylishly. The
 
 **Best for:** Students, light travelers, and anyone who needs a simple, inexpensive laptop bag for short trips or occasional use without caring about extra features.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=AmazonBasics+Slim+Laptop+Computer+Bag){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=AmazonBasics+Slim+Laptop+Computer+Bag&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -114,7 +114,7 @@ You don't need to spend a fortune to carry your laptop safely and stylishly. The
 
 **Best for:** Travelers and commuters who want a recognizable brand, reliable build quality, and a clean aesthetic in one slim package.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Samsonite+Slim+Laptop+Backpack){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Samsonite+Slim+Laptop+Backpack&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

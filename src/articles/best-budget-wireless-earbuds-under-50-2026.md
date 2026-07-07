@@ -51,7 +51,7 @@ Here's what actually separates the good from the forgettable in this price range
 
 ## 1. EarFun Air Pro 3 — Best Overall Under $50
 
-**[Check price on Amazon](https://www.amazon.com/s?k=EarFun+Air+Pro+3)**
+**[Check price on Amazon](https://www.amazon.com/s?k=EarFun+Air+Pro+3&tag=nickpicks-20)**
 
 The Air Pro 3 is the rare budget earbud that doesn't feel like a compromise. Qualcomm QCC3072 chip means stable Bluetooth 5.3 with multipoint pairing (two devices simultaneously). The 10mm dynamic drivers produce warm, well-balanced audio — not the exaggerated bass of cheaper sets. ANC is genuine, not cosmetic: it cuts consistent ambient noise by 15–20 dB, making it effective in coffee shops and transit.
 
@@ -75,7 +75,7 @@ Battery life is a category-leading 9 hours per bud, 45 total with the case. The 
 
 ## 2. Soundcore by Anker P3i — Best ANC Performance Under $50
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Soundcore+P3i+earbuds)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Soundcore+P3i+earbuds&tag=nickpicks-20)**
 
 Anker's Soundcore brand punches above its weight on ANC. The P3i uses adaptive ANC that adjusts based on your environment — up to 40 dB noise reduction in optimal conditions. In practice, 25–30 dB is realistic, which still beats most earbuds twice the price.
 
@@ -99,7 +99,7 @@ The HearID app runs a personalized hearing test and creates a custom EQ profile,
 
 ## 3. JLab Go Air Pop — Best Ultra-Budget Pick
 
-**[Check price on Amazon](https://www.amazon.com/s?k=JLab+Go+Air+Pop)**
+**[Check price on Amazon](https://www.amazon.com/s?k=JLab+Go+Air+Pop&tag=nickpicks-20)**
 
 At $25, the JLab Go Air Pop should not be this good. No ANC, but the 8-hour battery, solid passive isolation from the soft ear tips, and JLab's Be Aware audio transparency mode cover the basics. The 3-EQ mode toggle (on the bud itself — no app required) lets you cycle between balanced, bass boost, and "JLab Signature" with a quick tap pattern.
 
@@ -124,7 +124,7 @@ Call quality is adequate for casual use. Bluetooth 5.1 is stable at typical dist
 
 ## 4. TOZO T10 — Best Waterproof Budget Earbuds
 
-**[Check price on Amazon](https://www.amazon.com/s?k=TOZO+T10+earbuds)**
+**[Check price on Amazon](https://www.amazon.com/s?k=TOZO+T10+earbuds&tag=nickpicks-20)**
 
 The TOZO T10 stands out for one reason: IPX8 waterproofing. That means they can be submerged in up to 1 meter of water for 30 minutes — a rating almost no earbuds at this price can match. If you swim laps or work out in heavy rain, this is the pick.
 
@@ -149,7 +149,7 @@ Audio leans toward bass with 7.2mm titanium-plated drivers. No ANC, but the deep
 
 ## 5. Soundcore Life P2 Mini — Best Compact Everyday Earbuds
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Soundcore+Life+P2+Mini)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Soundcore+Life+P2+Mini&tag=nickpicks-20)**
 
 The P2 Mini is the pick if fit and comfort are your top priorities. The compact design with a 10mm driver fits most ears securely without protruding. No ANC, but Soundcore's tuning produces clean mids and controlled bass — better for podcasts, calls, and vocals than bass-heavy workout playlists.
 

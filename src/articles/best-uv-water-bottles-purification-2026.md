@@ -72,7 +72,7 @@ LARQ is the most recognizable name in UV water bottles. The PureVis cap uses a 2
 
 **Cons:** Premium price, 17oz is small for all-day hikes
 
-**[LARQ Bottle PureVis 17oz on Amazon →](https://www.amazon.com/dp/B07G15LXNG){rel="nofollow sponsored" target="_blank"}** (ASIN: B07G15LXNG)
+**[LARQ Bottle PureVis 17oz on Amazon →](https://www.amazon.com/dp/B07G15LXNG?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07G15LXNG)
 
 ---
 
@@ -86,7 +86,7 @@ CrazyCap's UV-C cap is compatible with multiple bottle sizes. The 2.0 version ha
 
 **Cons:** Plastic bottle included (not insulated)
 
-**[CrazyCap 2.0 on Amazon →](https://www.amazon.com/dp/B08KGZRJHF){rel="nofollow sponsored" target="_blank"}** (ASIN: B08KGZRJHF)
+**[CrazyCap 2.0 on Amazon →](https://www.amazon.com/dp/B08KGZRJHF?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B08KGZRJHF)
 
 ---
 
@@ -100,7 +100,7 @@ Same PureVis technology as the 17oz but with nearly double the capacity. Ideal f
 
 **Cons:** Heavier (full it weighs ~2.5 lbs), highest price in category
 
-**[LARQ Bottle PureVis 32oz on Amazon →](https://www.amazon.com/dp/B07G15LXNH){rel="nofollow sponsored" target="_blank"}** (ASIN: B07G15LXNH)
+**[LARQ Bottle PureVis 32oz on Amazon →](https://www.amazon.com/dp/B07G15LXNH?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07G15LXNH)
 
 ---
 
@@ -114,7 +114,7 @@ Philips' entry into UV water bottles with a slight capacity advantage over LARQ'
 
 **Cons:** Less design polish than LARQ/CrazyCap
 
-**[Philips GoZero Adventure UV Bottle on Amazon →](https://www.amazon.com/dp/B07VCH6DMP){rel="nofollow sponsored" target="_blank"}** (ASIN: B07VCH6DMP)
+**[Philips GoZero Adventure UV Bottle on Amazon →](https://www.amazon.com/dp/B07VCH6DMP?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07VCH6DMP)
 
 ---
 

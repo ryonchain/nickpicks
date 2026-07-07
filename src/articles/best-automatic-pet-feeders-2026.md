@@ -63,7 +63,7 @@ This guide covers the best automatic feeders for cats and dogs across every budg
 
 ### 1. PetSafe Smart Feed Automatic Pet Feeder — Best Overall
 
-**[PetSafe Smart Feed on Amazon →](https://www.amazon.com/dp/B00O2UVVOW){rel="nofollow sponsored" target="_blank"}** (~$120–$150)
+**[PetSafe Smart Feed on Amazon →](https://www.amazon.com/dp/B00O2UVVOW?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$120–$150)
 
 PetSafe's Smart Feed is the gold standard for app-connected dry food feeders. Up to 12 scheduled meals per day, dispensing from 1/8 cup up to 4 cups per meal, a slow-feed option that spreads each meal over 15 minutes, and a 24-cup hopper that holds about a week of kibble for most cats. The app is reliable and notifies you when food dispenses or when the hopper runs low.
 
@@ -86,7 +86,7 @@ PetSafe's Smart Feed is the gold standard for app-connected dry food feeders. Up
 
 ### 2. Arf Pets Automatic Pet Feeder — Best Budget Timed Feeder
 
-**[Arf Pets Automatic Feeder on Amazon →](https://www.amazon.com/dp/B07BKZFSXV){rel="nofollow sponsored" target="_blank"}** (~$45–$55)
+**[Arf Pets Automatic Feeder on Amazon →](https://www.amazon.com/dp/B07BKZFSXV?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$45–$55)
 
 No app required, no Wi-Fi needed — the Arf Pets feeder is a straightforward timer-based dry food dispenser with a programmable LCD screen. Set up to 3 meals per day, record a 10-second voice message that plays at mealtime (pets often respond to the owner's voice), and let it run. Simple, reliable, and at under $55, it's the best budget option available.
 
@@ -108,7 +108,7 @@ No app required, no Wi-Fi needed — the Arf Pets feeder is a straightforward ti
 
 ### 3. WOPET Automatic Cat Feeder with Camera — Best with Built-In Camera
 
-**[WOPET Camera Feeder on Amazon →](https://www.amazon.com/s?k=WOPET+automatic+feeder+with+camera){rel="nofollow sponsored" target="_blank"}** (~$75–$90)
+**[WOPET Camera Feeder on Amazon →](https://www.amazon.com/s?k=WOPET+automatic+feeder+with+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$75–$90)
 
 The WOPET feeder combines a timed dry food dispenser with a 1080p HD camera that has two-way audio — so you can watch your cat eat, speak to them, and confirm the feeder dispensed correctly. For pet owners who travel frequently or work long hours, the visual confirmation is genuinely reassuring.
 
@@ -130,7 +130,7 @@ The WOPET feeder combines a timed dry food dispenser with a 1080p HD camera that
 
 ### 4. SureFeed Microchip Pet Feeder — Best for Multi-Pet Households
 
-**[SureFeed Microchip Pet Feeder on Amazon →](https://www.amazon.com/dp/B00IG0GDSI){rel="nofollow sponsored" target="_blank"}** (~$140–$160)
+**[SureFeed Microchip Pet Feeder on Amazon →](https://www.amazon.com/dp/B00IG0GDSI?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$140–$160)
 
 The SureFeed is in a category of its own. It reads each pet's microchip (or RFID collar tag) and only opens the lid for that specific animal. If you have one pet on a prescription diet or need to prevent your cat from eating the dog's food, this is the only feeder that solves the problem reliably.
 
@@ -152,7 +152,7 @@ The SureFeed is in a category of its own. It reads each pet's microchip (or RFID
 
 ### 5. Petlibro Granary Automatic Pet Feeder — Best for Large Dogs
 
-**[Petlibro Granary on Amazon →](https://www.amazon.com/dp/B091GW5Q4J){rel="nofollow sponsored" target="_blank"}** (~$55–$70)
+**[Petlibro Granary on Amazon →](https://www.amazon.com/dp/B091GW5Q4J?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$55–$70)
 
 The Petlibro Granary holds 25 cups of dry kibble — enough for a large dog for about 5–7 days — and can dispense up to 6 cups per meal. The twist-based dispenser is highly jam-resistant with large kibble, and the app (Petlibro) offers up to 10 meals per day with precise portion control.
 

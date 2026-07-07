@@ -75,7 +75,7 @@ The TriggerPoint GRID is the foam roller that popularized grid-texture rollers. 
 
 **Cons:** Firmer than basic rollers (not beginner-friendly for IT band)
 
-**[TriggerPoint GRID Foam Roller on Amazon →](https://www.amazon.com/dp/B0040EGNIU){rel="nofollow sponsored" target="_blank"}** (ASIN: B0040EGNIU)
+**[TriggerPoint GRID Foam Roller on Amazon →](https://www.amazon.com/dp/B0040EGNIU?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B0040EGNIU)
 
 ---
 
@@ -89,7 +89,7 @@ The Vyper 3 is the gold standard vibrating foam roller. Three vibration speeds (
 
 **Cons:** Premium price, heavier than standard rollers (2.7 lbs)
 
-**[Hyperice Vyper 3 on Amazon →](https://www.amazon.com/dp/B08J7Y2C3M){rel="nofollow sponsored" target="_blank"}** (ASIN: B08J7Y2C3M)
+**[Hyperice Vyper 3 on Amazon →](https://www.amazon.com/dp/B08J7Y2C3M?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B08J7Y2C3M)
 
 ---
 
@@ -103,7 +103,7 @@ The best value foam roller for home use. LuxFit's high-density EPE foam holds it
 
 **Cons:** Solid foam degrades faster than hollow-core rollers under heavy repeated use
 
-**[LuxFit High-Density Foam Roller on Amazon →](https://www.amazon.com/dp/B00XM2MRGI){rel="nofollow sponsored" target="_blank"}** (ASIN: B00XM2MRGI)
+**[LuxFit High-Density Foam Roller on Amazon →](https://www.amazon.com/dp/B00XM2MRGI?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B00XM2MRGI)
 
 ---
 
@@ -117,7 +117,7 @@ The best "just try it" roller. Amazon Basics' foam roller is solid EPE foam, ava
 
 **Cons:** Dense foam flattens over time with heavy use, no textured zones
 
-**[Amazon Basics Foam Roller on Amazon →](https://www.amazon.com/dp/B014KE7YNY){rel="nofollow sponsored" target="_blank"}** (ASIN: B014KE7YNY)
+**[Amazon Basics Foam Roller on Amazon →](https://www.amazon.com/dp/B014KE7YNY?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B014KE7YNY)
 
 ---
 

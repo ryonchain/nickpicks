@@ -67,7 +67,7 @@ We tested 12 webcams and 8 lighting setups to find the best combinations at ever
 
 ### 1. Logitech C920x — Best Webcam for Video Calls
 
-**Price:** ~$90 | [Check price on Amazon →](https://www.amazon.com/dp/B085TFF7M1){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$90 | [Check price on Amazon →](https://www.amazon.com/dp/B085TFF7M1?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Logitech C920x has been the benchmark for 1080p webcams for years because it delivers consistent, accurate color with minimal setup. The autofocus locks on your face and stays there, and the dual built-in mics provide surprisingly usable audio in a pinch.
 
@@ -87,7 +87,7 @@ The Logitech C920x has been the benchmark for 1080p webcams for years because it
 
 ### 2. Razer Kiyo Pro — Best Webcam for Low-Light Rooms
 
-**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/dp/B08PKQHMSB){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/dp/B08PKQHMSB?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If your home office lacks good natural light, the Kiyo Pro's HDR-equipped f/1.7 aperture wide-angle lens collects dramatically more light than standard webcams. The result: bright, clear video even in dim rooms without adding a ring light.
 
@@ -106,7 +106,7 @@ If your home office lacks good natural light, the Kiyo Pro's HDR-equipped f/1.7 
 
 ### 3. Logitech Brio 4K — Best Premium Webcam
 
-**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/dp/B01N5UOYC4){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/dp/B01N5UOYC4?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If you're regularly on video calls with board members, clients, or doing video content creation, the Brio's 4K resolution and 5x digital zoom justify the premium. Zoom and Teams upscale to 1080p, so callers don't necessarily see 4K — but the extra pixels mean crop, zoom, and reframe without quality loss.
 
@@ -125,7 +125,7 @@ If you're regularly on video calls with board members, clients, or doing video c
 
 ### 4. Elgato Key Light Air — Best Desktop Video Call Light
 
-**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/dp/B082QHRZFW){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/dp/B082QHRZFW?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Elgato Key Light Air is the benchmark for desk-mounted video call lighting. It uses 152 LED beads behind a diffusion panel to produce soft, flattering light — not the harsh circle glare of ring lights. Adjustable color temperature (2900K–7000K) means you can match daylight, tungsten, or any room condition.
 
@@ -144,7 +144,7 @@ The Elgato Key Light Air is the benchmark for desk-mounted video call lighting. 
 
 ### 5. Neewer 18" LED Ring Light — Best Budget Video Call Lighting
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/dp/B06XRF2PKT){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/dp/B06XRF2PKT?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Neewer 18" ring light is the most popular budget lighting upgrade for video calls and it earns that popularity. At $35, the kit includes the ring light, adjustable stand (20"–65"), phone holder, and a carry bag. Set it up in 5 minutes and your video quality will visibly improve.
 
@@ -163,7 +163,7 @@ The Neewer 18" ring light is the most popular budget lighting upgrade for video 
 
 ### 6. Lume Cube Edge LED Panel — Best Portable Video Call Light
 
-**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/dp/B08P62H6WP){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/dp/B08P62H6WP?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Lume Cube Edge is the most versatile option: it's small enough to travel, clips to a laptop screen, and can be used on a desk stand, tripod, or mounted anywhere. For hybrid workers who split time between home and office, it's the one light that works in every setting.
 
@@ -182,7 +182,7 @@ The Lume Cube Edge is the most versatile option: it's small enough to travel, cl
 
 ### 7. Blue Snowball iCE — Best Budget USB Microphone for Video Calls
 
-**Price:** ~$50 | [Check price on Amazon →](https://www.amazon.com/dp/B014KGXMQY){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$50 | [Check price on Amazon →](https://www.amazon.com/dp/B014KGXMQY?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Your voice is half of every video call, and built-in laptop microphones pick up everything in the room — keyboard clicks, HVAC noise, and your neighbor's dog. The Blue Snowball iCE uses a single cardioid microphone to capture your voice from the front while rejecting side and rear noise.
 

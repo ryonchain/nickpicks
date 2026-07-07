@@ -69,7 +69,7 @@ The difference between a compost bin you use daily and one that ends up in a cab
 
 ### 1. OXO Good Grips Easy-Clean Compost Bin — Best Overall
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=OXO+Good+Grips+Easy-Clean+Compost+Bin)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=OXO+Good+Grips+Easy-Clean+Compost+Bin&tag=nickpicks-20)
 
 The OXO is the best-designed countertop compost bin available. The hinged flip-top lid opens with one hand, the inner bucket lifts out completely for easy dumping and rinsing, and the carbon filter in the lid handles odor reliably between weekly cleanings. The footprint is compact enough for most countertops without occupying excessive prep space. After two years of heavy use, it still seals tightly and the hinge mechanism hasn't degraded.
 
@@ -88,7 +88,7 @@ The OXO is the best-designed countertop compost bin available. The hinged flip-t
 
 ### 2. Full Circle Fresh Air Odor-Free Kitchen Compost Collector — Best for High-Volume Use
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Full+Circle+Fresh+Air+Kitchen+Compost+Bin)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Full+Circle+Fresh+Air+Kitchen+Compost+Bin&tag=nickpicks-20)
 
 The Full Circle uses a passive venting system rather than a carbon filter — the perforated lid and inner wall allow airflow that promotes aerobic decomposition, which produces CO₂ and water rather than the sulfur compounds that cause odor. The result is a bin you can go 5–7 days between emptying without the smells that carbon-filter bins develop by day 3. It's larger than the OXO and less tidy-looking, but the odor performance is genuinely superior for households generating high volumes of scraps.
 
@@ -107,7 +107,7 @@ The Full Circle uses a passive venting system rather than a carbon filter — th
 
 ### 3. Bamboozle Food Composter — Best Eco-Friendly Design
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Bamboozle+Food+Composter+Kitchen)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Bamboozle+Food+Composter+Kitchen&tag=nickpicks-20)
 
 Bamboozle's composter is made from bamboo fiber composite — a rapidly renewable material that feels premium, resists staining better than plain plastic, and has a natural matte finish that looks better on a countertop than utilitarian stainless or white plastic. The 1.5-gallon capacity is the largest of the countertop models reviewed here, and the carbon filter lid keeps odors contained. The bin is dishwasher-safe and the bamboo material doesn't absorb odors even after extended use.
 
@@ -126,7 +126,7 @@ Bamboozle's composter is made from bamboo fiber composite — a rapidly renewabl
 
 ### 4. Utopia Kitchen Stainless Steel Compost Bin — Best Budget Pick
 
-**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Utopia+Kitchen+Stainless+Steel+Compost+Bin)
+**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Utopia+Kitchen+Stainless+Steel+Compost+Bin&tag=nickpicks-20)
 
 The Utopia is the no-frills choice that delivers everything you need at the lowest price. Brushed stainless steel exterior resists rust and staining; the swing-top lid opens with one finger. No carbon filter is included, though it fits standard 3-gallon compostable bags that serve as a liner and partial odor barrier. It won't win design awards, but it works reliably and the stainless construction will outlast any plastic bin.
 
@@ -145,7 +145,7 @@ The Utopia is the no-frills choice that delivers everything you need at the lowe
 
 ### 5. Chef'n EcoCrock Compost Bin — Best Countertop Crock
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Chefn+EcoCrock+Compost+Bin)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=Chefn+EcoCrock+Compost+Bin&tag=nickpicks-20)
 
 The EcoCrock is a traditional ceramic crock-style composter — heavy, attractive, and the kind of thing that looks intentional on a kitchen counter rather than utilitarian. The carbon filter lid controls odor, the ceramic body is easy to wipe down and won't absorb smells, and the traditional crock design works with any kitchen aesthetic. The 0.5-gallon capacity is small — plan to empty it every 2–3 days for a household that cooks regularly.
 
@@ -165,7 +165,7 @@ The EcoCrock is a traditional ceramic crock-style composter — heavy, attractiv
 
 ### 6. Epica Stainless Steel Compost Bin — Best Odor Sealing
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Epica+Stainless+Steel+Compost+Bin+Kitchen)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Epica+Stainless+Steel+Compost+Bin+Kitchen&tag=nickpicks-20)
 
 The Epica uses a charcoal filter inside the lid combined with a tighter lid-to-body seal than most comparably priced stainless options. The result is measurably better odor containment than open-filter designs — useful in smaller kitchens, apartments, or warmer climates where compost breaks down faster. The 1-gallon capacity is appropriate for households that cook 4–5 nights per week.
 

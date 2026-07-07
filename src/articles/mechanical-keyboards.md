@@ -65,7 +65,7 @@ The Keychron Q3 is the keyboard that the enthusiast community consistently recom
 - Limited to Keychron's switch options at purchase (though hotswap fixes this)
 - No per-key RGB in some variants (north-facing LEDs only)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Keychron+Q3+Pro+mechanical+keyboard&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Keychron+Q3+Pro+mechanical+keyboard&tag=nickpicks-20)
 
 ---
 
@@ -94,7 +94,7 @@ The Logitech MX Mechanical is the mechanical keyboard designed for office users 
 - Not ideal for enthusiasts who want full switch customization
 - Logitech software required for advanced features (Windows/Mac only)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Mechanical+keyboard&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Mechanical+keyboard&tag=nickpicks-20)
 
 ---
 
@@ -123,7 +123,7 @@ The Keychron C3 Pro is the best entry point into quality mechanical keyboards. P
 - No gasket mounting (harder/clunkier sound vs. Q series)
 - Stabilizers need lubing out of box for best feel
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Keychron+C3+Pro+mechanical+keyboard&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Keychron+C3+Pro+mechanical+keyboard&tag=nickpicks-20)
 
 ---
 
@@ -152,7 +152,7 @@ Low-profile mechanical keyboards use shorter switches (less key travel than stan
 - Volume knob on some variants wobbles slightly
 - Per-key RGB not as bright as standard keyboards
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Nuphy+Air75+V2+mechanical+keyboard&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Nuphy+Air75+V2+mechanical+keyboard&tag=nickpicks-20)
 
 ---
 
@@ -181,7 +181,7 @@ The GMMK Pro is for the user who wants a gasket-mounted, rotary encoder-equipped
 - Assembly required for barebones version
 - Software (GLORIOUS CORE) has had stability issues historically
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=GMMK+Pro+mechanical+keyboard&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=GMMK+Pro+mechanical+keyboard&tag=nickpicks-20)
 
 ---
 

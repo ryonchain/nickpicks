@@ -66,7 +66,7 @@ Training collars are tools, not solutions — they work best as part of a consis
 
 ### 1. PetSafe Basic Remote Training Collar — Best for Beginners
 
-**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=PetSafe+basic+remote+training+collar+vibration)
+**Price:** ~$50 | [Check on Amazon](https://www.amazon.com/s?k=PetSafe+basic+remote+training+collar+vibration&tag=nickpicks-20)
 
 PetSafe's entry-level remote collar uses vibration and a tone beep — no static stimulation. This is the right choice for most pet owners who are new to remote collar training and working with dogs that have moderate distraction levels. The 300-foot range covers most yards and parks.
 
@@ -84,7 +84,7 @@ PetSafe's entry-level remote collar uses vibration and a tone beep — no static
 
 ### 2. Garmin Delta XC — Best Overall
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Garmin+Delta+XC+dog+training+collar)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Garmin+Delta+XC+dog+training+collar&tag=nickpicks-20)
 
 The Delta XC is the remote collar most commonly recommended by professional trainers for everyday companion dog training. It offers 18 levels of static stimulation, vibration, and tone on a half-mile range. The build quality is commercial grade, the stimulation levels are precise, and Garmin's interface is straightforward even for first-time e-collar users.
 
@@ -102,7 +102,7 @@ The Delta XC is the remote collar most commonly recommended by professional trai
 
 ### 3. SportDOG FieldTrainer 425X — Best for Field and Hunting Dogs
 
-**Price:** ~$170 | [Check on Amazon](https://www.amazon.com/s?k=SportDOG+FieldTrainer+425X)
+**Price:** ~$170 | [Check on Amazon](https://www.amazon.com/s?k=SportDOG+FieldTrainer+425X&tag=nickpicks-20)
 
 SportDOG built its reputation in hunting dog training, and the FieldTrainer 425X reflects that heritage. It's fully submersible, rated to 25 feet, with 500-yard range that covers most field training scenarios. The 21-level stimulation range covers both sensitive companions and more driven working dogs.
 
@@ -120,7 +120,7 @@ SportDOG built its reputation in hunting dog training, and the FieldTrainer 425X
 
 ### 4. Educator E-Collar ET-300 Mini — Best for Small Dogs
 
-**Price:** ~$180 | [Check on Amazon](https://www.amazon.com/s?k=Educator+e-collar+ET-300+mini)
+**Price:** ~$180 | [Check on Amazon](https://www.amazon.com/s?k=Educator+e-collar+ET-300+mini&tag=nickpicks-20)
 
 The Educator ET-300 Mini's signature feature is its "blunt stimulation" technology — it delivers a wider, more diffuse pulse than standard e-collar probes, which is more comfortable and less startling. The stimulation dial runs 0–100 in fine increments. For small dogs (5+ lbs) or sensitive breeds, this precision matters.
 
@@ -138,7 +138,7 @@ The Educator ET-300 Mini's signature feature is its "blunt stimulation" technolo
 
 ### 5. PetSafe Vibration-Only Anti-Bark and Remote Collar — Best for No-Static Households
 
-**Price:** ~$70 | [Check on Amazon](https://www.amazon.com/s?k=PetSafe+vibration+remote+training+collar)
+**Price:** ~$70 | [Check on Amazon](https://www.amazon.com/s?k=PetSafe+vibration+remote+training+collar&tag=nickpicks-20)
 
 For households committed to force-free or positive-reinforcement-only training, a vibration-only collar provides a remote communication channel without any static component. This PetSafe model has 900-foot range — significantly more than the entry-level PetSafe Basic — and works for all dog sizes.
 
@@ -156,7 +156,7 @@ For households committed to force-free or positive-reinforcement-only training, 
 
 ### 6. Dogtra 200C — Best for Large Working Dogs
 
-**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Dogtra+200C+training+collar)
+**Price:** ~$200 | [Check on Amazon](https://www.amazon.com/s?k=Dogtra+200C+training+collar&tag=nickpicks-20)
 
 Dogtra's 200C is built specifically for medium-to-large dogs (35+ lbs recommended) and more intense working environments. The fully waterproof construction, 1/2 mile range, and 127-level stimulation dial make it a precision tool for serious working dog training. The pager/vibration mode eliminates the need for static stimulation in many contexts.
 

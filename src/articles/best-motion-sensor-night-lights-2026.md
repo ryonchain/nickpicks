@@ -57,7 +57,7 @@ Here are the best motion sensor night lights in 2026, for hallways, bathrooms, s
 
 ### 1. Govee Motion Sensor Night Light — Best Overall Motion Sensor Night Light
 
-**Price:** ~$30 (2-pack) | [Check price on Amazon →](https://www.amazon.com/s?k=Govee+motion+sensor+night+light+rechargeable){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 (2-pack) | [Check price on Amazon →](https://www.amazon.com/s?k=Govee+motion+sensor+night+light+rechargeable&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Govee Motion Sensor Night Light combines the convenience of rechargeable battery operation (no wiring, no outlet needed) with the practicality of adjustable brightness and a magnetic mount that sticks to any metal surface or adhesive pad. It activates on motion within a 120° field at up to 10 feet, stays on for an adjustable period (30 seconds to 2 minutes), and only activates in darkness — the built-in light sensor prevents daytime false triggers.
 
@@ -74,7 +74,7 @@ The Govee Motion Sensor Night Light combines the convenience of rechargeable bat
 
 ### 2. AUVON Motion Sensor LED Night Light — Best Plug-In Motion Sensor Night Light
 
-**Price:** ~$25 (6-pack) | [Check price on Amazon →](https://www.amazon.com/s?k=AUVON+motion+sensor+LED+night+light+plug+in){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 (6-pack) | [Check price on Amazon →](https://www.amazon.com/s?k=AUVON+motion+sensor+LED+night+light+plug+in&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Plug-in night lights are the most reliable long-term option — no batteries, no charging, they just work. The AUVON Motion Sensor plug-ins detect motion at up to 15 feet in a 90° field, auto-dim to almost off in room-light conditions (so they're not visible during the day), and emit a warm 2700K light that's easy on dark-adjusted eyes. At $25 for 6, they're the most cost-effective way to cover an entire house.
 
@@ -93,7 +93,7 @@ Plug-in night lights are the most reliable long-term option — no batteries, no
 
 ### 3. Mr. Beams MB720A Wireless LED Spotlight — Best Battery-Powered Motion Sensor Light
 
-**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=Mr.+Beams+MB720A+wireless+LED+spotlight+motion}{rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=Mr.+Beams+MB720A+wireless+LED+spotlight+motion&tag=nickpicks-20}{rel="nofollow sponsored" target="_blank"}
 
 The Mr. Beams MB720A is the most powerful battery-powered motion sensor light in this guide — 140 lumens directed as a focused spotlight, with a 30-foot detection range in a 180° field. It's the right pick for garages, outdoor paths, basements, and closets where you need real light output rather than a soft ambient glow. Three D batteries last up to 1 year at typical usage rates.
 
@@ -110,7 +110,7 @@ The Mr. Beams MB720A is the most powerful battery-powered motion sensor light in
 
 ### 4. Maxxima Motion Sensing LED Night Light — Best Budget Motion Sensor Night Light
 
-**Price:** ~$15 (2-pack) | [Check price on Amazon →](https://www.amazon.com/s?k=Maxxima+motion+sensing+LED+night+light+plug+in){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$15 (2-pack) | [Check price on Amazon →](https://www.amazon.com/s?k=Maxxima+motion+sensing+LED+night+light+plug+in&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Maxxima is the lowest-cost plug-in motion sensor night light that still performs reliably. At $15 for 2, it's roughly half the per-unit cost of the AUVON pack. The trade-off is a simpler fixed-brightness design (no auto-dimming) and a narrower 120° detection field. For hallways and bathrooms where you just need basic reliable motion-activated light, the Maxxima delivers.
 
@@ -127,7 +127,7 @@ The Maxxima is the lowest-cost plug-in motion sensor night light that still perf
 
 ### 5. Ailun Motion Sensor Under Cabinet Light — Best Under-Cabinet Motion Sensor Light
 
-**Price:** ~$25 (3-pack) | [Check price on Amazon →](https://www.amazon.com/s?k=Ailun+motion+sensor+under+cabinet+light+LED){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 (3-pack) | [Check price on Amazon →](https://www.amazon.com/s?k=Ailun+motion+sensor+under+cabinet+light+LED&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Ailun is purpose-designed for under-cabinet and closet use — it's a long, slim LED strip with a built-in motion sensor that mounts flush under a cabinet or shelf. Ideal for kitchen cabinets (lights the counter automatically when you reach for something), closets (no hunting for a light switch), and staircase undersides. USB rechargeable with a 1-3 month charge interval.
 
@@ -162,7 +162,7 @@ The Ailun is purpose-designed for under-cabinet and closet use — it's a long, 
 
 *All prices are approximate and subject to change. Check linked product pages for current pricing.*
 
-[Shop motion sensor night lights on Amazon →](https://www.amazon.com/s?k=motion+sensor+night+light+indoor){rel="nofollow sponsored" target="_blank"}
+[Shop motion sensor night lights on Amazon →](https://www.amazon.com/s?k=motion+sensor+night+light+indoor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Frequently Asked Questions
 

@@ -58,7 +58,7 @@ This guide focuses on three categories that deliver the most impact for a beginn
 
 ### 1. TP-Link Kasa Smart Plug EP25 (4-Pack) — Best First Purchase
 
-**Price:** ~$30 for 4-pack | [Check price on Amazon →](https://www.amazon.com/s?k=Kasa+Smart+Plug+EP25+energy+monitoring){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 for 4-pack | [Check price on Amazon →](https://www.amazon.com/s?k=Kasa+Smart+Plug+EP25+energy+monitoring&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Setup complexity:** Very easy (plug in, connect via Kasa app in under 3 minutes)
 
@@ -80,7 +80,7 @@ The EP25 specifically includes energy monitoring, which shows you exactly how mu
 
 ### 2. Ring Video Doorbell (2nd Gen) — Best Budget Video Doorbell
 
-**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/s?k=Ring+Video+Doorbell+2nd+Gen){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$100 | [Check price on Amazon →](https://www.amazon.com/s?k=Ring+Video+Doorbell+2nd+Gen&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Setup complexity:** Easy (hardwired or battery-powered, app-guided installation)
 
@@ -103,7 +103,7 @@ The Ring Video Doorbell 2nd Gen sits at exactly $100 and replaces your existing 
 
 ### 3. TP-Link Deco E4 Mesh WiFi (2-Pack) — Best Budget Mesh Network
 
-**Price:** ~$60 for 2-pack | [Check price on Amazon →](https://www.amazon.com/s?k=TP-Link+Deco+E4+WiFi+mesh+system){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$60 for 2-pack | [Check price on Amazon →](https://www.amazon.com/s?k=TP-Link+Deco+E4+WiFi+mesh+system&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Setup complexity:** Easy (Deco app walks you through placement in 10 minutes)
 
@@ -125,7 +125,7 @@ The TP-Link Deco E4 (2-pack) covers up to 2,800 sq ft with a seamless single-net
 
 ### 4. TP-Link Kasa Smart Bulb KL130 (2-Pack) — Best Budget Color Bulb
 
-**Price:** ~$25 for 2-pack | [Check price on Amazon →](https://www.amazon.com/s?k=Kasa+Smart+Bulb+KL130+color){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$25 for 2-pack | [Check price on Amazon →](https://www.amazon.com/s?k=Kasa+Smart+Bulb+KL130+color&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Setup complexity:** Very easy (screw in, connect via Kasa app)
 
@@ -141,7 +141,7 @@ At ~$12.50 per bulb, it's significantly cheaper than Philips Hue without a meani
 
 ### 5. Blink Mini Indoor Camera — Best Budget Indoor Camera
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=Blink+Mini+indoor+security+camera){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=Blink+Mini+indoor+security+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Setup complexity:** Very easy (plug in, Blink app setup in 5 minutes)
 

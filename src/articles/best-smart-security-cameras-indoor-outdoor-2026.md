@@ -61,7 +61,7 @@ We evaluated cameras on video clarity (including night vision), motion detection
 
 ### 1. Google Nest Cam (Battery) — Best Overall Smart Security Camera
 
-**Price:** ~$180 | [Check price on Amazon →](https://www.amazon.com/s?k=google+nest+cam+battery+2021&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$180 | [Check price on Amazon →](https://www.amazon.com/s?k=google+nest+cam+battery+2021&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Google Nest Cam (Battery) is the most versatile camera on this list: it works indoors or outdoors, runs on battery (1–7 months depending on activity), and can be permanently wired with the included cable. The dual-mode design means you can test placement before committing to mounting holes.
 
@@ -85,7 +85,7 @@ The Google Nest Cam (Battery) is the most versatile camera on this list: it work
 
 ### 2. Arlo Pro 5S 2K — Best Outdoor Security Camera
 
-**Price:** ~$230 | [Check price on Amazon →](https://www.amazon.com/s?k=arlo+pro+5s+2k+outdoor+camera&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$230 | [Check price on Amazon →](https://www.amazon.com/s?k=arlo+pro+5s+2k+outdoor+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Arlo Pro 5S is built specifically for outdoor permanence: IP65 weather rating, color night vision with an integrated spotlight, and 2K resolution that captures enough detail to identify faces and license plates at 20–30 feet. It's the best outdoor-dedicated camera for homes that need reliable all-weather coverage.
 
@@ -107,7 +107,7 @@ The Arlo Pro 5S is built specifically for outdoor permanence: IP65 weather ratin
 
 ### 3. Wyze Cam v4 — Best Budget Indoor Camera
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=wyze+cam+v4+indoor+camera&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=wyze+cam+v4+indoor+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Wyze Cam v4 is the most remarkable value in home security cameras: 2K resolution, color night vision with a built-in spotlight, person and pet detection, and local microSD storage — all for $35 without a required subscription.
 
@@ -131,7 +131,7 @@ The Wyze Cam v4 is the most remarkable value in home security cameras: 2K resolu
 
 ### 4. Ring Indoor Cam (2nd Gen) — Best Camera for Amazon/Ring Ecosystem
 
-**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/s?k=ring+indoor+cam+2nd+gen&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$60 | [Check price on Amazon →](https://www.amazon.com/s?k=ring+indoor+cam+2nd+gen&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Ring's Indoor Cam (2nd Gen) is the right choice for households already invested in the Ring or Amazon ecosystem — Ring doorbells, Ring Alarm, Alexa devices, and Fire TV all integrate directly. At $60, it's reasonably priced for indoor use with plug-in power (no battery management).
 
@@ -152,7 +152,7 @@ Ring's Indoor Cam (2nd Gen) is the right choice for households already invested 
 
 ### 5. Eufy SoloCam S340 — Best Outdoor Camera Without Subscription
 
-**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/s?k=eufy+solocam+s340+outdoor&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/s?k=eufy+solocam+s340+outdoor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Eufy's approach to security cameras is fundamentally different from competitors: footage is stored locally on the camera's built-in eMMC storage (no cloud, no subscription), and facial recognition processing happens on-device rather than in the cloud. For privacy-conscious buyers, this matters significantly.
 

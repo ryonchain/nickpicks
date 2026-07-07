@@ -75,7 +75,7 @@ The AeroGarden Harvest Elite is the most popular indoor herb garden kit on the m
 
 **What to watch:** 6 pods means 6 plants maximum. Power users who want more variety should look at the Bounty Elite (9 pods). Replacement nutrient bottles (~$15/bottle, lasts ~3 months) are ongoing costs.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=aerogarden+harvest+elite){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=aerogarden+harvest+elite&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -93,7 +93,7 @@ Click and Grow takes the simplest possible approach to indoor growing. Instead o
 
 **What to watch:** Soil-based system creates more mess than hydroponics when pods are changed. At ~$170, it's pricier than AeroGarden Harvest Elite for similar pod count.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=click+and+grow+smart+garden+9){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=click+and+grow+smart+garden+9&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -111,7 +111,7 @@ If you cook daily with fresh herbs and want maximum yield, the AeroGarden Bounty
 
 **What to watch:** At ~$230, it's the most expensive kit in this guide. Significantly larger footprint — takes up substantial counter space.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=aerogarden+bounty+elite){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=aerogarden+bounty+elite&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -128,7 +128,7 @@ The Back to the Roots Water Garden Duo takes a low-tech approach that still prod
 
 **What to watch:** Requires a sunny window or supplemental grow light for best results. No automatic nutrient delivery — you manage soil and watering. Slower growth than hydroponic systems.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=back+to+roots+water+garden+duo){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=back+to+roots+water+garden+duo&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -145,7 +145,7 @@ The iDOO 12-Pod brings full hydroponic herb growing to under $60. It's not as po
 
 **What to watch:** Seeds sold separately — no seed kit included. Build quality is noticeably below AeroGarden. Customer support and brand maturity don't match established brands.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=idoo+hydroponics+growing+system+12+pod){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=idoo+hydroponics+growing+system+12+pod&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -162,7 +162,7 @@ For anyone who wants to try herb growing before committing to a larger system, t
 
 **What to watch:** 3 pods limits variety and volume. Not enough for serious cooking needs — it's a starter unit. Step up to the Smart Garden 9 if you cook with herbs regularly.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=click+and+grow+smart+garden+3){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=click+and+grow+smart+garden+3&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

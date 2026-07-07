@@ -61,7 +61,7 @@ Here are the best ergonomic footrests for desk use in 2026, picked for home offi
 
 ### 1. Humanscale FM300 Foot Machine — Best Overall Ergonomic Footrest
 
-**Price:** ~$90 | [Check price on Amazon →](https://www.amazon.com/s?k=Humanscale+FM300+Foot+Machine+footrest){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$90 | [Check price on Amazon →](https://www.amazon.com/s?k=Humanscale+FM300+Foot+Machine+footrest&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Humanscale FM300 is the gold standard in office footrests — the kind you see under the desks of corporate ergonomics officers and serious remote workers. Its patented rocker mechanism lets your feet move continuously rather than sitting in one static position, which keeps calf muscles active and improves circulation over an 8-hour workday. Height adjusts from 1–4 inches via simple locking mechanism.
 
@@ -80,7 +80,7 @@ The Humanscale FM300 is the gold standard in office footrests — the kind you s
 
 ### 2. Kensington SoleMate Comfort Footrest — Best Footrest with Massage Texture
 
-**Price:** ~$55 | [Check price on Amazon →](https://www.amazon.com/s?k=Kensington+SoleMate+footrest+ergonomic){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$55 | [Check price on Amazon →](https://www.amazon.com/s?k=Kensington+SoleMate+footrest+ergonomic&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Kensington SoleMate is the most ergonomically complete footrest under $60. Its unique surface texture has raised bumps that massage the soles of your feet as you shift weight — comparable to walking on a cobblestone mat, without the intensity. Height adjusts across 4 positions (0–3 inches) and the tilt angle locks into your preferred position up to 15 degrees.
 
@@ -97,7 +97,7 @@ The Kensington SoleMate is the most ergonomically complete footrest under $60. I
 
 ### 3. ErgoFoam Adjustable Foot Rest — Best Foam Footrest for Comfort
 
-**Price:** ~$45 | [Check price on Amazon →](https://www.amazon.com/s?k=ErgoFoam+adjustable+footrest+under+desk){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$45 | [Check price on Amazon →](https://www.amazon.com/s?k=ErgoFoam+adjustable+footrest+under+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The ErgoFoam is the only foam footrest in this roundup — and foam changes the comfort equation entirely. Where plastic and mesh footrests support your feet, the ErgoFoam cushions them. The high-density foam holds its shape after months of daily use (unlike cheap memory foam that compresses permanently), and the height adjust (3.5–5.5 inches) via a removable middle layer is clever and simple.
 
@@ -114,7 +114,7 @@ The ErgoFoam is the only foam footrest in this roundup — and foam changes the 
 
 ### 4. Mount-It! Under Desk Footrest — Best Footrest Under $30
 
-**Price:** ~$28 | [Check price on Amazon →](https://www.amazon.com/s?k=Mount-It+under+desk+footrest+adjustable){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$28 | [Check price on Amazon →](https://www.amazon.com/s?k=Mount-It+under+desk+footrest+adjustable&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Mount-It! footrest hits the sweet spot at $28: adjustable height (3.5–5 inches via two locking positions), 20-degree tilt adjustment, a breathable mesh surface, and a no-slip base. It covers the core ergonomic requirements without frills. The mesh surface is cooler underfoot than solid plastic or foam on warm days.
 
@@ -131,7 +131,7 @@ The Mount-It! footrest hits the sweet spot at $28: adjustable height (3.5–5 in
 
 ### 5. Everlasting Comfort Foot Rest — Best Memory Foam Footrest
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=Everlasting+Comfort+foot+rest+memory+foam){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=Everlasting+Comfort+foot+rest+memory+foam&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Everlasting Comfort footrest is a pure-comfort pick: pure memory foam that conforms to the unique shape of your feet, a 30° tilt angle that keeps the heels low and toes slightly elevated (the natural ergonomic position), and a washable cover. It's thinner than the ErgoFoam at 4 inches fixed height, which suits shorter users or standard desk heights without adjustment.
 
@@ -148,7 +148,7 @@ The Everlasting Comfort footrest is a pure-comfort pick: pure memory foam that c
 
 ### 6. Victor Easy Adjustable Footrest — Best Adjustable Platform Footrest
 
-**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/s?k=Victor+Easy+adjustable+footrest+desk){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/s?k=Victor+Easy+adjustable+footrest+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Victor Easy Adjustable footrest is the most mechanically versatile option under $50. The height adjusts from 2–4 inches with a simple push-button mechanism (no bending down required), and the platform surface has carpet texture on one side for bare feet and a smooth surface on the other for shoes. Flip it to match your preference.
 
@@ -186,7 +186,7 @@ You don't need a footrest if:
 
 *All prices are approximate and subject to change. Check the linked product pages for current pricing.*
 
-[Shop ergonomic footrests on Amazon →](https://www.amazon.com/s?k=ergonomic+footrest+under+desk){rel="nofollow sponsored" target="_blank"}
+[Shop ergonomic footrests on Amazon →](https://www.amazon.com/s?k=ergonomic+footrest+under+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Frequently Asked Questions
 

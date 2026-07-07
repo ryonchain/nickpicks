@@ -68,7 +68,7 @@ Key specs to evaluate:
 
 ### 1. OXO Good Grips 15-Piece Silicone Set — Best Overall
 
-**Price:** ~$80 | [Check on Amazon](https://www.amazon.com/s?k=OXO+Good+Grips+silicone+utensil+set)
+**Price:** ~$80 | [Check on Amazon](https://www.amazon.com/s?k=OXO+Good+Grips+silicone+utensil+set&tag=nickpicks-20)
 
 OXO's silicone set is the one cookware-obsessed home cooks keep returning to. The ergonomic handles use a soft, non-slip grip that stays comfortable whether you're stirring a thick risotto for 20 minutes or flipping burgers quickly. At 600°F heat rating, you can use these on carbon steel and cast iron without concern.
 
@@ -85,7 +85,7 @@ OXO's silicone set is the one cookware-obsessed home cooks keep returning to. Th
 
 ### 2. ICOOKPOT 12-Piece Silicone Set — Best Budget
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=ICOOKPOT+silicone+kitchen+utensil+set)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=ICOOKPOT+silicone+kitchen+utensil+set&tag=nickpicks-20)
 
 ICOOKPOT hits the essentials at a price point that makes it the easy recommendation for new households, renters, or anyone setting up a first kitchen. The 480°F heat rating handles everyday stovetop cooking without issue — only high-heat frying or candy making pushes near the limit.
 
@@ -103,7 +103,7 @@ ICOOKPOT hits the essentials at a price point that makes it the easy recommendat
 
 ### 3. KÜCHENPROFI 9-Piece Set — Best Build Quality
 
-**Price:** ~$65 | [Check on Amazon](https://www.amazon.com/s?k=KÜCHENPROFI+silicone+utensil+set)
+**Price:** ~$65 | [Check on Amazon](https://www.amazon.com/s?k=KÜCHENPROFI+silicone+utensil+set&tag=nickpicks-20)
 
 KÜCHENPROFI is a German kitchenware brand, and this set reflects that heritage — the stainless steel core handles feel noticeably more solid than hollow-handle alternatives. The 550°F rating and seamless construction at the silicone-to-steel junction mean no trapped food or water issues after heavy use.
 
@@ -121,7 +121,7 @@ KÜCHENPROFI is a German kitchenware brand, and this set reflects that heritage 
 
 ### 4. EVILTO 14-Piece Silicone Set — Best Large Set for the Price
 
-**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=EVILTO+silicone+kitchen+utensil+set)
+**Price:** ~$35 | [Check on Amazon](https://www.amazon.com/s?k=EVILTO+silicone+kitchen+utensil+set&tag=nickpicks-20)
 
 For a 14-piece set under $40, EVILTO overdelivers on coverage. You get everything — two types of spatulas, slotted and solid spoons, ladle, whisk, tongs, pasta fork, basting brush, and a storage holder. The 446°F rating is the one caveat: fine for 95% of home cooking, but avoid leaving these on a screaming-hot pan.
 
@@ -139,7 +139,7 @@ For a 14-piece set under $40, EVILTO overdelivers on coverage. You get everythin
 
 ### 5. Umite Chef 12-Piece Set — Best for Nonstick Cookware
 
-**Price:** ~$28 | [Check on Amazon](https://www.amazon.com/s?k=Umite+Chef+silicone+kitchen+utensil+set)
+**Price:** ~$28 | [Check on Amazon](https://www.amazon.com/s?k=Umite+Chef+silicone+kitchen+utensil+set&tag=nickpicks-20)
 
 Umite Chef's utensils have notably softer silicone heads than most competitors — ideal for protecting delicate nonstick coatings. If you've ever scratched a ceramic or PTFE pan with a firmer utensil, you'll appreciate the extra softness. The 480°F rating covers standard cooking tasks.
 
@@ -157,7 +157,7 @@ Umite Chef's utensils have notably softer silicone heads than most competitors �
 
 ### 6. HOTEC Premium 15-Piece Set — Best Large Set Under $50
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=HOTEC+silicone+kitchen+utensil+set)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=HOTEC+silicone+kitchen+utensil+set&tag=nickpicks-20)
 
 HOTEC lands a 600°F heat rating — matching OXO's top-end spec — at half the price. The hollow handles aren't as ergonomically refined as OXO's, but the heat resistance is the real differentiator at this price point. Includes a utensil holder, making this a near-complete kitchen overhaul in one purchase.
 

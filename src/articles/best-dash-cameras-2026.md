@@ -61,7 +61,7 @@ A dash camera is insurance documentation hardware. The footage it captures can d
 
 ## 1. Vantrue E1 Lite — Best Overall Dash Camera
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Vantrue+E1+Lite+dash+camera)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Vantrue+E1+Lite+dash+camera&tag=nickpicks-20)**
 
 The Vantrue E1 Lite records 1440p at 30fps using a Sony Starvis sensor — the combination that matters most for dash camera performance. The Sony Starvis sensor captures light efficiently enough to make nighttime footage useful for license plate identification and detail preservation.
 
@@ -87,7 +87,7 @@ The compact form factor mounts behind the rearview mirror without obstructing th
 
 ## 2. Viofo A229 Pro — Best Front and Rear Dash Camera
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Viofo+A229+Pro+dash+camera)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Viofo+A229+Pro+dash+camera&tag=nickpicks-20)**
 
 The Viofo A229 Pro is the best two-camera system available at ~$200. Both the front (4K at 30fps) and rear (2K at 30fps) cameras use Sony Starvis 2 sensors — not just the front. Most budget front-rear systems use a premium front sensor and a mediocre rear sensor; the A229 Pro doesn't.
 
@@ -113,7 +113,7 @@ GPS, parking mode, Wi-Fi for smartphone access, and dual-band capability (2.4GHz
 
 ## 3. Garmin Mini 2 — Best Compact Dash Camera
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Garmin+Mini+2+dash+camera)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Garmin+Mini+2+dash+camera&tag=nickpicks-20)**
 
 The Garmin Mini 2 is the smallest dash camera in this roundup — small enough that most observers won't notice it on the windshield. At ~$100, it records 1080p at 30fps with Garmin's voice control (no need to reach over to operate it while driving).
 
@@ -140,7 +140,7 @@ The trade-off is features: no parking mode without a separate battery pack, no G
 
 ## 4. Nextbase 622GW — Best Premium Dash Camera
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Nextbase+622GW+dash+camera)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Nextbase+622GW+dash+camera&tag=nickpicks-20)**
 
 The Nextbase 622GW is the most feature-complete camera in this roundup. 4K at 30fps (or 1440p at 60fps for smoother motion capture), image stabilization, built-in GPS, Bluetooth and Wi-Fi, Emergency SOS (connects to emergency services via Alexa when a crash is detected), and Alexa built in.
 
@@ -166,7 +166,7 @@ At ~$300, it's a premium investment. But the combination of 4K image stabilizati
 
 ## 5. Thinkware U1000 — Best for Parking Mode
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Thinkware+U1000+dash+camera)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Thinkware+U1000+dash+camera&tag=nickpicks-20)**
 
 The Thinkware U1000 is built around professional-grade parking mode. When hardwired, it stays in active standby drawing minimal power while monitoring for motion, impact, or time-lapse recording. The parking mode buffer records the 30 seconds before a detected event — capturing what happened before the trigger, not just after.
 

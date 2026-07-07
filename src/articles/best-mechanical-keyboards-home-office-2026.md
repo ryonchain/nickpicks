@@ -89,7 +89,7 @@ The Keychron Q2 Pro is the best compact mechanical keyboard for WFH because it s
 
 **Switch recommendation for WFH:** The Q2 Pro ships with Gateron Pro (various) or Keychron switches. For WFH, choose Gateron Silent Brown or Keychron Brown for balanced tactile feedback at low noise levels.
 
-**https://www.amazon.com/s?k=Keychron+Q2+Pro+mechanical+keyboard**
+**https://www.amazon.com/s?k=Keychron+Q2+Pro+mechanical+keyboard**&tag=nickpicks-20
 
 ---
 
@@ -110,7 +110,7 @@ The MX Keys S isn't a traditional mechanical keyboard — it uses Logitech's pro
 
 **The case against it:** It's not a "true" mechanical keyboard. If you want the distinct mechanical typing feel, the Keychron options are better. The MX Keys S is for people who want tactile improvement over a laptop keyboard with minimal noise.
 
-**https://www.amazon.com/s?k=Logitech+MX+Keys+S+wireless+keyboard**
+**https://www.amazon.com/s?k=Logitech+MX+Keys+S+wireless+keyboard**&tag=nickpicks-20
 
 ---
 
@@ -129,7 +129,7 @@ The Keychron K3 Pro is the 75% layout entry point into quality mechanical keyboa
 
 **Switch recommendation:** For WFH, choose the Brown option for standard tactile feel, or the Red option if you want smooth linear typing. The Blue option is only for people with a private home office where noise isn't a concern.
 
-**https://www.amazon.com/s?k=Keychron+K3+Pro+mechanical+keyboard**
+**https://www.amazon.com/s?k=Keychron+K3+Pro+mechanical+keyboard**&tag=nickpicks-20
 
 ---
 
@@ -148,7 +148,7 @@ Das Keyboard has been the premium typing keyboard brand since 2005. The Model 4 
 
 **The case against it:** Full-size with numpad takes significant desk space. No wireless option (USB only). The Model 4 Blue version is loud — only appropriate for a private home office. For WFH, choose the Brown switch version.
 
-**https://www.amazon.com/s?k=Das+Keyboard+4+Professional+mechanical**
+**https://www.amazon.com/s?k=Das+Keyboard+4+Professional+mechanical**&tag=nickpicks-20
 
 ---
 
@@ -166,7 +166,7 @@ The Keychron V1 is the best wired keyboard under $75. The 75% layout, hot-swap s
 
 **The case against it:** Wired only. If you want wireless, upgrade to the K3 Pro. But for a permanent desk setup where wireless isn't needed, the V1 is hard to beat at this price.
 
-**https://www.amazon.com/s?k=Keychron+V1+mechanical+keyboard**
+**https://www.amazon.com/s?k=Keychron+V1+mechanical+keyboard**&tag=nickpicks-20
 
 ---
 

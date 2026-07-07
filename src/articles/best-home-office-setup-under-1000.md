@@ -65,7 +65,7 @@ The anchor piece of any ergonomic setup. Alternating between sitting and standin
 - 15-year frame warranty
 - Ships fully assembled frame (desktop separate)
 
-[Check price on Amazon →](https://www.amazon.com/dp/B08CLF9LQP)
+[Check price on Amazon →](https://www.amazon.com/dp/B08CLF9LQP?tag=nickpicks-20)
 
 ---
 
@@ -75,7 +75,7 @@ A [monitor arm](/articles/ergotron-lx-monitor-arm-review/) eliminates neck strai
 
 If you run dual monitors: the Ergotron LX Dual version is $247. Worth it to free up the entire desk surface.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B00BST5CCY)
+[Check price on Amazon →](https://www.amazon.com/dp/B00BST5CCY?tag=nickpicks-20)
 
 ---
 
@@ -85,7 +85,7 @@ For a $1,000 total budget, the Branch [ergonomic chair](/articles/best-ergonomic
 
 For those who can spend $500+: the **Steelcase Series 1** ($499) adds flex-back lumbar support that adjusts to your movement, which is a meaningful upgrade.
 
-[Branch on Amazon →](https://www.amazon.com/s?k=branch+ergonomic+chair) | [Steelcase Series 1 on Amazon →](https://www.amazon.com/s?k=steelcase+series+1)
+[Branch on Amazon →](https://www.amazon.com/s?k=branch+ergonomic+chair&tag=nickpicks-20) | [Steelcase Series 1 on Amazon →](https://www.amazon.com/s?k=steelcase+series+1&tag=nickpicks-20)
 
 ---
 
@@ -95,7 +95,7 @@ Still the standard recommendation for home office video calls in 2026. 1080p/30f
 
 Upgrade option: **Logitech Brio 505** ($129) for 1080p/60fps with better low-light performance and USB-C — worth it if you do regular client calls or recorded content. For a full comparison of webcam options at every price point, see our [best webcams for home office](/articles/best-webcams-home-office-2026/) guide.
 
-[C920x on Amazon →](https://www.amazon.com/dp/B00829D0GM) | [Brio 505 on Amazon →](https://www.amazon.com/s?k=logitech+brio+505)
+[C920x on Amazon →](https://www.amazon.com/dp/B00829D0GM?tag=nickpicks-20) | [Brio 505 on Amazon →](https://www.amazon.com/s?k=logitech+brio+505&tag=nickpicks-20)
 
 ---
 
@@ -103,7 +103,7 @@ Upgrade option: **Logitech Brio 505** ($129) for 1080p/60fps with better low-lig
 
 The BenQ ScreenBar clips to the top of your monitor and lights your desk with zero screen glare — a physical impossibility with a regular desk lamp. The auto-dimming feature adjusts to ambient light. After using it, going back to a standard desk lamp feels archaic.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=benq+screenbar)
+[Check price on Amazon →](https://www.amazon.com/s?k=benq+screenbar&tag=nickpicks-20)
 
 ---
 

@@ -48,7 +48,7 @@ Which one you should buy depends entirely on one thing: how you feel about typin
 
 ## Logitech MX Keys S
 
-**[Logitech MX Keys S on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Keys+S+wireless+keyboard){rel="nofollow sponsored" target="_blank"}** (~$110)
+**[Logitech MX Keys S on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Keys+S+wireless+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$110)
 
 The MX Keys S is Logitech's flagship productivity keyboard — not a gaming keyboard, not a budget board. It's designed specifically for people who type a lot, switch between multiple computers, and need a keyboard that doesn't drive their family or coworkers to distraction.
 
@@ -78,7 +78,7 @@ The MX Keys S is Logitech's flagship productivity keyboard — not a gaming keyb
 
 ## Keychron K4
 
-**[Keychron K4 on Amazon →](https://www.amazon.com/s?k=Keychron+K4+mechanical+keyboard){rel="nofollow sponsored" target="_blank"}** (~$100)
+**[Keychron K4 on Amazon →](https://www.amazon.com/s?k=Keychron+K4+mechanical+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$100)
 
 The Keychron K4 is a 96% mechanical keyboard — meaning it fits a full-size layout including numpad into a chassis that's roughly the same footprint as a tenkeyless board. It's the sweet spot for people who want the number row and numpad but hate how much desk real estate a traditional full-size keyboard consumes.
 
@@ -157,7 +157,7 @@ Counterintuitive, but the 96% K4 takes up less space than the full-size MX Keys 
 
 For a deeper look at this category, see our [best ergonomic keyboards guide](/articles/best-ergonomic-keyboards-home-office-2026/) which covers split and tented options alongside these two.
 
-**[Logitech MX Keys S on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Keys+S+wireless+keyboard){rel="nofollow sponsored" target="_blank"}**
+**[Logitech MX Keys S on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Keys+S+wireless+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}**
 
 ---
 
@@ -171,14 +171,14 @@ For a deeper look at this category, see our [best ergonomic keyboards guide](/ar
 
 For context on where the Keychron K4 fits among other mechanical keyboards, our [best mechanical keyboards for home office](/articles/best-mechanical-keyboards-home-office-2026/) guide covers the broader category.
 
-**[Keychron K4 on Amazon →](https://www.amazon.com/s?k=Keychron+K4+mechanical+keyboard){rel="nofollow sponsored" target="_blank"}**
+**[Keychron K4 on Amazon →](https://www.amazon.com/s?k=Keychron+K4+mechanical+keyboard&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}**
 
 ---
 
 ## Accessories That Pair Well With Either Keyboard
 
-- **Desk mat / extended mousepad** — improves wrist comfort and cleans up the desk look. **[Large Desk Mat on Amazon →](https://www.amazon.com/s?k=large+extended+desk+mat+mousepad){rel="nofollow sponsored" target="_blank"}**
-- **Wrist rest** — especially useful for full-day typing sessions. **[Ergonomic Wrist Rest on Amazon →](https://www.amazon.com/s?k=ergonomic+wrist+rest+keyboard+memory+foam){rel="nofollow sponsored" target="_blank"}**
+- **Desk mat / extended mousepad** — improves wrist comfort and cleans up the desk look. **[Large Desk Mat on Amazon →](https://www.amazon.com/s?k=large+extended+desk+mat+mousepad&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}**
+- **Wrist rest** — especially useful for full-day typing sessions. **[Ergonomic Wrist Rest on Amazon →](https://www.amazon.com/s?k=ergonomic+wrist+rest+keyboard+memory+foam&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}**
 
 ---
 

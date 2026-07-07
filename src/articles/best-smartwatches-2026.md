@@ -44,21 +44,21 @@ comparisonTable:
       rating: 4.9
       pros: ["Best iOS integration", "Sleep apnea detection (FDA-cleared)", "ECG + irregular rhythm", "Fast charging: 0–80% in 30 min"]
       cons: ["iPhone only", "18hr battery — daily charging needed"]
-      amazonLink: "https://www.amazon.com/s?k=apple+watch+series+10&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=apple+watch+series+10&tag=nickpicks-20"
       badge: "Best for iPhone"
     - name: "Garmin Forerunner 265"
       price: "~$450"
       rating: 4.8
       pros: ["13-day battery", "VO2 max + race predictor", "Multi-band GPS", "Works with iOS and Android"]
       cons: ["Expensive", "Minimal daily smartwatch experience"]
-      amazonLink: "https://www.amazon.com/s?k=garmin+forerunner+265&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=garmin+forerunner+265&tag=nickpicks-20"
       badge: "Best for Athletes"
     - name: "Fitbit Charge 6"
       price: "~$160"
       rating: 4.5
       pros: ["7-day battery", "Built-in GPS", "Google Wallet (NFC)", "ECG + SpO2 + sleep stages"]
       cons: ["Small rectangular display", "Best features need Premium subscription"]
-      amazonLink: "https://www.amazon.com/s?k=fitbit+charge+6&tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/s?k=fitbit+charge+6&tag=nickpicks-20"
       badge: "Best Budget Tracker"
 ---
 
@@ -87,7 +87,7 @@ We wore six smartwatches for 30 days each, tracking workouts, sleep quality, and
 
 ### 1. Apple Watch Series 10 — Best for iPhone Users
 
-**Price:** ~$399 | [Check price on Amazon →](https://www.amazon.com/s?k=apple+watch+series+10&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$399 | [Check price on Amazon →](https://www.amazon.com/s?k=apple+watch+series+10&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 No smartwatch integrates with an iPhone like the Apple Watch Series 10. Messages, calls, Apple Pay, Siri, and Find My all work seamlessly — features that feel native on Apple Watch and bolted-on everywhere else. For iPhone users, the question isn't whether to buy an Apple Watch, it's which model.
 
@@ -118,7 +118,7 @@ No smartwatch integrates with an iPhone like the Apple Watch Series 10. Messages
 
 ### 2. Samsung Galaxy Watch 7 — Best Android Smartwatch
 
-**Price:** ~$300 | [Check price on Amazon →](https://www.amazon.com/s?k=samsung+galaxy+watch+7&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$300 | [Check price on Amazon →](https://www.amazon.com/s?k=samsung+galaxy+watch+7&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Samsung's Galaxy Watch 7 runs Wear OS with Samsung's One UI Watch layer, giving it the deepest Google/Android ecosystem integration of any non-Pixel watch. The health sensor suite is genuinely impressive: the BioActive sensor tracks body composition, advanced sleep coaching, and has one of the most accurate HR sensors tested in independent studies.
 
@@ -139,7 +139,7 @@ Samsung's Galaxy Watch 7 runs Wear OS with Samsung's One UI Watch layer, giving 
 
 ### 3. Garmin Forerunner 265 — Best for Runners and Athletes
 
-**Price:** ~$450 | [Check price on Amazon →](https://www.amazon.com/s?k=garmin+forerunner+265&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$450 | [Check price on Amazon →](https://www.amazon.com/s?k=garmin+forerunner+265&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Garmin Forerunner 265 is not a smartwatch — it's a sports instrument with smartwatch features added. If you run, cycle, swim, or train seriously, no device in this price range comes close to its training metrics and 13-day battery life.
 
@@ -163,7 +163,7 @@ The Garmin Forerunner 265 is not a smartwatch — it's a sports instrument with 
 
 ### 4. Fitbit Charge 6 — Best Fitness Tracker Under $200
 
-**Price:** ~$160 | [Check price on Amazon →](https://www.amazon.com/s?k=fitbit+charge+6&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$160 | [Check price on Amazon →](https://www.amazon.com/s?k=fitbit+charge+6&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Fitbit Charge 6 is not a full smartwatch — it's a fitness tracker with a small rectangular display and a band-style form factor. But it tracks more health data per dollar than anything else at this price, and the Fitbit Premium subscription (included free for 6 months) adds detailed sleep coaching, Daily Readiness Score, and stress management tools.
 
@@ -186,7 +186,7 @@ The Fitbit Charge 6 is not a full smartwatch — it's a fitness tracker with a s
 
 ### 5. Google Pixel Watch 3 — Best for Google Ecosystem Users
 
-**Price:** ~$350 | [Check price on Amazon →](https://www.amazon.com/s?k=google+pixel+watch+3&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$350 | [Check price on Amazon →](https://www.amazon.com/s?k=google+pixel+watch+3&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Pixel Watch 3 is designed specifically for Pixel phone users and Android purists who want the cleanest Google experience. Running stock Wear OS with Fitbit's health platform underneath, it delivers Google Assistant, Google Maps, Fitbit Premium health tracking, and Google Pay in a premium circular design.
 
@@ -208,7 +208,7 @@ The Pixel Watch 3 is designed specifically for Pixel phone users and Android pur
 
 ### 6. Amazfit Balance — Best Budget Smartwatch
 
-**Price:** ~$230 | [Check price on Amazon →](https://www.amazon.com/s?k=amazfit+balance+smartwatch&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$230 | [Check price on Amazon →](https://www.amazon.com/s?k=amazfit+balance+smartwatch&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Amazfit Balance offers 14-day battery life and a feature set that rivals watches twice its price. Amazfit uses its own ZepOS platform and health tracking algorithms, which means third-party app selection is limited — but the native features are genuinely impressive for under $250.
 

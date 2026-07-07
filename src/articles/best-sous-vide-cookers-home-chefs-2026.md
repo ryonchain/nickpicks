@@ -73,7 +73,7 @@ The Anova Precision Cooker is the industry standard for good reason. The 3.0 gen
 
 **What to watch:** At ~$149, it's not the cheapest entry. The Nano does the job for smaller households.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=anova+precision+cooker+3.0){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=anova+precision+cooker+3.0&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -90,7 +90,7 @@ The Joule Turbo is the most powerful sous vide circulator in this class at 1100W
 
 **What to watch:** App-only — no manual controls. If your phone dies mid-cook, you can still monitor via the light ring color indicator, but you can't adjust without reconnecting.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=joule+turbo+sous+vide){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=joule+turbo+sous+vide&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -107,7 +107,7 @@ For home cooks new to sous vide or cooking for 1–2 people, the Anova Nano is t
 
 **What to watch:** 750W heats more slowly than 1000W models — plan an extra 15–20 minutes for initial heat-up. Not ideal for large containers (8+ gallons) or cooking multiple large roasts simultaneously.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=anova+nano+3.0+sous+vide){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=anova+nano+3.0+sous+vide&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -124,7 +124,7 @@ The Inkbird ISV-100W punches well above its price point. At ~$56, it delivers 10
 
 **What to watch:** App is functional but less polished than Anova or Joule. Build quality is good but feels slightly less premium. Customer support is less established than Anova.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=inkbird+isv-100w+sous+vide){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=inkbird+isv-100w+sous+vide&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -141,7 +141,7 @@ For cooks who want to try sous vide before committing to a premium unit, the Wan
 
 **What to watch:** No app, no Wi-Fi, no guided recipes. Manual temperature and timer control only. Not ideal for long unattended cooks where remote monitoring matters.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=wancle+sous+vide+cooker){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=wancle+sous+vide+cooker&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

@@ -41,7 +41,7 @@ Your graphics card determines frame rate. Your peripherals determine whether you
 
 ### 1. Logitech G203 Lightsync — Best Budget Gaming Mouse
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+G203+gaming+mouse&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Logitech+G203+gaming+mouse&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 The G203 is the best-reviewed budget gaming mouse on the market. It uses Logitech's HERO optical sensor (same sensor family as their $80 mice), tracks at up to 8,000 DPI, and has zero smoothing or acceleration. It's corded at 2m, weighs just 85g, and has 6 programmable buttons.
 
@@ -62,7 +62,7 @@ The G203 is the best-reviewed budget gaming mouse on the market. It uses Logitec
 
 ### 2. Redragon M711 Cobra — Best Gaming Mouse Under $35
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Redragon+M711+Cobra+gaming+mouse&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Redragon+M711+Cobra+gaming+mouse&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 If you want adjustable weights, 16,000 DPI, and a more aggressive look for under $35, the M711 Cobra is the pick. It has 9 programmable buttons, a braided cable, and 7 RGB lighting zones.
 
@@ -79,7 +79,7 @@ If you want adjustable weights, 16,000 DPI, and a more aggressive look for under
 
 ### 3. SteelSeries QcK Heavy XXL — Best Gaming Mousepad
 
-[Check price on Amazon →](https://www.amazon.com/s?k=SteelSeries+QcK+Heavy+XXL+mousepad&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=SteelSeries+QcK+Heavy+XXL+mousepad&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 At 900x300mm, the QcK Heavy XXL covers most of your desk and provides a consistent tracking surface for both mouse and keyboard. The "Heavy" suffix means a 6mm thick pad — noticeably more comfortable under your wrist than standard 3mm pads.
 
@@ -100,7 +100,7 @@ At 900x300mm, the QcK Heavy XXL covers most of your desk and provides a consiste
 
 ### 4. Redragon K552 Kumara — Best Mechanical Keyboard Under $50
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Redragon+K552+mechanical+keyboard&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Redragon+K552+mechanical+keyboard&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 The K552 is a tenkeyless (87-key) mechanical keyboard with Outemu Blue switches — clicky, tactile, and satisfying. It has an aluminum faceplate (not plastic), splash-resistant construction, and per-key RGB. Under $45, it's the best mechanical keyboard value we've found.
 
@@ -122,7 +122,7 @@ The K552 is a tenkeyless (87-key) mechanical keyboard with Outemu Blue switches 
 
 ### 5. Gimars Memory Foam Wrist Rest — Best Budget Wrist Rest
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Gimars+memory+foam+wrist+rest+gaming&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Gimars+memory+foam+wrist+rest+gaming&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 A wrist rest is the cheapest ergonomic upgrade you can make. The Gimars set includes both a keyboard wrist rest and a mouse wrist rest for $15. Memory foam conforms to your wrists and reduces carpal tunnel strain during long sessions.
 
@@ -138,7 +138,7 @@ A wrist rest is the cheapest ergonomic upgrade you can make. The Gimars set incl
 
 ### 6. Mount-It! Under-Desk Keyboard Tray — Best Keyboard Tray Under $50
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Mount-It+under+desk+keyboard+tray&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Mount-It+under+desk+keyboard+tray&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 Moving your keyboard below desk level (via a keyboard tray) is the single most effective ergonomic change for desk posture. The Mount-It! tray installs under most desks, slides in and out smoothly, and accommodates full-size keyboards with a mouse platform.
 

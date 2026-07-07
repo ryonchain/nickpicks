@@ -48,21 +48,21 @@ comparisonTable:
       rating: 4.8
       pros: ["60g ultralight", "HERO 25K sensor", "LIGHTSPEED wireless", "95hr battery"]
       cons: ["Premium price", "Only 2 side buttons", "No RGB"]
-      amazonLink: "https://www.amazon.com/dp/B09NDDM86C?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B09NDDM86C?tag=nickpicks-20"
       badge: "Best Overall"
     - name: "Razer DeathAdder V3 HyperSpeed"
       price: "~$79"
       rating: 4.6
       pros: ["Ergonomic right-handed shape", "Focus X 26K sensor", "200hr battery"]
       cons: ["Right-handed only", "Heavier at 88g"]
-      amazonLink: "https://www.amazon.com/dp/B0BY2FXJBH?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B0BY2FXJBH?tag=nickpicks-20"
       badge: "Best Ergonomic"
     - name: "Logitech G305"
       price: "~$39"
       rating: 4.5
       pros: ["250hr battery on AA", "HERO 12K sensor", "Compact shape"]
       cons: ["Older HERO 12K sensor", "No rechargeable battery", "Heavier at 99g"]
-      amazonLink: "https://www.amazon.com/dp/B07CMS5Q6P?tag=nickpicks0a-20"
+      amazonLink: "https://www.amazon.com/dp/B07CMS5Q6P?tag=nickpicks-20"
       badge: "Best Budget"
 ---
 
@@ -89,7 +89,7 @@ We tested 8 wireless gaming mice across 200+ hours of FPS, MOBA, and RTS gamepla
 
 ## #1 Logitech G Pro X Superlight 2 — Best Overall
 
-**Price:** ~$159 | [Check on Amazon](https://www.amazon.com/dp/B09NDDM86C?tag=nickpicks0a-20)
+**Price:** ~$159 | [Check on Amazon](https://www.amazon.com/dp/B09NDDM86C?tag=nickpicks-20)
 
 The G Pro X Superlight 2 is the gaming mouse used by more professional esports players than any other — and it's easy to see why. At 60 grams, it's among the lightest wireless gaming mice ever made, with a battery life of 95 hours and the HERO 25K sensor that tracks perfectly at any DPI setting.
 
@@ -120,7 +120,7 @@ The G Pro X Superlight 2 is the gaming mouse used by more professional esports p
 
 ## #2 Razer DeathAdder V3 HyperSpeed — Best Ergonomic
 
-**Price:** ~$79 | [Check on Amazon](https://www.amazon.com/dp/B0BY2FXJBH?tag=nickpicks0a-20)
+**Price:** ~$79 | [Check on Amazon](https://www.amazon.com/dp/B0BY2FXJBH?tag=nickpicks-20)
 
 The DeathAdder V3 HyperSpeed is Razer's most successful ergonomic wireless mouse. Its 88g body feels substantial but never heavy, and the right-handed shape with a pronounced thumb rest reduces wrist fatigue during marathon sessions. The Focus X 26K sensor is excellent, and 200 hours of battery life is class-leading.
 
@@ -150,7 +150,7 @@ The DeathAdder V3 HyperSpeed is Razer's most successful ergonomic wireless mouse
 
 ## #3 SteelSeries Aerox 5 Wireless — Best Mid-Range
 
-**Price:** ~$99 | [Check on Amazon](https://www.amazon.com/dp/B09T2N46CL?tag=nickpicks0a-20)
+**Price:** ~$99 | [Check on Amazon](https://www.amazon.com/dp/B09T2N46CL?tag=nickpicks-20)
 
 The Aerox 5 Wireless is SteelSeries' premium wireless entry — a 74g honeycomb-chassis mouse with 9 programmable buttons, IP54 dust and water resistance, and the TrueMove Air optical sensor. It's the best choice for MOBA and MMO players who need more thumb buttons than the typical 2.
 
@@ -181,7 +181,7 @@ The Aerox 5 Wireless is SteelSeries' premium wireless entry — a 74g honeycomb-
 
 ## #4 Logitech G305 — Best Under $50
 
-**Price:** ~$39 | [Check on Amazon](https://www.amazon.com/dp/B07CMS5Q6P?tag=nickpicks0a-20)
+**Price:** ~$39 | [Check on Amazon](https://www.amazon.com/dp/B07CMS5Q6P?tag=nickpicks-20)
 
 The G305 has been the best-value wireless gaming mouse for four years running. Its HERO 12K sensor (older but still excellent), 250-hour AA battery life, and LIGHTSPEED wireless technology make it a remarkable value at $39. The compact shape works for small to medium hands.
 
@@ -212,7 +212,7 @@ The G305 has been the best-value wireless gaming mouse for four years running. I
 
 ## #5 Razer Viper V2 Pro — Best Ultralight
 
-**Price:** ~$149 | [Check on Amazon](https://www.amazon.com/dp/B0B8J9K8RT?tag=nickpicks0a-20)
+**Price:** ~$149 | [Check on Amazon](https://www.amazon.com/dp/B0B8J9K8RT?tag=nickpicks-20)
 
 The Viper V2 Pro is Razer's ultralight flagship — 58 grams, Focus Pro 30K sensor, and a symmetrical ambidextrous shape. It's the preferred choice of professional FPS players who favor low-mass mice for fast flick shots. At 80 hours of battery life, it's slightly shorter than the G Pro X Superlight 2 but still competitive.
 
@@ -243,7 +243,7 @@ The Viper V2 Pro is Razer's ultralight flagship — 58 grams, Focus Pro 30K sens
 
 ## #6 Glorious Model D Wireless — Best for Large Hands
 
-**Price:** ~$79 | [Check on Amazon](https://www.amazon.com/dp/B0BKXGJ9Q6?tag=nickpicks0a-20)
+**Price:** ~$79 | [Check on Amazon](https://www.amazon.com/dp/B0BKXGJ9Q6?tag=nickpicks-20)
 
 The Model D Wireless is built for gamers with larger hands (18cm+). Its elongated ergonomic shape supports palm and claw grips, the BAMF 2.0 26K sensor is excellent, and at 69 grams it's surprisingly light for its size. USB-C charging, RGB, and 72-hour battery round out the package.
 

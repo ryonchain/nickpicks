@@ -60,7 +60,7 @@ Anything labeled "covers 300 sq ft" without a CADR rating is a marketing claim, 
 
 ## 1. Levoit Core 300S — Best Overall for Small Rooms
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Levoit+Core+300S+air+purifier)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Levoit+Core+300S+air+purifier&tag=nickpicks-20)**
 
 The Core 300S is the benchmark for small-room air purifiers. Its 360° air intake pulls air from all sides, runs it through a fully sealed 3-stage H13 True HEPA system, and returns it clean. "Fully sealed" matters — many "HEPA" purifiers allow unfiltered air to bypass the filter edges. The Core 300S doesn't.
 
@@ -86,7 +86,7 @@ Filter cost is its strongest advantage: replacement filters run ~$20/year, among
 
 ## 2. Coway AP-1512HH Mighty — Best Value Air Purifier
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Coway+AP-1512HH+Mighty)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Coway+AP-1512HH+Mighty&tag=nickpicks-20)**
 
 The Coway Mighty has earned its cult following. At roughly the same price as the Levoit Core 300S but with 360 sq ft coverage and 246 CFM CADR, it handles larger small rooms better than almost any competitor at this price. The 4-stage filtration — pre-filter, deodorization filter, True HEPA, vital ionizer — is comprehensive.
 
@@ -110,7 +110,7 @@ The air quality indicator (a ring of lights that shows real-time particle densit
 
 ## 3. Winix 5500-2 — Best for Odors and Smoke
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Winix+5500-2+air+purifier)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Winix+5500-2+air+purifier&tag=nickpicks-20)**
 
 If odors are your primary concern — cooking smells, tobacco smoke, pet odors, VOCs from new furniture — the Winix 5500-2 is the right pick. Its granular activated carbon filter is substantially thicker than the thin activated carbon layers in most compact purifiers, meaning it actually adsorbs odor molecules rather than just filtering particles.
 
@@ -134,7 +134,7 @@ The 5-stage filtration includes a washable pre-filter (saves on filter costs), T
 
 ## 4. Blueair Blue Pure 411i Max — Quietest Small Room Air Purifier
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Blueair+Blue+Pure+411i+Max)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Blueair+Blue+Pure+411i+Max&tag=nickpicks-20)**
 
 At 17 dB on its lowest setting, the Blueair 411i Max is the quietest air purifier in this roundup — quieter than a whisper. If you're a light sleeper who wakes to any fan noise, this is the pick. The fabric pre-filter (available in multiple colors) is washable and traps large particles before they reach the main filter.
 
@@ -158,7 +158,7 @@ Blueair uses a particle + activated carbon combination filter. Coverage is 190 s
 
 ## 5. Levoit Core 200S — Best Ultra-Compact Pick
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Levoit+Core+200S)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Levoit+Core+200S&tag=nickpicks-20)**
 
 The Core 200S is the smallest True HEPA purifier that still performs. At ~$60 with 183 sq ft coverage and $15/year filters, it's the lowest cost-of-ownership option in this roundup. The H13 True HEPA is fully sealed — same standard as the Core 300S. VeSync app compatible with auto mode and scheduling.
 

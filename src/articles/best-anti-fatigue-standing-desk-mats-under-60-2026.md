@@ -48,7 +48,7 @@ You don't need to spend $100 or more to get meaningful anti-fatigue cushioning a
 
 **Best for:** Home-office users who stand for moderate sessions (20–45 minutes) and want a low-maintenance, reliable flat mat under $60.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Gorilla+Grip+Premium+Standing+Mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Gorilla+Grip+Premium+Standing+Mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -65,7 +65,7 @@ You don't need to spend $100 or more to get meaningful anti-fatigue cushioning a
 
 **Best for:** Users who stand for an hour or more at a stretch and want the active-movement benefit of a contoured mat without the full-size Topo's price tag.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Topo+Mini+Ergodriven+anti-fatigue+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Topo+Mini+Ergodriven+anti-fatigue+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -82,7 +82,7 @@ You don't need to spend $100 or more to get meaningful anti-fatigue cushioning a
 
 **Best for:** Anyone using a sit-stand desk who wants one mat that handles both positions cleanly.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=ComfiLife+anti-fatigue+floor+mat+standing+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=ComfiLife+anti-fatigue+floor+mat+standing+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -99,7 +99,7 @@ You don't need to spend $100 or more to get meaningful anti-fatigue cushioning a
 
 **Best for:** Wider standing desks (60" or more) where a standard rectangle doesn't provide enough coverage, or users on particularly hard floors who want maximum cushioning depth.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Sky+Mat+anti-fatigue+standing+desk+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Sky+Mat+anti-fatigue+standing+desk+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -116,7 +116,7 @@ You don't need to spend $100 or more to get meaningful anti-fatigue cushioning a
 
 **Best for:** First-time standing desk users who want to validate that a mat helps before spending more, or secondary workstations where cost matters more than longevity.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+anti-fatigue+standing+comfort+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+anti-fatigue+standing+comfort+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

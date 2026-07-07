@@ -74,7 +74,7 @@ The Anker 555 is the best all-around USB hub for most laptop users. Eight ports 
 
 **What to watch:** HDMI is 4K@30Hz, not 60Hz — the most common limitation at this price. Adequate for office use and video; noticeable for gaming or fast-refresh content.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=anker+555+usb-c+hub+8-in-1){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=anker+555+usb-c+hub+8-in-1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -91,7 +91,7 @@ The Ugreen 9-in-1 steps up to 4K@60Hz HDMI output — a meaningful upgrade for M
 
 **What to watch:** Slightly more expensive than the Anker 555. Nine ports share bandwidth — running multiple USB 3.0 drives simultaneously may reduce individual transfer speeds.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=ugreen+9-in-1+usb-c+hub){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=ugreen+9-in-1+usb-c+hub&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -108,7 +108,7 @@ Belkin's Connect hub is the most capable laptop hub that doesn't require its own
 
 **What to watch:** At ~$90, it's the priciest non-Thunderbolt option. If you need two monitors at 4K@60Hz consistently, test compatibility with your specific laptop.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=belkin+connect+usb-c+11-in-1+hub){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=belkin+connect+usb-c+11-in-1+hub&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -125,7 +125,7 @@ The Anker 341 is the best USB hub under $35. Seven ports — HDMI, two USB-A 3.0
 
 **What to watch:** 85W PD won't fast-charge 16" MacBook Pro (which needs 96W+). HDMI is 4K@30Hz. No Ethernet port.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=anker+341+usb-c+hub+7-in-1){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=anker+341+usb-c+hub+7-in-1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -142,7 +142,7 @@ The Hiearcool hub is the best choice for people who need a compact, reliable hub
 
 **What to watch:** No Ethernet port — not ideal for hotel ethernet use. Compact size means no active cooling; extended use with many ports active can cause mild throttling.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=hiearcool+usb-c+hub+laptop){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=hiearcool+usb-c+hub+laptop&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -159,7 +159,7 @@ The CalDigit TS4 is the benchmark professional docking station. Eighteen ports �
 
 **What to watch:** At ~$380, it's a significant investment. Requires a Thunderbolt 4 port on your laptop (most Windows laptops and all recent MacBooks). Full overkill for casual use.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=caldigit+ts4+thunderbolt+4+dock){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=caldigit+ts4+thunderbolt+4+dock&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

@@ -47,7 +47,7 @@ If your monitor is wall-mounted or your power strip needs to run along the baseb
 
 Most J-channel sets come in 6-foot segments that connect end-to-end and include mounting hardware. Choose paintable white for a seamless look or matte black for contrast against darker walls.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=J+channel+cable+raceway+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=J+channel+cable+raceway+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ An under-desk cable tray solves the power strip problem permanently. Mount it un
 
 Mesh trays are the most popular — they're lightweight, allow airflow around the power brick, and look cleaner than solid metal trays. Look for a tray at least 16 inches long to fit a standard 6-outlet power strip.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=under+desk+cable+management+tray){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=under+desk+cable+management+tray&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ Cable clips are the fastest cable management upgrade you can make. Peel the adhe
 
 Buy them in sets of 20 or more — once you start placing them you'll find uses everywhere. Look for clips with metal hinges rather than all-plastic designs; they last longer and hold heavier cables more securely.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=cable+clips+adhesive+desk+management){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=cable+clips+adhesive+desk+management&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ When you have 4–6 cables running the same path (monitor, [monitor arm for clea
 
 This is the go-to solution for the cable run from desk surface to floor — rather than four separate cables dangling, you get one tidy bundle.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=cable+sleeve+management+desk){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=cable+sleeve+management+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -85,7 +85,7 @@ This is the go-to solution for the cable run from desk surface to floor — rath
 
 Velcro cable ties are not a complete solution on their own, but they complement any [cable management kit options](/articles/best-cable-management-kits-desks-2026/) you choose. Use them to bundle cables at the source before they reach a tray or sleeve, to organize the cables inside a power strip tray, or to keep a coil of excess cable length neat. Reusable velcro is far better than zip ties because you can adjust or remove them without cutting.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=velcro+cable+ties+reusable){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=velcro+cable+ties+reusable&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -135,7 +135,7 @@ A standard neoprene cable sleeve (3/4 inch diameter) comfortably holds 3–5 cab
 
 For most home office setups, the combination that works best is: **under-desk cable tray** for the power strip, **neoprene sleeve** for the floor-to-desk run, and **adhesive cable clips** for desk-surface routing. That three-piece system eliminates 90% of cable mess for under $50 total. For hiding the power strip and its bricks specifically, pair with a [cable organizer box](/articles/best-cable-organizer-for-desk-2026/).
 
-[Shop cable management on Amazon →](https://www.amazon.com/s?k=desk+cable+management+organizer){rel="nofollow sponsored" target="_blank"}
+[Shop cable management on Amazon →](https://www.amazon.com/s?k=desk+cable+management+organizer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

@@ -62,7 +62,7 @@ The difference between a $25 Brita and a $95 Clearly Filtered isn't just price. 
 
 ### 1. Brita Longlast+ Pitcher — Best Overall
 
-**[Brita 10-Cup Pitcher with Longlast+ Filter on Amazon →](https://www.amazon.com/dp/B098RXQG7B){rel="nofollow sponsored" target="_blank"}** (~$34–$44)
+**[Brita 10-Cup Pitcher with Longlast+ Filter on Amazon →](https://www.amazon.com/dp/B098RXQG7B?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$34–$44)
 
 The Brita Longlast+ hits the optimal balance for most households: NSF 53 certified for lead reduction, 120-gallon filter lifespan (3× the standard Brita), and fast flow. Annual filter cost is competitive at ~$30–$36/year for a 2-person household. The blue Longlast+ filter also reduces asbestos, benzene, and class VI microplastics — capabilities the standard Brita filter doesn't have.
 
@@ -86,7 +86,7 @@ If you're buying any Brita, make it the Longlast+ version. The upfront cost diff
 
 ### 2. ZeroWater 10-Cup 5-Stage Pitcher — Best for Heavy Metal Removal
 
-**[ZeroWater 10-Cup 5-Stage Water Filter Pitcher on Amazon →](https://www.amazon.com/dp/B01LZ5IVLL){rel="nofollow sponsored" target="_blank"}** (~$39–$49)
+**[ZeroWater 10-Cup 5-Stage Water Filter Pitcher on Amazon →](https://www.amazon.com/dp/B01LZ5IVLL?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$39–$49)
 
 ZeroWater is the only pitcher on this list that reduces total dissolved solids to 0 PPM — its 5-stage ion exchange system removes nearly everything in solution, including chromium, lead, mercury, and trace metals that basic carbon filters miss. The included TDS meter lets you verify the output yourself.
 
@@ -111,7 +111,7 @@ Trade-offs: slower pour rate (5-stage filtration takes time), and filter life de
 
 ### 3. Clearly Filtered Water Pitcher — Best for PFAS
 
-**[Clearly Filtered Water Pitcher on Amazon →](https://www.amazon.com/dp/B07KXRZDGM){rel="nofollow sponsored" target="_blank"}** (~$89–$99)
+**[Clearly Filtered Water Pitcher on Amazon →](https://www.amazon.com/dp/B07KXRZDGM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$89–$99)
 
 Clearly Filtered is the only pitcher on this list certified for PFAS/PFOA reduction (NSF P473). It's also certified for NSF 42, 53, 244, and 401 — covering taste, lead, health contaminants, and emerging contaminants. At 365+ verified contaminants removed, the coverage is the widest in the pitcher category.
 
@@ -134,7 +134,7 @@ If you live near a military base, airport, or industrial facility with known PFA
 
 ### 4. PUR Classic 11-Cup Pitcher — Best Budget Lead Reduction
 
-**[PUR Classic 11-Cup Water Pitcher on Amazon →](https://www.amazon.com/dp/B00XRXTMRC){rel="nofollow sponsored" target="_blank"}** (~$25–$35)
+**[PUR Classic 11-Cup Water Pitcher on Amazon →](https://www.amazon.com/dp/B00XRXTMRC?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$25–$35)
 
 PUR's Classic pitcher is NSF 53 certified for lead reduction at a price lower than most Brita models. The 11-cup capacity is the largest entry-level pitcher available. PUR's filtration additionally reduces mercury, industrial pollutants, and asbestos beyond what standard Brita filters address. The PLUS filter upgrade ($5 more) adds trace pharmaceutical reduction.
 
@@ -157,7 +157,7 @@ At $25–$35, it competes on value with the Brita Standard but with NSF 53 certi
 
 ### 5. Waterdrop Chubby 10-Cup Pitcher — Best Low Ongoing Cost
 
-**[Waterdrop Chubby 10-Cup Water Filter Pitcher on Amazon →](https://www.amazon.com/dp/B07VTR1LCK){rel="nofollow sponsored" target="_blank"}** (~$39–$49)
+**[Waterdrop Chubby 10-Cup Water Filter Pitcher on Amazon →](https://www.amazon.com/dp/B07VTR1LCK?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$39–$49)
 
 The Waterdrop Chubby wins on economics: a 200-gallon filter lifespan is the longest on this list, meaning a $15–$18 filter lasts 6+ months even for a 2–4 person household. Annual cost is roughly $30, the lowest here. The design is countertop-friendly (cylinder shape) with a tight-seal lid that prevents top contamination.
 
@@ -181,7 +181,7 @@ Filtration is NSF 42 only — taste and odor improvement, not lead or health con
 
 ### 6. Brita Standard 10-Cup — Best Basic Starter
 
-**[Brita Standard 10-Cup Water Filter Pitcher on Amazon →](https://www.amazon.com/dp/B00LGT8A8Q){rel="nofollow sponsored" target="_blank"}** (~$29–$39)
+**[Brita Standard 10-Cup Water Filter Pitcher on Amazon →](https://www.amazon.com/dp/B00LGT8A8Q?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$29–$39)
 
 The original Brita Standard is still the bestselling water pitcher for one reason: it's cheap, widely available, and makes tap water taste noticeably better for most people. If your only goal is removing chlorine taste, the Standard delivers. But if lead reduction, heavy metals, or PFAS are concerns, upgrade to the Longlast+ or look further up this list.
 

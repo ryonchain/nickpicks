@@ -63,7 +63,7 @@ For under $300, LiDAR is available and strongly preferred.
 
 ## 1. Roborock Q5 Pro+ — Best Overall Robot Vacuum Under $300
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Roborock+Q5+Pro+robot+vacuum)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Roborock+Q5+Pro+robot+vacuum&tag=nickpicks-20)**
 
 The Roborock Q5 Pro+ punches above its price. The LiDAR navigation builds accurate multi-floor maps and cleans in efficient Z-pattern rows. 5,500Pa suction is the highest in this roundup — it picks up fine dust, large debris, and pet hair from both carpet and hardwood without losing suction on transitions.
 
@@ -90,7 +90,7 @@ The Roborock app supports room segmentation, no-go zones, suction adjustment per
 
 ## 2. Eufy RoboVac G30 Hybrid — Best Budget Pick with Mopping
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Eufy+RoboVac+G30+Hybrid)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Eufy+RoboVac+G30+Hybrid&tag=nickpicks-20)**
 
 At ~$160, the Eufy G30 Hybrid is the best value entry into the robot vacuum + mop category. Gyroscope navigation produces less systematic cleaning than LiDAR, but on small apartment floors it cleans effectively enough. 2,000Pa suction handles everyday dust and debris on hardwood and tile.
 
@@ -118,7 +118,7 @@ At $160, this isn't a set-it-and-forget-it robot. It requires more maintenance (
 
 ## 3. iRobot Roomba i3+ — Best Auto-Empty Experience Under $300
 
-**[Check price on Amazon](https://www.amazon.com/s?k=iRobot+Roomba+i3+plus)**
+**[Check price on Amazon](https://www.amazon.com/s?k=iRobot+Roomba+i3+plus&tag=nickpicks-20)**
 
 iRobot built auto-emptying docks before the competition caught up, and the i3+ shows that experience. The Clean Base Automatic Dirt Disposal holds up to 60 days of debris — substantially longer than competitors at this price. The two rubber extractors (iRobot's dual-brush rollers) resist tangling on long hair and pet fur better than bristle brushes.
 
@@ -145,7 +145,7 @@ The 1,500Pa suction is below competitors, but the Roomba's cleaning pattern and 
 
 ## 4. Roborock Q5 — Best Navigation for Vacuum-Only Needs
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Roborock+Q5+robot+vacuum)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Roborock+Q5+robot+vacuum&tag=nickpicks-20)**
 
 The Roborock Q5 is the Q5 Pro+ without the auto-empty dock or mop function — at ~$230. If you don't need mopping and prefer to empty the 770ml onboard bin yourself (which holds substantial debris for 3–5 runs), the Q5 is the best LiDAR navigation at sub-$250.
 
@@ -170,7 +170,7 @@ The Roborock Q5 is the Q5 Pro+ without the auto-empty dock or mop function — a
 
 ## 5. Shark AI Robot Vacuum IQ — Best for Carpet and Pet Hair
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Shark+AI+Robot+Vacuum+IQ)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Shark+AI+Robot+Vacuum+IQ&tag=nickpicks-20)**
 
 The Shark AI IQ Robot's IQ Nav system uses a camera-based matrix to map rooms and detect obstacles. On carpet, Shark's power fins work effectively on embedded pet hair and fine debris. The AI IQ supports no-go zones, room-specific cleaning, and Shark's SharkClean app.
 

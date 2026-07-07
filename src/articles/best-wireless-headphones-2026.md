@@ -58,7 +58,7 @@ Premium wireless headphones are a $150–$549 purchase, and the differences betw
 
 ### 1. Sony WH-1000XM5 — Best Wireless Headphones Overall
 
-**Price:** ~$349 | [Check price on Amazon](https://www.amazon.com/dp/B09XS7JWHH)
+**Price:** ~$349 | [Check price on Amazon](https://www.amazon.com/dp/B09XS7JWHH?tag=nickpicks-20)
 
 The XM5 doesn't just have the best ANC in the segment — it has a redesigned driver system (now using two 5mm tweeters alongside a 30mm woofer), a cleaner chassis with no folding joints, and a new Integrated Processor V1 that adjusts ANC 700 times per second based on your environment.
 
@@ -77,7 +77,7 @@ The XM5 doesn't just have the best ANC in the segment — it has a redesigned dr
 
 ### 2. Apple AirPods Max — Best for Apple Users
 
-**Price:** ~$549 | [Check price on Amazon](https://www.amazon.com/dp/B08PZHYWJS)
+**Price:** ~$549 | [Check price on Amazon](https://www.amazon.com/dp/B08PZHYWJS?tag=nickpicks-20)
 
 The AirPods Max at $549 is the most divisive headphone recommendation we make. The ANC and transparency mode are genuinely exceptional — the best we've tested in both categories. But the non-foldable design, the bizarre mesh case, and the Lightning connector (USB-C now in 2024 update) make $200 hard to justify over the Sony unless you're deep in Apple's ecosystem.
 
@@ -95,7 +95,7 @@ The AirPods Max at $549 is the most divisive headphone recommendation we make. T
 
 ### 3. Bose QuietComfort 45 — Best Value Wireless Headphones
 
-**Price:** ~$249 | [Check price on Amazon](https://www.amazon.com/dp/B098FKXT8L)
+**Price:** ~$249 | [Check price on Amazon](https://www.amazon.com/dp/B098FKXT8L?tag=nickpicks-20)
 
 At $249, the QC45 delivers ANC that's genuinely competitive with the Sony XM5 and Apple AirPods Max at 30–40% less. Bose has owned the "quietest headphones" title for 20 years, and the QC45 maintains it in the mid-range segment.
 
@@ -113,7 +113,7 @@ At $249, the QC45 delivers ANC that's genuinely competitive with the Sony XM5 an
 
 ### 4. Sony WH-1000XM4 — Best Budget Sony Headphones
 
-**Price:** ~$249 | [Check price on Amazon](https://www.amazon.com/dp/B0863TXGM3)
+**Price:** ~$249 | [Check price on Amazon](https://www.amazon.com/dp/B0863TXGM3?tag=nickpicks-20)
 
 The XM4 is the previous flagship, now available for $249 — essentially tying the Bose QC45 on price while offering LDAC codec, wear detection, and Sony's 30-hour battery. It's a better headphone than the QC45 for Android users; the QC45 is a better fit for Apple/iOS users.
 
@@ -129,7 +129,7 @@ The XM4 is the previous flagship, now available for $249 — essentially tying t
 
 ### 5. Jabra Evolve2 85 — Best Wireless Headphones for Calls
 
-**Price:** ~$449 | [Check price on Amazon](https://www.amazon.com/dp/B093BNXC39)
+**Price:** ~$449 | [Check price on Amazon](https://www.amazon.com/dp/B093BNXC39?tag=nickpicks-20)
 
 The Evolve2 85 is the headphone enterprise teams buy in bulk — and for good reason. Eight microphones with ANC in the mic array produce the clearest call quality we've tested. If you spend 4+ hours daily on calls, this outperforms the Sony and Bose for your use case.
 

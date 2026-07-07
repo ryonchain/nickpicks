@@ -48,7 +48,7 @@ Compression cubes add a second zip pass that forces air out, physically reducing
 
 ### 1. Eagle Creek Pack-It Specter — Best Overall Packing Cubes
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Eagle+Creek+Pack-It+Specter+packing+cubes&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Eagle+Creek+Pack-It+Specter+packing+cubes&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 Eagle Creek has made packing cubes since 1975, and the Pack-It Specter is their flagship. The Specter fabric is ultralight ripstop nylon — a full set weighs under 3 oz. Zippers are YKK, mesh top panels let you see contents at a glance, and Eagle Creek backs them with a lifetime guarantee.
 
@@ -69,7 +69,7 @@ Eagle Creek has made packing cubes since 1975, and the Pack-It Specter is their 
 
 ### 2. eBags Packing Cubes Compression Set — Best Compression Cubes
 
-[Check price on Amazon →](https://www.amazon.com/s?k=eBags+compression+packing+cubes&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=eBags+compression+packing+cubes&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 eBags' compression set adds a secondary zipper that compresses clothing down ~25–30%. The dual-zipper system works on clothes, not vacuum-seal style, so you're not fighting it to repack mid-trip. Great for bulky items: sweaters, fleeces, jeans.
 
@@ -90,7 +90,7 @@ eBags' compression set adds a secondary zipper that compresses clothing down ~25
 
 ### 3. Gonex 6-Piece Travel Packing Cubes — Best Budget Set
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Gonex+packing+cubes+set&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Gonex+packing+cubes+set&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 The Gonex 6-piece set is the best value for travelers who want to try packing cubes without committing to premium pricing. For ~$20, you get 2 large, 2 medium, and 2 small cubes in a matching set. The mesh top panels and durable zipper construction punch well above the price point.
 
@@ -111,7 +111,7 @@ The Gonex 6-piece set is the best value for travelers who want to try packing cu
 
 ### 4. BAGAIL 8-Set Packing Cubes — Best for Families
 
-[Check price on Amazon →](https://www.amazon.com/s?k=BAGAIL+packing+cubes+8+set&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=BAGAIL+packing+cubes+8+set&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 For family travel, BAGAIL's 8-set gives you enough cubes to color-code each family member in one suitcase. The set includes a variety of sizes and a laundry bag — keeping dirty clothes separate without extra bulk.
 
@@ -128,7 +128,7 @@ For family travel, BAGAIL's 8-set gives you enough cubes to color-code each fami
 
 ### 5. Away Packing Cubes — Best Premium Set
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Away+packing+cubes&tag=[YOUR-TAG]){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Away+packing+cubes&tag=nickpicks-20]){rel="nofollow sponsored" target="_blank"}
 
 Away's cubes are designed to match their luggage line. They use a heavier ballistic nylon, have a cleaner aesthetic, and the compression cubes use a top-fold compression system rather than a secondary zipper. If you travel for work and care about how your luggage looks when you open it, these are worth the premium.
 

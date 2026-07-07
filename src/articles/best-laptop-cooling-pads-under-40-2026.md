@@ -45,7 +45,7 @@ If your laptop is running hot during video calls, long gaming sessions, or heavy
 
 **Best for:** Students and remote workers who want a dependable all-day pad that won't distract them on calls or in quiet spaces.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=KLIM+Wind+Laptop+Cooling+Pad){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=KLIM+Wind+Laptop+Cooling+Pad&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -61,7 +61,7 @@ If your laptop is running hot during video calls, long gaming sessions, or heavy
 
 **Best for:** Users who prioritize maximum cooling performance for gaming or long rendering sessions and don't mind a bit more bulk.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Tree+New+Bee+Cooling+Pad){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Tree+New+Bee+Cooling+Pad&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ If your laptop is running hot during video calls, long gaming sessions, or heavy
 
 **Best for:** Writers, students, and anyone working in shared spaces who needs meaningful cooling without adding noticeable fan noise to the room.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Havit+HV-F2056+Laptop+Cooling+Pad){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Havit+HV-F2056+Laptop+Cooling+Pad&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -93,7 +93,7 @@ If your laptop is running hot during video calls, long gaming sessions, or heavy
 
 **Best for:** Owners of 17" gaming or workstation laptops who need a pad sized and airflow-matched to a larger chassis.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=TECKNET+Laptop+Cooling+Pad){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=TECKNET+Laptop+Cooling+Pad&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -109,7 +109,7 @@ If your laptop is running hot during video calls, long gaming sessions, or heavy
 
 **Best for:** Casual users, secondary cooling solutions for travel, or anyone who wants to try a cooling pad without committing more than $25.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=AICHESON+Laptop+Cooling+Pad){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=AICHESON+Laptop+Cooling+Pad&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

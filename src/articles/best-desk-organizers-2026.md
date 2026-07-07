@@ -28,7 +28,7 @@ We evaluated desk organizers for build quality, practical capacity, cable compat
 
 ### 1. Bluelounge CableBox — Best for Cable Management
 
-**[Check price on Amazon](https://www.amazon.com/s?k=bluelounge+cablebox+cable+management&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=bluelounge+cablebox+cable+management&tag=nickpicks-20)**
 
 The Bluelounge CableBox is the cleanest solution for hiding a power strip and its web of cables. Drop your surge protector inside, route the device cables through the pre-cut slots, and close the lid. From across the room, no cables are visible. Available in multiple sizes (Mini, original, and XL). Works with standard 6-outlet power strips and most extension cords.
 
@@ -50,7 +50,7 @@ The Bluelounge CableBox is the cleanest solution for hiding a power strip and it
 
 ### 2. Cable Matters Adhesive Cable Management Kit — Best Desk Surface Cable Management
 
-**[Check price on Amazon](https://www.amazon.com/s?k=cable+matters+adhesive+cable+management+clips&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=cable+matters+adhesive+cable+management+clips&tag=nickpicks-20)**
 
 Cable management doesn't end at the power strip — cables from monitors, USB hubs, and charging pads accumulate across the desk surface. Cable Matters' adhesive clip kit solves this: stick the clips to the desk edge or underside, route cables through them, and they're locked in place invisibly. Works with cables from 4mm to 13mm diameter. Includes cable tie wraps and labels.
 
@@ -72,7 +72,7 @@ Cable management doesn't end at the power strip — cables from monitors, USB hu
 
 ### 3. Mindspace Workspace Desk Organizer — Best Pen Holder and Desktop Organizer
 
-**[Check price on Amazon](https://www.amazon.com/s?k=mindspace+mesh+desk+organizer+pen+holder&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=mindspace+mesh+desk+organizer+pen+holder&tag=nickpicks-20)**
 
 The Mindspace mesh organizer is a multi-compartment desktop unit that handles pens, scissors, sticky notes, business cards, and small accessories. The wire mesh construction is stable, breathable, and neutral enough to work on any desk. Four compartments: two narrow pen/pencil holders, one wide compartment for scissors and markers, and one for small notepads.
 
@@ -94,7 +94,7 @@ The Mindspace mesh organizer is a multi-compartment desktop unit that handles pe
 
 ### 4. Caxxa 3-Drawer Desktop Organizer — Best Drawer Unit
 
-**[Check price on Amazon](https://www.amazon.com/s?k=caxxa+3+drawer+desktop+organizer&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=caxxa+3+drawer+desktop+organizer&tag=nickpicks-20)**
 
 Desktop drawer units solve a specific problem: small items (paper clips, sticky notes, USB drives, batteries, charger cables) that don't belong in a pen holder but clutter the desk if left loose. The Caxxa 3-Drawer provides three independent pull-out drawers in a compact footprint. Clear acrylic drawers let you see contents without opening. Stackable for more capacity.
 
@@ -116,7 +116,7 @@ Desktop drawer units solve a specific problem: small items (paper clips, sticky 
 
 ### 5. Pipishell Bamboo Desk Organizer — Best Bamboo Organizer
 
-**[Check price on Amazon](https://www.amazon.com/s?k=pipishell+bamboo+desk+organizer&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=pipishell+bamboo+desk+organizer&tag=nickpicks-20)**
 
 Bamboo organizers add warmth and natural texture to a desk setup dominated by plastic and metal devices. The Pipishell combines a monitor stand with built-in storage — drawer underneath, side compartments for pens and remotes, and a raised platform that lifts a laptop or monitor 4–5 inches to eye level. Solid bamboo construction handles significant weight.
 
@@ -138,7 +138,7 @@ Bamboo organizers add warmth and natural texture to a desk setup dominated by pl
 
 ### 6. Simple Houseware 3-Tier Desktop Organizer — Best Budget All-Purpose Organizer
 
-**[Check price on Amazon](https://www.amazon.com/s?k=simple+houseware+3+tier+desktop+organizer&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=simple+houseware+3+tier+desktop+organizer&tag=nickpicks-20)**
 
 For under $20, the Simple Houseware 3-Tier provides three letter-tray levels for paper, folders, and documents alongside a pen holder compartment on the side. Wire mesh construction. The most common format for office and home office paper management. Handles A4 and letter-size paper.
 

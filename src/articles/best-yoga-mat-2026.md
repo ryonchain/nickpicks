@@ -29,7 +29,7 @@ Choosing the **best yoga mat** for home practice comes down to thickness, grip, 
 
 The Liforme is the gold standard for serious home practitioners. Its natural rubber base grips hard floors better than almost any competitor, and the alignment markers help beginners build proper posture. The eco-polyurethane top layer becomes stickier when wet — a huge plus for hot yoga.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=Liforme+Original+Yoga+Mat&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=Liforme+Original+Yoga+Mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -45,7 +45,7 @@ The Liforme is the gold standard for serious home practitioners. Its natural rub
 
 The Manduka PRO is built to last a lifetime — and they back that claim with a lifetime warranty. The 6mm cushioning is ideal for sensitive joints, and the dense PVC construction means it never compresses under heavier users. It requires a break-in period of ~20 sessions before the surface becomes truly grippy.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=Manduka+PRO+Yoga+Mat&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=Manduka+PRO+Yoga+Mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -61,7 +61,7 @@ The Manduka PRO is built to last a lifetime — and they back that claim with a 
 
 The Gaiam Essentials is the budget-friendly cushion king — at 10mm, it's the thickest mat on this list, making it excellent for floor work, stretching, and restorative yoga. It's not the best for balance poses due to the soft foam, but for gentle home practice it delivers outstanding joint protection at an unbeatable price.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=Gaiam+Essentials+Thick+Yoga+Mat&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=Gaiam+Essentials+Thick+Yoga+Mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ The Gaiam Essentials is the budget-friendly cushion king — at 10mm, it's the t
 
 The Jade Harmony is made from sustainably tapped natural rubber, and for every mat sold Jade plants a tree. The open-cell rubber surface absorbs sweat rather than repelling it — which means grip actually improves during an intense session. Note: it requires air-drying after sweaty sessions and shouldn't be left in direct sun.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=Jade+Harmony+Yoga+Mat&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=Jade+Harmony+Yoga+Mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -93,7 +93,7 @@ The Jade Harmony is made from sustainably tapped natural rubber, and for every m
 
 The BalanceFrom GoYoga is the best beginner pick under $25. The half-inch cushioning handles hard floors well, the double-sided non-slip texture grips both you and the floor, and it rolls up neatly with the included strap. It's not built for hot yoga or advanced balance work, but for beginners building a home practice habit, it's perfect.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=BalanceFrom+GoYoga+All-Purpose+Mat&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=BalanceFrom+GoYoga+All-Purpose+Mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

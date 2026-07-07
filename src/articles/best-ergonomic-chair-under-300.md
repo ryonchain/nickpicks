@@ -55,7 +55,7 @@ Before the list, know what to look for. A true ergonomic chair has adjustable lu
 
 ### 1. Branch Ergonomic Chair — Best Overall Under $300
 
-**[Branch Ergonomic Chair on Amazon →](https://www.amazon.com/dp/B08QT18BFX){rel="nofollow sponsored" target="_blank"}** (~$299)
+**[Branch Ergonomic Chair on Amazon →](https://www.amazon.com/dp/B08QT18BFX?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$299)
 
 The Branch Ergonomic Chair is the most popular chair in the $250–300 range for good reason. It ships fully adjustable right out of the box: seat height, armrest height and width, lumbar depth, and a recline with lockable positions.
 
@@ -75,7 +75,7 @@ The Branch Ergonomic Chair is the most popular chair in the $250–300 range for
 
 ### 2. Sihoo M57 Ergonomic Office Chair — Best for Back Pain
 
-**[Sihoo M57 Ergonomic Chair on Amazon →](https://www.amazon.com/dp/B09B3LZXG4){rel="nofollow sponsored" target="_blank"}** (~$199)
+**[Sihoo M57 Ergonomic Chair on Amazon →](https://www.amazon.com/dp/B09B3LZXG4?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$199)
 
 The Sihoo M57 targets the sweet spot between affordability and actual lumbar science. It has a uniquely shaped lumbar support that follows the natural S-curve of your spine — a rarity under $200.
 
@@ -95,7 +95,7 @@ The Sihoo M57 targets the sweet spot between affordability and actual lumbar sci
 
 ### 3. Amazon Basics Mid-Back Mesh Chair — Best Budget Pick
 
-**[Amazon Basics Mid-Back Mesh Chair on Amazon →](https://www.amazon.com/dp/B07DRHM43Z){rel="nofollow sponsored" target="_blank"}** (~$99)
+**[Amazon Basics Mid-Back Mesh Chair on Amazon →](https://www.amazon.com/dp/B07DRHM43Z?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$99)
 
 If $200+ isn't in the budget, the Amazon Basics Mid-Back Mesh Chair is the most reliable option under $100. It won't win awards, but it's a dramatic upgrade over a flat, non-adjustable chair.
 
@@ -116,7 +116,7 @@ If $200+ isn't in the budget, the Amazon Basics Mid-Back Mesh Chair is the most 
 
 ### 4. HON Ignition 2.0 — Best for Long Work Sessions
 
-**[HON Ignition 2.0 Chair on Amazon →](https://www.amazon.com/dp/B01MUEPVF7){rel="nofollow sponsored" target="_blank"}** (~$279)
+**[HON Ignition 2.0 Chair on Amazon →](https://www.amazon.com/dp/B01MUEPVF7?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$279)
 
 HON is a commercial office furniture brand, so the Ignition 2.0 is built to last an 8-hour workday, day after day. It's slightly more expensive but offers better long-term durability than most direct-to-consumer options.
 
@@ -136,7 +136,7 @@ HON is a commercial office furniture brand, so the Ignition 2.0 is built to last
 
 ### 5. Hbada Ergonomic Office Recliner — Best for Flexibility
 
-**[Hbada Ergonomic Office Recliner on Amazon →](https://www.amazon.com/dp/B08BKQVVRC){rel="nofollow sponsored" target="_blank"}** (~$159)
+**[Hbada Ergonomic Office Recliner on Amazon →](https://www.amazon.com/dp/B08BKQVVRC?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$159)
 
 If you want the option to lean way back and work in a reclined posture, the Hbada stands out. It reclines to 155 degrees with a retractable footrest, making it a hybrid between a task chair and a lounge chair.
 

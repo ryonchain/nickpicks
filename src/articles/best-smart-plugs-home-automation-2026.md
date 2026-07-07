@@ -74,7 +74,7 @@ The Kasa EP25 is the smart plug we'd put in every outlet. It combines real-time 
 
 **What to watch:** Not compatible with Apple HomeKit natively (use Homebridge for workaround). 2.4GHz only — won't connect to 5GHz networks.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=kasa+smart+plug+ep25+energy+monitoring){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=kasa+smart+plug+ep25+energy+monitoring&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -91,7 +91,7 @@ If your home runs exclusively on Alexa, Amazon's own smart plug is the simplest 
 
 **What to watch:** Alexa only — no Google or HomeKit support. No energy monitoring. Limited to the Alexa ecosystem.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=amazon+smart+plug){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=amazon+smart+plug&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -108,7 +108,7 @@ Apple HomeKit smart plugs are genuinely rare — most brands skip HomeKit for ce
 
 **What to watch:** Energy monitoring only available on select Meross models (not this mini). App occasionally requires firmware updates on first setup.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=meross+smart+plug+mini+homekit){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=meross+smart+plug+mini+homekit&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -125,7 +125,7 @@ Wemo is the veteran of the smart plug category, and the Mini remains a favorite 
 
 **What to watch:** Higher per-unit cost than Kasa. Wemo's own app requires account creation. No energy monitoring.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=wemo+mini+smart+plug){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=wemo+mini+smart+plug&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -142,7 +142,7 @@ Govee's smart plug pairs energy monitoring with a clean app and solid Alexa/Goog
 
 **What to watch:** No Apple HomeKit support. Govee ecosystem is less mature than Kasa or Wemo.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=govee+smart+plug+energy+monitoring){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=govee+smart+plug+energy+monitoring&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -159,7 +159,7 @@ If you want to automate multiple devices throughout your home at once, the Kasa 
 
 **What to watch:** No energy monitoring (use EP25 for that). Basic smart plug functionality only.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=kasa+ep10+smart+plug+4+pack){rel="nofollow sponsored" target="_blank"}
+[Check Price on Amazon →](https://www.amazon.com/s?k=kasa+ep10+smart+plug+4+pack&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

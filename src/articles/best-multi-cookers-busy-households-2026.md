@@ -61,7 +61,7 @@ We tested the leading multi-cookers on the most common busy-household use cases:
 
 ### 1. Instant Pot Duo 7-in-1 — Best Overall Multi-Cooker
 
-**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+7-in-1+6qt&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+7-in-1+6qt&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Instant Pot Duo 7-in-1 is the multi-cooker that defined the category and remains the most practical choice for most households. At $80 for the 6-quart size, it's affordable enough to try without commitment, and the enormous recipe library (Instant Pot has over 1,000 tested recipes in their app and cookbook ecosystem) removes the learning curve.
 
@@ -89,7 +89,7 @@ The Instant Pot Duo 7-in-1 is the multi-cooker that defined the category and rem
 
 ### 2. Instant Pot Pro Crisp 11-in-1 — Best Multi-Cooker with Air Fryer Lid
 
-**Price:** ~$120 | [Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+pro+crisp+11-in-1&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$120 | [Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+pro+crisp+11-in-1&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Instant Pot Pro Crisp ships with two lids: the standard pressure cooker lid and an air fryer lid with a heating element and fan. This combination solves a real weeknight problem — you can pressure cook a whole chicken in 25 minutes, swap lids, and air fry it for 10 minutes to crisp the skin. One pot, two cooking methods, cleaner results than each method alone.
 
@@ -107,7 +107,7 @@ The Instant Pot Pro Crisp ships with two lids: the standard pressure cooker lid 
 
 ### 3. Ninja Foodi 9-in-1 — Best Ninja Multi-Cooker
 
-**Price:** ~$180 | [Check price on Amazon →](https://www.amazon.com/s?k=ninja+foodi+9-in-1+pressure+cooker+air+fryer&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$180 | [Check price on Amazon →](https://www.amazon.com/s?k=ninja+foodi+9-in-1+pressure+cooker+air+fryer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Ninja's approach to multi-cooking differs from Instant Pot's in design: the Foodi's air fryer lid is attached and hinged rather than a separate lid swap. This makes the air fry-to-pressure-cook transition faster (no lid hunting, no setting it down), and Ninja's air circulation technology is generally considered more efficient than Instant Pot's lid-based approach.
 
@@ -124,7 +124,7 @@ Ninja's approach to multi-cooking differs from Instant Pot's in design: the Food
 
 ### 4. Breville Fast Slow Pro — Best Premium Multi-Cooker
 
-**Price:** ~$230 | [Check price on Amazon →](https://www.amazon.com/s?k=breville+fast+slow+pro+pressure+cooker&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$230 | [Check price on Amazon →](https://www.amazon.com/s?k=breville+fast+slow+pro+pressure+cooker&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Breville's Fast Slow Pro is the appliance equivalent of a high-end kitchen tool: better build quality, more precise pressure control, and smarter auto-sealing that removes the most common multi-cooker frustration — forgetting to manually move the valve to sealing before starting a cycle.
 
@@ -146,7 +146,7 @@ Breville's Fast Slow Pro is the appliance equivalent of a high-end kitchen tool:
 
 ### 5. Instant Pot Duo Crisp + Air Fryer 8Qt — Best for Large Families
 
-**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+crisp+8qt+air+fryer&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$150 | [Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+crisp+8qt+air+fryer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 For families of 6+ or households that batch-cook for the week, the 8-quart Instant Pot Duo Crisp provides the capacity and the air fryer lid at a price that's lower than the Pro Crisp's MSRP. It fits a whole 5-6 lb chicken with room to add vegetables, cooks a full pot of soup for 8, or handles a large batch of pulled pork in a single cycle.
 

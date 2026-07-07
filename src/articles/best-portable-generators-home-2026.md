@@ -51,7 +51,7 @@ The Champion 3500W Dual Fuel is the standout choice for homeowners who want genu
 - 97 dB noise rating is loud — position well away from windows and neighbors
 - Dual-fuel switching must be done when the engine is cold, not mid-operation
 
-[Check Price on Amazon](https://amazon.com/s?k=Champion+3500W+Dual+Fuel+Generator)
+[Check Price on Amazon](https://amazon.com/s?k=Champion+3500W+Dual+Fuel+Generator&tag=nickpicks-20)
 
 ---
 
@@ -72,7 +72,7 @@ Honda's EU2200i is the generator that other manufacturers benchmark against. The
 - Price is 2–3x comparable-wattage competitors — premium for Honda reliability and inverter quality
 - No electric start — recoil pull start only on standard model
 
-[Check Price on Amazon](https://amazon.com/s?k=Honda+EU2200i+Inverter+Generator)
+[Check Price on Amazon](https://amazon.com/s?k=Honda+EU2200i+Inverter+Generator&tag=nickpicks-20)
 
 ---
 
@@ -93,7 +93,7 @@ The Westinghouse iGen2200 brings inverter-grade clean power to a price point typ
 - Plastic exterior feels less premium than Honda equivalents, though durability is acceptable
 - Customer service experience varies compared to Honda or Champion
 
-[Check Price on Amazon](https://amazon.com/s?k=Westinghouse+iGen2200+Inverter+Generator)
+[Check Price on Amazon](https://amazon.com/s?k=Westinghouse+iGen2200+Inverter+Generator&tag=nickpicks-20)
 
 ---
 
@@ -115,7 +115,7 @@ If you need to power a larger home through a multi-day outage — including cent
 - Fuel consumption at high loads is significant — stock extra gasoline or large propane tanks
 - Not a portable unit in any practical sense — this is a semi-permanent installation
 
-[Check Price on Amazon](https://amazon.com/s?k=DuroMax+XP13000EH+Generator)
+[Check Price on Amazon](https://amazon.com/s?k=DuroMax+XP13000EH+Generator&tag=nickpicks-20)
 
 ---
 
@@ -136,7 +136,7 @@ Generac's GP3500iO (iO = "intelligent output") is notable for being one of the f
 - App connectivity can be unreliable in some user reports — treat as a bonus, not a core feature
 - Heavier than comparable non-Generac inverters at the same wattage class
 
-[Check Price on Amazon](https://amazon.com/s?k=Generac+GP3500iO+Inverter+Generator)
+[Check Price on Amazon](https://amazon.com/s?k=Generac+GP3500iO+Inverter+Generator&tag=nickpicks-20)
 
 ---
 
@@ -157,7 +157,7 @@ The Pulsar G2319N is for buyers who need something to power lights, a fan, and p
 - Limited warranty support and service network compared to major brands
 - Run time is shorter than competitors at the same price point
 
-[Check Price on Amazon](https://amazon.com/s?k=Pulsar+G2319N+Generator)
+[Check Price on Amazon](https://amazon.com/s?k=Pulsar+G2319N+Generator&tag=nickpicks-20)
 
 ---
 

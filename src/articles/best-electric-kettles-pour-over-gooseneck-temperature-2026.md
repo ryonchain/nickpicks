@@ -83,7 +83,7 @@ The Fellow Stagg EKG is the benchmark gooseneck kettle for specialty coffee brew
 - Gooseneck style slower to pour for casual use (tea bags, instant coffee)
 - Not ideal for high-volume boiling needs (family of 4+)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Fellow+Stagg+EKG+electric+kettle+gooseneck&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Fellow+Stagg+EKG+electric+kettle+gooseneck&tag=nickpicks-20)
 
 ---
 
@@ -115,7 +115,7 @@ The Breville BKE820XL is the practical choice for households that brew multiple 
 - Temperature presets fixed — can't set custom temperatures (e.g., 193°F)
 - Bulky base compared to more minimalist designs
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Breville+BKE820XL+variable+temperature+kettle&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Breville+BKE820XL+variable+temperature+kettle&tag=nickpicks-20)
 
 ---
 
@@ -145,7 +145,7 @@ The OXO Brew Adjustable Temperature Kettle bridges the gap between precision goo
 - Gooseneck not as precise as Fellow for serious pour-over technique
 - Keep warm 30 minutes sufficient but not exceptional
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=OXO+Brew+adjustable+temperature+kettle&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=OXO+Brew+adjustable+temperature+kettle&tag=nickpicks-20)
 
 ---
 
@@ -177,7 +177,7 @@ The Cuisinart CPK-17 PerfecTemp is the best value for a full-featured temperatur
 - Build quality slightly below Breville at equivalent use frequency
 - Keep warm at 30 minutes same as OXO
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Cuisinart+CPK-17+PerfecTemp+electric+kettle&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Cuisinart+CPK-17+PerfecTemp+electric+kettle&tag=nickpicks-20)
 
 ---
 
@@ -208,7 +208,7 @@ The Hamilton Beach 40880 is for buyers who want fast boiling water and nothing e
 - Basic build — not designed for long-term heavy use
 - No keep warm function
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Hamilton+Beach+40880+electric+kettle&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Hamilton+Beach+40880+electric+kettle&tag=nickpicks-20)
 
 ---
 

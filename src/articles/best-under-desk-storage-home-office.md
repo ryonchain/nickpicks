@@ -47,7 +47,7 @@ The LORYERGO under-desk drawer mounts to the underside of any desk with the incl
 
 At $30–$40 and available in multiple widths (up to 17 inches), it's one of the cleanest ways to hide everyday desk clutter without investing in a new desk. It works on most solid wood desks and MDF tops — not recommended for glass desktops.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=LoryErgo+under+desk+drawer+organizer){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=LoryErgo+under+desk+drawer+organizer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ A keyboard tray mounts under the desk and pulls out when needed, stowing the key
 
 The tray works best on desks at least 28 inches deep, since the keyboard tray reduces the working depth by about 12 inches when extended. If your desk is already shallow, measure before buying.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Mount-It+under+desk+keyboard+tray){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Mount-It+under+desk+keyboard+tray&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ The most common under-desk storage use case is getting the power strip off the f
 
 Mesh trays are the most popular: they're lightweight, allow airflow, and look clean when mounted. Look for a tray at least 16 inches long and 4 inches wide to fit a 6-outlet power strip with some room for excess cable.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=under+desk+cable+management+tray+organizer){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=under+desk+cable+management+tray+organizer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ If you wear headphones daily, keeping them on the desk wastes surface space and 
 
 This category also includes hook-and-mount accessories for headsets, USB hubs, and cable clips — all under-desk, all adhesive, all inexpensive. Once you start mounting things under the desk, it becomes addictive.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=under+desk+headphone+holder+hook){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=under+desk+headphone+holder+hook&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -87,7 +87,7 @@ If you're not comfortable drilling into your desk and adhesive solutions aren't 
 
 This is also the right solution for desks with metal frames or unusual undersides where standard clamp or screw mounting doesn't work.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=SONGMICS+under+desk+shelf+storage){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=SONGMICS+under+desk+shelf+storage&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -137,7 +137,7 @@ The Teslyar Under Desk Headphone Holder uses 3M adhesive — no drilling, no scr
 
 The most impactful two-purchase combination for under-desk organization: a **cable management tray** to get the power strip off the floor, and a **pull-out drawer** for small daily supplies. If you're using a [standing desk](/articles/best-standing-desk-under-500/), make sure to leave extra cable slack so the tray travels freely with the desk surface as it raises. Total cost: $50–$80. Desk surface recovered: significant. If video calls are frequent and the monitor base takes too much surface space, a **keyboard tray** to stow the keyboard under the desk gives back the most real estate.
 
-[Shop under-desk storage on Amazon →](https://www.amazon.com/s?k=under+desk+storage+organizer+drawer){rel="nofollow sponsored" target="_blank"}
+[Shop under-desk storage on Amazon →](https://www.amazon.com/s?k=under+desk+storage+organizer+drawer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

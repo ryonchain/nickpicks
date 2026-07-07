@@ -80,7 +80,7 @@ Installation requires drilling into studs (the frames anchor to the wall for sta
 
 ### 2. ClosetMaid SuiteSymphony — Best Mid-Range Modular
 
-**Price:** ~$100–$400 | [Check price on Amazon →](https://www.amazon.com/s?k=ClosetMaid+SuiteSymphony&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$100–$400 | [Check price on Amazon →](https://www.amazon.com/s?k=ClosetMaid+SuiteSymphony&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The ClosetMaid SuiteSymphony is the professional-grade alternative to IKEA for homeowners who want a shelf-based organization system (rather than full wardrobe frames). The laminate-coated panels mount directly to the wall and support up to 100 lbs per shelf — more than most IKEA PAX interior shelves.
 
@@ -107,7 +107,7 @@ The trade-off: SuiteSymphony is a shelf-and-hang system without the drawer and a
 
 ### 3. Amazon Basics Freestanding Closet Organizer — Best Budget Pick
 
-**Price:** ~$60–$120 | [Check price on Amazon →](https://www.amazon.com/s?k=amazon+basics+freestanding+closet+organizer&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$60–$120 | [Check price on Amazon →](https://www.amazon.com/s?k=amazon+basics+freestanding+closet+organizer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 For renters, apartment dwellers, and anyone who needs closet organization without drilling, the Amazon Basics Freestanding Closet Organizer provides a practical, moveable solution. Steel tube construction, adjustable shelf heights, and fabric or open wire shelving give basic organization without any tools or wall anchors.
 
@@ -157,7 +157,7 @@ The trade-off is obvious: $1,200+ for a small reach-in, $3,000–$6,000 for a pr
 
 ### 5. SONGMICS Heavy Duty Closet — Best Portable Option
 
-**Price:** ~$55–$90 | [Check price on Amazon →](https://www.amazon.com/s?k=SONGMICS+closet+organizer&tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$55–$90 | [Check price on Amazon →](https://www.amazon.com/s?k=SONGMICS+closet+organizer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 SONGMICS closet systems offer the best build quality in the freestanding category: steel tube frames with reinforced joint connectors, 150 lb weight capacity (significantly more than standard Amazon Basics units), and a fabric cover option that keeps the contents dust-free and improves the visual appearance.
 

@@ -50,7 +50,7 @@ The dividing line in the market is **convection technology**. True convection (a
 
 ### 1. Breville Smart Oven Air Fryer Pro — Best Overall
 
-**Price:** ~$280 | [Check price on Amazon →](https://www.amazon.com/dp/B07NP6YTPG?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$280 | [Check price on Amazon →](https://www.amazon.com/dp/B07NP6YTPG?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Breville Smart Oven Air Fryer Pro is the benchmark for countertop ovens. Its Element IQ® technology moves power between 5 independent quartz heating elements based on the cooking function selected — directing more heat to the top elements for broiling, the bottom for baking, or balanced distribution for roasting. The result is measurably more even cooking than fixed-element competitors.
 
@@ -76,7 +76,7 @@ The backlit LCD display, large knob controls, and interior light make it more pl
 
 ### 2. Cuisinart TOB-260N1 Chef's Convection — Best Value Convection
 
-**Price:** ~$180 | [Check price on Amazon →](https://www.amazon.com/dp/B01N4LEB7K?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$180 | [Check price on Amazon →](https://www.amazon.com/dp/B01N4LEB7K?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Cuisinart TOB-260N1 offers true convection performance at $100 less than Breville. Its 0.95 cubic foot capacity handles a 13-inch pizza, and the upper element turns off during convection mode to promote even browning from the bottom — a design choice that improves baking results for bread and pastries. The 15 cooking functions include toast, bake, broil, convection bake, convection broil, pizza, dual cook, proof, and a speed convection mode that reduces cooking time by up to 40%.
 
@@ -102,7 +102,7 @@ The gap versus Breville: the Cuisinart lacks air frying (no additional fan speed
 
 ### 3. Ninja Foodi XL Pro Air Fry Oven — Best Air Fryer Toaster Oven Combo
 
-**Price:** ~$230 | [Check price on Amazon →](https://www.amazon.com/dp/B08LZKTB2C?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$230 | [Check price on Amazon →](https://www.amazon.com/dp/B08LZKTB2C?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Ninja Foodi XL Pro stands out for sheer versatility at a competitive price. Its 8-in-1 function set (air fry, air roast, bake, whole roast, broil, toast, bagel, dehydrate) with a 450°F maximum temperature and rapid heating technology delivers the fastest preheat on this list — 3–4 minutes to 400°F, vs. 5–7 for competitors. For weeknight cooking where time matters, the Ninja's speed is a real advantage.
 
@@ -128,7 +128,7 @@ Air fry results are excellent — the combination of high fan speed and high tem
 
 ### 4. Panasonic FlashXpress — Best Compact Option
 
-**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/dp/B00ID80MKE?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$80 | [Check price on Amazon →](https://www.amazon.com/dp/B00ID80MKE?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Panasonic FlashXpress uses infrared double heaters — ceramic and quartz tubes operating simultaneously — rather than traditional heating elements. The result is genuinely instant heating: no preheat time required. The oven reaches cooking temperature immediately on activation, which saves meaningful time for small-batch cooking (toast, reheating a portion, cooking a single serving).
 
@@ -154,7 +154,7 @@ For kitchens with limited counter space, the FlashXpress at 12x10 inches occupie
 
 ### 5. Black+Decker TO3250XSB — Best Budget Option
 
-**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/dp/B01N5TTCO7?tag=nickpicks0a-20){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$40 | [Check price on Amazon →](https://www.amazon.com/dp/B01N5TTCO7?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Black+Decker TO3250XSB is the right answer when the budget is the primary constraint. At ~$40, it offers a 0.5 cubic foot capacity that handles 9-inch pizzas, 6 slices of bread, and 9x9 baking dishes. The extra-wide interior is the main differentiator over cheaper single-rack models — the wider footprint handles a wider variety of pan sizes.
 

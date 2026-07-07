@@ -70,7 +70,7 @@ The Tree Napper solves weighted blankets' biggest problem for warm sleepers: hea
 
 **Best for:** Hot sleepers, people who overheat easily, couples who share a blanket, anyone who wants an all-natural material.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Bearaby+Tree+Napper+weighted+blanket){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Bearaby+Tree+Napper+weighted+blanket&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -91,7 +91,7 @@ Gravity practically invented the modern weighted blanket market with their 2017 
 
 **Best for:** People managing anxiety, insomnia, or stress; anyone who wants a premium blanket with a track record; cooler sleepers or those in air-conditioned rooms.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Gravity+Blanket+Original+weighted){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Gravity+Blanket+Original+weighted&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -112,7 +112,7 @@ YnM is the most-reviewed weighted blanket on Amazon, and the reason is simple: a
 
 **Best for:** First-time weighted blanket buyers, budget shoppers, people who want to try weighted blankets before committing to a premium option, or anyone buying for a guest room.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=YnM+weighted+blanket){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=YnM+weighted+blanket&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -133,7 +133,7 @@ Most weighted blankets need their cover removed before washing. Baloo's blanket 
 
 **Best for:** People who prioritize easy care and washability, warm sleepers who want a glass-bead blanket but need a breathable cover, families with kids or pets who need to wash frequently.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Baloo+Living+weighted+blanket){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Baloo+Living+weighted+blanket&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -154,7 +154,7 @@ Luna hits a sweet spot that most blankets miss: a removable, washable 100% cotto
 
 **Best for:** Value shoppers who want the removable-cover convenience of Gravity at half the price; people who already own a duvet cover they love; anyone between the budget YnM and mid-range Baloo tiers.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Luna+Adult+weighted+blanket){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Luna+Adult+weighted+blanket&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

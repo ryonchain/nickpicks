@@ -65,7 +65,7 @@ A bad travel pillow is worse than no pillow — a floppy horseshoe-shaped blob t
 
 ### 1. Cabeau Evolution S3 — Best Overall Travel Pillow
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Cabeau+Evolution+S3+travel+pillow){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Cabeau+Evolution+S3+travel+pillow&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Cabeau Evolution S3 is the travel pillow we'd hand to a first-time flyer or a frequent traveler who's burned through cheap options. The memory foam core molds to your neck, the raised side wings keep your head from falling sideways, and the rear locking strap clips through your headrest — which is the real magic. Instead of your head rolling wherever gravity pulls it, the strap holds you centered.
 
@@ -87,7 +87,7 @@ The Cabeau Evolution S3 is the travel pillow we'd hand to a first-time flyer or 
 
 ### 2. Trtl Pillow Plus — Best for Preventing Head Drop
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Trtl+Pillow+Plus+travel+neck+pillow){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Trtl+Pillow+Plus+travel+neck+pillow&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Trtl Pillow Plus looks nothing like a traditional travel pillow — it's a fleece scarf with a hard plastic internal scaffold. Worn around your neck, the scaffold presses against your shoulder and supports one side of your head against the seat wall. It doesn't stop you from leaning to either side; it gives one side something solid to lean against.
 
@@ -109,7 +109,7 @@ The Trtl Pillow Plus looks nothing like a traditional travel pillow — it's a f
 
 ### 3. Tempur-Pedic Travel Neck Pillow — Best Memory Foam
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Tempur-Pedic+travel+neck+pillow){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Tempur-Pedic+travel+neck+pillow&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Tempur-Pedic's proprietary pressure-relief foam is what separates this pillow from generic "memory foam" travel pillows. The TEMPUR material distributes weight across the surface rather than pushing back at pressure points — meaning you don't get the "doughnut ring" pressure on the sides of your neck that cheaper foam pillows create after a few hours.
 
@@ -131,7 +131,7 @@ Tempur-Pedic's proprietary pressure-relief foam is what separates this pillow fr
 
 ### 4. Lewis N. Clark Comfort Neck Pillow — Best Budget
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Lewis+N+Clark+Comfort+Neck+Pillow){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Lewis+N+Clark+Comfort+Neck+Pillow&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Lewis N. Clark Comfort Neck Pillow is the best option under $20. It's a microbead-filled U-shaped pillow with a velour cover — simple, soft, and surprisingly effective for short-to-medium flights. The microbeads conform to your neck shape better than basic polyester fiber and don't retain heat like memory foam.
 
@@ -154,7 +154,7 @@ The Lewis N. Clark Comfort Neck Pillow is the best option under $20. It's a micr
 
 ### 5. Coop Home Goods Travel Pillow — Best Adjustable Fill
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Coop+Home+Goods+Travel+Pillow){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Coop+Home+Goods+Travel+Pillow&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Coop Home Goods makes the best adjustable fill pillow on the market. The travel version is filled with their proprietary mix of shredded memory foam and microfiber — and you can unzip a hidden compartment to add or remove fill until the firmness is exactly right for your neck. The breathable mesh cover manages heat better than standard velour.
 

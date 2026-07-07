@@ -69,7 +69,7 @@ Key factors to evaluate:
 
 ### 1. Govee RGBIC LED Strip Lights — Best Overall
 
-**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Govee+RGBIC+LED+strip+lights)
+**Price:** ~$30 | [Check on Amazon](https://www.amazon.com/s?k=Govee+RGBIC+LED+strip+lights&tag=nickpicks-20)
 
 Govee's RGBIC strip is the benchmark for mid-range accent lighting. The segment-by-segment color control creates genuine gradient and multi-color effects that solid RGB strips can't replicate. The Govee Home app is reliable, well-designed, and supports Alexa and Google Assistant voice control. Music sync via the built-in mic is responsive enough for party and gaming use.
 
@@ -88,7 +88,7 @@ Govee's RGBIC strip is the benchmark for mid-range accent lighting. The segment-
 
 ### 2. Philips Hue Gradient Lightstrip — Best for Smart Home Integration
 
-**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Philips+Hue+Gradient+Lightstrip)
+**Price:** ~$90 | [Check on Amazon](https://www.amazon.com/s?k=Philips+Hue+Gradient+Lightstrip&tag=nickpicks-20)
 
 The Hue Gradient Lightstrip is the premium choice for anyone already using Philips Hue or needing native Apple HomeKit support. Color accuracy is noticeably better than consumer RGBIC strips, especially in whites and pastels. The gradient effect (up to five simultaneous colors) is smooth and vibrant. Requires a Hue Bridge (~$60 if you don't have one).
 
@@ -107,7 +107,7 @@ The Hue Gradient Lightstrip is the premium choice for anyone already using Phili
 
 ### 3. Govee Envisual LED Strip Pro — Best TV Backlight with Camera Sync
 
-**Price:** ~$80 | [Check on Amazon](https://www.amazon.com/s?k=Govee+Envisual+LED+TV+backlight+camera)
+**Price:** ~$80 | [Check on Amazon](https://www.amazon.com/s?k=Govee+Envisual+LED+TV+backlight+camera&tag=nickpicks-20)
 
 The Envisual Pro uses a small camera mounted on your TV to analyze screen content in real-time and match the strip colors to what's playing — similar to Philips Ambilight but at a fraction of the cost. The effect is genuinely impressive for immersive gaming and movie watching. Works on TVs from 55 to 85 inches.
 
@@ -126,7 +126,7 @@ The Envisual Pro uses a small camera mounted on your TV to analyze screen conten
 
 ### 4. Kasa Smart LED Strip — Best for TP-Link Smart Home
 
-**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Kasa+Smart+LED+strip+lights+TP-Link)
+**Price:** ~$25 | [Check on Amazon](https://www.amazon.com/s?k=Kasa+Smart+LED+strip+lights+TP-Link&tag=nickpicks-20)
 
 Kasa's strip is straightforward RGB — one color at a time — but the reliability of TP-Link's Wi-Fi implementation is consistently better than many RGBIC alternatives at this price. No Bluetooth pairing issues, faster reconnection after power outages, and solid Alexa/Google Assistant response times. A practical choice if multi-color gradients aren't a priority.
 
@@ -145,7 +145,7 @@ Kasa's strip is straightforward RGB — one color at a time — but the reliabil
 
 ### 5. Lepro RGBIC LED Strip — Best Long Run
 
-**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Lepro+RGBIC+LED+strip+lights+32ft)
+**Price:** ~$40 | [Check on Amazon](https://www.amazon.com/s?k=Lepro+RGBIC+LED+strip+lights+32ft&tag=nickpicks-20)
 
 Lepro's 32.8 ft RGBIC strip is the right choice for room perimeters, staircases, or any installation that needs a single continuous run beyond 16 feet. RGBIC segment control works across the full length, and the music sync mic picks up bass frequencies well for rhythm-reactive effects. The thicker adhesive backing outperforms standard 3M backing on textured walls.
 
@@ -163,7 +163,7 @@ Lepro's 32.8 ft RGBIC strip is the right choice for room perimeters, staircases,
 
 ### 6. Daybetter RGB LED Strip — Best Ultra-Budget
 
-**Price:** ~$20 | [Check on Amazon](https://www.amazon.com/s?k=Daybetter+LED+strip+lights+50ft)
+**Price:** ~$20 | [Check on Amazon](https://www.amazon.com/s?k=Daybetter+LED+strip+lights+50ft&tag=nickpicks-20)
 
 Daybetter's appeal is simple: very long runs (50–100 ft available) at very low cost. RGB only, remote-controlled (app optional), basic music sync, and adhesive that's adequate for smooth surfaces. Not a smart home device in any serious sense — but for garage accent lighting, behind-furniture runs, or installations where you just need light and color cheaply, it delivers.
 

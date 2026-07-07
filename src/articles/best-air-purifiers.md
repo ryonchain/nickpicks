@@ -47,7 +47,7 @@ The Levoit Core 300 is the best air purifier for bedrooms and small offices up t
 
 The 360-degree air intake pulls from all directions rather than one side, making placement more flexible. Replacement filter packs cost around $20 and cover both the HEPA and carbon layers together. If you want the highest-quality bedroom air at the lowest cost and noise, the Core 300 is the clearest recommendation.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Levoit+Core+300+air+purifier){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Levoit+Core+300+air+purifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ The Winix 5500-2 covers rooms up to 360 sq ft with a CADR of 243 CFM and adds a 
 
 The washable pre-filter extends the life of the HEPA filter by catching larger particles first. Sleep mode dims the display and drops the fan to its quietest level (27dB) automatically at night. The 5500-2 is frequently available for $150–$180, making it the best value step up from the Core 300 when you need more coverage.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Winix+5500-2+air+purifier){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Winix+5500-2+air+purifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ The Coway AP-1512HH (Mighty) covers up to 360 sq ft, costs under $100, and has e
 
 The air quality indicator LED glows blue (clean), purple (moderate), or red (poor) based on sensor readings, and the eco mode turns the fan off when the sensor reads clean air for 30 minutes. Filter replacement runs about $20–$25 per year. For large rooms on a budget, no competitor comes close to this performance-to-price ratio.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Coway+AP-1512HH+Mighty+air+purifier){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Coway+AP-1512HH+Mighty+air+purifier&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ The Blueair Blue Pure 211+ has a CADR of 350 CFM — one of the highest in its p
 
 The three-speed fan has no complex controls: one button cycles through speeds. The HEPASilent filtration technology combines electrostatic and mechanical filtration, capturing 99.97% of particles at lower energy consumption than traditional HEPA alone. If speed and coverage are your priority, the Blue Pure 211+ delivers.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Blueair+Blue+Pure+211+Plus){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Blueair+Blue+Pure+211+Plus&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -87,7 +87,7 @@ The Dyson HP07 is an air purifier, heater, and fan in one unit. Its 360° Glass 
 
 At $600+, the HP07 is significantly more expensive than every other entry on this list. It makes financial sense primarily for people who want to replace both a space heater and an air purifier, or who want the detailed air quality monitoring the app provides. As a standalone air purifier, the Levoit and Coway options offer better value.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Dyson+HP07+purifier+fan+heater){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Dyson+HP07+purifier+fan+heater&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -136,4 +136,4 @@ Activated carbon layers in air purifiers absorb VOCs and pet odors. HEPA alone c
 
 The **Levoit Core 300** is the best air purifier for most bedrooms and small rooms — quiet, effective, and affordable. If you need coverage for a larger room on a budget, the **Coway AP-1512HH** is the best value step up. For fast, powerful air cleaning in large rooms, the **Blueair Blue Pure 211+** leads the category by CADR.
 
-[Shop air purifiers on Amazon →](https://www.amazon.com/s?k=HEPA+air+purifier+bedroom){rel="nofollow sponsored" target="_blank"}
+[Shop air purifiers on Amazon →](https://www.amazon.com/s?k=HEPA+air+purifier+bedroom&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}

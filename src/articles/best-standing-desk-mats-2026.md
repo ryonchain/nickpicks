@@ -47,7 +47,7 @@ The Topo is the most widely recommended anti-fatigue mat for a reason: its terra
 
 It's available in three sizes (mini, standard, and large) and comes in several color options. The foam holds its shape over years of use — a common failure point for cheaper mats. The Topo is also thick enough (0.75 inches) to provide real cushioning without being so tall that it creates a tripping hazard.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Topo+Ergodriven+anti-fatigue+standing+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Topo+Ergodriven+anti-fatigue+standing+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -57,7 +57,7 @@ For users who want straightforward flat anti-fatigue cushioning without the terr
 
 It's available in multiple sizes. The 24" × 36" size fits most standing desk setups.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Gorilla+Grip+anti-fatigue+standing+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Gorilla+Grip+anti-fatigue+standing+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ Flexispot (who also makes the well-regarded E7 standing desk) offers a contoured
 
 For users who are new to standing desks and want to try anti-fatigue matting without a significant investment, this is a reasonable entry point.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=FlexiSpot+anti-fatigue+standing+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=FlexiSpot+anti-fatigue+standing+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ WellnessMats are the most durable flat anti-fatigue mats available for home offi
 
 At $80–$130+ depending on size, the WellnessMat is an investment. But it's the last anti-fatigue mat most buyers ever need to purchase.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=WellnessMats+anti-fatigue+kitchen+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=WellnessMats+anti-fatigue+kitchen+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -85,7 +85,7 @@ At $80–$130+ depending on size, the WellnessMat is an investment. But it's the
 
 The ComfiLife mat is designed to work under both a standing desk and a regular seated desk. At 3/4 inch thick with a tapered edge, it functions well as a flat standing mat while also comfortable to slide your chair onto if you lower your desk for seated work. If you alternate between sitting and standing frequently and want a mat that works for both positions, this is the most practical choice.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=ComfiLife+anti-fatigue+floor+mat){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=ComfiLife+anti-fatigue+floor+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -137,4 +137,4 @@ Quality polyurethane mats like the Topo and WellnessMats resist compression for 
 
 For serious standing desk users, the **Topo by Ergodriven** is worth the $80–$100 price. The terrain design is meaningfully more effective than a flat mat for sessions over 30 minutes. For budget-conscious buyers or those new to standing desks, the **Gorilla Grip** covers the basics well at a fraction of the cost.
 
-[Shop standing desk mats on Amazon →](https://www.amazon.com/s?k=standing+desk+anti-fatigue+mat){rel="nofollow sponsored" target="_blank"}
+[Shop standing desk mats on Amazon →](https://www.amazon.com/s?k=standing+desk+anti-fatigue+mat&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}

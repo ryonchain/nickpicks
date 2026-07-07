@@ -67,7 +67,7 @@ A two-tool starter kit that's reliable and widely available. Includes a 20V MAX 
 
 **Cons:** 1.5Ah batteries run down faster on big jobs, no saw included
 
-**[DEWALT DCK240C2 on Amazon →](https://www.amazon.com/dp/B00OOYWC0E){rel="nofollow sponsored" target="_blank"}** (ASIN: B00OOYWC0E)
+**[DEWALT DCK240C2 on Amazon →](https://www.amazon.com/dp/B00OOYWC0E?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B00OOYWC0E)
 
 ---
 
@@ -81,7 +81,7 @@ Milwaukee's entry-level M18 combo is a workhorse. The M18 drill delivers best-in
 
 **Cons:** Heavier than DeWalt equivalent, batteries charge slightly slower
 
-**[Milwaukee M18 2691-22 on Amazon →](https://www.amazon.com/dp/B00IRXZALG){rel="nofollow sponsored" target="_blank"}** (ASIN: B00IRXZALG)
+**[Milwaukee M18 2691-22 on Amazon →](https://www.amazon.com/dp/B00IRXZALG?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B00IRXZALG)
 
 ---
 
@@ -95,7 +95,7 @@ The best value pick for homeowners and DIYers. Ryobi's ONE+ platform has over 30
 
 **Cons:** Not contractor-grade, heavier tools for the power output, shorter battery life under load
 
-**[RYOBI PCL206K2 on Amazon →](https://www.amazon.com/dp/B09LB1S8FP){rel="nofollow sponsored" target="_blank"}** (ASIN: B09LB1S8FP)
+**[RYOBI PCL206K2 on Amazon →](https://www.amazon.com/dp/B09LB1S8FP?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B09LB1S8FP)
 
 ---
 
@@ -109,7 +109,7 @@ If budget allows a stretch, this 6-tool kit (drill, impact driver, circular saw,
 
 **Cons:** Significantly over the $200 target — better as an aspirational upgrade
 
-**[DEWALT DCK677D1M1 on Amazon →](https://www.amazon.com/dp/B07FZW5K61){rel="nofollow sponsored" target="_blank"}** (ASIN: B07FZW5K61)
+**[DEWALT DCK677D1M1 on Amazon →](https://www.amazon.com/dp/B07FZW5K61?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (ASIN: B07FZW5K61)
 
 ---
 

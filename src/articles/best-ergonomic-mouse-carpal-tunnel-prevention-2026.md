@@ -77,7 +77,7 @@ The MX Vertical is the gold standard for vertical mice in 2026. The 57° angle p
 - Takes 3–7 days to adapt (slower cursor feel initially)
 - Larger form factor may not suit small hands
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Vertical+wireless+mouse&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Vertical+wireless+mouse&tag=nickpicks-20)
 
 ---
 
@@ -107,7 +107,7 @@ The MX Ergo is the premium trackball option for severe wrist pain. The adjustabl
 - Thumb engagement can create new thumb fatigue if switching from finger injury
 - DPI ceiling of 2048 is lower than scroll-wheel mice
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Ergo+trackball&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Ergo+trackball&tag=nickpicks-20)
 
 ---
 
@@ -137,7 +137,7 @@ The Anker Vertical Mouse is the best-performing budget ergonomic option at under
 - Build quality noticeably lower than Logitech (plastic creaks with pressure)
 - No customizable buttons
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+ergonomic+vertical+wireless+mouse&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+ergonomic+vertical+wireless+mouse&tag=nickpicks-20)
 
 ---
 
@@ -167,7 +167,7 @@ The only ergonomic mouse on this list that works for both left and right hands. 
 - Smaller ergonomic profile won't help severe forearm rotation issues
 - Average build quality
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Kensington+Pro+Fit+Ergo+Wireless+Mouse&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Kensington+Pro+Fit+Ergo+Wireless+Mouse&tag=nickpicks-20)
 
 ---
 
@@ -197,7 +197,7 @@ The CadMouse Pro Wireless is for designers, engineers, and CAD users who spend 8
 - Software required for custom DPI profiles
 - Best value only for professional design/engineering workflows
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=3Dconnexion+CadMouse+Pro+Wireless&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=3Dconnexion+CadMouse+Pro+Wireless&tag=nickpicks-20)
 
 ---
 

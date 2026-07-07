@@ -67,7 +67,7 @@ The hardware price is only part of the cost equation — most trackers require o
 
 ### 1. Tractive GPS 4 LTE — Best Overall
 
-**Price:** ~$50 hardware + ~$5/month | [Check on Amazon](https://www.amazon.com/s?k=Tractive+GPS+4+LTE+dog+tracker)
+**Price:** ~$50 hardware + ~$5/month | [Check on Amazon](https://www.amazon.com/s?k=Tractive+GPS+4+LTE+dog+tracker&tag=nickpicks-20)
 
 Tractive's GPS 4 is the best-value real-time GPS tracker available. The hardware is affordable, the subscription is the cheapest on the market at ~$5/month on an annual plan, and coverage spans 175+ countries on cellular networks. Live tracking updates every 2–3 seconds when your dog is on the move, and the geofencing with push notifications works reliably on both iOS and Android.
 
@@ -87,7 +87,7 @@ Tractive's GPS 4 is the best-value real-time GPS tracker available. The hardware
 
 ### 2. Fi Series 3 Smart Collar — Best for Active Large Dogs
 
-**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Fi+Series+3+smart+dog+collar)
+**Price:** ~$150 | [Check on Amazon](https://www.amazon.com/s?k=Fi+Series+3+smart+dog+collar&tag=nickpicks-20)
 
 The Fi Series 3 integrates the GPS tracker into the collar hardware rather than attaching to a separate module, which eliminates the risk of the tracker detaching and getting lost. It also means battery life across the whole collar system is exceptional — up to 3 months in low-activity mode, and ~30 days with typical GPS use. The collar itself is high-quality and durable.
 
@@ -107,7 +107,7 @@ The Fi Series 3 integrates the GPS tracker into the collar hardware rather than 
 
 ### 3. Whistle Go Explore — Best Health Monitoring Integration
 
-**Price:** ~$80 hardware + ~$10/month | [Check on Amazon](https://www.amazon.com/s?k=Whistle+Go+Explore+GPS+dog+tracker)
+**Price:** ~$80 hardware + ~$10/month | [Check on Amazon](https://www.amazon.com/s?k=Whistle+Go+Explore+GPS+dog+tracker&tag=nickpicks-20)
 
 The Whistle Go Explore combines GPS location tracking with comprehensive health monitoring — activity, rest, licking, scratching, and drinking patterns — that can alert you to behavioral changes associated with illness or injury. The 20-day battery life in power-save mode is exceptional. The subscription is mid-range at ~$10/month, and the health insights are more sophisticated than most GPS-only trackers.
 
@@ -127,7 +127,7 @@ The Whistle Go Explore combines GPS location tracking with comprehensive health 
 
 ### 4. Apple AirTag (with Collar Mount) — Best No-Subscription Option
 
-**Price:** ~$30 + free collar mount | [Check on Amazon](https://www.amazon.com/s?k=Apple+AirTag+dog+collar)
+**Price:** ~$30 + free collar mount | [Check on Amazon](https://www.amazon.com/s?k=Apple+AirTag+dog+collar&tag=nickpicks-20)
 
 The AirTag's Find My network means no monthly subscription — location updates happen when any iPhone in the Find My network passes within Bluetooth range of your dog's AirTag. In urban and suburban areas, this network is dense enough to locate a lost dog within minutes. In rural areas with fewer iPhones, the coverage gap becomes significant.
 
@@ -148,7 +148,7 @@ The AirTag's Find My network means no monthly subscription — location updates 
 
 ### 5. Jiobit Smart Tag — Best for Small Dogs
 
-**Price:** ~$100 hardware + ~$9/month | [Check on Amazon](https://www.amazon.com/s?k=Jiobit+Smart+Tag+GPS+tracker)
+**Price:** ~$100 hardware + ~$9/month | [Check on Amazon](https://www.amazon.com/s?k=Jiobit+Smart+Tag+GPS+tracker&tag=nickpicks-20)
 
 Jiobit is the smallest and lightest cellular GPS tracker available, at 0.6 oz — light enough for small breeds (Chihuahuas, Maltese, miniature breeds under 10 lbs) that would be burdened by heavier trackers. It uses a combination of GPS, LTE, Wi-Fi, and Bluetooth to maintain location indoors and outdoors. The adaptive tracking algorithm learns your dog's home routine and adjusts update frequency to preserve battery.
 
@@ -168,7 +168,7 @@ Jiobit is the smallest and lightest cellular GPS tracker available, at 0.6 oz �
 
 ### 6. Pawtrack GPS Cat/Dog Collar — Best No-Subscription Alternative
 
-**Price:** ~$150 (subscription included) | [Check on Amazon](https://www.amazon.com/s?k=Pawtrack+GPS+cat+dog+tracker)
+**Price:** ~$150 (subscription included) | [Check on Amazon](https://www.amazon.com/s?k=Pawtrack+GPS+cat+dog+tracker&tag=nickpicks-20)
 
 Pawtrack includes a lifetime subscription bundled into the hardware price — there's no ongoing monthly fee after purchase. It uses GPS + cellular and covers most of Europe and North America. Battery life runs 3–7 days depending on tracking frequency. The collar is larger and heavier than Tractive's module, but the no-subscription model makes total cost of ownership competitive over 3+ years.
 

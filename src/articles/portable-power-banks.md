@@ -64,7 +64,7 @@ The Anker 747 is the power bank that does everything without compromise. 26,000 
 - Not airline carry-on legal for flights over the capacity limit (check airline rules; most allow up to 100Wh / ~27,000 mAh)
 - Premium price over competitors at similar capacity
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+747+Power+Bank+26K&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+747+Power+Bank+26K&tag=nickpicks-20)
 
 ---
 
@@ -93,7 +93,7 @@ The Anker Nano is the power bank that fits in a pocket without being a compromis
 - Single USB-A port only charges at 12W
 - Not suitable for tablets or laptops
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+Nano+Power+Bank+10K+USB-C&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Anker+Nano+Power+Bank+10K+USB-C&tag=nickpicks-20)
 
 ---
 
@@ -122,7 +122,7 @@ The Baseus Blade is built specifically for laptop users. It's thin and rectangul
 - USB-A port only 18W (slower than USB-A fast charge competitors)
 - Not pocketable despite being thin
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Baseus+Blade+100W+power+bank&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Baseus+Blade+100W+power+bank&tag=nickpicks-20)
 
 ---
 
@@ -151,7 +151,7 @@ The INIU 10000mAh is the best power bank under $30 for straightforward phone cha
 - LED indicator shows approximate charge (not precise %)
 - Brand less established than Anker (fewer verified reviews)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=INIU+power+bank+10000mAh&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=INIU+power+bank+10000mAh&tag=nickpicks-20)
 
 ---
 
@@ -180,7 +180,7 @@ The Mophie Powerstation Pro AC includes a built-in AC outlet — a real three-pr
 - Premium price
 - AC outlet only outputs 80W — not sufficient for power-hungry laptops (gaming, video editing)
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Mophie+Powerstation+Pro+AC+power+bank&tag=ryonchain-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Mophie+Powerstation+Pro+AC+power+bank&tag=nickpicks-20)
 
 ---
 

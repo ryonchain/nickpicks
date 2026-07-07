@@ -29,7 +29,7 @@ Finding the **best electric kettle** means balancing speed, capacity, and temper
 
 The Hamilton Beach 40880 is the workhorse pick for anyone who just needs fast, reliable boiling. It hits a full 1.7L in about five minutes and the stay-cool handle makes pouring safe. No frills — which is exactly what makes it the best value pick at under $30.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=Hamilton+Beach+40880+Electric+Kettle&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=Hamilton+Beach+40880+Electric+Kettle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -45,7 +45,7 @@ The Hamilton Beach 40880 is the workhorse pick for anyone who just needs fast, r
 
 The COSORI gooseneck is the go-to for pour-over coffee lovers who demand precision. Five temperature presets cover everything from green tea (175°F) to full boil, and the 60-minute keep-warm feature means your water stays ready. The 0.8L capacity is smaller but ideal for single-serve brewing.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=COSORI+Electric+Gooseneck+Kettle&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=COSORI+Electric+Gooseneck+Kettle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -61,7 +61,7 @@ The COSORI gooseneck is the go-to for pour-over coffee lovers who demand precisi
 
 The Mueller Ultra Kettle strikes the ideal balance of speed, aesthetics, and price. The borosilicate glass body lets you watch the boil — and it looks great on a countertop. At under $30, it's the best visual upgrade for budget-conscious buyers who want something better than a plastic kettle.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=Mueller+Ultra+Kettle&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=Mueller+Ultra+Kettle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -77,7 +77,7 @@ The Mueller Ultra Kettle strikes the ideal balance of speed, aesthetics, and pri
 
 The Fellow Stagg EKG is the gold standard for serious home baristas. Its precision temperature control (to within 1°F), counterbalanced handle for drip-free pouring, and 60-minute hold make it the most capable kettle on this list. At ~$165, it's a splurge — but for anyone serious about specialty coffee, it's the last kettle you'll ever need to buy.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=Fellow+Stagg+EKG+Electric+Kettle&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=Fellow+Stagg+EKG+Electric+Kettle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 
@@ -93,7 +93,7 @@ The Fellow Stagg EKG is the gold standard for serious home baristas. Its precisi
 
 The Cuisinart CPK-17 is the best large-capacity variable temperature kettle — six presets covering every tea and coffee type, a full 1.7L for multiple cups, and a 30-minute keep-warm that holds your selected temperature. It's the best choice for households that brew multiple cups back-to-back. Boil time is slower than smaller models but the capacity compensates.
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=Cuisinart+CPK-17+PerfecTemp+Electric+Kettle&tag=ryonchain-20){rel="nofollow sponsored" target="_blank"}
+[→ Check price on Amazon](https://www.amazon.com/s?k=Cuisinart+CPK-17+PerfecTemp+Electric+Kettle&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ---
 

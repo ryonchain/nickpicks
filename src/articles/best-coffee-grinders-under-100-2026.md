@@ -59,7 +59,7 @@ Even a budget conical burr grinder at $50–$60 will outperform a $30 blade grin
 
 ### 1. Baratza Encore ESP — Best Overall Burr Grinder
 
-**[Baratza Encore ESP on Amazon →](https://www.amazon.com/dp/B09FNKD6LT){rel="nofollow sponsored" target="_blank"}** (~$99)
+**[Baratza Encore ESP on Amazon →](https://www.amazon.com/dp/B09FNKD6LT?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$99)
 
 The Encore ESP is the benchmark for entry-level home grinding. Baratza, a specialty coffee company, built the Encore ESP specifically as an upgrade path for home espresso — the ESP variant adds a macro/micro adjustment system that gives you 40 grind steps, covering everything from coarse French press to fine espresso.
 
@@ -80,7 +80,7 @@ The Encore ESP is the benchmark for entry-level home grinding. Baratza, a specia
 
 ### 2. OXO Brew Conical Burr Grinder — Best for Drip Coffee
 
-**[OXO Brew Conical Burr Grinder on Amazon →](https://www.amazon.com/dp/B07CSKGLMM){rel="nofollow sponsored" target="_blank"}** (~$79–$99)
+**[OXO Brew Conical Burr Grinder on Amazon →](https://www.amazon.com/dp/B07CSKGLMM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$79–$99)
 
 OXO's burr grinder is designed specifically for drip coffee drinkers who want consistent results without complexity. Fifteen grind settings, a built-in scale, and an intuitive interface make this the most user-friendly grinder on this list. The built-in timer lets you set it and walk away.
 
@@ -101,7 +101,7 @@ OXO's burr grinder is designed specifically for drip coffee drinkers who want co
 
 ### 3. Capresso Infinity Plus — Best Budget Conical Burr
 
-**[Capresso Infinity Plus on Amazon →](https://www.amazon.com/dp/B084CF4HVD){rel="nofollow sponsored" target="_blank"}** (~$59–$69)
+**[Capresso Infinity Plus on Amazon →](https://www.amazon.com/dp/B084CF4HVD?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$59–$69)
 
 At roughly $60, the Capresso Infinity Plus is the entry point for quality burr grinding. Sixteen grind settings covering extra-fine through coarse, a slow-speed gear reduction motor that minimizes heat and static, and a glass grounds container that doesn't carry static charge like plastic. For the price, it's remarkable.
 
@@ -123,7 +123,7 @@ At roughly $60, the Capresso Infinity Plus is the entry point for quality burr g
 
 ### 4. Cuisinart DBM-8 Supreme Grind — Best for Casual Drinkers
 
-**[Cuisinart DBM-8 Supreme Grind on Amazon →](https://www.amazon.com/dp/B0000CDFLY){rel="nofollow sponsored" target="_blank"}** (~$39–$49)
+**[Cuisinart DBM-8 Supreme Grind on Amazon →](https://www.amazon.com/dp/B0000CDFLY?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$39–$49)
 
 If you're an occasional coffee drinker who doesn't want to think too hard about grind settings, the Cuisinart DBM-8 is the most accessible option here. Large hopper, automatic grind amount selector, and 18 grind settings. Cup quality won't match the Capresso or OXO, but it's a genuine improvement over a blade grinder at a very approachable price.
 
@@ -145,7 +145,7 @@ If you're an occasional coffee drinker who doesn't want to think too hard about 
 
 ### 5. 1Zpresso Q2 Manual Grinder — Best Manual Option
 
-**[1Zpresso Q2 on Amazon →](https://www.amazon.com/s?k=1Zpresso+Q2+manual+coffee+grinder){rel="nofollow sponsored" target="_blank"}** (~$70–$80)
+**[1Zpresso Q2 on Amazon →](https://www.amazon.com/s?k=1Zpresso+Q2+manual+coffee+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$70–$80)
 
 Manual grinders are underrated. The 1Zpresso Q2 uses 38mm stainless steel conical burrs — better hardware than many $150 electric grinders — and delivers strikingly consistent grinds for pour-over and drip. No electricity required, which also makes it ideal for travel.
 

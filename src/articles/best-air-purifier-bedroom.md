@@ -64,7 +64,7 @@ The Levoit Core 300-S is the most popular bedroom air purifier for good reason. 
 - Filter replacements are recurring cost (~$20 every 6 months)
 - No air quality display on base model
 
-[Check on Amazon](https://www.amazon.com/s?k=Levoit+Core+300-S&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Levoit+Core+300-S&tag=nickpicks-20)
 
 ---
 
@@ -91,7 +91,7 @@ The Winix 5500-2 punches above its price class. At 243 CFM CADR, it handles room
 - No app or Wi-Fi connectivity
 - PlasmaWave can be turned off if you prefer pure HEPA filtration
 
-[Check on Amazon](https://www.amazon.com/s?k=Winix+5500-2&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Winix+5500-2&tag=nickpicks-20)
 
 ---
 
@@ -118,7 +118,7 @@ The Coway Mighty has been a top-rated air purifier for years, and for good reaso
 - No app connectivity
 - Slightly larger than some compact options
 
-[Check on Amazon](https://www.amazon.com/s?k=Coway+AP-1512HH+Mighty&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Coway+AP-1512HH+Mighty&tag=nickpicks-20)
 
 ---
 
@@ -145,7 +145,7 @@ The Blueair Blue Pure 411i Max is the quietest unit on this list at just 17 dB o
 - One of the pricier options at this tier for the coverage offered
 - Filter replacements cost ~$30 every 6 months
 
-[Check on Amazon](https://www.amazon.com/s?k=Blueair+Blue+Pure+411i+Max&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Blueair+Blue+Pure+411i+Max&tag=nickpicks-20)
 
 ---
 
@@ -172,7 +172,7 @@ The Germ Guardian is the best budget pick — often under $60 — and still deli
 - UV-C bulb requires periodic replacement
 - On highest setting, noticeable fan noise
 
-[Check on Amazon](https://www.amazon.com/s?k=Germ+Guardian+AC4825E&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Germ+Guardian+AC4825E&tag=nickpicks-20)
 
 ---
 
@@ -194,4 +194,4 @@ Yes, HEPA filters capture fine smoke particles (PM2.5). For wildfire smoke speci
 
 For most bedrooms, the **Levoit Core 300-S** and **Coway AP-1512HH Mighty** are the top picks. Larger rooms should look at the **Winix 5500-2**. Light sleepers who want the absolute quietest unit should choose the **Blueair 411i Max**.
 
-[Shop air purifiers on Amazon](https://www.amazon.com/s?k=HEPA+air+purifier+bedroom&tag=ryonchain-20)
+[Shop air purifiers on Amazon](https://www.amazon.com/s?k=HEPA+air+purifier+bedroom&tag=nickpicks-20)

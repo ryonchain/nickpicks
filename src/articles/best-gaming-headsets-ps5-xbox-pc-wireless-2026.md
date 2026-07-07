@@ -79,7 +79,7 @@ The Sony PULSE 3D is the definitive PS5 headset. It's the only headset designed 
 - No active noise cancellation for the listener
 - Discontinued colorways limit options
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Sony+PULSE+3D+wireless+headset+PS5&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Sony+PULSE+3D+wireless+headset+PS5&tag=nickpicks-20)
 
 ---
 
@@ -109,7 +109,7 @@ Microsoft's own Xbox Wireless Headset is the value leader for Xbox users. Xbox W
 - Mic quality average — acceptable for voice chat, not streaming
 - Not ideal for PS5 or PC primary users
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Xbox+Wireless+Headset+gaming&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Xbox+Wireless+Headset+gaming&tag=nickpicks-20)
 
 ---
 
@@ -140,7 +140,7 @@ The Arctis Nova Pro Wireless is the best headset for serious multi-platform game
 - Overkill for single-platform players
 - Companion app required for full EQ customization
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=SteelSeries+Arctis+Nova+Pro+Wireless+headset&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=SteelSeries+Arctis+Nova+Pro+Wireless+headset&tag=nickpicks-20)
 
 ---
 
@@ -171,7 +171,7 @@ The HyperX Cloud Alpha Wireless delivers the most jaw-dropping battery life in t
 - Platform coverage: primarily PC and compatible devices (not native Xbox/PS5 wireless)
 - Mic quality solid but not exceptional for streaming
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=HyperX+Cloud+Alpha+Wireless+gaming+headset&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=HyperX+Cloud+Alpha+Wireless+gaming+headset&tag=nickpicks-20)
 
 ---
 
@@ -202,7 +202,7 @@ The Astro A50 X is the flagship for multi-platform power users who want one head
 - Companion Astro Command Center app required for EQ adjustments
 - 40mm drivers don't quite match SteelSeries Nova Pro audiophile tuning
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Astro+A50+X+wireless+gaming+headset&tag=nickniche-20)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Astro+A50+X+wireless+gaming+headset&tag=nickpicks-20)
 
 ---
 

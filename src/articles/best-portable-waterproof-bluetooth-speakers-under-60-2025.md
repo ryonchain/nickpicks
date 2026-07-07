@@ -17,7 +17,7 @@ You don't have to blow $150 on a JBL Charge to get great sound at the beach, poo
 ## Our Top 5 Portable Waterproof Bluetooth Speakers Under $60
 
 ### 1. Tribit StormBox Micro 2
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_1)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_1?tag=nickpicks-20)  
 **Price Range:** $45–$55
 
 **Pros:**
@@ -36,7 +36,7 @@ You don't have to blow $150 on a JBL Charge to get great sound at the beach, poo
 ---
 
 ### 2. JBL Clip 4
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_2)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_2?tag=nickpicks-20)  
 **Price Range:** $40–$55
 
 **Pros:**
@@ -55,7 +55,7 @@ You don't have to blow $150 on a JBL Charge to get great sound at the beach, poo
 ---
 
 ### 3. Anker Soundcore 2
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_3)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_3?tag=nickpicks-20)  
 **Price Range:** $35–$45
 
 **Pros:**
@@ -74,7 +74,7 @@ You don't have to blow $150 on a JBL Charge to get great sound at the beach, poo
 ---
 
 ### 4. Tribit XSound Go
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_4)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_4?tag=nickpicks-20)  
 **Price Range:** $30–$40
 
 **Pros:**
@@ -93,7 +93,7 @@ You don't have to blow $150 on a JBL Charge to get great sound at the beach, poo
 ---
 
 ### 5. Ion Audio Tough Sounds Plus
-**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_5)  
+**Amazon Link:** [View on Amazon](https://www.amazon.com/dp/PLACEHOLDER_ASIN_5?tag=nickpicks-20)  
 **Price Range:** $50–$60
 
 **Pros:**
@@ -134,4 +134,4 @@ All speakers here use Bluetooth 5.0 or later for stable, low-latency connections
 
 You don't need to spend $150 to get a great waterproof Bluetooth speaker. The **Tribit StormBox Micro 2** is our top pick for most people — it balances portability, sound quality, and durability better than any competitor at its price. Budget shoppers should grab the **Anker Soundcore 2** for unbeatable battery life. Check current prices on Amazon and grab yours before the next adventure.
 
-*[View all picks on Amazon](https://www.amazon.com/PLACEHOLDER_COLLECTION)*
+*[View all picks on Amazon](https://www.amazon.com/PLACEHOLDER_COLLECTION?tag=nickpicks-20)*

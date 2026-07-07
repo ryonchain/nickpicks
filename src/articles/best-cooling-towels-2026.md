@@ -126,7 +126,7 @@ The material makes a significant difference. PVA (polyvinyl alcohol) towels — 
 
 ### 1. Mission Cooling Towel — Best Overall
 
-**Price:** ~$15 | [Check on Amazon](https://www.amazon.com/s?k=Mission+cooling+towel)
+**Price:** ~$15 | [Check on Amazon](https://www.amazon.com/s?k=Mission+cooling+towel&tag=nickpicks-20)
 
 Mission's Cooling Towel is the best-known cooling towel brand for a reason. The proprietary microfiber weave and InstaCool technology consistently produce a towel that activates in seconds (wet, wring, snap — 30 seconds), drops to significantly below body temperature, and maintains that temperature differential for up to two hours in typical outdoor conditions. Mission's third-party testing claims 30°F cooler than body temperature, which is aggressive but directionally accurate in dry conditions.
 
@@ -146,7 +146,7 @@ The 12×33 inch size works for draping across the neck and shoulders, the primar
 
 ### 2. Frogg Toggs Chilly Pad — Best for Sustained Cooling
 
-**Price:** ~$12 | [Check on Amazon](https://www.amazon.com/s?k=Frogg+Toggs+Chilly+Pad)
+**Price:** ~$12 | [Check on Amazon](https://www.amazon.com/s?k=Frogg+Toggs+Chilly+Pad&tag=nickpicks-20)
 
 The Frogg Toggs Chilly Pad uses PVA (polyvinyl alcohol) construction — the same rubbery, chamois-like material used in premium car drying cloths. PVA holds significantly more water than microfiber by weight, which translates to slower evaporation and longer sustained cooling. In direct comparison tests at the same ambient temperature, PVA towels like the Chilly Pad consistently outlast microfiber competitors by 30–60 minutes before re-wetting is needed.
 
@@ -166,7 +166,7 @@ The larger size (27×17 inches) is more practical than narrower competitors for 
 
 ### 3. Chill Pal Multi-Style — Most Versatile
 
-**Price:** ~$15 | [Check on Amazon](https://www.amazon.com/s?k=Chill+Pal+12+in+1+cooling+towel)
+**Price:** ~$15 | [Check on Amazon](https://www.amazon.com/s?k=Chill+Pal+12+in+1+cooling+towel&tag=nickpicks-20)
 
 The Chill Pal earns its "multi-style" name: the 12×33 inch format can be configured as a neck towel, headband, wristband, face mask, or full arm sleeve depending on how you fold and position it. For athletes who want a single piece of gear that adapts to different cooling needs during a workout — neck for running, headband for cycling, wristband for tennis — this flexibility is genuinely useful.
 
@@ -186,7 +186,7 @@ Cooling performance is comparable to the Mission towel: wet, wring, snap activat
 
 ### 4. YQXCC Cooling Towel — Best Extra Long
 
-**Price:** ~$10 | [Check on Amazon](https://www.amazon.com/s?k=YQXCC+cooling+towel)
+**Price:** ~$10 | [Check on Amazon](https://www.amazon.com/s?k=YQXCC+cooling+towel&tag=nickpicks-20)
 
 The YQXCC's 40×12 inch format is longer than most competitors, which matters for full shoulder coverage and the option to drape over the head and neck simultaneously. The extra length also allows use as a lap cooling towel while sitting at outdoor events. At $10, it's among the most affordable individual cooling towels with credible performance — wet, wring, and snap activation works as described, and the microfiber construction is soft against skin.
 
@@ -206,7 +206,7 @@ Cooling duration is approximately 1.5–2 hours in moderate heat — slightly sh
 
 ### 5. Sukeen Cooling Towel (4-Pack) — Best Value Pack
 
-**Price:** ~$20 (4-pack) | [Check on Amazon](https://www.amazon.com/s?k=Sukeen+cooling+towel+4+pack)
+**Price:** ~$20 (4-pack) | [Check on Amazon](https://www.amazon.com/s?k=Sukeen+cooling+towel+4+pack&tag=nickpicks-20)
 
 At $5 per towel, the Sukeen 4-pack is the best value in the category for families, sports teams, or anyone who wants towels in multiple locations (gym bag, car, desk, backpack). Individual towel performance is reliable — microfiber construction, wet/wring/snap activation, 40×12 inch format — without reaching the premium level of the Mission or Frogg Toggs in sustained cooling duration.
 

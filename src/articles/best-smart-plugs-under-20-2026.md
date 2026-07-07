@@ -61,7 +61,7 @@ The market is crowded with options. These five represent the best per-dollar pic
 
 ### 1. Kasa Smart Plug EP10 (4-pack) — Best Overall Value Pack
 
-**[Kasa EP10 4-Pack on Amazon →](https://www.amazon.com/dp/B091FXH2FR){rel="nofollow sponsored" target="_blank"}** (~$18–$20 for 4)
+**[Kasa EP10 4-Pack on Amazon →](https://www.amazon.com/dp/B091FXH2FR?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$18–$20 for 4)
 
 At roughly $4.50 per plug in a 4-pack, the Kasa EP10 is the best price-to-performance ratio in the smart plug market. Kasa (TP-Link's smart home brand) has a well-designed app, excellent Alexa and Google Home integration, and a track record of reliability over years of use. The EP10 is compact enough to fit both outlets on a standard duplex outlet simultaneously.
 
@@ -83,7 +83,7 @@ At roughly $4.50 per plug in a 4-pack, the Kasa EP10 is the best price-to-perfor
 
 ### 2. Amazon Smart Plug — Best for Alexa Households
 
-**[Amazon Smart Plug on Amazon →](https://www.amazon.com/dp/B089DR29T6){rel="nofollow sponsored" target="_blank"}** (~$14–$20)
+**[Amazon Smart Plug on Amazon →](https://www.amazon.com/dp/B089DR29T6?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$14–$20)
 
 The Amazon Smart Plug is the simplest possible path to Alexa voice control. Setup takes literally 30 seconds if you already have an Alexa device — the Alexa app detects it automatically and asks to configure it. No separate app required. If your household runs on Amazon Echo devices, this is the lowest-friction option available.
 
@@ -104,7 +104,7 @@ The Amazon Smart Plug is the simplest possible path to Alexa voice control. Setu
 
 ### 3. Govee Smart Plug (4-pack) — Best with Energy Monitoring
 
-**[Govee Smart Plug on Amazon →](https://www.amazon.com/s?k=Govee+smart+plug+energy+monitoring){rel="nofollow sponsored" target="_blank"}** (~$18–$22 for 4)
+**[Govee Smart Plug on Amazon →](https://www.amazon.com/s?k=Govee+smart+plug+energy+monitoring&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$18–$22 for 4)
 
 Govee's smart plugs include energy monitoring — you can see real-time wattage, daily usage, and monthly cost estimates for any device plugged in. At ~$5 per plug in a 4-pack with energy monitoring included, this is exceptional value. The Govee app is solid, and the plugs work with both Alexa and Google Home.
 
@@ -126,7 +126,7 @@ Govee's smart plugs include energy monitoring — you can see real-time wattage,
 
 ### 4. Wyze Plug (2-pack) — Best Budget Option
 
-**[Wyze Plug 2-Pack on Amazon →](https://www.amazon.com/dp/B07XZT24B9){rel="nofollow sponsored" target="_blank"}** (~$9–$12 for 2)
+**[Wyze Plug 2-Pack on Amazon →](https://www.amazon.com/dp/B07XZT24B9?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$9–$12 for 2)
 
 Wyze makes aggressively priced smart home products, and the Wyze Plug is no exception. At about $5 per plug in a 2-pack, it's one of the cheapest smart plugs from a legitimate brand. Works with Alexa and Google Assistant, has schedules and automations, and integrates with the broader Wyze ecosystem (cameras, sensors) if you already use it.
 
@@ -148,7 +148,7 @@ Wyze makes aggressively priced smart home products, and the Wyze Plug is no exce
 
 ### 5. Eve Energy Smart Plug — Best for Apple HomeKit
 
-**[Eve Energy on Amazon →](https://www.amazon.com/dp/B09JWMBSNM){rel="nofollow sponsored" target="_blank"}** (~$35–$40 for a single plug)
+**[Eve Energy on Amazon →](https://www.amazon.com/dp/B09JWMBSNM?tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}** (~$35–$40 for a single plug)
 
 The Eve Energy is the only plug on this list that exceeds the $20 threshold — included here because it's the best option for iPhone/Siri/HomeKit users, and there's no true HomeKit competitor under $20. Eve uses Thread networking (more reliable than Wi-Fi for smart home devices), includes energy monitoring, and supports local control without requiring an internet connection.
 

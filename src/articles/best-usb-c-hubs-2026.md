@@ -26,7 +26,7 @@ We've tested USB-C hubs across MacBook Pro, MacBook Air, Windows ultrabooks, and
 
 ### 1. Anker 7-in-1 USB-C Hub — Best for MacBook (Mid-Range)
 
-**[Check price on Amazon](https://www.amazon.com/s?k=anker+7-in-1+usb-c+hub+macbook&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=anker+7-in-1+usb-c+hub+macbook&tag=nickpicks-20)**
 
 The Anker 7-in-1 is the most balanced USB-C hub for MacBook users who don't need Thunderbolt throughput. It adds 4K HDMI, 100W Power Delivery pass-through, two USB-A 3.0 ports, one USB-C 3.0 data port, SD, and microSD — all from a single USB-C connection. Compact enough to carry in a laptop bag. No external power required.
 
@@ -55,7 +55,7 @@ The Anker 7-in-1 is the most balanced USB-C hub for MacBook users who don't need
 
 ### 2. Satechi Slim Multi-Port Adapter — Best Aesthetic MacBook Hub
 
-**[Check price on Amazon](https://www.amazon.com/s?k=satechi+slim+multi-port+adapter+usb-c&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=satechi+slim+multi-port+adapter+usb-c&tag=nickpicks-20)**
 
 Satechi makes the best-looking hubs for Apple setups — anodized aluminum in Space Gray, Silver, and Blue matches MacBook finishes exactly. The Slim Multi-Port Adapter adds 4K HDMI, three USB-A 3.0, USB-C charging, and SD/microSD. The form factor is flat and low-profile rather than a dongle.
 
@@ -83,7 +83,7 @@ Satechi makes the best-looking hubs for Apple setups — anodized aluminum in Sp
 
 ### 3. CalDigit TS4 Thunderbolt 4 Dock — Best for MacBook Power Users
 
-**[Check price on Amazon](https://www.amazon.com/s?k=caldigit+ts4+thunderbolt+4+dock&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=caldigit+ts4+thunderbolt+4+dock&tag=nickpicks-20)**
 
 The CalDigit TS4 is the definitive Thunderbolt 4 dock for MacBook Pro users who need everything. It provides 18 ports total including Thunderbolt 4 downstream, DisplayPort, dual 4K display support, 2.5G Ethernet, SD card, and 98W host charging — from a single Thunderbolt cable to your MacBook. Performance is full-bandwidth Thunderbolt 4 (40Gbps) with no thermal throttling under sustained professional workloads.
 
@@ -116,7 +116,7 @@ The CalDigit TS4 is the definitive Thunderbolt 4 dock for MacBook Pro users who 
 
 ### 4. Baseus 11-in-1 USB-C Hub — Best for Windows Laptops
 
-**[Check price on Amazon](https://www.amazon.com/s?k=baseus+11-in-1+usb-c+hub+laptop&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=baseus+11-in-1+usb-c+hub+laptop&tag=nickpicks-20)**
 
 Windows ultrabooks (Dell XPS, Lenovo ThinkPad X-series, Asus ZenBook) use standard USB-C, not Thunderbolt, so a Thunderbolt dock is overkill. The Baseus 11-in-1 covers everything a Windows laptop user needs: dual HDMI for multi-monitor setups, 100W PD, four USB-A ports, USB-C data, Ethernet, SD, and microSD. Strong value for the port count.
 
@@ -148,7 +148,7 @@ Windows ultrabooks (Dell XPS, Lenovo ThinkPad X-series, Asus ZenBook) use standa
 
 ### 5. Belkin Connect Pro 12-in-1 — Best USB-C Hub with Power Delivery
 
-**[Check price on Amazon](https://www.amazon.com/s?k=belkin+connect+pro+12-in-1+usb-c+hub&tag=nickniche-20)**
+**[Check price on Amazon](https://www.amazon.com/s?k=belkin+connect+pro+12-in-1+usb-c+hub&tag=nickpicks-20)**
 
 Belkin's Connect Pro is engineered for power delivery reliability — critical if you're running a laptop, monitor, and charging from a single USB-C connection. Up to 100W PD pass-through, dual 4K HDMI, USB-A, USB-C, Ethernet, SD/microSD, and 3.5mm audio. Aluminum enclosure runs cooler than plastic alternatives.
 

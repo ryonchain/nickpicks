@@ -57,7 +57,7 @@ Here are the best desk cable management kits in 2026, from under-desk trays and 
 
 ### 1. Bluelounge CableBox Mini — Best Cable Management Box
 
-**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=Bluelounge+CableBox+Mini+cable+management){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$30 | [Check price on Amazon →](https://www.amazon.com/s?k=Bluelounge+CableBox+Mini+cable+management&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Bluelounge CableBox Mini is the cleanest solution for hiding a power strip and its wall-wart adapters in one sleek enclosure. Drop your power strip inside, route cables through the slots on either end, and replace the lid — the mess becomes a tidy rectangular box on or under your desk. The white and black colorways look at home in modern home office setups.
 
@@ -76,7 +76,7 @@ The Bluelounge CableBox Mini is the cleanest solution for hiding a power strip a
 
 ### 2. JOTO Cable Management Sleeve — Best Cable Sleeve Kit
 
-**Price:** ~$15 | [Check price on Amazon →](https://www.amazon.com/s?k=JOTO+cable+management+sleeve+desk){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$15 | [Check price on Amazon →](https://www.amazon.com/s?k=JOTO+cable+management+sleeve+desk&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Cable sleeves bundle multiple cables into a single organized cord — the best solution for the vertical run of cables from a monitor arm or desk surface down to the floor, or from the desk to a wall. The JOTO kit includes multiple lengths of neoprene sleeve that zip closed, plus cable clips for securing the bundled sleeve to the desk leg or wall.
 
@@ -93,7 +93,7 @@ Cable sleeves bundle multiple cables into a single organized cord — the best s
 
 ### 3. Alex Varga Under Desk Cable Management Tray — Best Under-Desk Cable Tray
 
-**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=under+desk+cable+management+tray+metal){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$35 | [Check price on Amazon →](https://www.amazon.com/s?k=under+desk+cable+management+tray+metal&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 An under-desk cable tray is the single highest-impact cable management upgrade for most setups. Attach it to the underside of the desk, drop the power strip into it, route all cables up from below, and the entire floor-level mess disappears. The Alex Varga steel mesh tray holds a standard power strip plus excess cable length with room to spare, and mounts with either screws or adhesive tape.
 
@@ -110,7 +110,7 @@ An under-desk cable tray is the single highest-impact cable management upgrade f
 
 ### 4. HellermannTyton Cable Tie Kit — Best Basic Cable Tie Set
 
-**Price:** ~$12 | [Check price on Amazon →](https://www.amazon.com/s?k=HellermannTyton+cable+tie+kit+assorted){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$12 | [Check price on Amazon →](https://www.amazon.com/s?k=HellermannTyton+cable+tie+kit+assorted&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Sometimes the best cable management is the most basic: a quality cable tie holds bundled cables together better and longer than twist ties, velcro wraps, or tape. HellermannTyton makes industrial-quality cable ties that are used in professional data centers and AV installations. Their assorted kit includes multiple lengths and widths for every cable bundling application.
 
@@ -127,7 +127,7 @@ Sometimes the best cable management is the most basic: a quality cable tie holds
 
 ### 5. SOULWIT Cable Management Box Large — Best Large Cable Management Box
 
-**Price:** ~$45 | [Check price on Amazon →](https://www.amazon.com/s?k=SOULWIT+cable+management+box+large){rel="nofollow sponsored" target="_blank"}
+**Price:** ~$45 | [Check price on Amazon →](https://www.amazon.com/s?k=SOULWIT+cable+management+box+large&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The SOULWIT Large is the right cable box for setups with a large power strip (8-12 outlet), multiple wall adapter bricks, and a surge protector. It's wider and deeper than the Bluelounge CableBox Mini and includes multiple cable routing slots so you can route both incoming power and all outgoing device cables through organized exit points.
 
@@ -160,7 +160,7 @@ The most effective desk cable management uses a layered approach:
 
 *All prices are approximate and subject to change. Check linked product pages for current pricing.*
 
-[Shop cable management on Amazon →](https://www.amazon.com/s?k=desk+cable+management+kit){rel="nofollow sponsored" target="_blank"}
+[Shop cable management on Amazon →](https://www.amazon.com/s?k=desk+cable+management+kit&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Frequently Asked Questions
 

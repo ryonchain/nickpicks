@@ -65,7 +65,7 @@ Before diving into picks, here's what separates the keepers from the duds:
 
 ### 1. Wyze Cam v4 — Best Overall Under $50
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Wyze+Cam+v4+indoor+security+camera){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Wyze+Cam+v4+indoor+security+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Wyze Cam v4 is the gold standard for budget indoor security cameras. At $35, it delivers 2.5K resolution, color night vision, and local microSD storage with no required subscription.
 
@@ -86,7 +86,7 @@ The Wyze Cam v4 is the gold standard for budget indoor security cameras. At $35,
 
 ### 2. Blink Outdoor 4 — Best Battery-Powered Outdoor Camera
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Blink+Outdoor+4+battery+security+camera){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Blink+Outdoor+4+battery+security+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Blink Outdoor 4 is Amazon's flagship battery-powered outdoor camera. Two AA lithium batteries last up to two years with typical use — no power cable, no outdoor outlet required.
 
@@ -107,7 +107,7 @@ The Blink Outdoor 4 is Amazon's flagship battery-powered outdoor camera. Two AA 
 
 ### 3. Eufy SoloCam E40 — Best Subscription-Free Outdoor Camera
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Eufy+SoloCam+E40+outdoor+security+camera){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Eufy+SoloCam+E40+outdoor+security+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If you're allergic to monthly fees, the Eufy SoloCam E40 is your camera. It stores video locally on 8GB of built-in encrypted storage — no cloud, no subscription, ever.
 
@@ -128,7 +128,7 @@ If you're allergic to monthly fees, the Eufy SoloCam E40 is your camera. It stor
 
 ### 4. Ring Stick Up Cam Battery (3rd Gen) — Best for Ring Ecosystem
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Ring+Stick+Up+Cam+Battery+3rd+Gen){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Ring+Stick+Up+Cam+Battery+3rd+Gen&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 If you have a Ring doorbell, the Stick Up Cam Battery is the obvious companion. It integrates seamlessly with Ring Alarm, Alexa, and the Ring app — one ecosystem for your entire home.
 
@@ -149,7 +149,7 @@ If you have a Ring doorbell, the Stick Up Cam Battery is the obvious companion. 
 
 ### 5. Google Nest Cam (Battery) — Best for Google Home
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Google+Nest+Cam+Battery+outdoor){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Google+Nest+Cam+Battery+outdoor&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 The Google Nest Cam Battery offers 3 hours of free event-based storage with no subscription — a step ahead of Ring's paywall requirements. It also integrates natively with Google Home and Chromecast displays.
 
@@ -170,7 +170,7 @@ The Google Nest Cam Battery offers 3 hours of free event-based storage with no s
 
 ### 6. Arlo Essential 2K (Wire-Free) — Best Image Quality Under $100
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Arlo+Essential+2K+Wire-Free+security+camera){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=Arlo+Essential+2K+Wire-Free+security+camera&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 Arlo's Essential 2K punches above its price with 2K resolution, color night vision, and an integrated spotlight. At around $90, it's near the top of our budget ceiling but justifies every dollar on image quality.
 

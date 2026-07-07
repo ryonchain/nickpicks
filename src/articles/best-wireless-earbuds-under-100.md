@@ -64,7 +64,7 @@ The Life P3 delivers the best ANC-to-price ratio on this list. Anker's 6-microph
 - Slightly bulky fit; some users find them large
 - App required to access full ANC customization
 
-[Check on Amazon](https://www.amazon.com/s?k=Soundcore+Life+P3&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Soundcore+Life+P3&tag=nickpicks-20)
 
 ---
 
@@ -91,7 +91,7 @@ Sony's sub-$100 ANC earbuds bring the brand's proven Dual Noise Sensor technolog
 - No aptX support
 - ANC effectiveness is good but not best-in-class at this price
 
-[Check on Amazon](https://www.amazon.com/s?k=Sony+WF-C700N&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Sony+WF-C700N&tag=nickpicks-20)
 
 ---
 
@@ -118,7 +118,7 @@ The EarFun Air Pro 3 is the codec champion of this list. LDAC support enables ne
 - Fit isn't the most secure during vigorous exercise
 - ANC at maximum can introduce slight audio artifacts
 
-[Check on Amazon](https://www.amazon.com/s?k=EarFun+Air+Pro+3&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=EarFun+Air+Pro+3&tag=nickpicks-20)
 
 ---
 
@@ -145,7 +145,7 @@ Jabra is built for calls and productivity. The Evolve2 Buds use six microphones 
 - No LDAC or aptX Adaptive
 - Music performance is secondary to call optimization
 
-[Check on Amazon](https://www.amazon.com/s?k=Jabra+Evolve2+buds&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=Jabra+Evolve2+buds&tag=nickpicks-20)
 
 ---
 
@@ -172,7 +172,7 @@ The 1More Aero is a dark horse pick that often flies under the radar. LDAC suppo
 - Brand recognition is lower (harder to find in stores)
 - App occasionally buggy on Android
 
-[Check on Amazon](https://www.amazon.com/s?k=1More+Aero+earbuds&tag=ryonchain-20)
+[Check on Amazon](https://www.amazon.com/s?k=1More+Aero+earbuds&tag=nickpicks-20)
 
 ---
 
@@ -194,4 +194,4 @@ Most of the models here have an IPX4 or IPX5 sweat resistance rating, making the
 
 For the best overall value and ANC performance, the **Soundcore Life P3** wins. For codec nerds and audiophiles, the **EarFun Air Pro 3** with LDAC is the pick. For professional call quality, nothing at this price beats the **Jabra**.
 
-[Shop wireless earbuds on Amazon](https://www.amazon.com/s?k=wireless+earbuds+ANC+under+100&tag=ryonchain-20)
+[Shop wireless earbuds on Amazon](https://www.amazon.com/s?k=wireless+earbuds+ANC+under+100&tag=nickpicks-20)

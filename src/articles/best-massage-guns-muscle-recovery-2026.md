@@ -63,7 +63,7 @@ Marketing obscures these specs constantly. Here's what to actually look for.
 
 ## 1. Theragun Prime — Best Overall Massage Gun for Recovery
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Theragun+Prime+massage+gun)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Theragun+Prime+massage+gun&tag=nickpicks-20)**
 
 The Theragun Prime earns its position as the benchmark. The 16mm amplitude reaches deeper than any competitor in this roundup — penetrating past the superficial fascia into the muscle belly itself, which is where DOMS lives. For post-leg-day recovery, the difference between 10mm and 16mm amplitude is noticeable.
 
@@ -90,7 +90,7 @@ The ergonomic triangle handle (Theragun's signature design) allows awkward-angle
 
 ## 2. Hypervolt 2 Pro — Best for Deep Tissue Work
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Hypervolt+2+Pro+massage+gun)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Hypervolt+2+Pro+massage+gun&tag=nickpicks-20)**
 
 The Hypervolt 2 Pro's advantage is stall force: 40+ lbs lets you dig into dense muscle tissue (glutes, quads, calves under full pressure) without the motor bogging. Three speed levels and a pressure sensor that lights up green/red based on applied force give real-time feedback for appropriate pressure application.
 
@@ -117,7 +117,7 @@ At ~$299, it's the most expensive pick here — justified if high-force quad and
 
 ## 3. Ekrin B37 — Best Value Massage Gun
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Ekrin+B37+massage+gun)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Ekrin+B37+massage+gun&tag=nickpicks-20)**
 
 The Ekrin B37 is the sleeper pick in this category. At ~$160, it delivers 56 lbs of stall force — higher than both the Theragun Prime and Hypervolt 2 Pro — with 8 hours of battery life per charge. 12mm amplitude is slightly below the premium picks but adequate for most recovery applications.
 
@@ -142,7 +142,7 @@ The 15-degree angled handle allows decent self-application. Four speed settings 
 
 ## 4. Theragun Relief — Best Budget Theragun
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Theragun+Relief)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Theragun+Relief&tag=nickpicks-20)**
 
 The Theragun Relief is the entry point to the Theragun ecosystem. At ~$100, it delivers 10mm amplitude and 20 lbs stall force — appropriate for general muscle tension, light recovery, and casual use. It won't penetrate dense muscle like the Prime, but it's the correct tool for daily neck and shoulder maintenance, travel, and users who don't need deep percussion.
 
@@ -167,7 +167,7 @@ Fixed single speed at 1,750 RPM simplifies operation. One attachment (standard b
 
 ## 5. Bob and Brad Q2 Mini — Best Compact Travel Massage Gun
 
-**[Check price on Amazon](https://www.amazon.com/s?k=Bob+and+Brad+Q2+Mini+massage+gun)**
+**[Check price on Amazon](https://www.amazon.com/s?k=Bob+and+Brad+Q2+Mini+massage+gun&tag=nickpicks-20)**
 
 The Q2 Mini is the travel massage gun. At 1.1 lbs and small enough for a carry-on personal item, it delivers legitimate percussion therapy at a fraction of the size of full-sized units. Three speed levels, 6 attachments, 3-hour battery, USB-C charging.
 
