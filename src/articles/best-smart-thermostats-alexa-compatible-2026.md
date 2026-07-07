@@ -194,3 +194,11 @@ All of the thermostats listed here (except the Amazon Smart Thermostat) work wit
 ---
 
 *All prices are estimates and subject to change. Check Amazon for current pricing and availability.*
+
+## Related Guides
+
+- [Best Smart Home Hubs 2026](/articles/best-smart-home-hubs-2026/)
+- [Best Smart Plugs 2026](/articles/best-smart-plugs-2026/)
+- [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/)
+- [Best Smart LED Bulbs 2026](/articles/best-smart-led-bulbs-2026/)
+- [Best Smart Thermostats 2026](/articles/best-smart-thermostats-2026/)

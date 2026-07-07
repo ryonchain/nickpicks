@@ -216,3 +216,11 @@ Yes, modern models transition from hard floor to carpet and back automatically. 
 
 **Are robot vacuums safe around pets?**
 Most pets habituate to robot vacuums within 1–2 weeks. The concern is the dock and charger cables — cover cables, and confirm the dock base is stable. Models with obstacle avoidance are safer in pet-dense homes.
+
+## Related Guides
+
+- [Best Smart Home Hubs 2026](/articles/best-smart-home-hubs-2026/)
+- [Best Cordless Vacuums 2026](/articles/best-cordless-vacuums-2026/)
+- [Best Smart Plugs 2026](/articles/best-smart-plugs-2026/)
+- [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/)
+- [Best Handheld Cordless Vacuums 2026](/articles/best-handheld-cordless-vacuums-2026/)
