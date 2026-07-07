@@ -1,196 +1,163 @@
 ---
-title: "Best Electric Lawn Mowers 2026"
+title: "Best Electric Lawn Mowers 2026: Top Cordless and Corded Picks"
+description: "Find the best electric lawn mowers of 2026. Expert picks for small to medium yards — quieter, cleaner, and lower maintenance than gas."
 date: 2026-07-07
-description: "The best electric lawn mowers of 2026 — corded, cordless, and robotic options for every yard size. No gas, no emissions, no carb maintenance."
-keywords: ["best electric lawn mower 2026", "cordless electric lawn mower", "battery lawn mower", "best electric mower review"]
-category: "Outdoor & Garden"
-amazonTag: "nickpicks-20"
+affiliate: amazon
+category: garden-outdoor
+tags: [electric-lawn-mower, cordless-mower, battery-mower, garden, lawn-care]
 ---
 
-*Disclosure: As an Amazon Associate, NickPicks earns from qualifying purchases. We may earn a commission when you buy through links on this page at no extra cost to you.*
+*Disclosure: This post contains Amazon affiliate links. We may earn a commission at no extra cost to you.*
 
 # Best Electric Lawn Mowers 2026
 
-Gas mowers are expensive to maintain, loud, and require winterizing every fall. Electric mowers start with a button press, emit zero fumes, and cost pennies per charge. In 2026, cordless battery-powered mowers finally deliver the runtime and cutting power to handle most residential lawns without compromise.
+Gas mowers are loud, smelly, and require seasonal maintenance. Electric lawn mowers are quieter, start instantly, and cost almost nothing to run. And in 2026, battery technology has finally caught up — today's cordless electric mowers handle most residential yards without compromise.
 
-We tested cordless push mowers, self-propelled models, and robotic options across small, medium, and large yards. Here are the ones worth buying.
+We tested the top models to find the best electric lawn mowers for every yard size and budget.
+
+---
 
 ## Quick Picks
 
-- **Best Overall:** EGO Power+ LM2135SP — 21-inch self-propelled, longest runtime, premium build
-- **Best Budget Cordless:** Greenworks 40V 20-inch — reliable, lightweight, great value
-- **Best for Large Yards:** EGO Power+ LM2156SP — 21-inch self-propelled with extended 10Ah battery
-- **Best Robot Mower:** Husqvarna Automower 315X — quietest, smartest, handles complex yards
-- **Best Corded Option:** Sun Joe MJ401E — simplest, cheapest, unlimited runtime
+| Best For | Model | Price Range |
+|---|---|---|
+| Best Overall | EGO Power+ LM2135SP | ~$599 |
+| Best Budget | Greenworks 40V 17" | ~$299 |
+| Best Self-Propelled | Ryobi 40V HP | ~$449 |
+| Best for Small Yards | Sun Joe MJ401E (corded) | ~$99 |
+| Best Heavy-Duty | Milwaukee M18 FUEL 21" | ~$699 |
 
-## Comparison Table
+---
 
-| Mower | Type | Cutting Width | Runtime | Best For |
-|-------|------|--------------|---------|----------|
-| EGO LM2135SP | Cordless self-propelled | 21 in | 70 min | Medium-large yards |
-| Greenworks 40V | Cordless push | 20 in | 45 min | Small-medium yards |
-| EGO LM2156SP | Cordless self-propelled | 21 in | 90+ min | Large yards |
-| Husqvarna 315X | Robot | 9.5 in blade | Automated | Hands-free mowing |
-| Sun Joe MJ401E | Corded push | 14 in | Unlimited | Small flat yards |
-
-## Our Top Electric Lawn Mowers
+## Our Top Picks
 
 ### 1. EGO Power+ LM2135SP — Best Overall Electric Mower
 
-The EGO Power+ LM2135SP is the best cordless lawn mower available for most homeowners. It uses EGO's 56V ARC lithium battery — the same platform as their leaf blowers, trimmers, and snow blowers — and delivers gas-equivalent cutting performance on a single charge.
+**Price: ~$599** *(includes 7.5Ah battery and charger)*
 
-**Key features:**
-- 21-inch steel deck with 6 cutting heights (1.5–4 inches)
-- Self-propelled with variable speed (0–4.5 mph)
-- Includes 7.5Ah battery and rapid charger
-- Rear-wheel drive for better traction on slopes
+The EGO LM2135SP is widely considered the best cordless electric lawn mower available. With a 56V 7.5Ah battery, it delivers up to 60 minutes of runtime — enough for a typical quarter-acre lot in one charge.
+
+**What we liked:**
+- Self-propelled with variable speed (0–4.7 mph)
+- 21-inch steel deck
 - 3-in-1: mulch, bag, or side discharge
-- Folding handles for compact storage
-- Compatible with all EGO 56V batteries
+- Folds flat for compact storage
+- Same battery platform works with 50+ EGO tools
 
-**Runtime:** ~70 minutes with the included 7.5Ah battery on a medium lawn. Up to 90+ minutes with an optional 10Ah battery (sold separately).
+**What could be better:**
+- Premium price vs. gas alternatives
+- Battery adds weight compared to corded options
 
-**Where it falls short:** Heavy at 73 lbs — heavier than comparable gas mowers of the same cut width. The self-propelled drive does most of the work, but it's noticeable when loading into a truck or storing on shelves.
+For homeowners ready to go gas-free without compromise, the EGO LM2135SP is the best investment.
 
-**Best for:** Homeowners with 1/4 to 1/2 acre yards who want a true gas-replacement mower with the best runtime in the cordless category.
-
-[Check price on Amazon →](https://www.amazon.com/s?k=EGO+Power+LM2135SP+self+propelled+lawn+mower&tag=nickpicks-20)
-
----
-
-### 2. Greenworks 40V 20-Inch — Best Budget Cordless Mower
-
-The Greenworks 40V is the best entry point into cordless lawn mowing. It's lightweight, easy to maneuver, and handles yards up to 1/4 acre reliably. For homeowners who've been putting off switching from gas, this is the lowest-friction entry.
-
-**Key features:**
-- 20-inch steel deck with 5 cutting heights (1.5–3.75 inches)
-- 40V 4Ah lithium-ion battery with 2A charger
-- Push mower — no self-propelled
-- Dual-blade system for better mulching
-- 3-in-1: mulch, bag, side discharge
-- Weighs 62 lbs — lighter than most gas mowers
-- Compatible with full Greenworks 40V tool lineup
-
-**Runtime:** ~45 minutes with the included 4Ah battery. Upgrade to the 5Ah battery (sold separately) for ~60 minutes.
-
-**Where it falls short:** No self-propelled drive — pushing on hilly yards is tiring. 45-minute runtime may require mid-lawn recharging for larger properties. Bag capacity is modest at 1.9 bushels.
-
-**Best for:** Homeowners with small to medium flat yards who want a reliable, affordable first cordless mower.
-
-[Check price on Amazon →](https://www.amazon.com/s?k=Greenworks+40V+20+inch+cordless+lawn+mower&tag=nickpicks-20)
+**[Check price on Amazon →](#)**
 
 ---
 
-### 3. EGO Power+ LM2156SP — Best for Large Yards
+### 2. Greenworks 40V 17" — Best Budget Cordless Mower
 
-If you have a yard over 1/2 acre, the LM2135SP's 70-minute runtime might leave you short. The EGO LM2156SP includes a 10Ah battery and offers up to 90+ minutes of runtime — enough for most large residential lots on a single charge.
+**Price: ~$299** *(includes battery and charger)*
 
-**Key features:**
-- 21-inch steel deck — same platform as LM2135SP
-- Includes 10Ah battery and 550W rapid charger
-- Self-propelled with speed select (0–4.5 mph)
-- Rear-wheel drive with traction control for slopes
-- Select Cut multi-blade design — finer mulch
-- Weather-resistant to IP56 standard
-- 3-in-1: mulch, bag, side discharge
+The Greenworks 40V is the best value cordless mower under $300. The 17-inch deck suits yards up to 1/4 acre, and the 40V 4Ah battery provides solid runtime for compact lots.
 
-**Runtime:** 90+ minutes on medium-density grass. Covers up to 1 acre on a single charge in optimal conditions.
+**Highlights:**
+- Lightweight at 44 lbs
+- 5 cutting height positions (1.25"–3.375")
+- 2-in-1 mulching and rear bagging
+- Push-button start — no pull cord, no choke
+- 4-year tool warranty, 2-year battery warranty
 
-**Where it falls short:** Premium price — significantly more expensive than the LM2135SP. The 10Ah battery is heavy, adding to total mower weight of 76 lbs.
+The Greenworks 40V is ideal for apartment dwellers with small yards or those trying battery mowers for the first time.
 
-**Best for:** Homeowners with 1/2 to 1+ acre lawns who need maximum runtime and want to finish without stopping to recharge.
-
-[Check price on Amazon →](https://www.amazon.com/s?k=EGO+Power+LM2156SP+lawn+mower&tag=nickpicks-20)
+**[Check price on Amazon →](#)**
 
 ---
 
-### 4. Husqvarna Automower 315X — Best Robot Lawn Mower
+### 3. Ryobi 40V HP Brushless Self-Propelled — Best Mid-Range Self-Propelled
 
-Robot mowers are the ultimate electric lawn mowing upgrade: you never touch the mower, and your lawn stays perfectly manicured year-round. The Husqvarna Automower 315X is the best robot mower for medium-complexity yards — it handles slopes up to 45%, creates a virtual map of your property, and operates almost silently.
+**Price: ~$449** *(tool only; battery sold separately)*
 
-**Key features:**
-- Handles up to 0.4 acres (17,000 sq ft)
-- Manages slopes up to 45% (24 degrees)
-- GPS-assisted navigation — automatic theft detection
-- App-controlled scheduling, zones, and no-go areas
-- Operates in rain — IP44 weather rating
-- 60dB noise level — barely audible
-- Works with Alexa and Google Home for voice scheduling
-- Anti-theft PIN and alarm
+The Ryobi 40V HP Self-Propelled mower makes mowing effortless — especially on hills or for those who find push mowing tiring. The brushless motor is more efficient and longer-lasting than brushed alternatives.
 
-**Setup:** Requires burying a boundary wire around your lawn's perimeter and obstacles (takes 1–3 hours for most yards). After initial setup, the mower runs autonomously on your schedule.
+**Highlights:**
+- Self-propelled with variable speed
+- 20-inch deck suitable for most residential yards
+- Brushless motor extends battery efficiency significantly
+- Compatible with Ryobi's entire 40V battery lineup
+- Handles slopes and thick grass better than comparable budget options
 
-**Where it falls short:** Installation requires burying a perimeter wire — time-consuming for complex yards. Not ideal for yards with many obstacles, tree roots, or irregular shapes. High upfront cost.
-
-**Best for:** Homeowners who want completely hands-free lawn care and are willing to invest in the setup.
-
-[Check price on Amazon →](https://www.amazon.com/s?k=Husqvarna+Automower+315X&tag=nickpicks-20)
+**[Check price on Amazon →](#)**
 
 ---
 
-### 5. Sun Joe MJ401E — Best Corded Electric Mower
+### 4. Sun Joe MJ401E — Best Corded Electric for Small Yards
 
-For small, flat yards where runtime is a concern and you don't want to think about battery management, a corded electric mower is the simplest and cheapest option. The Sun Joe MJ401E weighs just 29 lbs and starts every time with unlimited runtime.
+**Price: ~$99**
 
-**Key features:**
-- 14-inch cutting deck — ideal for small yards
-- 12-amp motor — lightweight and powerful for its size
-- 3 cutting heights (1.18–2.56 inches)
-- Instant start — no priming or pull-starting
-- Foldable handle for compact storage
-- No battery to maintain or replace
-- Weighs 29 lbs — extremely lightweight
+For yards under 3,000 sq ft, a corded electric mower makes perfect sense: unlimited runtime, no battery to degrade, and the lightest weight of any option. The Sun Joe MJ401E is the best in this category.
 
-**Runtime:** Unlimited — plugs into any standard outlet.
+**Highlights:**
+- 13-amp motor handles most grass types
+- 14-inch cutting width — ultra-maneuverable
+- 3 cutting heights (1.18"–2.52")
+- Detachable bag (7.4 gallon capacity)
+- Only 29 lbs — easy to carry up stairs or load into a vehicle
 
-**Where it falls short:** Extension cord required — awkward for larger yards or yards with obstacles. 14-inch deck means more passes per lawn. Not suitable for yards larger than 2,500 sq ft.
+Perfect for city townhouses, apartment patios, and smaller urban lots.
 
-**Best for:** Apartment dwellers with small patches of grass, condo owners, or anyone with a sub-1,500 sq ft yard who wants the simplest possible electric mower.
-
-[Check price on Amazon →](https://www.amazon.com/s?k=Sun+Joe+MJ401E+electric+lawn+mower&tag=nickpicks-20)
+**[Check price on Amazon →](#)**
 
 ---
 
-## Electric Lawn Mower Buying Guide
+### 5. Milwaukee M18 FUEL 21" — Best Heavy-Duty Cordless Mower
 
-### Matching Mower to Yard Size
+**Price: ~$699** *(tool only)*
 
-- **Under 2,500 sq ft (small):** Corded or 40V cordless push mower. Sun Joe MJ401E or Greenworks 40V.
-- **2,500–10,000 sq ft (medium):** 40V–56V cordless push or self-propelled. Greenworks or EGO LM2135SP.
-- **10,000–20,000 sq ft (large):** 56V self-propelled with large battery. EGO LM2156SP or robot mower.
-- **Over 20,000 sq ft (1/2 acre+):** Robot mower or commercial cordless. Husqvarna Automower or dual-battery setup.
+The Milwaukee M18 FUEL is the professional-grade electric mower for demanding users. Brushless motor technology and dual-battery compatibility give it power and runtime rivaling gas.
 
-### Cordless Battery Platforms
+**Highlights:**
+- POWERSTATE brushless motor for superior cutting power
+- Dual M18 battery slots for extended runtime (up to 75 min on two 12Ah batteries)
+- 21-inch steel deck
+- Self-propelled with intuitive speed control
+- Works with Milwaukee's massive M18 battery ecosystem (300+ tools)
 
-Investing in a battery platform pays dividends across your yard tools. EGO's 56V system powers mowers, trimmers, blowers, chainsaws, and snow blowers. Greenworks 40V and 80V platforms work similarly. Pick a brand early and buy into its ecosystem.
+If you're already invested in Milwaukee tools or need the most powerful electric mower available, the M18 FUEL is unmatched.
 
-### Self-Propelled vs. Push
+**[Check price on Amazon →](#)**
 
-If your yard has any hills or is larger than 5,000 sq ft, spend the extra money on a self-propelled model. Pushing a 60–70 lb mower uphill in summer heat defeats the "easier" promise of electric.
+---
 
-### Cutting Heights and Mulching
+## Corded vs. Cordless: Which Is Right for You?
 
-Most electric mowers support 3-in-1 cutting: bagging, mulching, and side discharge. Mulching returns nutrients to the lawn and saves you from emptying a bag — enable it when grass isn't too long.
+**Choose corded if:**
+- Your yard is under 3,000 sq ft
+- You have access to an outdoor outlet near the lawn
+- You want the lightest weight and lowest cost
+
+**Choose cordless if:**
+- Your yard is 3,000–8,000 sq ft
+- You value freedom of movement
+- You're building a battery tool ecosystem
+
+**Choose self-propelled if:**
+- You have slopes or hills
+- You have a large lawn (6,000+ sq ft)
+- You find push mowing physically tiring
 
 ---
 
 ## Frequently Asked Questions
 
-**Are electric lawn mowers as powerful as gas mowers?**
-Modern 56V cordless mowers match gas mowers for cutting power in typical residential grass. Gas has an advantage in thick, wet grass and commercial use — for most homeowners, a good cordless mower is indistinguishable from gas in daily use.
-
-**How long does it take to charge an electric lawn mower battery?**
-EGO's rapid charger charges a 7.5Ah battery in about 80 minutes and a 10Ah battery in about 100 minutes. Standard chargers take 3–5 hours.
-
-**Can I use an electric mower in wet grass?**
-Most cordless mowers are splash-resistant (IP56 or similar) and can handle damp grass. Avoid mowing in heavy rain or standing water. Wet grass also clumps, reducing cut quality and clogging the bag.
-
 **How long do electric lawn mower batteries last?**
-Most 56V batteries maintain 80%+ capacity for 300–500 charge cycles — roughly 5–10 years of typical seasonal use. EGO and Greenworks offer 5-year battery warranties.
+Most lithium-ion batteries last 3–5 years or 500+ charge cycles before noticeable capacity degradation.
 
-**Do I need to winterize an electric lawn mower?**
-No winterizing required. Store the battery indoors (not in a freezing garage) and clean the deck before storage. That's it.
+**Can electric mowers handle tall or wet grass?**
+Yes, but performance drops. For tall grass, raise the cutting height and do a second pass at a lower height. For wet grass, reduce speed and clean the deck after mowing.
+
+**Are electric mowers as powerful as gas?**
+Modern brushless 40V+ cordless mowers match or exceed gas models in cutting performance for residential use. Only commercial-grade gas mowers with large engines outperform them on thick, overgrown grass.
 
 ---
 
-*All prices are estimates and subject to change. Check Amazon for current pricing and availability.*
+*Prices shown are approximate and may vary. Check Amazon for current pricing and availability.*
