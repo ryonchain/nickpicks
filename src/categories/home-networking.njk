@@ -1,0 +1,42 @@
+---
+layout: base.njk
+title: "Home Networking Picks — Fast, Reliable Wi-Fi for Every Room"
+description: "Fast, reliable home Wi-Fi in 2026 — mesh Wi-Fi systems, routers, Wi-Fi extenders, and powerline adapters. Buying guides for every home size."
+permalink: /categories/home-networking/index.html
+categorySlug: home-networking
+---
+<section class="section">
+  <div class="section-inner">
+    <h1 class="section-title">Home Networking Picks</h1>
+    <p class="section-subtitle">Fast, reliable Wi-Fi for every room — mesh systems, routers, extenders, and more.</p>
+    <div class="category-intro">
+      <p>A slow or unreliable home network affects everything: video calls freeze mid-sentence, 4K streams buffer at the worst moment, and smart home devices in the far corner of your house struggle to connect. The fix used to mean a single upgraded router in a central location — but modern homes with thick walls, multiple floors, and dozens of connected devices need something more capable. Mesh Wi-Fi systems have changed how home networks work, using multiple nodes placed throughout your home to create a single seamless network with consistent speeds in every room. For simpler setups, a quality router upgrade alone can dramatically improve performance and range. Wi-Fi extenders offer a budget-friendly way to push coverage further into dead zones, and powerline adapters use your home's existing electrical wiring to carry a wired-speed connection anywhere in the house. We're building out our home networking coverage with hands-on testing of mesh Wi-Fi systems, standalone routers, Wi-Fi extenders, and powerline adapters — with honest data and clear recommendations for every home size and budget.</p>
+    </div>
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.category == "home-networking" or article.data.niche == "home-networking"
+           or ("mesh-wifi" in article.url)
+           or ("wifi-router" in article.url)
+           or ("wi-fi-router" in article.url)
+           or ("wifi-extender" in article.url)
+           or ("wi-fi-extender" in article.url)
+           or ("powerline-adapter" in article.url) %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Home Networking</span>
+            <a href="{{ article.url | url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+            </div>
+            <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <p class="section-subtitle" style="margin-top:2rem;color:#666;">Buying guides for mesh Wi-Fi, routers, extenders, and powerline adapters coming soon.</p>
+  </div>
+</section>

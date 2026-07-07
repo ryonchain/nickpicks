@@ -1,0 +1,42 @@
+---
+layout: base.njk
+title: "Baby & Family Picks — Top-Rated Products for New Parents"
+description: "Top-rated baby products for new parents in 2026 — video baby monitors, strollers, car seats, and feeding gear. Honest picks for every budget."
+permalink: /categories/baby-family/index.html
+categorySlug: baby-family
+---
+<section class="section">
+  <div class="section-inner">
+    <h1 class="section-title">Baby &amp; Family Picks</h1>
+    <p class="section-subtitle">Top-rated products for growing families — reviewed for safety, reliability, and real-world use.</p>
+    <div class="category-intro">
+      <p>Becoming a parent means making more important product decisions in less time than at any other point in your life. The wrong baby monitor leaves you squinting at a blurry screen across the room at 3 a.m. The wrong stroller folds awkwardly on the bus, tips on uneven pavement, and takes three minutes to break down. The wrong car seat installs incorrectly in a way you won't discover until the moment it matters. We built these guides for parents who want clear, honest recommendations — without the marketing hype that makes every product sound like a five-star essential. Our baby and family coverage focuses on the categories that matter most in the first three years: video baby monitors with reliable range and night vision, convertible car seats that grow with your child, strollers for every lifestyle and budget, diaper bags and changing gear, and feeding equipment that actually works. We test each category hands-on, talk to parents who've used these products for months, and recommend only what we'd buy for our own families.</p>
+    </div>
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.category == "baby" or article.data.category == "baby-family"
+           or article.data.niche == "baby-safety" or article.data.niche == "baby-parenting"
+           or ("baby-monitor" in article.url)
+           or ("baby-stroller" in article.url)
+           or ("baby-bottle" in article.url)
+           or ("diaper-pail" in article.url)
+           or ("diaper-bag" in article.url)
+           or ("car-seat" in article.url and "cushion" not in article.url and "organizer" not in article.url) %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Baby &amp; Family</span>
+            <a href="{{ article.url | url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+            </div>
+            <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
