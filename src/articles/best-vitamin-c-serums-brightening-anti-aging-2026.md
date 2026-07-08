@@ -212,3 +212,7 @@ Topical vitamin C is generally considered safe during pregnancy. Consult your OB
 
 **Does vitamin C serum expire?**
 L-ascorbic acid serums oxidize over time. Discard when the serum turns noticeably yellow or orange — oxidized vitamin C is less effective and may even be pro-oxidant. Typically 3–6 months after opening.
+
+---
+
+**Related Guides:** [Best Vitamin C Serums](/articles/best-vitamin-c-serums-2026/) · [Best Hair Dryers 2026](/articles/best-hair-dryers-2026/) · [Best Face Serums 2026](/articles/best-face-serums-2026/)

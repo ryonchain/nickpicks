@@ -181,3 +181,7 @@ For most homes: **Google Nest Cam Outdoor Battery** at ~$179 — excellent image
 Indoor budget: **Eufy Indoor Cam 2K** at ~$39 — 2K resolution and local storage without any subscription cost.
 
 Video doorbell: **Ring Video Doorbell Pro 2** — head-to-toe view and 3D motion detection are worth the premium over Ring's budget models.
+
+---
+
+**Related Guides:** [Best Smart Home Hubs in 2026](/articles/best-smart-home-hubs-2026/) · [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/) · [Best Smart Thermostats in 2026](/articles/best-smart-thermostats-2026/)

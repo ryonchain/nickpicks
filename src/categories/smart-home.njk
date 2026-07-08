@@ -1,17 +1,27 @@
 ---
 layout: base.njk
-title: "Smart Home Reviews & Buying Guides"
-description: "Robot vacuums, smart speakers, and home automation gear — honest reviews of what actually works."
+title: "Smart Home Picks — The Best Smart Home Devices in 2026"
+description: "The best smart home devices of 2026 — smart speakers, thermostats, robot vacuums, doorbells, security cameras, and smart plugs. Honest reviews and top picks."
 permalink: /categories/smart-home/index.html
 categorySlug: smart-home
 ---
 <section class="section">
   <div class="section-inner">
-    <h1 class="section-title">Smart Home</h1>
-    <p class="section-subtitle">Robot vacuums, smart speakers, and home automation gear — honest reviews of what actually works.</p>
+    <h1 class="section-title">Smart Home Picks</h1>
+    <p class="section-subtitle">The best smart home devices in 2026 — honest reviews of what actually works.</p>
+    <div class="category-intro">
+      <p>Making your home smarter doesn't have to mean buying into a single ecosystem or spending a fortune on devices you'll struggle to use. The right smart home gear works quietly in the background — adjusting your thermostat before you wake up, letting you see who's at the door from anywhere in the world, and turning off the lights you forgot about before bed. In 2026, the technology has matured enough that most smart home devices are genuinely reliable, with setup times measured in minutes rather than hours. We cover the full range of smart home categories: smart speakers and displays that act as your home's control center, smart doorbells and security cameras to keep your home safe, smart thermostats that cut your energy bill without sacrificing comfort, robot vacuums that handle daily cleaning on a schedule, smart plugs that give any lamp or appliance app and voice control, and mesh Wi-Fi systems that eliminate dead zones in every room. Every guide is based on hands-on testing, not spec sheets.</p>
+    </div>
     <div class="article-grid">
       {% for article in collections.articlesByDate %}
-        {% if article.data.category == "smart-home" %}
+        {% if article.data.category == "smart-home" or article.data.niche == "smart-home"
+           or ("robot-vacuum" in article.url)
+           or ("smart-doorbell" in article.url)
+           or ("smart-thermostat" in article.url)
+           or ("smart-speaker" in article.url)
+           or ("smart-security-camera" in article.url)
+           or ("smart-plug" in article.url)
+           or ("smart-home" in article.url) %}
         <article class="article-card">
           <div class="card-body">
             <span class="card-category">Smart Home</span>

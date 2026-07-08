@@ -136,3 +136,7 @@ Dyson's HP07 adds heating and fan circulation to air purification — replacing 
 ---
 
 *All prices reflect typical Amazon listings and may vary. Check Amazon for current pricing and availability.*
+
+---
+
+**Related Guides:** [best air purifiers 2026](/articles/best-air-purifiers-2026/) · [air purifiers for allergies](/articles/best-air-purifiers-for-allergies-2026/) · [air quality monitors](/articles/best-air-quality-monitors-2026/) · [air purifiers for home office](/articles/best-air-purifiers-home-office-2026/)

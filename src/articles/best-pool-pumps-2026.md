@@ -169,3 +169,8 @@ For Intex and other inflatable or seasonal pools up to 8,000 gallons, the Intex 
 **Noise:** Variable speed pumps at low speed are dramatically quieter than single-speed pumps. If your equipment pad is near a patio or neighbor's fence, noise matters.
 
 **Utility Rebates:** Many electric utilities offer $100–$300 rebates for installing ENERGY STAR certified variable speed pumps. Check your utility's website before purchasing.
+
+## Related Guides
+
+- [Best Robotic Pool Cleaners 2026](/articles/best-robotic-pool-cleaners-2026/)
+*All prices are approximate and subject to change. Check Amazon for current pricing.*

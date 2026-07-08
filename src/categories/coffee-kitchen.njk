@@ -1,0 +1,43 @@
+---
+layout: base.njk
+title: "Coffee & Kitchen Picks — Upgrade Your Morning Routine"
+description: "The best coffee and kitchen gear in 2026 — coffee grinders, coffee makers, electric kettles, air fryer ovens, Instant Pots, and blenders. Reviewed and ranked."
+permalink: /categories/coffee-kitchen/index.html
+categorySlug: coffee-kitchen
+---
+<section class="section">
+  <div class="section-inner">
+    <h1 class="section-title">Coffee &amp; Kitchen Picks</h1>
+    <p class="section-subtitle">The best kitchen and coffee gear in 2026 — reviewed for performance, value, and daily use.</p>
+    <div class="category-intro">
+      <p>The best kitchen upgrades are the ones you use every single day. A great burr coffee grinder makes your morning cup noticeably better than anything you'd get from pre-ground beans — it's one of the highest-impact improvements a home coffee drinker can make. A capable air fryer oven handles crispy chicken wings, roasted vegetables, and toast all from a single countertop appliance. An electric kettle with precise temperature control is the difference between a good pour-over and a bitter one. These aren't luxury purchases — they're tools that pay back their cost in daily enjoyment over years of use. Our kitchen and coffee coverage cuts through the crowded market to find what's actually worth buying. We cover burr coffee grinders for every brew method, drip and espresso coffee makers that justify their price tag, electric kettles for coffee and tea enthusiasts, air fryer ovens that replace multiple appliances, Instant Pots and pressure cookers that transform weeknight cooking, and high-performance blenders for smoothies and sauces. Every recommendation is based on real kitchen testing, not unboxing impressions.</p>
+    </div>
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.niche == "kitchen" or article.data.niche == "kitchen-appliances"
+           or ("coffee-grinder" in article.url)
+           or ("coffee-maker" in article.url)
+           or ("cold-brew" in article.url)
+           or ("electric-kettle" in article.url)
+           or ("air-fryer-oven" in article.url)
+           or ("instant-pot" in article.url)
+           or ("pressure-cooker" in article.url)
+           or ("blender" in article.url) %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Coffee &amp; Kitchen</span>
+            <a href="{{ article.url | url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+            </div>
+            <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -146,3 +146,10 @@ Nanoleaf's Essentials A19 uses Thread, the low-power mesh protocol that underpin
 - **Best budget full-color:** Kasa KL135
 - **Best effects and music sync:** Govee
 - **Building a Matter/Thread-native home:** Nanoleaf Essentials
+
+## Related Guides
+
+- [Best Smart Home Hubs 2026](/articles/best-smart-home-hubs-2026/)
+- [Best Smart Plugs 2026](/articles/best-smart-plugs-2026/)
+- [Best Smart Light Switches (No Neutral Wire) 2026](/articles/best-smart-light-switches-no-neutral-wire-2026/)
+- [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/)

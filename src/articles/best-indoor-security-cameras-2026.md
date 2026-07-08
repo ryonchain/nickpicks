@@ -270,3 +270,7 @@ A 130–140 degree field of view covers most living rooms and entryways from a s
 **Best for privacy**: Eufy Indoor Cam E220 — fully local AI, no subscription, Apple HomeKit Secure Video support.
 
 For most homeowners starting with one camera: the **Wyze Cam v4** covers 90% of needs at 35% of the Arlo price. Add a subscription only if AI detection accuracy matters.
+
+---
+
+**Related Guides:** [Best Smart Home Hubs in 2026](/articles/best-smart-home-hubs-2026/) · [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/) · [Best Smart Thermostats in 2026](/articles/best-smart-thermostats-2026/)

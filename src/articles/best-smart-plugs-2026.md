@@ -194,3 +194,12 @@ The trade-off is app quality and ecosystem breadth: Govee's app is functional bu
 **Measure before buying.** Large smart plugs can block adjacent outlets on a power strip or duplex outlet. Check the product dimensions and the spacing on your outlet before ordering.
 
 **Automation > manual control.** The real value of smart plugs is in automations — sunrise/sunset schedules, presence-based on/off, power draw alerts. Set these up once; the plug becomes invisible infrastructure.
+
+## Related Guides
+
+- [Best Smart Home Hubs 2026](/articles/best-smart-home-hubs-2026/)
+- [Best Smart Thermostats 2026](/articles/best-smart-thermostats-2026/)
+- [Best Smart LED Bulbs 2026](/articles/best-smart-led-bulbs-2026/)
+- [Best Smart Light Switches (No Neutral Wire) 2026](/articles/best-smart-light-switches-no-neutral-wire-2026/)
+- [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/)
+- [Best Smart Speakers: Echo, Nest, HomePod Compared](/articles/best-smart-speakers/)

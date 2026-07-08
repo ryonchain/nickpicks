@@ -138,3 +138,9 @@ The Sea Eagle 330 solves the storage and transport problem — it packs into a b
 ---
 
 *All prices reflect typical Amazon listings and may vary. Check Amazon for current pricing and availability.*
+
+## Related Guides
+
+- [Best Stand Up Paddle Boards 2026](/articles/best-stand-up-paddle-boards-2026/)
+- [Best Pickleball Paddles 2026](/articles/best-pickleball-paddles-2026/)
+*All prices are approximate and subject to change. Check Amazon for current pricing.*
