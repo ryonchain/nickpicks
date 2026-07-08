@@ -1,10 +1,14 @@
 ---
+layout: article.njk
 title: "Best Wine Coolers and Refrigerators 2026: Top Picks for Every Collection"
 description: "Find the best wine coolers and refrigerators of 2026. Expert picks for built-in, freestanding, dual zone, and countertop wine storage — with temperature control and capacity comparisons."
 date: 2026-07-07
 affiliate: amazon
 category: kitchen-appliances
 tags: [wine-cooler, wine-fridge, wine-refrigerator, wine-storage, beverage-center]
+ratingValue: "4.8"
+ratingCount: 5
+topProduct: "NewAir 28-Bottle Dual Zone Wine Cooler"
 ---
 
 *Disclosure: This post contains Amazon affiliate links. We may earn a commission at no extra cost to you.*

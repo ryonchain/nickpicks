@@ -19,6 +19,9 @@ products:
   - name: "Yongnuo LED Desk Mat"
     position: 4
     description: "Best Budget LED Desk Mat"
+ratingValue: "4.8"
+ratingCount: 4
+topProduct: "Razer Goliathus Chroma Extended"
 faqs:
   - question: "What is the best LED desk mat in 2026?"
     answer: "The Razer Goliathus Chroma Extended is the best overall — its Razer Chroma RGB integration provides 16.8 million color options, the micro-weave surface is consistent for both optical and laser mice, and the rubber base keeps it firmly in place."

@@ -22,6 +22,9 @@ products:
   - name: "FYSMY Laptop Stand"
     position: 5
     description: "Best Budget Adjustable Pick"
+ratingValue: "4.8"
+ratingCount: 5
+topProduct: "Lamicall Adjustable Laptop Stand"
 faqs:
   - question: "What is the best adjustable laptop stand for desk use?"
     answer: "The Lamicall Adjustable Laptop Stand is the best overall pick for desk use, offering wide height and angle adjustability in a stable aluminum build under $35."

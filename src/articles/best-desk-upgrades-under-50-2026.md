@@ -22,6 +22,9 @@ products:
   - name: "VIVO Single Monitor Stand Riser"
     position: 5
     description: "Best Display Upgrade Under $30"
+ratingValue: "4.7"
+ratingCount: 5
+topProduct: "BenQ ScreenBar Monitor Light"
 faqs:
   - question: "What is the best desk upgrade under $50?"
     answer: "Desk lighting is the single highest-impact upgrade under $50. A monitor light bar like the BenQ ScreenBar eliminates glare, reduces eye strain, and visually elevates any desk setup immediately. Cable management is a close second — going from a visible cable tangle to a clean desk takes under an hour and costs under $15."

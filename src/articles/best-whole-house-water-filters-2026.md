@@ -1,10 +1,14 @@
 ---
+layout: article.njk
 title: "Best Whole House Water Filters 2026: Top Systems for Clean Water Everywhere"
 description: "Find the best whole house water filters of 2026. Expert picks for city water, well water, and hard water — with flow rates, filter lifespan, and installation tips."
 date: 2026-07-07
 affiliate: amazon
 category: home-improvement
 tags: [whole-house-water-filter, water-filtration, water-softener, home-improvement, well-water]
+ratingValue: "4.8"
+ratingCount: 5
+topProduct: "iSpring WGB32B 3-Stage Whole House Water Filter"
 ---
 
 *Disclosure: This post contains Amazon affiliate links. We may earn a commission at no extra cost to you.*

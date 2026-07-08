@@ -1,10 +1,14 @@
 ---
+layout: article.njk
 title: "Best Multi-Device Wireless Charging Pads 2026"
 date: 2026-07-07
 description: "The best multi-device wireless charging pads and stations of 2026 — charge your phone, earbuds, and smartwatch simultaneously. Compared for speed, compatibility, and desk footprint."
 keywords: ["best multi device wireless charger 2026", "wireless charging pad multiple devices", "best wireless charging station 2026", "charge phone watch earbuds wireless"]
 category: "Electronics"
 amazonTag: "nickpicks-20"
+ratingValue: "4.9"
+ratingCount: 5
+topProduct: "Anker MagGo Wireless Charging Station"
 ---
 
 *Disclosure: As an Amazon Associate, NickPicks earns from qualifying purchases. We may earn a commission when you buy through links on this page at no extra cost to you.*

@@ -63,6 +63,42 @@
 }
 </script>
 
+{# Review + AggregateRating schema for articles with ratingValue and topProduct frontmatter #}
+{% if ratingValue and topProduct %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": {{ title | dump | safe }},
+  "reviewBody": {{ description | dump | safe }},
+  "url": {{ (siteUrl + (page.url | stripPathPrefix)) | dump | safe }},
+  "datePublished": "{{ date | date("yyyy-MM-dd") }}",
+  "author": {
+    "@type": "Organization",
+    "name": "NickPicks",
+    "url": {{ siteUrl | dump | safe }}
+  },
+  "itemReviewed": {
+    "@type": "Product",
+    "name": {{ topProduct | dump | safe }}{% if ratingCount %},
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "{{ ratingValue }}",
+      "ratingCount": "{{ ratingCount }}",
+      "bestRating": "5",
+      "worstRating": "1"
+    }{% endif %}
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ ratingValue }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
+{% endif %}
+
 {# ItemList + Product/Review schema for listicle articles #}
 {% if products and products.length %}
 <script type="application/ld+json">

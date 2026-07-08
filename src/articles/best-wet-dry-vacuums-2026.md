@@ -1,10 +1,14 @@
 ---
+layout: article.njk
 title: "Best Wet/Dry Vacuums 2026: Top Shop Vac Picks for Home and Garage"
 description: "Find the best wet/dry vacuums of 2026. Expert picks for garages, workshops, and home cleanup — with gallon capacity, suction power, and filter ratings."
 date: 2026-07-07
 affiliate: amazon
 category: home-improvement
 tags: [wet-dry-vacuum, shop-vac, workshop-vacuum, garage-vacuum, home-cleaning]
+ratingValue: "4.7"
+ratingCount: 5
+topProduct: "RIDGID 16-Gallon 6.5 HP Wet/Dry Vacuum"
 ---
 
 *Disclosure: This post contains Amazon affiliate links. We may earn a commission at no extra cost to you.*

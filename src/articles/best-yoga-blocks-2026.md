@@ -22,6 +22,9 @@ products:
   - name: "Lululemon Lift and Lengthen Yoga Block"
     position: 5
     description: "Best Foam Block for Hot Yoga"
+ratingValue: "4.7"
+ratingCount: 5
+topProduct: "Manduka Recycled Foam Yoga Block"
 faqs:
   - question: "What size yoga block should I get?"
     answer: "The standard yoga block size is 9\" x 6\" x 4\". This size works for the vast majority of poses and practitioners. Taller practitioners or those with limited flexibility may prefer a 9\" x 6\" x 5\" block for extra height. If you're unsure, start with the standard 4-inch block."

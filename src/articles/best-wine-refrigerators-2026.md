@@ -1,10 +1,14 @@
 ---
+layout: article.njk
 title: "Best Wine Refrigerators in 2026"
 description: "The best wine refrigerators in 2026 — countertop, freestanding, and built-in wine coolers for red, white, and dual-zone storage from 6 to 50+ bottles."
 date: 2026-07-07
 category: kitchen-entertainment
 tags: ["wine refrigerator","wine cooler","wine storage","beverage cooler","amazon associates"]
 affiliate: true
+ratingValue: "4.7"
+ratingCount: 6
+topProduct: "NewAir AWR-290DB 29-Bottle Wine Fridge"
 ---
 
 # Best Wine Refrigerators in 2026

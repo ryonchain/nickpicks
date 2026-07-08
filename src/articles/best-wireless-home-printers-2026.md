@@ -1,10 +1,14 @@
 ---
+layout: article.njk
 title: "Best Wireless Home Printers 2026: Print Without the Hassle"
 description: "The best wireless home printers of 2026 — expert picks for photos, documents, and all-in-one use. Reliable Wi-Fi, low ink costs, and easy setup compared."
 date: 2026-07-07
 affiliate: amazon
 category: home-office
 tags: [wireless-printer, home-printer, inkjet-printer, laser-printer, all-in-one-printer, home-office]
+ratingValue: "4.8"
+ratingCount: 5
+topProduct: "HP Smart Tank 7301"
 ---
 
 *Disclosure: This post contains Amazon affiliate links. We may earn a commission at no extra cost to you.*
