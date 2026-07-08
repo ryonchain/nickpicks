@@ -195,6 +195,7 @@ Yes, for a first purchase. Running store staff do free gait analysis and can rec
 
 ## Related Guides
 
+- [Best Compression Socks for Travel and Running](/articles/best-compression-socks-travel-running-2026/)
 - [Best Adjustable Dumbbells 2026](/articles/best-adjustable-dumbbells-2026/)
 - [Best Resistance Band Sets 2026](/articles/best-resistance-band-sets-2026/)
 - [Best Fitness Trackers 2026](/articles/best-fitness-trackers-2026/)

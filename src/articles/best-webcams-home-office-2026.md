@@ -178,4 +178,4 @@ The Razer Kiyo Pro is the standout for low-light due to its adaptive light senso
 
 ---
 
-**Related Guides:** [home office setup](/articles/best-home-office-setup-under-1000/) · [home office essentials guide](/articles/pro-home-office-setup-guide-2026/) · [headphones for work](/articles/best-headphones-for-work-2026/) · [home office lighting](/articles/best-home-office-lighting-under-50/) · [blue light glasses](/articles/best-blue-light-blocking-glasses-2026/)
+**Related Guides:** [Best Podcast Microphone Starter Kits](/articles/best-podcast-microphone-starter-kits-2026/) · [home office setup](/articles/best-home-office-setup-under-1000/) · [home office essentials guide](/articles/pro-home-office-setup-guide-2026/) · [headphones for work](/articles/best-headphones-for-work-2026/) · [home office lighting](/articles/best-home-office-lighting-under-50/)

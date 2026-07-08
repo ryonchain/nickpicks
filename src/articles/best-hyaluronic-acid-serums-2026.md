@@ -233,4 +233,4 @@ Paula's Choice designs everything with ingredient science transparency, and the 
 
 ---
 
-**Related Guides:** [Best Vitamin C Serums](/articles/best-vitamin-c-serums-2026/) · [Best Hair Dryers 2026](/articles/best-hair-dryers-2026/) · [Best Face Serums 2026](/articles/best-face-serums-2026/)
+**Related Guides:** [Best Face Sheet Masks](/articles/best-face-sheet-masks-skincare-2026/) · [Best Vitamin C Serums](/articles/best-vitamin-c-serums-2026/) · [Best Hair Dryers 2026](/articles/best-hair-dryers-2026/) · [Best Face Serums 2026](/articles/best-face-serums-2026/)

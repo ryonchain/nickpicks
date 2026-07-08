@@ -203,4 +203,4 @@ At $180, the Archon PR-100 is the cheapest full cage on this list. Suitable for 
 
 ---
 
-**Related Guides:** [Best Resistance Band Sets 2026](/articles/best-resistance-band-sets-2026/) · [Best Yoga Blocks 2026](/articles/best-yoga-blocks-2026/) · [Home Gym Essentials Under $100](/articles/home-gym-essentials-under-100/)
+**Related Guides:** [Best Pull-Up Bars for Home Gym](/articles/best-pull-up-bars-home-gym-2026/) · [Best Resistance Band Sets 2026](/articles/best-resistance-band-sets-2026/) · [Home Gym Essentials Under $100](/articles/home-gym-essentials-under-100/) · [Best Yoga Blocks 2026](/articles/best-yoga-blocks-2026/)

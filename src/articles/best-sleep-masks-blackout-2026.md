@@ -146,3 +146,6 @@ Flat masks that press against the skin can increase friction on the delicate eye
 - Silk masks: hand wash cold with gentle detergent, air dry
 - Foam/polyester masks: spot clean or gentle machine wash cold, air dry only
 - Weighted bead masks: check manufacturer instructions — most are machine washable on delicate
+
+
+**Related Guides:** [Best Weighted Blankets](/articles/best-weighted-blankets-2026/) · [Best White Noise Machines](/articles/best-white-noise-machines-2026/) · [Best Sleep Trackers](/articles/best-sleep-trackers-2026/)

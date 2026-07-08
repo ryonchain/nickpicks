@@ -148,3 +148,6 @@ Start with a doorframe no-drill bar. It costs $20–40, takes seconds to set up,
 
 **How much weight can a doorframe pull-up bar hold?**
 Most doorframe bars are rated 250–300 lbs. This is the combined weight of the user plus any added weight (weighted vest, belt). If you're close to the rating, go with a wall mount instead.
+
+
+**Related Guides:** [Best Home Gym Power Racks](/articles/best-home-gym-power-racks-2026/) · [Best Resistance Band Sets for Home Gym](/articles/best-resistance-band-sets-home-gym-2026/) · [Best Home Gym Equipment for Small Spaces](/articles/best-home-gym-equipment-small-spaces-2026/)

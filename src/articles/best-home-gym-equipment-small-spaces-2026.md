@@ -201,4 +201,4 @@ For protecting floors and reducing noise, yes — especially in apartments. 3/4"
 
 ---
 
-**Related Guides:** [Best Resistance Band Sets 2026](/articles/best-resistance-band-sets-2026/) · [Best Yoga Blocks 2026](/articles/best-yoga-blocks-2026/) · [Best Foam Rollers](/articles/best-foam-rollers-2026/)
+**Related Guides:** [Best Resistance Band Sets 2026](/articles/best-resistance-band-sets-2026/) · [Best Kettlebell Sets for Home Gym](/articles/best-kettlebell-sets-home-gym-2026/) · [Best Pull-Up Bars for Home Gym](/articles/best-pull-up-bars-home-gym-2026/) · [Best Foam Rollers](/articles/best-foam-rollers-2026/)
