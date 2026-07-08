@@ -153,3 +153,7 @@ Luna's blankets work. They don't have the premium finish of Gravity or the ecolo
 **Washing:** Blankets over 15 lb typically need a commercial washer. Factor this into your decision if home laundry is important to you.
 
 **Try before committing:** Start with a mid-weight option (15 lb for most adults). You can always go heavier if you want more pressure — going too heavy makes it hard to reposition during the night.
+
+---
+
+**Related Guides:** [Best Home Office Setup Under $1,000](/articles/best-home-office-setup-under-1000/) · [Best Desk Cable Management in 2026](/articles/best-cable-management-desk-2026/) · [Best Ergonomic Keyboards for Home Office](/articles/best-ergonomic-keyboards-home-office-2026/)

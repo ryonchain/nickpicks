@@ -5,7 +5,7 @@ permalink: /articles/best-air-quality-monitors-home-2026/
 category: Home & Health
 tags: ["air quality monitor", "indoor air quality", "AQI", "PM2.5", "VOC monitor", "CO2 monitor"]
 date: 2026-07-07
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

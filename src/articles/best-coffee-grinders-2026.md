@@ -5,7 +5,7 @@ permalink: /articles/best-coffee-grinders-2026/
 category: Kitchen & Dining
 tags: ["coffee grinder", "burr grinder", "blade grinder", "Baratza", "Fellow Ode", "espresso grinder", "pour over"]
 date: 2026-07-07
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

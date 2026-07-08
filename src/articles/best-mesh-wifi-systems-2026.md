@@ -5,7 +5,7 @@ permalink: /articles/best-mesh-wifi-systems-2026/
 category: Smart Home & Tech
 tags: ["mesh wifi", "mesh router", "whole home wifi", "wifi system", "eero", "Orbi", "Google Nest Wifi"]
 date: 2026-07-07
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

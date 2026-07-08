@@ -5,7 +5,7 @@ permalink: /articles/best-electric-kettles-2026/
 category: Kitchen & Dining
 tags: ["electric kettle", "gooseneck kettle", "variable temperature kettle", "pour over coffee", "tea kettle"]
 date: 2026-07-07
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

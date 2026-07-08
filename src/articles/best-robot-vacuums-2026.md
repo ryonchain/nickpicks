@@ -5,7 +5,7 @@ permalink: /articles/best-robot-vacuums-2026/
 category: Home & Kitchen
 tags: ["robot vacuum", "home cleaning", "smart home", "vacuum cleaner", "Roomba", "Roborock"]
 date: 2026-07-07
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

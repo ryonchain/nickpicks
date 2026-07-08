@@ -5,7 +5,7 @@ permalink: /articles/best-smart-doorbells-2026/
 category: Smart Home & Security
 tags: ["smart doorbell", "video doorbell", "Ring", "Nest Doorbell", "Eufy", "Arlo", "home security"]
 date: 2026-07-07
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

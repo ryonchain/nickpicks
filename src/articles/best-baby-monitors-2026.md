@@ -5,7 +5,7 @@ permalink: /articles/best-baby-monitors-2026/
 category: Baby & Parenting
 tags: ["baby monitor", "video baby monitor", "baby camera", "parenting", "infant safety", "Nanit", "Infant Optics"]
 date: 2026-07-07
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*
