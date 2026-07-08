@@ -6,6 +6,13 @@ category: home-office
 date: 2026-07-06
 readTime: 10
 permalink: /articles/best-ergonomic-chair-cushions-memory-foam-2026/index.html
+faqs:
+  - question: "What is a coccyx cutout and why does it matter in a chair cushion?"
+    answer: "The coccyx (tailbone) extends below your sit bones and bears pressure when you sit on a flat surface — especially on hard or worn chair seats. A coccyx cutout is a U-shaped or oval channel in the rear of the cushion that suspends the tailbone in free air, eliminating direct contact pressure. This is essential for anyone with coccyx pain, sciatica, or post-surgical sensitivity, and beneficial for prolonged sitting even without specific pain."
+  - question: "How long do memory foam chair cushions last before they flatten out?"
+    answer: "High-density memory foam (4+ lb/ft³) retains its shape for 2–4 years under daily use. Budget foam (2–3 lb/ft³) often compresses noticeably within 6–12 months. You can test foam quality before purchase by pressing firmly in the center — it should spring back slowly over 3–5 seconds. Gel-infused memory foam adds heat dissipation but doesn't necessarily improve longevity."
+  - question: "Should I get a seat cushion or a lumbar support pillow for back pain?"
+    answer: "Both address back pain but from different angles. A seat cushion corrects pelvic tilt and sit-bone pressure at the base, which indirectly improves lumbar alignment. A lumbar support pillow directly supports the inward curve of the lower back. For best results, use both — a seat cushion establishes a neutral pelvis, and a lumbar pillow maintains the natural spinal curve. Start with a seat cushion if you have tailbone or hip pain; start with lumbar if your pain is in the lower back specifically."
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

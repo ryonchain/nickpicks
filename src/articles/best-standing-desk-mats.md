@@ -10,6 +10,13 @@ estimated_search_volume: "74,000/mo"
 buyer_intent: high
 layout: article.njk
 permalink: /articles/best-standing-desk-mats/index.html
+faqs:
+  - question: "Do anti-fatigue mats actually work for standing desks?"
+    answer: "Yes — research confirms they reduce lower-limb muscle fatigue and discomfort during prolonged standing. Anti-fatigue mats work by prompting continuous subtle micro-movements in your feet and legs, which improves circulation and reduces the static load on joints. The effect is most pronounced after 90+ minutes of standing. A contoured mat with raised edges (like the Topo) prompts more movement than a flat mat."
+  - question: "How thick should a standing desk anti-fatigue mat be?"
+    answer: "Look for 3/4 inch (19mm) to 7/8 inch (22mm) thickness. Thinner mats compress quickly under body weight and lose their cushioning effect. Thicker mats (1 inch+) can feel unstable and make it harder to shift your weight. The sweet spot is firm enough to support your arch but soft enough to cushion your joints. Material matters too — high-density polyurethane foam outperforms gel inserts and cheap foam over time."
+  - question: "How long do standing desk anti-fatigue mats last?"
+    answer: "Quality mats (WellnessMats, Topo by Ergodriven) last 3–5 years or more before significant compression. Budget foam mats often flatten noticeably within 6–12 months. A simple test: press your thumb into the center — it should spring back completely within 2 seconds. If it doesn't, the mat has lost its anti-fatigue properties and needs replacing."
 ---
 
 # Best Standing Desk Anti-Fatigue Mats: Top Picks to Keep You Comfortable All Day

@@ -6,6 +6,13 @@ category: smart-home
 date: 2026-07-06
 readTime: 10
 permalink: /articles/best-smart-home-hubs-2026/index.html
+faqs:
+  - question: "Do I need a smart home hub if I already have an Amazon Echo or Google Home?"
+    answer: "It depends on your devices. Amazon Echo (4th gen and later) and Google Nest Hub (2nd gen) include built-in Zigbee and Matter support, making them hubs in their own right. You only need a dedicated hub like SmartThings or Home Assistant if you have Z-Wave devices, need local processing without cloud dependency, want advanced automation logic, or are mixing protocols that your speaker doesn't natively support."
+  - question: "What is the difference between Zigbee, Z-Wave, and Matter for smart home devices?"
+    answer: "Zigbee and Z-Wave are mesh protocols that have been the smart home backbone for 15+ years — they work over dedicated radio frequencies and are well-supported but fragmented by vendor. Matter is a newer universal standard (backed by Amazon, Apple, Google, Samsung) that runs over Wi-Fi and Thread and is designed to make devices interoperable across ecosystems. New devices increasingly support Matter, but Zigbee and Z-Wave still represent the majority of installed smart home hardware."
+  - question: "Can a smart home hub work without an internet connection?"
+    answer: "Yes — that is one of the main advantages of a dedicated hub. Platforms like Home Assistant and SmartThings (with local processing enabled) can run automations entirely on your local network, so a thermostat schedule or motion-triggered light still works during an internet outage. Cloud-dependent devices (most Wi-Fi bulbs, voice assistants) stop responding to remote commands but often retain local control through the hub."
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*
