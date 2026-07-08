@@ -175,4 +175,11 @@ The **Dior Sauvage Duo** is the safest, most universally flattering gift if you'
 For serious fragrance lovers who have everything, Creed Aventus is the answer.
 
 
-**Related Guides:** [Best Men's Cologne and Fragrance Gift Sets](/articles/best-mens-cologne-fragrance-gift-sets-2026/) · [Best Men's Dress Watches Under \$500](/articles/best-mens-dress-watches-under-500-2026/) · [Best Leather Wallets for Men](/articles/best-leather-wallets-men-2026/)
+
+## Related Guides
+
+- [Best Men's Cologne & Fragrance Gift Sets 2026](/articles/best-mens-cologne-fragrance-gift-sets-2026/)
+- [Best Leather Wallets for Men 2026](/articles/best-leather-wallets-men-2026/)
+- [Best Luxury Skincare Gift Sets 2026](/articles/best-luxury-skincare-gift-sets-2026/)
+- [Best Men's Dress Watches Under \$500](/articles/best-mens-dress-watches-under-500-2026/)
+*All prices are approximate and subject to change. Check Amazon for current pricing.*

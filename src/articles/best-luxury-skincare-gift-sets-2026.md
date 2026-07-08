@@ -173,4 +173,12 @@ All five sets above ship in gift-ready boxes suitable for direct giving. La Mer'
 All five hold their own against any luxury skincare brand not on this list.
 
 
-**Related Guides:** [Best Face Sheet Masks](/articles/best-face-sheet-masks-skincare-2026/) · [Best Bath Bombs and Gift Sets](/articles/best-bath-bombs-gift-sets-2026/) · [Best Vitamin C Serums](/articles/best-vitamin-c-serums-2026/) · [Best Luxury Bath Gift Sets](/articles/best-luxury-bath-gift-sets-2026/)
+
+## Related Guides
+
+- [Best Luxury Bath Gift Sets 2026](/articles/best-luxury-bath-gift-sets-2026/)
+- [Best Vitamin C Serums 2026](/articles/best-vitamin-c-serums-2026/)
+- [Best Luxury Hair Care Gift Sets 2026](/articles/best-luxury-hair-care-gift-sets-2026/)
+- [Best Face Sheet Masks](/articles/best-face-sheet-masks-skincare-2026/)
+- [Best Bath Bombs and Gift Sets](/articles/best-bath-bombs-gift-sets-2026/)
+*All prices are approximate and subject to change. Check Amazon for current pricing.*

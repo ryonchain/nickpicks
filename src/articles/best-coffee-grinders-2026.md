@@ -208,3 +208,8 @@ For home espresso, the Baratza Encore ESP (~$169) and Breville Smart Grinder Pro
 ---
 
 *Related: [Best Electric Kettles 2026](/articles/best-electric-kettles-2026/) | [Best Blenders for Smoothies 2026](/articles/best-blenders-smoothies-2026/) | [Best Instant Pots and Pressure Cookers 2026](/articles/best-instant-pots/)*
+
+## Related Guides
+
+- [Best Espresso Machines for Home 2026](/articles/best-espresso-machines-home-2026/)
+*All prices are approximate and subject to change. Check Amazon for current pricing.*

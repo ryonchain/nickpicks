@@ -164,4 +164,11 @@ Modern brushless 40V+ cordless mowers match or exceed gas models in cutting perf
 
 ---
 
-**Related Guides:** [Best Riding Lawn Mowers 2026](/articles/best-riding-lawn-mowers-2026/) · [Best Leaf Blowers 2026](/articles/best-leaf-blowers-2026/)
+
+## Related Guides
+
+- [Best Robotic Pool Cleaners 2026](/articles/best-robotic-pool-cleaners-2026/)
+- [Best Garden Tools 2026](/articles/best-garden-tools-2026/)
+- [Best Riding Lawn Mowers 2026](/articles/best-riding-lawn-mowers-2026/)
+- [Best Leaf Blowers 2026](/articles/best-leaf-blowers-2026/)
+*All prices are approximate and subject to change. Check Amazon for current pricing.*

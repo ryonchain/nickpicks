@@ -145,4 +145,10 @@ Davidoff Cool Water Gift Set (~$40) and Versace Eros Gift Set (~$65) are both ex
 Major gift sets from Dior, Versace, Armani, and Davidoff sold by Amazon directly (or fulfilled by Amazon from authorized sellers) are authentic. Avoid third-party sellers with suspiciously low prices. Stick to the brand's own Amazon storefront when available.
 
 
-**Related Guides:** [Best Men's Cologne Gift Sets](/articles/best-mens-cologne-gift-sets-2026/) · [Best Men's Dress Watches Under \$500](/articles/best-mens-dress-watches-under-500-2026/) · [Best Leather Wallets for Men](/articles/best-leather-wallets-men-2026/)
+
+## Related Guides
+
+- [Best Men's Cologne Gift Sets 2026](/articles/best-mens-cologne-gift-sets-2026/)
+- [Best Leather Wallets for Men 2026](/articles/best-leather-wallets-men-2026/)
+- [Best Men's Dress Watches Under \$500](/articles/best-mens-dress-watches-under-500-2026/)
+*All prices are approximate and subject to change. Check Amazon for current pricing.*

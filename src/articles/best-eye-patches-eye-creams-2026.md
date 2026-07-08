@@ -189,3 +189,10 @@ The ophthalmologist-tested designation matters: retinol formulas designed for th
 ## Bottom Line
 
 **PTR 24K Gold Patches** for the best instant pre-event eye treatment. **Tatcha Silk Peony** for the best daily fine-line eye cream. **COSRX Snail 96 Mucin** for the best value hydration and barrier repair. **Charlotte Tilbury Magic Eye Rescue** for dark circle treatment with immediate optical correction. **Neutrogena Rapid Wrinkle Repair** for the most accessible effective retinol eye cream.
+
+## Related Guides
+
+- [Best Anti-Aging Night Creams 2026](/articles/best-anti-aging-night-creams-2026/)
+- [Best Anti-Aging Eye Creams 2026](/articles/best-anti-aging-eye-creams-2026/)
+- [Best Luxury Skincare Gift Sets 2026](/articles/best-luxury-skincare-gift-sets-2026/)
+*All prices are approximate and subject to change. Check Amazon for current pricing.*

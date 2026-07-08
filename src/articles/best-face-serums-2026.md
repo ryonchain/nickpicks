@@ -187,8 +187,16 @@ Yes — typically 6–12 months after opening (check the open-jar symbol on pack
 
 ---
 
-**Related Guides:** [cool mist humidifiers](/articles/best-cool-mist-humidifiers-bedroom-2026/) · [motion sensor night lights](/articles/best-motion-sensor-night-lights-2026/) · [ergonomic seat cushions](/articles/best-ergonomic-seat-cushions-office-chair-2026/)
 
 ---
 
 *Disclosure: NickPicks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate, we earn from qualifying purchases at no additional cost to you.*
+
+## Related Guides
+
+- [Best Anti-Aging Night Creams 2026](/articles/best-anti-aging-night-creams-2026/)
+- [Best Eye Patches & Eye Creams 2026](/articles/best-eye-patches-eye-creams-2026/)
+- [cool mist humidifiers](/articles/best-cool-mist-humidifiers-bedroom-2026/)
+- [motion sensor night lights](/articles/best-motion-sensor-night-lights-2026/)
+- [ergonomic seat cushions](/articles/best-ergonomic-seat-cushions-office-chair-2026/)
+*All prices are approximate and subject to change. Check Amazon for current pricing.*
