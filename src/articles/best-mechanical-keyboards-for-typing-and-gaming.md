@@ -3,6 +3,7 @@ slug: best-mechanical-keyboards-for-typing-and-gaming
 title: "Best Mechanical Keyboards for Typing and Gaming"
 meta_title: "Best Mechanical Keyboards for Typing & Gaming 2027"
 meta_description: "Find the best mechanical keyboard for typing or gaming. We break down switches, layouts, and sound profiles for every budget in 2027."
+description: "Find the best mechanical keyboard for typing or gaming. We break down switches, layouts, and sound profiles for every budget in 2027."
 layout: article.njk
 category: home-office
 permalink: /articles/best-mechanical-keyboards-for-typing-and-gaming/index.html

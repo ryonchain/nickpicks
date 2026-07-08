@@ -1,3 +1,10 @@
+---
+layout: article.njk
+title: "Best Robot Vacuums Under $500 in 2026: Hands-Free Cleaning for Every Home"
+description: "The best robot vacuums under $500 in 2026, tested and ranked. Find hands-free cleaning with mapping, obstacle avoidance, and auto-empty bases."
+date: 2026-01-01
+category: home-cleaning
+---
 # Best Robot Vacuums Under $500 in 2026: Hands-Free Cleaning for Every Home
 
 *Disclosure: This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.*

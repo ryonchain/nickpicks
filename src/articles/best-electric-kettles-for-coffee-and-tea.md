@@ -3,6 +3,7 @@ slug: best-electric-kettles-for-coffee-and-tea
 title: "Best Electric Kettles for Coffee and Tea Lovers"
 meta_title: "Best Electric Kettles for Coffee & Tea 2027 | Top 5"
 meta_description: "Precise temperature makes better coffee and tea. We picked the best electric kettles for pour-over, cold brew, matcha, and everything in between."
+description: "Precise temperature makes better coffee and tea. We picked the best electric kettles for pour-over, cold brew, matcha, and everything in between."
 layout: article.njk
 category: kitchen
 permalink: /articles/best-electric-kettles-for-coffee-and-tea/index.html

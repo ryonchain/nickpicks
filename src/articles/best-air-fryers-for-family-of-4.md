@@ -3,6 +3,7 @@ slug: best-air-fryers-for-family-of-4
 title: "Best Air Fryers for a Family of 4 (2027)"
 meta_title: "Best Air Fryers for Family of 4 2027 | Top 5 Picks"
 meta_description: "Feed four without the mess. We picked the best air fryers for a family of 4 — large capacity, fast cooking, easy cleanup. Find your match here."
+description: "Feed four without the mess. We picked the best air fryers for a family of 4 — large capacity, fast cooking, easy cleanup. Find your match here."
 layout: article.njk
 category: kitchen
 permalink: /articles/best-air-fryers-for-family-of-4/index.html

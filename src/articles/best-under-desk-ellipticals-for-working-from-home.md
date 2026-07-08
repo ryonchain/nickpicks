@@ -3,6 +3,7 @@ slug: best-under-desk-ellipticals-for-working-from-home
 title: "Best Under-Desk Ellipticals for Working From Home"
 meta_title: "Best Under-Desk Ellipticals for WFH 2027 | Top 5"
 meta_description: "Burn calories while you work. We tested the best under-desk ellipticals for working from home — quiet, compact, and effective for all-day movement."
+description: "Burn calories while you work. We tested the best under-desk ellipticals for working from home — quiet, compact, and effective for all-day movement."
 layout: article.njk
 category: home-office
 permalink: /articles/best-under-desk-ellipticals-for-working-from-home/index.html

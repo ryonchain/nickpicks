@@ -1,3 +1,10 @@
+---
+layout: article.njk
+title: "Best Instant Pot & Electric Pressure Cookers 2026: Complete Buying Guide"
+description: "Compare the best Instant Pot and electric pressure cookers of 2026. We ranked top multi-cookers by performance, features, and value."
+date: 2026-01-01
+category: kitchen
+---
 # Best Instant Pot & Electric Pressure Cookers 2026: Complete Buying Guide
 
 *Disclosure: This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.*

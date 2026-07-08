@@ -3,6 +3,7 @@ slug: best-weighted-blankets-for-better-sleep-2027
 title: "Best Weighted Blankets for Better Sleep (2027 Guide)"
 meta_title: "Best Weighted Blankets for Better Sleep 2027 | Top 7 Picks"
 meta_description: "Find the best weighted blanket for anxiety, insomnia, or just better sleep. We compared 7 top picks — from breathable knit to cooling glass-bead options."
+description: "Find the best weighted blanket for anxiety, insomnia, or just better sleep. We compared 7 top picks — from breathable knit to cooling glass-bead options."
 layout: article.njk
 category: fitness
 permalink: /articles/best-weighted-blankets-for-better-sleep-2027/index.html

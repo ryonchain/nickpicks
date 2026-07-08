@@ -3,6 +3,7 @@ slug: best-robot-vacuums-for-pet-hair
 title: "Best Robot Vacuums for Pet Hair (2027)"
 meta_title: "Best Robot Vacuums for Pet Hair 2027 | Top 5 Picks"
 meta_description: "Tired of pet hair everywhere? We tested the best robot vacuums for pet hair in 2027. Find the perfect model for hardwood, carpet, and multi-pet homes."
+description: "Tired of pet hair everywhere? We tested the best robot vacuums for pet hair in 2027. Find the perfect model for hardwood, carpet, and multi-pet homes."
 layout: article.njk
 category: beauty
 permalink: /articles/best-robot-vacuums-for-pet-hair/index.html

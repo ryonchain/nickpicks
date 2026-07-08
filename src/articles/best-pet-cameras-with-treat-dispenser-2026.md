@@ -1,3 +1,10 @@
+---
+layout: article.njk
+title: "Best Pet Cameras with Treat Dispensers 2026: Watch, Speak, and Reward Your Pet Remotely"
+description: "Watch, speak, and reward your pet remotely. We reviewed the best pet cameras with treat dispensers in 2026 — compare features, range, and app quality."
+date: 2026-01-01
+category: pet-tech
+---
 # Best Pet Cameras with Treat Dispensers 2026: Watch, Speak, and Reward Your Pet Remotely
 
 *Disclosure: This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.*

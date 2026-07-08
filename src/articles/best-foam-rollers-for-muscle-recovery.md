@@ -3,6 +3,7 @@ slug: best-foam-rollers-for-muscle-recovery
 title: "Best Foam Rollers for Muscle Recovery (Tested & Ranked)"
 meta_title: "Best Foam Rollers for Muscle Recovery 2027 | Tested & Ranked"
 meta_description: "We tested the best foam rollers for muscle recovery so you don't have to. From beginner-friendly to deep tissue rollers, find the right pick for your body and budget."
+description: "We tested the best foam rollers for muscle recovery so you don't have to. From beginner-friendly to deep tissue rollers, find the right pick for your body and budget."
 layout: article.njk
 category: fitness
 permalink: /articles/best-foam-rollers-for-muscle-recovery/index.html
