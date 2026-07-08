@@ -237,3 +237,7 @@ Installation is typically push-the-stake-in installation with no tools. The firs
 
 **Why are my solar lights dim after one year?**
 Battery capacity degradation is the most common cause. After 2–3 years of daily cycling, NiMH batteries hold less charge, resulting in shorter runtime or dimmer output. The fix is battery replacement if the unit allows it, or replacement of the whole unit if sealed.
+
+---
+
+**Related Guides:** [Best Handheld Cordless Vacuums in 2026](/articles/best-handheld-cordless-vacuums-2026/) · [Best Air Quality Monitors for Home in 2026](/articles/best-air-quality-monitors-2026/) · [Best Blood Pressure Monitors 2026](/articles/best-blood-pressure-monitors-2026/)

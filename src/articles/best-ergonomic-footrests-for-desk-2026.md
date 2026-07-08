@@ -207,4 +207,4 @@ For all-day use, yes. Rocking footrests like the Humanscale FM300 promote micro-
 
 ---
 
-**Related Guides:** [ergonomic office chairs](/articles/best-ergonomic-chairs-home-office-2026/) · [standing desks for home office](/articles/best-standing-desks-home-office-2026/) · [ergonomic seat cushions](/articles/best-ergonomic-chair-cushions-memory-foam-2026/) · [ergonomic keyboards](/articles/best-ergonomic-keyboards-home-office-2026/)
+**Related Guides:** [Best Home Office Setup Under $1,000](/articles/best-home-office-setup-under-1000/) · [Best Desk Cable Management in 2026](/articles/best-cable-management-desk-2026/) · [Best Ergonomic Keyboards for Home Office](/articles/best-ergonomic-keyboards-home-office-2026/)

@@ -199,3 +199,7 @@ The Elgato Key Light at $200 is the best for video calls — it's designed speci
 
 **How bright should a desk lamp be?**
 A desk lamp should deliver 400–600 lumens at the work surface for comfortable reading and writing. Too dim causes eye strain; too bright creates glare. The BenQ e-Reading lamp provides 1500 lumens total with adjustable dimming down to the appropriate range for any task.
+
+---
+
+**Related Guides:** [Best Home Office Setup Under $1,000](/articles/best-home-office-setup-under-1000/) · [Best Desk Cable Management in 2026](/articles/best-cable-management-desk-2026/) · [Best Ergonomic Keyboards for Home Office](/articles/best-ergonomic-keyboards-home-office-2026/)

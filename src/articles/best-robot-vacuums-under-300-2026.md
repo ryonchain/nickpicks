@@ -196,3 +196,10 @@ Available in versions with and without a HEPA self-empty dock (dock version appr
 ## The One Spec Most Buyers Ignore
 
 **Dustbin capacity** — a small dustbin on a large home means the robot stops mid-clean to signal "full." The Roborock Q5's 770ml bin runs significantly longer than the Roomba i3's 350ml bin between empties. Unless you have an auto-empty dock, bigger bin = longer autonomous runs. Match the bin to your home size.
+
+## Related Guides
+
+- [Best Cordless Vacuums 2026](/articles/best-cordless-vacuums-2026/)
+- [Best Handheld Cordless Vacuums 2026](/articles/best-handheld-cordless-vacuums-2026/)
+- [Best Wet-Dry Vacuums 2026](/articles/best-wet-dry-vacuums-2026/)
+- [Best Smart Home Hubs 2026](/articles/best-smart-home-hubs-2026/)

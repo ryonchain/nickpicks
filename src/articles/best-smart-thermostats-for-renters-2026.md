@@ -197,3 +197,7 @@ Before buying, confirm:
 4. **Landlord notice:** In most cases not legally required for reversible installations, but worth an email for goodwill.
 
 When you move out: save the original thermostat and wiring photo (take it before you disconnect anything). Reinstallation takes 10 minutes.
+
+---
+
+**Related Guides:** [Best Smart Home Hubs in 2026](/articles/best-smart-home-hubs-2026/) · [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/) · [Best Smart Thermostats in 2026](/articles/best-smart-thermostats-2026/)

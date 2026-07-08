@@ -266,4 +266,4 @@ Cushions with coccyx cutouts reduce pressure on the sciatic notch area and can r
 
 ---
 
-**Related Guides:** [ergonomic office chairs](/articles/best-ergonomic-chairs-home-office-2026/) · [ergonomic footrests for desk](/articles/best-ergonomic-footrests-for-desk-2026/) · [electric standing desks](/articles/best-electric-standing-desks-2026/) · [standing desk anti-fatigue mats](/articles/best-anti-fatigue-standing-desk-mats-2026/)
+**Related Guides:** [Best Home Office Setup Under $1,000](/articles/best-home-office-setup-under-1000/) · [Best Desk Cable Management in 2026](/articles/best-cable-management-desk-2026/) · [Best Ergonomic Keyboards for Home Office](/articles/best-ergonomic-keyboards-home-office-2026/)

@@ -160,3 +160,7 @@ Yes. Standard dishwasher pods (Cascade, Finish), powder, or gel all work in coun
 ---
 
 *Prices are approximate and subject to change. Last verified July 2026.*
+
+---
+
+**Related Guides:** [Best Air Fryers](/articles/best-air-fryers-2026/) · [Best Sous Vide Precision Cookers in 2026](/articles/best-sous-vide-precision-cookers-2026/) · [Best Coffee Makers Under $200 in 2026](/articles/best-coffee-makers-under-200-2026/)

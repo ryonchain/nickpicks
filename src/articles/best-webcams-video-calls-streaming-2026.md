@@ -200,4 +200,4 @@ For professional video calls, the **Logitech C920S** (~$70) handles 95% of needs
 
 ---
 
-**Related Guides:** [home office microphone under $100](/articles/best-budget-microphone-home-office-under-100-2026/) · [webcams with ring lights](/articles/best-webcams-ring-lights-video-calls-2026/) · [noise-canceling headphones for work](/articles/best-noise-canceling-headphones-work-2026/) · [headphones for work](/articles/best-headphones-for-work-2026/) · [LED desk lamps for home office](/articles/best-led-desk-lamps-home-office-2026/)
+**Related Guides:** [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/) · [Best Smart Plugs](/articles/best-smart-plugs-2026/) · [Best Foam Rollers](/articles/best-foam-rollers-2026/)

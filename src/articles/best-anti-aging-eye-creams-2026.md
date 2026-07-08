@@ -238,3 +238,7 @@ Peter Thomas Roth's Potent-C Eye Cream is built around 5% vitamin C (THD ascorba
 ---
 
 *Last updated: July 2026. Prices vary by retailer.*
+
+---
+
+**Related Guides:** [Best Vitamin C Serums](/articles/best-vitamin-c-serums-2026/) · [Best Hair Dryers 2026](/articles/best-hair-dryers-2026/) · [Best Face Serums 2026](/articles/best-face-serums-2026/)

@@ -187,3 +187,10 @@ This is the right pick for a single small bedroom, home office, or dorm room whe
 **Filter costs matter more than purchase price.** A $60 purifier with $80/year filters costs more than a $100 purifier with $20/year filters within 18 months.
 
 **CADR beats claimed coverage.** When a manufacturer claims "500 sq ft coverage" without listing CADR, treat it skeptically. Legitimate purifiers publish their AHAM-certified CADR numbers.
+
+## Related Guides
+
+- [Best Air Quality Monitors 2026](/articles/best-air-quality-monitors-2026/)
+- [Best Smart Thermostats 2026](/articles/best-smart-thermostats-2026/)
+- [Best Smart Home Hubs 2026](/articles/best-smart-home-hubs-2026/)
+- [Best Smart Smoke & CO Detectors 2026](/articles/best-smart-smoke-co-detectors-2026/)

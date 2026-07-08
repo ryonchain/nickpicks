@@ -228,3 +228,10 @@ Steel burrs should be cleaned monthly with a grinder brush and quarterly with Ur
 ---
 
 *Looking for more kitchen picks? Check out our [best electric kettles guide](#) or our [home espresso machine recommendations](#) for more Amazon affiliate recommendations.*
+
+## Related Guides
+
+- [Best Electric Kettles 2026](/articles/best-electric-kettles-2026/)
+- [Best Coffee Makers 2026](/articles/best-coffee-makers-home-brewers-2026/)
+- [Best Coffee Tumblers & Travel Mugs 2026](/articles/best-coffee-tumblers-travel-mugs-2026/)
+- [Best Burr Coffee Grinders for Pour-Over 2026](/articles/best-burr-coffee-grinders-for-pour-over-2026/)

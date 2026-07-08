@@ -166,3 +166,11 @@ At $60, the Amazon Smart Thermostat is the entry point to smart thermostat funct
 ---
 
 *All prices approximate and subject to change. As an Amazon Associate, NickPicks earns from qualifying purchases.*
+
+## Related Guides
+
+- [Best Smart Home Hubs 2026](/articles/best-smart-home-hubs-2026/)
+- [Best Smart Plugs 2026](/articles/best-smart-plugs-2026/)
+- [Best Smart Light Switches (No Neutral Wire) 2026](/articles/best-smart-light-switches-no-neutral-wire-2026/)
+- [Best Smart Thermostats 2026](/articles/best-smart-thermostats-2026/)
+- [Best Smart Smoke & CO Detectors 2026](/articles/best-smart-smoke-co-detectors-2026/)

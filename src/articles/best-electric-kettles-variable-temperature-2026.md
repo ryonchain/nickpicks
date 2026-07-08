@@ -187,3 +187,10 @@ Keep-warm holds the kettle at your target temperature for 30–60 minutes after 
 ---
 
 *All prices are estimates and subject to change. Check Amazon for current pricing and availability.*
+
+## Related Guides
+
+- [Best Burr Coffee Grinders 2026](/articles/best-burr-coffee-grinders-2026/)
+- [Best Electric Kettles 2026](/articles/best-electric-kettles-2026/)
+- [Best Coffee Makers 2026](/articles/best-coffee-makers-home-brewers-2026/)
+- [Best Coffee Tumblers & Travel Mugs 2026](/articles/best-coffee-tumblers-travel-mugs-2026/)

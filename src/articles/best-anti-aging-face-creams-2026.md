@@ -239,3 +239,8 @@ Premium packaging, brand heritage, clinical study investment, and sometimes genu
 ---
 
 **Related Guides:** [retinol serums](/articles/best-retinol-serums-2026/) · [vitamin C serums](/articles/best-vitamin-c-serums-2026/)
+
+## Related Guides
+
+- [Best Retinol Creams for Anti-Aging 2026](/articles/best-retinol-creams-anti-aging-2026/)
+- [Best Vitamin C Serums 2026](/articles/best-vitamin-c-serums-2026/)

@@ -207,4 +207,4 @@ The Moft is an ultra-thin (2mm when flat) adhesive stand that attaches to the bo
 
 ---
 
-**Related Guides:** [laptop cooling pads](/articles/best-laptop-cooling-pads-productivity-2026/) · [USB-C hubs and docking stations](/articles/best-usb-c-hubs-docking-stations-laptop-2026/) · [ergonomic keyboards](/articles/best-ergonomic-keyboards-home-office-2026/) · [ergonomic office chairs](/articles/best-ergonomic-chairs-home-office-2026/) · [monitor arms](/articles/best-monitor-arms-desk-setup-2026/)
+**Related Guides:** [Best Home Office Setup Under $1,000](/articles/best-home-office-setup-under-1000/) · [Best Desk Cable Management in 2026](/articles/best-cable-management-desk-2026/) · [Best Ergonomic Keyboards for Home Office](/articles/best-ergonomic-keyboards-home-office-2026/)

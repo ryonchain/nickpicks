@@ -211,3 +211,7 @@ Yes — specifically designed children's weighted blankets (5–7 lbs) exist. Al
 First-time buyers should start with the **YnM** (~$55) to test whether weighted blankets work for them before committing to a premium option. If you love it, upgrade to **Gravity Blanket** for premium build quality and construction. Hot sleepers should go directly to the **Bearaby Cotton Napper**. For year-round flexibility at a mid-range price, the **Degrees of Comfort dual-sided** is the practical choice.
 
 *Disclosure: This page contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+
+---
+
+**Related Guides:** [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/) · [Best Smart Plugs](/articles/best-smart-plugs-2026/) · [Best Foam Rollers](/articles/best-foam-rollers-2026/)
