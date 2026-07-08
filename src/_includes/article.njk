@@ -36,6 +36,20 @@ layout: base.njk
       {{ content | safe }}
     </div>
 
+    {% if faqs and faqs.length %}
+    <section class="faq-section" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently Asked Questions</h2>
+      <dl class="faq-list">
+        {% for faq in faqs %}
+        <div class="faq-item">
+          <dt class="faq-question">{{ faq.question }}</dt>
+          <dd class="faq-answer">{{ faq.answer }}</dd>
+        </div>
+        {% endfor %}
+      </dl>
+    </section>
+    {% endif %}
+
     {% include "related-articles.njk" %}
 
     {% set canonicalUrl = siteUrl + (page.url | stripPathPrefix) %}

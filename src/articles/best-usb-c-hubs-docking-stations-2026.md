@@ -37,6 +37,15 @@ comparisonTable:
       cons: ["Check availability"]
       amazonLink: "https://www.amazon.com/s?k=Satechi+USB-C+Multiport+Adapter+V3&tag=nickpicks-20"
       badge: "Best Premium"
+faqs:
+  - question: "What is the difference between a USB-C hub and a docking station?"
+    answer: "A USB-C hub is compact and bus-powered (draws power from your laptop), adding a handful of ports like USB-A, HDMI, and SD card. A docking station is larger, has its own power supply, and supports more demanding connections including multiple 4K displays, Ethernet, audio, and higher-speed USB 3.2/Thunderbolt ports. For light daily use, a hub suffices; for a full workstation with dual monitors, use a dock."
+  - question: "Why does my MacBook get hot when using a USB-C hub?"
+    answer: "Some USB-C hubs draw more power from the laptop than they deliver back, forcing the system to run on battery or throttle. A hub with pass-through charging of 60W+ minimizes this. Avoid cheap hubs without Power Delivery — they force your MacBook to power both the hub and connected devices from the battery, generating heat and reducing performance."
+  - question: "Can a USB-C hub support two 4K monitors?"
+    answer: "Not all hubs can. This depends on your laptop's GPU and the hub's display output specs. Thunderbolt 4 or USB4 docks can support dual 4K at 60Hz. Standard USB-C hubs typically support one external display. MacBooks with Apple Silicon M1/M2 base models are limited to one external display without DisplayLink drivers. Always verify the dock's specs against your specific laptop model."
+  - question: "How many watts of Power Delivery does my USB-C hub need to pass through?"
+    answer: "MacBook Air: minimum 30W to run without draining, 65W recommended. MacBook Pro 14-inch: 67W minimum. MacBook Pro 16-inch: 96W minimum. Windows ultrabooks typically need 45-65W. Gaming laptops can require 100-140W. A hub that delivers less than your laptop's requirement will charge slowly or cause the battery to drain during heavy use."
 ---
 
 # Best USB-C Hubs and Docking Stations 2026: MacBook and Windows Laptop

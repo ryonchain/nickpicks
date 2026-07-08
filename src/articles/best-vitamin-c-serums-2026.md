@@ -27,6 +27,15 @@ products:
   - name: Revive Science Glow Serum
     position: 6
     description: "Best 20% Budget Option"
+faqs:
+  - question: "What does vitamin C serum actually do for your face?"
+    answer: "Vitamin C (ascorbic acid) is a potent antioxidant that brightens skin, fades hyperpigmentation and dark spots, stimulates collagen production, and neutralizes free radical damage from UV exposure. It doesn't replace sunscreen but enhances your overall photoprotection when applied underneath it. Regular use over 8-12 weeks produces measurable brightening and more even skin tone."
+  - question: "What percentage of vitamin C is effective?"
+    answer: "10-20% L-ascorbic acid is considered the effective range. Below 8%, the concentration is too low for meaningful results. Above 20%, irritation increases without proportional benefit gain. The pH also matters — pure ascorbic acid is most stable and bioavailable at a pH below 3.5. Most people do well with 15% as a starting point."
+  - question: "Why does my vitamin C serum turn orange or brown?"
+    answer: "Oxidation. L-ascorbic acid is inherently unstable and oxidizes when exposed to light, air, and heat. An orange-to-brown color indicates partial oxidation — the product is less effective but not harmful to skin. Once dark brown, discard it. Store vitamin C serums in a cool, dark place, away from the shower, and check the expiration date."
+  - question: "Can I use vitamin C with retinol and niacinamide?"
+    answer: "Yes — vitamin C pairs well with hyaluronic acid, niacinamide, and SPF. Apply vitamin C in the morning and retinol at night to avoid potential pH conflicts. The old claim that vitamin C and niacinamide cancel each other out has been debunked; they can be layered safely. Avoid layering vitamin C directly with AHAs/BHAs at the same time, as they can destabilize each other."
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

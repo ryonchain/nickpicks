@@ -6,6 +6,15 @@ category: tech-accessories
 date: 2026-07-06
 readTime: 9
 permalink: /articles/best-portable-power-banks-2026/index.html
+faqs:
+  - question: "How many mAh do I need in a portable power bank?"
+    answer: "For a single smartphone charge: 5,000-10,000 mAh. For multiple charges or a day trip: 10,000-20,000 mAh. For travel with multiple devices (phone, tablet, earbuds): 20,000-30,000 mAh. Due to conversion efficiency losses (typically 70-80%), a 10,000 mAh bank delivers around 6,500-7,000 mAh of usable charge. Airlines restrict batteries over 100Wh (about 27,000 mAh at 3.7V) from checked bags."
+  - question: "What is the fastest way to charge a power bank?"
+    answer: "Use a USB-C PD (Power Delivery) charger at the highest wattage the power bank supports, typically 18W, 30W, or 65W. Most mid-range banks support 18W input, taking about 3-4 hours for a full charge. Premium banks with 65W+ input charge in 60-90 minutes. Charging via USB-A is significantly slower — always use USB-C PD when possible."
+  - question: "Can I take a portable power bank on a plane?"
+    answer: "Power banks must go in carry-on luggage only — never checked bags (lithium battery fire risk). Most airlines allow banks up to 100Wh (about 27,000 mAh at 3.7V) without restrictions. Banks between 100-160Wh require airline approval. Banks over 160Wh are generally prohibited on passenger aircraft. Check with your specific airline for current policies."
+  - question: "What is pass-through charging on a power bank?"
+    answer: "Pass-through charging lets you charge the power bank and use it to charge a device simultaneously using a single wall outlet. Useful for overnight charging setups and travel. Not all power banks support this — check the spec sheet. Some premium models maintain continuous trickle charging to keep the bank topped up while powering accessories, useful for laptop bags and desk setups."
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

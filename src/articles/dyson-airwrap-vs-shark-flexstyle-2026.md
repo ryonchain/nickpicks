@@ -15,6 +15,15 @@ products:
   - name: Shark FlexStyle Air Styling and Drying System
     position: 2
     description: Best Airwrap Alternative
+faqs:
+  - question: "Is the Dyson Airwrap worth the price difference over the Shark FlexStyle?"
+    answer: "It depends on your priorities. The Dyson Airwrap ($599) has more refined Coanda airflow technology, more polished attachments, and a more premium feel. The Shark FlexStyle ($219-299) delivers comparable styling results and dries faster due to higher wattage. For most people who want great blowouts and curls without the brand premium, the FlexStyle delivers 85-90% of the Airwrap experience at half the price."
+  - question: "Which is better for curly or wavy hair?"
+    answer: "Both work well, but results depend more on technique than device. The Dyson Airwrap's barrel selection is slightly more extensive for precise curl sizing. For very thick hair, the FlexStyle's faster drying time is a meaningful advantage since it reduces total heat exposure. Either device can produce excellent waves and curls with practice."
+  - question: "Can the Dyson Airwrap replace a regular blow dryer?"
+    answer: "Mostly yes, but not entirely for everyone. The Airwrap dries slower than a high-wattage blow dryer, which some users find frustrating for quick drying. Many Airwrap users get hair 70% dry with a regular dryer first, then finish and style with the Airwrap. This is also gentler on hair overall."
+  - question: "Does the Shark FlexStyle work on all hair types?"
+    answer: "Yes. The FlexStyle includes attachments for straight styles, loose waves, and defined curls, and handles fine to thick hair. Very coarse or highly textured hair may require more passes than finer hair. The FlexStyle's higher wattage (1600W) compared to the Airwrap (1300W) gives it an edge on drying thick hair quickly."
 ---
 
 The Dyson Airwrap launched at $550 in 2018 and created an entirely new product category: the air-powered multi-styler. The Shark FlexStyle launched in 2022 at $250 and directly challenged it. Four years later, both have been refined — and the question isn't "is the FlexStyle just a cheap copy?" (it's not) but "is the Airwrap worth $200–300 more?"

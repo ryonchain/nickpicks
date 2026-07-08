@@ -26,6 +26,15 @@ products:
   - name: Mophie 3-in-1 Travel Charger
     position: 5
     description: Best Wireless Charger for Travel
+faqs:
+  - question: "How fast can wireless charging actually be?"
+    answer: "Standard Qi wireless charging tops out at 7.5W for iPhone and 10-15W for Android. MagSafe charges iPhones at up to 15W. Android flagships (Samsung, Pixel) charge at 12-15W on compatible chargers. Wireless charging is still significantly slower than wired — a 20W USB-C wired charger beats a 15W wireless pad for most devices. Wireless is best for overnight or desk charging, not quick top-ups."
+  - question: "Does wireless charging damage phone batteries over time?"
+    answer: "Not significantly more than wired charging. Wireless charging generates slightly more heat than wired, and sustained heat is the main enemy of lithium battery health. Use a quality charger rated for your device's wattage, avoid charging in hot environments, and remove the phone when it reaches 100%. Most modern phones have thermal management that throttles charging to protect the battery."
+  - question: "Do I need to remove my phone case to use a wireless charger?"
+    answer: "Most thin phone cases (up to 3mm) work fine with wireless charging. Metal cases or those with non-MagSafe magnetic plates can block wireless charging entirely. If you're experiencing slow or no wireless charging, try removing the case to test. MagSafe chargers work through MagSafe-compatible cases and most standard silicone or clear cases under 3mm thick."
+  - question: "What is the difference between Qi and MagSafe wireless charging?"
+    answer: "Qi is the universal wireless charging standard used by essentially all modern smartphones. MagSafe is Apple's proprietary magnetic alignment system built into iPhone 12 and later — it precisely aligns the charger to the charging coil and enables 15W charging versus 7.5W for standard Qi on iPhone. MagSafe chargers can also charge Qi devices at standard Qi speeds, making them backward-compatible."
 ---
 
 # Best Wireless Chargers 2026: iPhone, Android, Multi-Device & Fast Charging

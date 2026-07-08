@@ -22,6 +22,15 @@ products:
   - name: "BaByliss Pro Nano Titanium"
     position: 5
     description: "Best Professional Salon Hair Dryer"
+faqs:
+  - question: "What wattage should I look for in a hair dryer?"
+    answer: "For thick or long hair, 1800–2000 watts is ideal — it dries faster, which actually reduces heat damage compared to using a lower-wattage dryer for longer. For short or fine hair, 1200–1500 watts is sufficient. Professional dryers at 1875W are the standard sweet spot for most people."
+  - question: "Are ionic hair dryers better?"
+    answer: "Yes, for most hair types. Ionic dryers emit negative ions that break down water molecules faster, reducing drying time and frizz. They also smooth the hair cuticle, adding shine. The exception: some people with fine, limp hair find that ionic dryers make hair flat. In that case, a standard dryer or one with ionic function toggled off works better."
+  - question: "What is the difference between ceramic and tourmaline hair dryers?"
+    answer: "Ceramic dryers heat evenly and gently, reducing hot spots that cause damage. Tourmaline is a semi-precious stone ground into the dryer's components that emits even more negative ions than ceramic alone. Tourmaline is generally better for frizzy, coarse, or color-treated hair. Ceramic is a solid all-around choice for most hair types."
+  - question: "How do I use a hair dryer without damaging my hair?"
+    answer: "Keep the dryer 6 inches from your hair. Always use a heat protectant spray before drying. Start on medium heat and finish on cool to seal the cuticle. Dry in the direction of hair growth (downward) to smooth the cuticle and reduce frizz. Avoid concentrating heat in one spot for too long. Stop when hair is 80-90% dry, then air-dry the rest."
 ---
 
 ## Hair Dryers in 2026: The Gap Between $50 and $500 Is Real

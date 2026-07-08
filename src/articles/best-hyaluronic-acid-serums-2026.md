@@ -29,6 +29,15 @@ products:
   - name: Paula's Choice Hyaluronic Acid Booster
     position: 6
     description: Best for Layering
+faqs:
+  - question: "What does hyaluronic acid actually do for skin?"
+    answer: "Hyaluronic acid (HA) is a humectant — it draws moisture from the environment and deeper skin layers to the surface, providing immediate hydration. It can hold up to 1,000 times its weight in water. This plumps fine lines, improves skin texture, and supports barrier function. HA doesn't generate new collagen on its own, but a well-hydrated skin environment supports collagen production."
+  - question: "Do I need to apply hyaluronic acid to damp skin?"
+    answer: "Yes, ideally. HA works by drawing moisture from its environment. On dry skin in a dry climate, it can actually pull moisture from deeper skin layers and cause tightness or flaking. Apply HA to slightly damp skin immediately after cleansing, then seal it in with a moisturizer or facial oil on top."
+  - question: "What is the difference between low and high molecular weight hyaluronic acid?"
+    answer: "High molecular weight HA sits on the skin surface and creates immediate plumping and smoothing. Low molecular weight HA penetrates into deeper layers for longer-lasting hydration. The best serums contain multiple molecular weights for comprehensive hydration from surface to deeper layers."
+  - question: "Can I use hyaluronic acid with retinol and vitamin C?"
+    answer: "Yes — HA is one of the most compatible skincare ingredients. It can be layered under or over retinol and vitamin C without interaction. Many dermatologists recommend using HA after retinol to counteract dryness and irritation. Apply vitamin C first, then HA, then moisturizer for maximum compatibility."
 ---
 
 # Best Hyaluronic Acid Serums 2026: Molecular Weight, Concentration, Layering Guide

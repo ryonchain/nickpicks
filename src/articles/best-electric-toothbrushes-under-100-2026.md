@@ -24,6 +24,15 @@ products:
   - name: Waterpik Sensonic
     position: 5
     description: Best for Sensitive Teeth
+faqs:
+  - question: "Do budget electric toothbrushes clean as well as expensive ones?"
+    answer: "For cleaning performance, yes. The core motor and brush technology in mid-range ($40-80) electric toothbrushes performs on par with $200+ premium models in clinical studies. You give up: smart app connectivity, multiple cleaning modes, UV sanitizing cases, and premium handle finishes. If you only care about cleaner teeth, spend $50 and put the savings elsewhere."
+  - question: "What features should I prioritize in an electric toothbrush under $100?"
+    answer: "Built-in 2-minute timer and 30-second quadrant reminder (most people brush too quickly without feedback). Pressure sensor to prevent gum damage from brushing too hard. At least two cleaning modes (daily clean and sensitive). Battery life of at least 2 weeks per charge. Compatible replacement brush heads available at a reasonable ongoing cost."
+  - question: "Are rechargeable or battery-powered electric toothbrushes better?"
+    answer: "Rechargeable (usually inductive charging) is better for daily home use — the motor is more powerful, performance is consistent regardless of battery level, and the long-term cost is lower since you only buy brush heads. Battery-powered models are best as travel backups or for kids, where lower motor power and replaceable batteries are actually convenient advantages."
+  - question: "How long do budget electric toothbrush batteries last per charge?"
+    answer: "Most electric toothbrushes in the $40-100 range last 10-21 days on a single charge with twice-daily brushing. Oral-B models typically last 10-14 days; Philips Sonicare models commonly last 14-21 days. A full charge takes 6-12 hours. Most handle charge via inductive (no cable) charging bases — convenient but slower than USB charging."
 ---
 
 # Best Electric Toothbrushes Under $100 (2026)

@@ -25,6 +25,15 @@ products:
   - name: Mad Hippie Vitamin C Serum
     position: 5
     description: Best for Reactive Skin
+faqs:
+  - question: "How long does vitamin C serum take to visibly brighten skin?"
+    answer: "Most users see measurable brightening and more even skin tone within 8-12 weeks of daily morning use. Dark spots from sun damage or post-inflammatory hyperpigmentation (acne marks) may take 3-6 months to fade significantly. Consistency is essential — skipping days resets progress. Combining vitamin C with SPF 30+ and niacinamide speeds brightening results."
+  - question: "What is the best vitamin C formulation for anti-aging?"
+    answer: "For anti-aging specifically, look for serums that combine L-ascorbic acid at 15-20% with vitamin E and ferulic acid. This combination has clinical evidence showing up to 8x greater photoprotection and enhanced collagen stimulation. Skinceuticals CE Ferulic is the clinical gold standard; many dupes use this exact formulation at a fraction of the price."
+  - question: "Can vitamin C serum be used on all skin tones?"
+    answer: "Yes, and it's particularly beneficial for deeper skin tones that are more prone to hyperpigmentation. Vitamin C is one of the few brightening actives without the bleaching concerns of hydroquinone — it targets existing melanin overproduction without disrupting overall skin tone. Formulations adding kojic acid, tranexamic acid, or niacinamide amplify the depigmentation effect."
+  - question: "Should vitamin C serum go on before or after moisturizer?"
+    answer: "Before. Apply vitamin C serum on clean, slightly damp skin as your first active, before moisturizer and sunscreen. This ensures direct skin contact for absorption. Wait 1-2 minutes for the serum to absorb before layering moisturizer on top. Vitamin C is a morning step; use retinol at night to avoid pH conflicts and because retinol breaks down in UV light."
 ---
 
 # Best Vitamin C Serums for Brightening and Anti-Aging (2026)

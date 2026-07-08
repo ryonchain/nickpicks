@@ -24,6 +24,15 @@ products:
   - name: Oclean X Pro Elite
     position: 5
     description: Best Smart Budget
+faqs:
+  - question: "Are electric toothbrushes significantly better than manual?"
+    answer: "Yes, for most people. A 2019 Cochrane review found electric toothbrushes reduced plaque by 21% and gingivitis by 11% more than manual brushing after 3 months of use. Oscillating-rotating brushes (like Oral-B) show the most consistent results in clinical studies. The benefit is greatest for people who struggle to brush correctly with a manual brush or who rush their brushing."
+  - question: "What is the difference between oscillating-rotating and sonic electric toothbrushes?"
+    answer: "Oscillating-rotating brushes (small round head that spins back and forth) have the most clinical evidence for plaque removal. Sonic brushes (like Sonicare) vibrate at high frequency — typically 31,000+ strokes per minute — creating fluid motion that can clean slightly beyond where bristles touch. Sonic is generally gentler and preferred for sensitive teeth/gums; oscillating-rotating may be more effective for heavy plaque removal."
+  - question: "How often should I replace the brush head on an electric toothbrush?"
+    answer: "Every 3 months, or when bristles begin to fray — whichever comes first. Most electric toothbrushes include indicator bristles that fade from colored to white when replacement is due. Using a worn brush head can scratch enamel and gums and reduces cleaning effectiveness significantly."
+  - question: "What features are worth paying more for in an electric toothbrush?"
+    answer: "Worth it: built-in 2-minute timer, 30-second quadrant pacer, pressure sensor (prevents gum damage), and compatible replacement heads at a reasonable ongoing cost. Not worth paying extra for: Bluetooth app connectivity, UV sanitizing cases, and premium handle finishes. These add cost without improving oral health outcomes."
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

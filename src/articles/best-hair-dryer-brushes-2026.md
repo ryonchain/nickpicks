@@ -24,6 +24,15 @@ products:
   - name: Conair InfinitiPRO
     position: 5
     description: Best Budget
+faqs:
+  - question: "What is a hair dryer brush and how is it different from a regular hair dryer?"
+    answer: "A hair dryer brush (also called a blow-dry brush or hot air brush) combines a rotating or fixed brush with a built-in dryer. It dries and styles in one step, creating volume, smoothness, or curl depending on the barrel size and technique. Regular dryers just blow air — you need a separate round brush for the styling step."
+  - question: "Can hair dryer brushes damage hair?"
+    answer: "They can if used incorrectly. The main risks are overexposure to heat and mechanical tension from the brush. Use a heat protectant, keep the brush moving, and avoid going over the same section repeatedly. Most quality models have multiple heat and speed settings — use the lowest setting that gets the job done."
+  - question: "What size hair dryer brush should I get?"
+    answer: "Smaller barrels (1–1.5 inch) create more curl and work well for short hair. Larger barrels (2–2.5 inch) create waves and volume and are better for medium to long hair. For straightening, a paddle brush attachment works better than a round barrel."
+  - question: "Are rotating hair dryer brushes better than non-rotating?"
+    answer: "Rotating brushes (with a motorized barrel) can reduce styling time and create more even tension, but they can also tangle long or fine hair more easily. Non-rotating brushes give you more control over the styling direction. Non-rotating is generally safer for beginners and for fine or easily tangled hair."
 ---
 
 # Best Hair Dryer Brushes (2026)

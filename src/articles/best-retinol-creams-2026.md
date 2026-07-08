@@ -27,6 +27,15 @@ products:
   - name: "Differin Gel (Adapalene 0.1%)"
     position: 6
     description: Best Retinoid for Acne and Aging
+faqs:
+  - question: "What percentage of retinol should I start with?"
+    answer: "Start with 0.025% or 0.03% if you're new to retinol, especially if you have sensitive skin. After 4-6 weeks of using this 2-3 times per week with no significant irritation, move to 0.05%, then eventually 0.1% or higher. Retinol concentration is only one factor — formulation, encapsulation, and supporting ingredients also determine potency and irritation level."
+  - question: "What is the difference between retinol, retinaldehyde, and tretinoin?"
+    answer: "These are all forms of vitamin A (retinoids) with different potencies. Tretinoin (prescription only) is the most potent, working directly on skin receptors. Retinaldehyde (retinal) converts to retinoic acid in one step. Retinol requires two conversion steps, making it gentler but slower-acting. For OTC products, retinaldehyde gives the best results with fewer side effects than tretinoin."
+  - question: "Should I apply retinol to dry skin or damp skin?"
+    answer: "Dry skin. Applying retinol to damp skin can enhance penetration, which increases both effectiveness and irritation risk. Wait 20-30 minutes after cleansing before applying retinol. This \"dry down\" technique reduces irritation without significantly reducing efficacy."
+  - question: "How long until I see results from retinol?"
+    answer: "Skin texture and pore size improvements may appear within 4-6 weeks. Fine line reduction typically takes 12 weeks. Deep wrinkles and significant texture issues may take 6-12 months of consistent use. Most people go through a \"retinol purge\" in the first 4-6 weeks where skin can get drier or break out — this generally resolves on its own."
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*

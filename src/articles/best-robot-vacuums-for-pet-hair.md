@@ -18,6 +18,15 @@ products:
     position: 4
   - name: Eufy RoboVac G30 Hybrid
     position: 5
+faqs:
+  - question: "What should I look for in a robot vacuum for pet hair?"
+    answer: "Prioritize: strong suction power (2000+ Pa), a tangle-free rubber brush roll (hair-free bristle brushes wrap and jam), a large dustbin (0.4L+), effective HEPA or high-efficiency filtration to capture allergens, and a self-emptying base if you have heavy shedders. Auto-empty stations hold 30-60 days of debris, which dramatically reduces how often you need to touch the robot vacuum."
+  - question: "Do robot vacuums actually get all pet hair off carpet?"
+    answer: "On low and medium pile carpet, good robot vacuums remove 70-90% of pet hair in a single pass. High pile or shag carpet is harder — most robot vacuums struggle there and a full-size upright performs better. On hard floors, robot vacuums are extremely effective at pet hair removal. For best results, run the robot daily or every other day rather than weekly deep cleaning."
+  - question: "How often should I run a robot vacuum in a home with pets?"
+    answer: "Daily is ideal for homes with heavy shedders (huskies, goldens, Maine Coons). Every other day is sufficient for moderate shedders. Most robot vacuums can be scheduled to run automatically while you're out. More frequent, shorter runs are more effective than infrequent deep-clean runs — pet hair accumulates quickly and embeds into carpet fibers over time."
+  - question: "Are robot vacuums safe around pets?"
+    answer: "Generally yes, though initial reactions vary by pet. Most dogs and cats either ignore robot vacuums or avoid them after a brief investigation period. Some pets (especially cats) find them amusing to chase or ride. Keep robot vacuums away from pet food and water bowls. If your pet is very anxious around the vacuum, schedule it to run while you're out and your pet is elsewhere in the home."
 ---
 
 *Disclosure: This post contains Amazon affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*

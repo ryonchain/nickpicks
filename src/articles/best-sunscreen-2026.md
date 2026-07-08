@@ -22,6 +22,15 @@ products:
   - name: "Banana Boat Ultra Sport SPF 50+"
     position: 5
     description: "Best Sunscreen for Sports & Outdoor Activities"
+faqs:
+  - question: "What SPF should I use daily?"
+    answer: "SPF 30 blocks 97% of UVB rays; SPF 50 blocks 98%. For daily life (commuting, office work, quick errands), SPF 30 is sufficient. For prolonged outdoor exposure or if you have a history of skin cancer, go with SPF 50+. Most dermatologists recommend at least SPF 30 every single day — UVA rays penetrate glass and cause premature aging even on cloudy days."
+  - question: "What is the difference between chemical and mineral sunscreen?"
+    answer: "Mineral sunscreens (zinc oxide, titanium dioxide) sit on top of skin and physically reflect UV rays. They're better for sensitive skin and work immediately upon application. Chemical sunscreens absorb UV rays and convert them to heat — they go on invisibly but need 15-20 minutes to become effective. Tinted mineral formulas solve the white cast issue on deeper skin tones."
+  - question: "How much sunscreen should I apply to my face?"
+    answer: "About a quarter teaspoon (1.25 ml) for the face and neck — roughly a nickel-sized amount. Most people apply 20-50% of the recommended amount, significantly reducing actual sun protection. If using a pump, that's typically 2-3 pumps. Reapply every 2 hours during outdoor activity or after swimming/sweating."
+  - question: "Is sunscreen in makeup or moisturizer sufficient?"
+    answer: "Generally not. Combination SPF products tend to be applied too thinly to reach their labeled SPF. A dedicated SPF 30+ sunscreen applied first gives more reliable protection. Makeup with SPF is useful for reapplication throughout the day when a full SPF layer isn't practical, but should not be your primary UV protection layer."
 ---
 
 ## Sunscreen in 2026: The Gap Between SPF 30 and SPF 100 Matters More Than You Think

@@ -29,6 +29,15 @@ products:
   - name: Peter Thomas Roth Potent-C Power Eye Cream
     position: 6
     description: Best Vitamin C Eye Cream
+faqs:
+  - question: "When should I start using eye cream?"
+    answer: "Preventatively, your mid-20s is a good time to start. The eye area ages earlier than the rest of your face due to thinner skin and constant movement from expressions. If you're already seeing fine lines or crow's feet, start immediately — retinol eye creams can visibly reduce established wrinkles with consistent use over 12+ weeks."
+  - question: "Is eye cream different from regular face moisturizer?"
+    answer: "Yes. Eye creams are formulated to be safe for the thin, sensitive skin around the eye without causing milia (tiny white bumps from heavy occlusive ingredients) or stinging if they migrate onto the eye surface. They typically have higher concentrations of active ingredients like retinol, peptides, and caffeine than face moisturizers."
+  - question: "How do I apply eye cream correctly?"
+    answer: "Use your ring finger (it applies the least pressure) to gently tap — not rub — a pea-sized amount around the orbital bone (the bony ridge around the eye socket). Apply outward from the inner corner, going around the eye. Avoid applying directly to the eyelid or lash line unless the product specifies it's safe there."
+  - question: "How long does it take to see results from eye cream?"
+    answer: "Hydration is immediate. Puffiness reduction (caffeine-based) takes effect within hours of application. Fine line reduction from retinol and peptides typically requires 8-12 weeks of consistent use before visible changes appear. Dark circles from pigmentation are the hardest to improve and may take 3-6 months of vitamin C or niacinamide use."
 ---
 
 # Best Anti-Aging Eye Creams 2026: Retinol, Peptides, Dark Circles, Puffiness

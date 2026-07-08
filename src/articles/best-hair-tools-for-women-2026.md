@@ -39,6 +39,15 @@ products:
   - name: Kristin Ess Large Barrel Ceramic Curling Wand
     position: 10
     description: Best Curling Wand Under $40
+faqs:
+  - question: "What are the must-have hair tools for styling at home?"
+    answer: "The essentials: a quality hair dryer (1875W+) for speed-drying with less damage, a flat iron or curling wand for your primary style, and a wide-tooth comb plus a boar bristle brush. For most people, a blow-dry brush like the Dyson Airwrap or Shark FlexStyle can replace both the dryer and styling tool in one step. A heat protectant spray is non-negotiable for all heat styling."
+  - question: "What plate material is best for a flat iron?"
+    answer: "Titanium heats up fastest, maintains temperature most consistently, and is best for thick or coarse hair. Ceramic heats more gently and evenly, reducing hot spots that cause damage — ideal for fine or color-treated hair. Tourmaline ceramic emits negative ions that reduce frizz and static. Avoid chrome or coated plates that can snag or drag hair."
+  - question: "How hot should I set my curling iron or flat iron?"
+    answer: "Fine or damaged hair: 300-350°F. Normal hair: 350-400°F. Thick, coarse, or resistant hair: 400-450°F. Higher temperatures create results faster but cause more cumulative heat damage. Always use a heat protectant and start at the lower end of your range. A quality iron with consistent temperature control is more important than maximum heat output."
+  - question: "How do I prevent heat damage from regular styling?"
+    answer: "Always apply a heat protectant before any heat tool. Let hair cool completely before brushing or touching a curl. Limit heat tool use to 3-4 times per week maximum. Use the lowest temperature that achieves the style. Do regular deep conditioning or protein treatments monthly. Trim ends every 8-12 weeks to remove split ends before they travel up the hair shaft."
 ---
 
 Hair tools are a category where the price premium is often real — but not always, and the most expensive option isn't always the right one for your hair type. This list ranks tools by category, covers the actual price-to-performance tradeoffs, and flags the alternatives worth considering at every budget.
