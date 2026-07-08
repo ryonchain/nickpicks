@@ -1,12 +1,11 @@
 ---
 title: "Best Robot Vacuums of 2026: Hands-Free Cleaning That Actually Works"
 description: "Discover the best robot vacuums of 2026 — from budget picks to premium LiDAR models with auto-empty bases. Real reviews with suction specs, navigation ratings, and honest pros/cons."
-permalink: /articles/best-robot-vacuums-2026/
+permalink: /articles/best-robot-vacuums-2026/index.html
 category: Home & Kitchen
 tags: ["robot vacuum", "home cleaning", "smart home", "vacuum cleaner", "Roomba", "Roborock"]
 date: 2026-07-07
 layout: article.njk
-permalink: /articles/best-robot-vacuums-2026/index.html
 faqs:
   - question: "What is the difference between LiDAR and gyroscope navigation in robot vacuums?"
     answer: "LiDAR navigation uses a spinning laser to create a precise room map, enabling systematic row-by-row cleaning and room-specific scheduling. Gyroscope navigation uses inertial sensors to estimate position — cheaper but less accurate, resulting in random or semi-random patterns. LiDAR models typically start around $250; gyroscope models dominate the under-$200 segment."
