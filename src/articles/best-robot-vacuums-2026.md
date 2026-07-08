@@ -170,4 +170,4 @@ Some older sensors mistakenly read dark floors as cliff sensors (stairs) and sto
 
 ---
 
-*More smart home picks: [Best Mesh Wi-Fi Systems 2026](/articles/best-mesh-wifi-systems-2026/) | [Best Smart Doorbells 2026](/articles/best-smart-doorbells-2026/)*
+*More smart home picks: [Best Mesh Wi-Fi Systems 2026](/articles/best-mesh-wifi-systems-2026/) | [Best Smart Doorbells 2026](/articles/best-smart-doorbells-2026/) | [Best Air Purifiers 2026](/articles/best-air-purifiers/)*

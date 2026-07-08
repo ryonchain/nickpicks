@@ -222,4 +222,4 @@ Open-back or lattice designs allow more air underneath the laptop. This matters 
 
 ---
 
-*Looking for more desk productivity picks? Check out our [best standing desk anti-fatigue mats guide](#) and [best mechanical gaming keyboards](#) for more top Amazon picks.*
+*Looking for more desk productivity picks? Check out our [best standing desk anti-fatigue mats guide](/articles/best-anti-fatigue-standing-desk-mats-2026/) and [best mechanical keyboards for work and gaming](/articles/best-mechanical-keyboards/) for more top Amazon picks.*
