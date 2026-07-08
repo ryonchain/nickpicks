@@ -170,3 +170,4 @@ The Vivosmart 5 is Garmin's slim fitness band — closer to Fitbit's form factor
 - [Best Resistance Band Sets 2026](/articles/best-resistance-band-sets-2026/)
 - [Best Foam Rollers 2026](/articles/best-foam-rollers-2026/)
 - [Best Rowing Machines 2026](/articles/best-rowing-machines-2026/)
+- [Best Rowing Machines for Home Gym 2026](/articles/best-rowing-machines-home-gym-2026/)
