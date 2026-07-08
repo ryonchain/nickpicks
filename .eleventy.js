@@ -43,18 +43,20 @@ module.exports = function(eleventyConfig) {
   });
 
   // Add loading="lazy" + decoding="async" to all <img> tags in built HTML.
-  // The first <img> on each page keeps loading="eager" for LCP.
+  // The first <img> on each page gets loading="eager" + fetchpriority="high" for LCP.
   eleventyConfig.addTransform("lazy-images", function(content, outputPath) {
     if (!outputPath || !outputPath.endsWith(".html")) return content;
     let first = true;
     return content.replace(/<img([^>]*)>/gi, (match, attrs) => {
       if (/loading\s*=/i.test(attrs)) return match;
-      const loadingVal = first ? "eager" : "lazy";
+      const isFirst = first;
+      const loadingVal = isFirst ? "eager" : "lazy";
       first = false;
+      const fetchPriorityAttr = isFirst ? ' fetchpriority="high"' : '';
       if (!/decoding\s*=/i.test(attrs)) {
-        return `<img${attrs} loading="${loadingVal}" decoding="async">`;
+        return `<img${attrs} loading="${loadingVal}"${fetchPriorityAttr} decoding="async">`;
       }
-      return `<img${attrs} loading="${loadingVal}">`;
+      return `<img${attrs} loading="${loadingVal}"${fetchPriorityAttr}>`;
     });
   });
 
