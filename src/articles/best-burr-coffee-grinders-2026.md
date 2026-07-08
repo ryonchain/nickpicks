@@ -235,3 +235,5 @@ Steel burrs should be cleaned monthly with a grinder brush and quarterly with Ur
 - [Best Coffee Makers 2026](/articles/best-coffee-makers-home-brewers-2026/)
 - [Best Coffee Tumblers & Travel Mugs 2026](/articles/best-coffee-tumblers-travel-mugs-2026/)
 - [Best Burr Coffee Grinders for Pour-Over 2026](/articles/best-burr-coffee-grinders-for-pour-over-2026/)
+
+**Related Guides:** [Best Air Fryers (2026): Capacity, Temperature Range & Easy-Clean Picks](/articles/best-air-fryers-2026/) · [Best Air Fryers for a Family of 4 (2027)](/articles/best-air-fryers-for-family-of-4/) · [Best Air Purifiers in 2026: HEPA Filtration, CADR Ratings, and Room Coverage](/articles/best-air-purifiers-2026/)
