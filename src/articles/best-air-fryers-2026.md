@@ -27,6 +27,17 @@ products:
   - name: Chefman 2 Qt Compact
     position: 6
     description: Best for Minimal Cooking
+faqs:
+  - question: "What size air fryer do I need?"
+    answer: "For 1–2 people, a 2–4 Qt model is sufficient. For families of 3–4, go with 5–6 Qt. Families of 5+ or anyone cooking whole chickens and large batches should look at 6–10 Qt dual-basket models. When in doubt, size up — overfilling reduces crispiness."
+  - question: "Is air-fried food actually healthier than deep-fried?"
+    answer: "Yes — air frying uses 70–80% less oil than traditional deep frying, resulting in significantly fewer calories and less saturated fat. You still get a crispy exterior due to rapid hot-air circulation, but without the oil saturation."
+  - question: "Can you put parchment paper in an air fryer?"
+    answer: "Yes, but only perforated parchment paper designed for air fryers. Regular parchment can block airflow and become a fire hazard if it touches the heating element. Pre-cut air fryer parchment liners are widely available on Amazon."
+  - question: "What foods cook best in an air fryer?"
+    answer: "Air fryers excel at frozen foods (fries, nuggets, fish sticks), vegetables (broccoli, Brussels sprouts, asparagus), proteins (chicken thighs, salmon, pork chops), and reheating leftovers (pizza, fried chicken). Foods with wet batters don't work well — use panko breadcrumbs instead."
+  - question: "How do I prevent food from sticking in an air fryer?"
+    answer: "Lightly spray food or the basket with cooking spray before cooking. Don't use aerosol sprays with propellants (like Pam) on non-stick baskets — they can degrade the coating. Use an oil mister with regular oil instead."
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*
