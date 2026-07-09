@@ -1,0 +1,45 @@
+---
+layout: base.njk
+title: "Best Smart Home Devices — Gadgets to Automate Your Home"
+description: "Smart speakers, robot vacuums, smart doorbells, door locks, plugs, and IoT devices reviewed honestly. Build a smarter home without overspending on gear that doesn't deliver."
+permalink: /smart-home/index.html
+categorySlug: smart-home
+eleventyExcludeFromCollections: true
+---
+
+<section class="hub-hero">
+  <div class="section-inner">
+    <nav class="hub-breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/' | url }}">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Smart Home</span>
+    </nav>
+    <h1>Best Smart Home Devices — Gadgets to Automate Your Home</h1>
+    <p>Robot vacuums, smart doorbells, door locks, plugs, speakers, and more. Honest reviews of the IoT gear that actually makes life easier — and the overhyped stuff to skip.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-inner">
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.category == "smart-home" or article.data.category == "Smart Home & Tech" or article.data.category == "Smart Home & Security" or article.data.category == "Smart Home Security" or article.data.category == "Smart Home" %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Smart Home</span>
+            <a href="{{ article.url | url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+              {% if article.data.readTime %}<span>·</span><span>{{ article.data.readTime }} min read</span>{% endif %}
+            </div>
+            <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

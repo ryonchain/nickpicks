@@ -1,0 +1,45 @@
+---
+layout: base.njk
+title: "Best Gaming Accessories — Gear for Every Setup and Budget"
+description: "Gaming headsets, keyboards, mice, monitors, chairs, controllers, and streaming gear reviewed for PC, console, and content creators. Find the gaming upgrades actually worth buying."
+permalink: /gaming/index.html
+categorySlug: gaming
+eleventyExcludeFromCollections: true
+---
+
+<section class="hub-hero">
+  <div class="section-inner">
+    <nav class="hub-breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/' | url }}">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Gaming</span>
+    </nav>
+    <h1>Best Gaming Accessories — Gear for Every Setup and Budget</h1>
+    <p>Gaming headsets, keyboards, mice, monitors, chairs, and streaming setups — reviewed for PC, console, and content creators. Cut through the marketing and find gear that's genuinely worth it.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-inner">
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.category == "gaming" or "gaming" in article.url %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Gaming</span>
+            <a href="{{ article.url | url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+              {% if article.data.readTime %}<span>·</span><span>{{ article.data.readTime }} min read</span>{% endif %}
+            </div>
+            <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

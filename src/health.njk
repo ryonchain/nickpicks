@@ -1,0 +1,45 @@
+---
+layout: base.njk
+title: "Best Health Monitors and Wearables — Track What Matters"
+description: "Fitness trackers, smartwatches, blood pressure monitors, sleep trackers, pulse oximeters, and health wearables reviewed. Find the health tech that gives you real insights without the fluff."
+permalink: /health/index.html
+categorySlug: health
+eleventyExcludeFromCollections: true
+---
+
+<section class="hub-hero">
+  <div class="section-inner">
+    <nav class="hub-breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/' | url }}">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Health</span>
+    </nav>
+    <h1>Best Health Monitors and Wearables — Track What Matters</h1>
+    <p>Fitness trackers, smartwatches, blood pressure monitors, sleep trackers, and health wearables — reviewed for accuracy, comfort, and value. Get real health insights without paying for features you'll never use.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-inner">
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.category == "health-wellness" or article.data.category == "health" or article.data.category == "Health" or article.data.category == "health-home" or article.data.category == "Health & Beauty" %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Health</span>
+            <a href="{{ article.url | url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+              {% if article.data.readTime %}<span>·</span><span>{{ article.data.readTime }} min read</span>{% endif %}
+            </div>
+            <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

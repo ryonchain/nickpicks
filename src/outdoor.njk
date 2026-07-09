@@ -1,0 +1,45 @@
+---
+layout: base.njk
+title: "Best Outdoor and Camping Gear — Picks for Every Adventure"
+description: "Camping gear, hiking essentials, grills, outdoor cooking, survival tools, and sports equipment reviewed honestly. Find the outdoor gear worth taking on your next adventure."
+permalink: /outdoor/index.html
+categorySlug: outdoor
+eleventyExcludeFromCollections: true
+---
+
+<section class="hub-hero">
+  <div class="section-inner">
+    <nav class="hub-breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/' | url }}">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Outdoor</span>
+    </nav>
+    <h1>Best Outdoor and Camping Gear — Picks for Every Adventure</h1>
+    <p>Camping essentials, hiking gear, grills, sports equipment, and outdoor tech reviewed for every kind of adventurer. Real-world tested picks that earn their place in your pack — or your backyard.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-inner">
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.category == "outdoor" or article.data.category == "outdoor-camping" or article.data.category == "outdoor-grilling" or article.data.category == "outdoor-cooking" or article.data.category == "outdoor-sports" or article.data.category == "outdoor-recreation" or article.data.category == "outdoor-wellness" or article.data.category == "outdoor-pool" or article.data.category == "outdoor-fishing" or article.data.category == "outdoor-footwear" or article.data.category == "outdoor-emergency" or article.data.category == "outdoor-transportation" or article.data.category == "garden-outdoor" or article.data.category == "Sports & Outdoors" %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Outdoor</span>
+            <a href="{{ article.url | url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+              {% if article.data.readTime %}<span>·</span><span>{{ article.data.readTime }} min read</span>{% endif %}
+            </div>
+            <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

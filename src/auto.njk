@@ -1,0 +1,45 @@
+---
+layout: base.njk
+title: "Best Car Tech Accessories — Upgrades for Every Drive"
+description: "Dash cams, car phone mounts, jump starters, car vacuums, seat organizers, and auto tech reviewed. Find the best car accessories to make every drive safer, smarter, and more organized."
+permalink: /auto/index.html
+categorySlug: auto
+eleventyExcludeFromCollections: true
+---
+
+<section class="hub-hero">
+  <div class="section-inner">
+    <nav class="hub-breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/' | url }}">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Auto</span>
+    </nav>
+    <h1>Best Car Tech Accessories — Upgrades for Every Drive</h1>
+    <p>Dash cams, phone mounts, jump starters, car vacuums, seat organizers, and auto tech reviewed for reliability and value. The gadgets that make your car safer, smarter, and easier to live with.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-inner">
+    <div class="article-grid">
+      {% for article in collections.articlesByDate %}
+        {% if article.data.category == "automotive" or "car-" in article.url or "dash-cam" in article.url or "jump-starter" in article.url %}
+        <article class="article-card">
+          <div class="card-body">
+            <span class="card-category">Auto</span>
+            <a href="{{ article.url | url }}" style="display:block">
+              <h2 class="card-title">{{ article.data.title }}</h2>
+            </a>
+            <p class="card-excerpt">{{ article.data.description | truncate(120) }}</p>
+            <div class="card-meta">
+              <span>{{ article.date | postDate }}</span>
+              {% if article.data.readTime %}<span>·</span><span>{{ article.data.readTime }} min read</span>{% endif %}
+            </div>
+            <a href="{{ article.url | url }}" class="read-more" style="margin-top:0.75rem;display:inline-flex">Read guide →</a>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
