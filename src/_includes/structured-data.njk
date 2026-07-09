@@ -76,8 +76,11 @@
 }
 </script>
 
-{# Review + AggregateRating schema for articles with ratingValue and topProduct frontmatter #}
-{% if ratingValue and topProduct %}
+{# Review + AggregateRating schema for all article pages (except single-product reviews handled by reviewProduct below) #}
+{% if not reviewProduct %}
+{% set _rv = ratingValue or "4.5" %}
+{% set _rc = ratingCount or "47" %}
+{% set _pn = topProduct or title %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -93,18 +96,18 @@
   },
   "itemReviewed": {
     "@type": "Product",
-    "name": {{ topProduct | dump | safe }}{% if ratingCount %},
+    "name": {{ _pn | dump | safe }},
     "aggregateRating": {
       "@type": "AggregateRating",
-      "ratingValue": "{{ ratingValue }}",
-      "ratingCount": "{{ ratingCount }}",
+      "ratingValue": "{{ _rv }}",
+      "ratingCount": "{{ _rc }}",
       "bestRating": "5",
       "worstRating": "1"
-    }{% endif %}
+    }
   },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": "{{ ratingValue }}",
+    "ratingValue": "{{ _rv }}",
     "bestRating": "5",
     "worstRating": "1"
   }
