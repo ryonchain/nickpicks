@@ -251,3 +251,5 @@ Yes — all three ecosystems support Bluetooth pairing. The Echo Studio and Home
 - [Best Smart Plugs 2026](/articles/best-smart-plugs-2026/)
 - [Best Smart LED Bulbs 2026](/articles/best-smart-led-bulbs-2026/)
 - [Best Smart Thermostats 2026](/articles/best-smart-thermostats-2026/)
+
+**Related Guides:** [Best Smart Home Hubs](/articles/best-smart-home-hubs-2026/) · [Best Smart Home Devices](/articles/best-smart-home-devices-2026/) · [Best Smart Plugs](/articles/best-smart-plugs-2026/)

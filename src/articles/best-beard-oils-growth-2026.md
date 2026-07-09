@@ -211,3 +211,5 @@ This Canadian formula adds tea tree oil to the standard argan and jojoba base �
 - [Best Men's Face Wash for Oily Skin 2026](/articles/best-mens-face-wash-oily-skin-2026/)
 
 *All prices approximate and subject to change. As an Amazon Associate, NickPicks earns from qualifying purchases.*
+
+**Related Guides:** [Best Aftershave for Sensitive Skin (2026)](/articles/best-aftershave-sensitive-skin-2026/) · [Best Beard Trimmers for Stubble and Short Beards (2026)](/articles/best-beard-trimmers-stubble-2026/) · [Best Electric Shavers for Men (2026): Rotary vs. Foil, Ranked](/articles/best-electric-shavers-men-2026/)

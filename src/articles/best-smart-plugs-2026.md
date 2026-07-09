@@ -166,3 +166,5 @@ Yes, cutting power via smart plug does a hard power-off. Some TVs take longer to
 *Prices reflect typical Amazon listings as of publication date.*
 
 *Related: [Best Smart Power Strips 2026](/articles/best-smart-power-strips-2026/) | [Best Smart Plugs for Energy Monitoring](/articles/best-smart-plugs-2026/)*
+
+**Related Guides:** [Best Smart Power Strips](/articles/best-smart-power-strips-2026/) · [Best Smart LED Bulbs](/articles/best-smart-led-bulbs-2026/) · [Best Smart Home Devices](/articles/best-smart-home-devices-2026/)

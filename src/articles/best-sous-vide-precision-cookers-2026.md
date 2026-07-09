@@ -236,3 +236,5 @@ A sous vide circulator, a large pot or container, and zip-lock bags (or a vacuum
 - [Best Electric Griddles 2026](/articles/best-electric-griddles-2026/)
 - [Best Programmable Slow Cookers 2026](/articles/best-programmable-slow-cookers-2026/)
 - [Best Kitchen Scale Sets 2026](/articles/best-kitchen-scale-sets-2026/)
+
+**Related Guides:** [Best Air Fryers (2026): Capacity, Temperature Range & Easy-Clean Picks](/articles/best-air-fryers-2026/) · [Best Air Fryers for Families Under $150 (2026)](/articles/best-air-fryers-family-2026/) · [Best Air Fryers for a Family of 4 (2027)](/articles/best-air-fryers-for-family-of-4/)

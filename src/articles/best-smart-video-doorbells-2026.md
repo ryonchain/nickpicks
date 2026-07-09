@@ -215,3 +215,5 @@ Event recording (standard on battery doorbells and most wired models) starts the
 - [Best Smart Speakers 2026](/articles/best-smart-speakers-2026/)
 - [Best Smart Doorbells with Motion Detection 2026](/articles/best-smart-doorbells-motion-detection-2026/)
 - [Best Home Security Cameras 2026](/articles/best-home-security-cameras-2026/)
+
+**Related Guides:** [Best Smart Doorbells](/articles/best-smart-doorbells-2026/) · [Best Smart Doorbells with Motion Detection](/articles/best-smart-doorbells-motion-detection-2026/) · [Best Smart Doorbells Under $100](/articles/best-smart-doorbells-under-100-2026/)

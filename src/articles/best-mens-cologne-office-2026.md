@@ -219,3 +219,5 @@ D&G Light Blue for Men is a cedar-citrus-aquatic scent built for warmer months. 
 - [Best Men's Moisturizers Anti-Aging 2026](/articles/best-mens-moisturizers-anti-aging-2026/)
 
 *All prices approximate and subject to change. As an Amazon Associate, NickPicks earns from qualifying purchases.*
+
+**Related Guides:** [Best Aftershave for Sensitive Skin (2026)](/articles/best-aftershave-sensitive-skin-2026/) · [Best Beard Oils for Growth and Conditioning (2026)](/articles/best-beard-oils-growth-2026/) · [Best Beard Trimmers for Stubble and Short Beards (2026)](/articles/best-beard-trimmers-stubble-2026/)

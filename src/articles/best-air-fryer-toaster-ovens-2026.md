@@ -163,3 +163,5 @@ The Instant Omni Plus integrates with Alexa and the Instant app for voice and re
 - [Best Instant Pot Electric Pressure Cookers 2026](/articles/best-instant-pot-electric-pressure-cookers-2026/)
 - [Best Electric Griddles 2026](/articles/best-electric-griddles-2026/)
 - [Best Programmable Slow Cookers 2026](/articles/best-programmable-slow-cookers-2026/)
+
+**Related Guides:** [Best Air Fryer Ovens (2026): Countertop Convection Ovens with Air Fry Tested](/articles/best-air-fryer-ovens-2026/) · [Best Air Fryers (2026): Capacity, Temperature Range & Easy-Clean Picks](/articles/best-air-fryers-2026/) · [Best Air Fryers for Families Under $150 (2026)](/articles/best-air-fryers-family-2026/)

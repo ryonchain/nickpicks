@@ -174,3 +174,5 @@ Quality smart locks (Schlage Grade 1) are as secure mechanically as traditional 
 *Prices reflect typical Amazon listings as of publication date.*
 
 *Related: [Best Smart Doorbells Under $100 2026](/articles/best-smart-doorbells-under-100-2026/) | [Best Smart Home Starter Kits 2026](/articles/best-budget-smart-home-starter-kits-2026/)*
+
+**Related Guides:** [Best Smart Door Locks](/articles/best-smart-door-locks-2026/) · [Best Smart Door Locks with Keypad](/articles/best-smart-door-locks-keypad-2026/) · [Best Smart Home Security Cameras](/articles/best-smart-home-security-cameras-2026/)
