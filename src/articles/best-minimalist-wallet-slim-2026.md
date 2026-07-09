@@ -190,3 +190,5 @@ Yes. Metal wallets (Ridge, Secrid) should go in the bin through security like an
 ---
 
 *Last updated: July 2026. Prices are approximate and subject to change on Amazon.*
+
+**Related Guides:** [Best Men's Dress Watches Under $500 2026: Swiss and Japanese Picks for Every Occasion](/articles/best-mens-dress-watches-under-500-2026/) · [Best Minimalist Watches for Men 2026: Clean Dials, Timeless Style](/articles/best-minimalist-watches-men-2026/) · [Best Premium Sunglasses 2026: Polarized, UV400, and Designed to Last](/articles/best-premium-sunglasses-2026/)

@@ -269,3 +269,5 @@ Most bikes need roughly 4 × 2 feet of floor space plus clearance for safe use. 
 ---
 
 If you're building out a home gym, pair your exercise bike with our picks for the [best home treadmills under $1,500](/articles/best-home-treadmills-under-1500-2026/) and [best massage guns for recovery](/articles/best-massage-guns-2026/). For additional equipment, see our guides to [yoga mats](/articles/best-yoga-mats-2026/) and [resistance bands under $30](/articles/best-resistance-bands-under-30-2026/). For keeping your workout area organized, see our [home office setup guide](/articles/best-home-office-setup-under-1000/).
+
+**Related Guides:** [Best Adjustable Dumbbells 2026](/articles/best-adjustable-dumbbells-2026/) · [Best Adjustable Dumbbells for Home Gym (2026): Space-Saving Strength Training](/articles/best-adjustable-dumbbells-home-gym-2026/) · [Best Air Purifiers for Allergies and Large Rooms in 2026](/articles/best-air-purifiers-allergies-large-rooms-2026/)

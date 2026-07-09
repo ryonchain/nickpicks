@@ -184,3 +184,5 @@ Yes. The small amount of iron that transfers to food is generally below concern 
 ---
 
 *Last updated: July 2026. Prices are approximate and subject to change on Amazon.*
+
+**Related Guides:** [Best Air Fryers (2026): Capacity, Temperature Range & Easy-Clean Picks](/articles/best-air-fryers-2026/) · [Best Air Fryers for a Family of 4 (2027)](/articles/best-air-fryers-for-family-of-4/) · [Best Air Purifiers in 2026: HEPA Filtration, CADR Ratings, and Room Coverage](/articles/best-air-purifiers-2026/)
