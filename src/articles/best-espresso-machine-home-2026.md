@@ -138,3 +138,5 @@ Marketing: machines are rated at 15 bars because that's the pump maximum, but es
 ---
 
 *Prices reflect Amazon listings as of publication. Check current pricing using the links above.*
+
+**Related Guides:** [Best Espresso Machines](/articles/best-espresso-machines-2026/) · [Best Espresso Machines for Home](/articles/best-espresso-machines-home-2026/) · [Best Coffee Makers & Home Brewers](/articles/best-coffee-makers-home-brewers-2026/)

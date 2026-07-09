@@ -172,3 +172,5 @@ The Caseta PD-10NXD is the Lutron answer for multi-location switching (two switc
 - [Best Smart Plugs 2026](/articles/best-smart-plugs-2026/)
 - [Best Smart LED Bulbs 2026](/articles/best-smart-led-bulbs-2026/)
 - [Best Smart Thermostats 2026](/articles/best-smart-thermostats-2026/)
+
+**Related Guides:** [Best Smart LED Bulbs](/articles/best-smart-led-bulbs-2026/) · [Best Smart Plugs](/articles/best-smart-plugs-2026/) · [Best Smart Home Hubs](/articles/best-smart-home-hubs-2026/)

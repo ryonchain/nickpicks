@@ -167,3 +167,5 @@ Studies show 10-15% energy savings on average. Actual savings depend on how disc
 *Prices reflect typical Amazon listings as of publication date.*
 
 *Related: [Best Smart Plugs 2026](/articles/best-smart-plugs-2026/) | [Best Smart Home Starter Kits Under $150](/articles/best-budget-smart-home-starter-kits-2026/)*
+
+**Related Guides:** [Best Smart Thermostats](/articles/best-smart-thermostats-2026/) · [Best Smart Thermostats for Renters](/articles/best-smart-thermostats-for-renters-2026/) · [Best Smart Home Devices](/articles/best-smart-home-devices-2026/)

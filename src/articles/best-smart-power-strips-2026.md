@@ -170,3 +170,5 @@ Look for the joule rating and UL 1449 certification. Kasa and Meross include gen
 *Prices reflect typical Amazon listings as of publication date.*
 
 *Related: [Best Smart Plugs 2026](/articles/best-smart-plugs-2026/) | [Best Smart Home Starter Kits 2026](/articles/best-budget-smart-home-starter-kits-2026/)*
+
+**Related Guides:** [Best Smart Plugs](/articles/best-smart-plugs-2026/) · [Best Smart LED Bulbs](/articles/best-smart-led-bulbs-2026/) · [Best Smart Home Hubs](/articles/best-smart-home-hubs-2026/)
