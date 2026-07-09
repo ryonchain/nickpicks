@@ -5,6 +5,20 @@ date: 2026-07-02
 category: home-office
 tags: ["document scanners", "home office", "Fujitsu ScanSnap", "Canon", "paperless office"]
 layout: article.njk
+faqs:
+  - question: 'What is the best document scanner for a home office?'
+    answer: 'The Fujitsu ScanSnap iX1600 ($495) is the best home office document scanner for most users — it scans at 40 pages per minute, automatically detects single vs. double-sided documents, and has a direct Wi-Fi connection. For portable scanning on the go, the Doxie Go SE wireless scanner ($149) is a strong alternative.'
+  - question: 'Do I need a flatbed or sheet-fed document scanner?'
+    answer: 'Sheet-fed scanners (like Fujitsu ScanSnap) feed multiple pages automatically and are ideal for scanning stacks of documents quickly. Flatbed scanners are better for bound books, magazines, photos, and fragile documents that cannot be fed through a roller. Many scanners now offer both in a combined unit.'
+  - question: 'What resolution (DPI) do I need for scanning documents?'
+    answer: 'For standard office documents and receipts: 300 DPI is sufficient and keeps file sizes small. For photos or documents you plan to enlarge: 600 DPI or higher. For legal archiving or documents with very fine print: 400–600 DPI. Most modern scanners default to 300 DPI which is the right starting point for most users.'
+  - question: 'Can I scan documents directly to the cloud?'
+    answer: 'Yes. Modern scanners like the Fujitsu ScanSnap iX1600 and Brother ADS-2700W connect directly to Wi-Fi and can send scans to Google Drive, Dropbox, Evernote, and SharePoint without a computer. This is especially useful for home offices without a dedicated computer near the scanner.'
+  - question: 'Is a portable document scanner worth it?'
+    answer: 'For professionals who scan documents while traveling or at client sites, yes. Portable scanners like the Canon imageFORMULA R10 fit in a bag, run on USB power, and scan up to 8 pages per minute. For home use only, a desktop sheet-fed scanner offers better speed, paper handling, and software integration.'
+  - question: 'What software do document scanners come with?'
+    answer: 'Fujitsu ScanSnap models include ScanSnap Home, which automatically categorizes, names, and files documents using AI. Canon ImageFORMULA scanners include CaptureOnTouch with OCR (optical character recognition) for searchable PDFs. Most scanners also work with TWAIN-compatible software like Adobe Acrobat.'
+
 ---
 
 # Best Document Scanners for Home Office 2026

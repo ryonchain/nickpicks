@@ -8,6 +8,20 @@ author: Nick
 affiliate: amazon
 category: home-office
 tags: [standing-desk, height-adjustable, home-office, ergonomics, electric-desk, sit-stand]
+faqs:
+  - question: 'How much should I spend on a standing desk?'
+    answer: '$400–$600 gets you a dual-motor desk with real stability and a solid warranty. Under $300, you are accepting noticeable wobble at standing height. Over $700, you are paying for premium frame specs, programmable memory presets, and longer warranty coverage.'
+  - question: 'Do I need a dual-motor standing desk?'
+    answer: 'For a single-monitor home office setup, a quality single-motor desk is fine. For dual monitors, heavy peripherals, or loads over 60 lbs, dual-motor provides better stability, quieter operation, and longer motor life.'
+  - question: 'How long do standing desks last?'
+    answer: 'Quality desks with brushless motors last 10+ years with normal use. Budget single-motor desks typically last 3–5 years before the motor shows wear or the controller starts malfunctioning.'
+  - question: 'Is a memory keypad worth it on a standing desk?'
+    answer: 'Yes. The friction of manually dialing in your height every time you want to switch is enough to make people stop using the sit-stand feature. Memory presets remove that friction and increase how often you actually stand.'
+  - question: 'What weight capacity do I need for a standing desk?'
+    answer: 'Most home office users need 150–200 lbs capacity. Add up your monitor(s), computer, keyboard, accessories, and leave a 20% buffer. A 28" ultrawide monitor plus a desktop PC can easily reach 80–100 lbs.'
+  - question: 'Should I buy an anti-fatigue mat with a standing desk?'
+    answer: 'Yes, especially on hard floors. Standing on a flat surface for 30+ minutes causes fatigue and discomfort in feet, knees, and lower back. A good anti-fatigue mat (like the Topo by Ergodriven) extends comfortable standing time significantly.'
+
 ---
 
 *Disclosure: This post contains Amazon affiliate links. We may earn a commission at no extra cost to you.*
@@ -193,6 +207,12 @@ Quality desks with brushless motors last 10+ years with normal use. Budget singl
 
 **Is a memory keypad worth it?**
 Yes. The friction of manually dialing in your height every time you want to switch is enough to make people stop using the feature. Memory presets remove that friction entirely.
+
+**What weight capacity do I need for a standing desk?**
+Most home office users need 150–200 lbs capacity. Add up your monitor(s), computer, keyboard, accessories, and leave a 20% buffer. A 28" ultrawide monitor plus a desktop PC can easily reach 80–100 lbs.
+
+**Should I buy an anti-fatigue mat with a standing desk?**
+Yes, especially on hard floors. Standing on a flat surface for 30+ minutes causes fatigue and discomfort in feet, knees, and lower back. A good anti-fatigue mat (like the Topo by Ergodriven) extends comfortable standing time significantly.
 
 ---
 

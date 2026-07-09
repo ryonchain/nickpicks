@@ -21,6 +21,20 @@ products:
   - name: "AOC C24G2"
     position: 5
     description: "Best Budget 1080p"
+faqs:
+  - question: 'What refresh rate do I need for gaming?'
+    answer: '144Hz is the modern baseline for competitive gaming — it is a significant improvement over 60Hz and supported by most mid-range GPUs. 240Hz is beneficial for fast-paced competitive games (FPS) if your GPU can consistently push 200+ FPS. 360Hz+ is for professional esports players. For casual gaming and single-player games, 144Hz is plenty.'
+  - question: 'What is the difference between IPS, VA, and TN panels for gaming monitors?'
+    answer: 'IPS panels have the best color accuracy and widest viewing angles — ideal for games where visuals matter and for color-sensitive work. VA panels have the best contrast ratios (3000:1 vs 1000:1 for IPS) for deeper blacks in dark game environments but have worse response times. TN panels have the fastest response times (1ms) and are cheapest, but have inferior color and viewing angles. Most gaming monitors in 2026 use IPS or IPS-like panels for the best balance.'
+  - question: 'What is response time and does it matter for gaming?'
+    answer: 'Response time (measured in milliseconds) is how fast each pixel can change color. Slow response times cause motion blur and ghosting in fast-moving games. 1ms (GtG) response time is marketed by TN and fast IPS panels. For most gamers at 144Hz, a 4ms GtG response time is imperceptible. At 240Hz+, 1ms GtG becomes more relevant for competitive play.'
+  - question: 'Do I need G-Sync or FreeSync on a gaming monitor?'
+    answer: 'Yes, adaptive sync (FreeSync or G-Sync) eliminates screen tearing and stuttering by matching the monitor''s refresh rate to the GPU''s output. FreeSync is AMD''s standard and works on compatible AMD GPUs and many NVIDIA GPUs (via G-Sync Compatible certification). G-Sync requires NVIDIA GPU and a dedicated NVIDIA chip in the monitor, adding cost. For most buyers, a FreeSync monitor that is G-Sync Compatible provides the best value.'
+  - question: 'What resolution should I choose for a gaming monitor?'
+    answer: '1080p (Full HD) at 144Hz+ is the most GPU-efficient choice and standard for competitive esports. 1440p (2K/QHD) is the best balance of resolution and performance for a 27" monitor. 4K (UHD) at 144Hz+ requires a high-end GPU (RTX 4080/4090, RX 7900 XTX) to sustain smooth framerates in modern games. Match resolution to your GPU''s capabilities.'
+  - question: 'Is an ultrawide gaming monitor worth it?'
+    answer: 'For single-player immersive games and productivity, ultrawide monitors (21:9 ratio) provide an outstanding experience. For competitive multiplayer games, ultrawide can be a disadvantage in some titles that don''t support the aspect ratio or restrict FOV. Check game compatibility before purchasing. Ultrawide also requires significantly more GPU power to drive at high framerates.'
+
 ---
 
 # Best Gaming Monitors 2026 — Top Picks for Every Setup and Budget

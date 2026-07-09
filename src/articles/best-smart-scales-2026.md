@@ -10,6 +10,20 @@ estimated_search_volume: "95,000/mo"
 buyer_intent: high
 layout: article.njk
 permalink: /articles/best-smart-scales-2026/index.html
+faqs:
+  - question: 'What is the best smart scale for body composition tracking?'
+    answer: 'The Withings Body Comp ($199) is the gold standard for body composition accuracy — it measures weight, body fat percentage, visceral fat, muscle mass, bone density, and cardiovascular health via pulse wave velocity. For a more affordable option, the Eufy Smart Scale P2 Pro ($70) offers accurate weight and 16 body measurements with a clean app experience.'
+  - question: 'How accurate are smart scale body fat measurements?'
+    answer: 'Smart scales use bioelectrical impedance analysis (BIA) to estimate body fat — it is less accurate than DEXA scans or hydrostatic weighing, with a margin of error of ±2–4%. However, smart scales are very consistent, meaning the trend over time is reliable even if the absolute number is off. Use them for tracking progress, not as a clinical measurement.'
+  - question: 'What is the difference between a smart scale and a regular bathroom scale?'
+    answer: 'A regular bathroom scale measures weight only. A smart scale measures weight plus body composition metrics like body fat percentage, muscle mass, BMI, and sometimes bone density. Smart scales sync to a smartphone app via Bluetooth or Wi-Fi to track trends over time, set goals, and share data with health apps like Apple Health, Google Fit, and Garmin Connect.'
+  - question: 'Can smart scales sync with Apple Health or Garmin Connect?'
+    answer: 'Most smart scales support Apple Health, Google Fit, and Fitbit. Withings also integrates with Garmin Connect, MyFitnessPal, and dozens of health platforms. Eufy Health app syncs with Apple Health and Google Fit. Garmin Index S2 syncs natively with Garmin Connect and all Garmin devices. Always check app compatibility before purchasing.'
+  - question: 'How many users can a smart scale support?'
+    answer: 'Most smart scales support 5–10 user profiles, with automatic recognition based on weight. The Withings Body Comp supports 8 users and recognizes each automatically. For families with similar weights (within 5 lbs of each other), scales may occasionally misattribute measurements — most apps allow manual correction.'
+  - question: 'When is the best time to weigh yourself on a smart scale?'
+    answer: 'First thing in the morning, after using the bathroom, before eating or drinking, and wearing minimal clothing. This is your most consistent baseline. Weight fluctuates by 2–5 lbs throughout the day due to food, water, and activity. Weigh at the same time every day and track the weekly average, not daily swings, for an accurate trend.'
+
 ---
 
 *Disclosure: NickPicks earns a commission from qualifying Amazon purchases at no extra cost to you.*
