@@ -17,6 +17,7 @@
     { "slug": "fitness", "label": "Fitness" },
     { "slug": "kitchen", "label": "Kitchen" },
     { "slug": "pet-tech", "label": "Pet Tech" },
-    { "slug": "smart-home", "label": "Smart Home" }
+    { "slug": "smart-home", "label": "Smart Home" },
+    { "slug": "sustainable-living", "label": "Sustainable Living" }
   ]
 }
