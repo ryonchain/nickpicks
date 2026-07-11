@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Instant Pot vs Ninja Foodi (2026): Which Multi-Cooker Is Actually Better?"
 description: "Instant Pot vs Ninja Foodi — a detailed comparison of features, cooking performance, price, and who each one is right for in 2026."
 date: 2026-07-09

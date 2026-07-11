@@ -4,7 +4,7 @@ description: "Find the best baby bouncer or rocker for your newborn in 2026. We 
 date: 2026-07-09
 tags: ["baby bouncer", "baby rocker", "best baby bouncer 2026", "automatic baby bouncer", "infant bouncer", "baby swing bouncer"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Bouncers and Rockers 2026 — Automatic vs Manual

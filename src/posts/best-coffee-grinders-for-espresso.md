@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Coffee Grinders for Espresso (2026): Burr Grinders That Actually Dial In"
 description: "Best coffee grinders for espresso in 2026 — reviewed for grind consistency, stepless adjustment, retention, and value. From $50 budget picks to $300 prosumer burr grinders."
 date: 2026-07-09

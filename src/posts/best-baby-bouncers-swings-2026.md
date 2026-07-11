@@ -4,7 +4,7 @@ description: "Best baby bouncers and swings for 2026 reviewed — from budget ma
 date: 2026-07-09
 tags: ["baby bouncer", "baby swing", "best baby bouncer 2026", "infant bouncer", "baby rocker swing"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Bouncers & Swings 2026 — Soothing Solutions Compared

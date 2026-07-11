@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Knife Sets Under $150 (2026): Sharp, Durable Sets That Last"
 description: "Best kitchen knife sets under $150 in 2026. Reviewed for sharpness out of the box, edge retention, handle comfort, and value. Top picks from Victorinox, Henckels, and more."
 date: 2026-07-09

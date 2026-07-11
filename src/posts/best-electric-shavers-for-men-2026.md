@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Electric Shavers for Men 2026 — Foil vs Rotary Compared"
 description: "Best electric shavers for men in 2026. Foil vs rotary explained, top picks for sensitive skin, thick beards, and travel. Find the shaver that fits your face."
 date: 2026-07-09

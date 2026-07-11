@@ -4,7 +4,7 @@ description: "Not sure whether to choose a video or audio baby monitor, WiFi or 
 date: 2026-07-09
 tags: ["baby monitor", "video baby monitor", "audio baby monitor", "WiFi baby monitor", "best baby monitor 2026", "baby monitor comparison"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Monitors 2026 — Video vs Audio, WiFi vs Non-WiFi

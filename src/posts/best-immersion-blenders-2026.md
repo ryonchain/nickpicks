@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Immersion Blenders of 2026: Hand Blenders for Soups, Smoothies & More"
 description: "Best immersion blenders in 2026 compared — power, attachments, ease of cleaning, and price. Top picks from $30 to $100 for every kitchen."
 date: 2026-07-09

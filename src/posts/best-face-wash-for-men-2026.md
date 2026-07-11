@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Face Wash for Men 2026 — Oily, Dry, and Combination Skin"
 description: "Best face wash for men in 2026. Picks for oily, dry, and combination skin types — gentle cleansers, exfoliating options, and budget-friendly daily drivers reviewed."
 date: 2026-07-09

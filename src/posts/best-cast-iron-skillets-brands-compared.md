@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Cast Iron Skillets: Lodge vs Le Creuset vs Finex Compared (2026)"
 description: "Best cast iron skillets in 2026 — Lodge, Le Creuset, Finex, and Field Company compared on heat retention, surface texture, seasoning, weight, and value."
 date: 2026-07-09

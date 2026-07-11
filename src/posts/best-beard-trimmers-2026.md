@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Beard Trimmers 2026 — Precision Edge and Long Battery Life"
 description: "Best beard trimmers for 2026. Precision picks for sharp lines, long-battery options for travel, and versatile kits for any beard length. Reviewed and ranked."
 date: 2026-07-09

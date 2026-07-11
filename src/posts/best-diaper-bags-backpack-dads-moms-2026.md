@@ -4,7 +4,7 @@ description: "The best diaper bag backpacks in 2026 for parents who need storage
 date: 2026-07-09
 tags: ["diaper bag", "diaper bag backpack", "best diaper bag 2026", "dad diaper bag", "baby bag backpack", "diaper backpack"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Diaper Bags 2026 — Backpack Style for Dads and Moms

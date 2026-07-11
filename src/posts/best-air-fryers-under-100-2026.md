@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Air Fryers Under $100 in 2026: Top Picks for Every Kitchen Size"
 description: "Find the best air fryer under $100 for 2026. We compare top models by cook quality, capacity, and ease of use to help you pick the right one."
 date: 2026-07-09

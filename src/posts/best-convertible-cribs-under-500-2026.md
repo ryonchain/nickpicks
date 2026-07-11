@@ -4,7 +4,7 @@ description: "Best convertible cribs under $500 reviewed — from infant to todd
 date: 2026-07-09
 tags: ["convertible crib", "baby crib", "best crib 2026", "toddler bed conversion", "nursery furniture"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Convertible Cribs Under $500 2026 — Grows With Your Child

@@ -4,7 +4,7 @@ description: "Best diaper bags for new moms in 2026 reviewed — backpack vs tot
 date: 2026-07-09
 tags: ["diaper bag", "baby bag", "best diaper bag 2026", "diaper backpack", "new mom diaper bag"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Diaper Bags for New Moms 2026 — Organization, Style & Capacity

@@ -4,7 +4,7 @@ description: "The best baby sleep sacks and swaddles of 2026, reviewed for safe 
 date: 2026-07-09
 tags: ["baby sleep sack", "swaddle", "best swaddle 2026", "safe sleep", "baby swaddle blanket", "wearable blanket", "infant sleep"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Sleep Sacks and Swaddles 2026 — Safe Sleep Approved

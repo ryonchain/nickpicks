@@ -4,7 +4,7 @@ description: "Best strollers under $400 reviewed for 2026 — full-size, lightwe
 date: 2026-07-09
 tags: ["stroller", "best stroller 2026", "stroller under 400", "lightweight stroller", "travel stroller"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Strollers Under $400 2026 — Full-Size, Lightweight & Travel Systems

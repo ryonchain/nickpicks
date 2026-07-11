@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Kitchen Organization Tools (2026): Drawer Dividers, Pantry Bins & More"
 description: "Best kitchen organization tools in 2026 — drawer dividers, pantry bins, spice racks, and cabinet organizers that actually work. Top picks from OXO, iDesign, and Rubbermaid."
 date: 2026-07-09

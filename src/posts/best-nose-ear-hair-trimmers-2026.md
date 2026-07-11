@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Nose and Ear Hair Trimmers 2026 — Painless Grooming Tools"
 description: "Best nose and ear hair trimmers for 2026. Painless rotary picks, waterproof options, and value kits reviewed. Fast, safe, and effective — no tugging, no pulling."
 date: 2026-07-09

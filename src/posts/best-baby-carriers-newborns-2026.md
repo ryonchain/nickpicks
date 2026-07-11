@@ -4,7 +4,7 @@ description: "Best baby carriers for newborns in 2026 — structured carriers, w
 date: 2026-07-09
 tags: ["baby carrier newborn", "newborn carrier", "best baby carrier 2026", "infant carrier", "baby wrap newborn"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Carriers for Newborns 2026 — Safe, Ergonomic & Comfortable

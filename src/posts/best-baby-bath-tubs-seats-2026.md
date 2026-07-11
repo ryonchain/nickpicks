@@ -4,7 +4,7 @@ description: "Best baby bath tubs and bath seats of 2026 reviewed — newborn sl
 date: 2026-07-09
 tags: ["baby bath tub", "infant bathtub", "baby bath seat", "best baby tub 2026", "newborn bath"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Bath Tubs & Bath Seats 2026 — Safe Bathing for Every Stage

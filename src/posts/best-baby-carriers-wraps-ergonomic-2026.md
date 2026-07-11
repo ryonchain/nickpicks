@@ -4,7 +4,7 @@ description: "The best baby carriers and wraps of 2026 for hands-free carrying t
 date: 2026-07-09
 tags: ["baby carrier", "baby wrap", "best baby carrier 2026", "ergonomic baby carrier", "infant carrier", "babywearing"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Carriers and Wraps 2026 — Ergonomic and Hands-Free

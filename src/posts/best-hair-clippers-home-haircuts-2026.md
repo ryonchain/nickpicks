@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Hair Clippers for Home Haircuts 2026 — Cordless Picks Reviewed"
 description: "Best cordless hair clippers for home haircuts in 2026. Fade-capable picks, budget options, and kits with everything you need. Stop paying for haircuts."
 date: 2026-07-09

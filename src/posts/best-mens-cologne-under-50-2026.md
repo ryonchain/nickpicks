@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Men's Cologne Under $50 2026 — Everyday Wear Picks"
 description: "Best men's cologne under $50 for 2026. Fresh, woody, and versatile everyday scents that don't break the bank. Top picks for work, casual, and date nights."
 date: 2026-07-09

@@ -4,7 +4,7 @@ description: "Best white noise machines for babies reviewed — sound quality, s
 date: 2026-07-09
 tags: ["white noise machine", "baby white noise", "baby sleep machine", "best white noise machine 2026", "sound machine baby"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best White Noise Machines for Babies 2026 — Sleep Sound Compared

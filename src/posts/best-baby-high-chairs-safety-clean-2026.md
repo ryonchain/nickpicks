@@ -4,7 +4,7 @@ description: "We reviewed the best baby high chairs of 2026 for safety ratings, 
 date: 2026-07-09
 tags: ["baby high chair", "best high chair 2026", "high chair safety", "easy clean high chair", "infant high chair", "convertible high chair"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby High Chairs 2026 — Top Safety Ratings and Easy to Clean

@@ -4,7 +4,7 @@ description: "The best lightweight strollers for newborns in 2026 that are easy 
 date: 2026-07-09
 tags: ["baby stroller", "best stroller 2026", "lightweight stroller", "newborn stroller", "travel stroller", "infant stroller"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Strollers for Newborns 2026 — Lightweight and Travel-Friendly

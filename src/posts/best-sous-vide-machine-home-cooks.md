@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Sous Vide Machine for Home Cooks (2026): Precision Cooking Made Simple"
 description: "Best sous vide machines for home cooks in 2026 — reviewed for temperature accuracy, app control, power, and ease of use. Top picks from Anova, Breville, and Inkbird."
 date: 2026-07-09

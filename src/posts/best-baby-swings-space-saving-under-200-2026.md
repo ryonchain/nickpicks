@@ -4,7 +4,7 @@ description: "Find the best baby swing under $200 in 2026, including compact swi
 date: 2026-07-09
 tags: ["baby swing", "best baby swing 2026", "baby swing under 200", "compact baby swing", "infant swing", "portable baby swing"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Swings 2026 — Space-Saving Options Under $200

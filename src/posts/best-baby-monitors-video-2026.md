@@ -4,7 +4,7 @@ description: "The best video baby monitors of 2026 compared — Wi-Fi vs dedicat
 date: 2026-07-09
 tags: ["baby monitor", "video baby monitor", "best baby monitor 2026", "wifi baby monitor", "baby camera"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Monitors with Video 2026 — Smart Cams, Sleep Tracking & Wi-Fi Compared

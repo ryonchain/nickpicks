@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Men's Body Wash 2026 — Moisturizing and Fresh Scents"
 description: "Best men's body wash for 2026. Moisturizing picks for dry skin, fresh scent options for daily use, and sulfate-free formulas reviewed. Upgrade your shower routine."
 date: 2026-07-09

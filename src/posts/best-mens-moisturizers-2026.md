@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Men's Moisturizers 2026 — Anti-Aging and SPF Options"
 description: "Best men's moisturizers for 2026. Anti-aging picks with retinol and peptides, SPF options for daily sun protection, and budget-friendly hydrators reviewed."
 date: 2026-07-09

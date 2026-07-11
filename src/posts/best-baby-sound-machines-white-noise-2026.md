@@ -4,7 +4,7 @@ description: "The best baby sound machines and white noise machines of 2026. We 
 date: 2026-07-09
 tags: ["baby sound machine", "white noise machine", "best sound machine 2026", "baby sleep", "white noise for babies", "infant sleep aid"]
 niche: "baby-nursery"
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Baby Sound Machines 2026 — White Noise for Better Baby Sleep

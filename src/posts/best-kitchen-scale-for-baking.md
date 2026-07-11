@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Kitchen Scale for Baking (2026): Digital Scales That Actually Perform"
 description: "The best kitchen scales for baking in 2026 — accurate, responsive, and easy to clean. Top picks from $10 to $60 for home bakers."
 date: 2026-07-09

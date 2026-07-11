@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Straight Razors and Safety Razors 2026 — Traditional Wet Shave"
 description: "Best straight razors and safety razors for 2026. Traditional wet shaving picks for beginners and experienced wet shavers — closest shave, lowest long-term cost reviewed."
 date: 2026-07-09
