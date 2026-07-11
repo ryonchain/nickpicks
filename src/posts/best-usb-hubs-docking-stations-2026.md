@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best USB Hubs and Docking Stations 2026 — Work-From-Home Essentials"
 description: "Best USB hubs and docking stations for 2026. Single-cable laptop setups, multi-monitor support, 4K output, and top picks for MacBook and Windows work-from-home setups."
 date: 2026-07-09

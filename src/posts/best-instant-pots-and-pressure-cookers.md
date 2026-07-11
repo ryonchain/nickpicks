@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Instant Pots and Pressure Cookers (2026): Size Guide and Top Models"
 description: "Best Instant Pots and pressure cookers for 2026 — 3, 6, and 8-quart size guide, feature comparison, and top models for every household size and cooking style."
 date: 2026-07-09

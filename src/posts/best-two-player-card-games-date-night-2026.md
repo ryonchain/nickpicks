@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Two-Player Card Games 2026 — Date Night Picks"
 description: "Best two-player card games for 2026. Date night picks for couples — strategy, deduction, and cooperative card games that work great at two players."
 date: 2026-07-09

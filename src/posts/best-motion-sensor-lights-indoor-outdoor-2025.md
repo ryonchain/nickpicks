@@ -4,7 +4,7 @@ description: "Best motion sensor lights of 2025 — indoor and outdoor, solar an
 date: 2026-07-09
 tags: ["motion sensor light", "outdoor motion light", "solar motion light", "dusk to dawn light", "security light", "outdoor lighting", "smart home security"]
 category: Smart Home
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Motion Sensor Lights (Indoor + Outdoor) in 2025

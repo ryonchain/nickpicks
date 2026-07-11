@@ -3,7 +3,7 @@ title: "KitchenAid vs Cuisinart Stand Mixer 2026: Which Brand Wins?"
 description: "KitchenAid vs Cuisinart stand mixer — head-to-head comparison of power, bowl capacity, attachments, price, and longevity. Find out which stand mixer is right for your kitchen."
 date: 2026-07-09
 tags: ["stand mixer", "KitchenAid", "Cuisinart", "kitchen appliances", "baking"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/kitchenaid-vs-cuisinart-stand-mixer-2026/index.html
 readTime: 10
 faqs:

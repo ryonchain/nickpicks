@@ -3,7 +3,7 @@ title: "Arlo vs Ring Security Camera 2026: Which Home Security System Wins?"
 description: "Arlo vs Ring security cameras — subscription costs, video quality, smart home integration, local storage, and reliability compared. Which is worth the money in 2026?"
 date: 2026-07-09
 tags: ["security camera", "Arlo", "Ring", "home security", "smart home"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/arlo-vs-ring-security-camera-2026/index.html
 readTime: 11
 faqs:

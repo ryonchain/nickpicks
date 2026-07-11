@@ -1,6 +1,6 @@
 ```markdown
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Standing Desks 2026 — Electric Height-Adjustable Picks"
 description: "Best electric standing desks for 2026. Height-adjustable picks for home office, single-motor vs dual-motor compared, weight capacity guide, and top brands ranked."
 date: 2026-07-09

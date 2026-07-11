@@ -4,7 +4,7 @@ description: "The best gaming peripherals under $75 in 2026. Mechanical keyboard
 date: 2026-07-02
 tags: ["best gaming peripherals under 75", "budget gaming keyboard", "gaming mouse under 75", "gaming headset budget 2026", "best gaming gear under 75"]
 canonicalUrl: "https://nickpicks.com/gaming/best-gaming-peripherals-under-75-2026/"
-layout: layouts/article.njk
+layout: article.njk
 ogTitle: "Best Gaming Peripherals Under $75 (2026)"
 ogDescription: "Level up without breaking the bank. The best mechanical keyboards, gaming mice, and headsets under $75 — picks with real gaming pedigree."
 ogImage: "https://nickpicks.com/images/gaming-peripherals-under-75.jpg"

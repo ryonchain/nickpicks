@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Monitor Arms and Mounts 2026 — Single and Dual Setups"
 description: "Best monitor arms for 2026. Single and dual monitor arm picks compared by weight capacity, VESA compatibility, cable management, and adjustability for any home office setup."
 date: 2026-07-09

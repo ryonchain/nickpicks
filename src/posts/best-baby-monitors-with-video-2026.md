@@ -3,7 +3,7 @@ title: "Best Baby Monitors with Video (2026): Top Picks for Clear Picture and Pe
 description: "Which video baby monitor is best in 2026? We reviewed WiFi vs. dedicated frequency monitors — comparing night vision, range, and safety features — to help you find the right one for your nursery."
 date: 2026-07-06
 tags: ["baby monitor", "video baby monitor", "best baby monitor", "baby monitor with camera", "baby monitor 2026", "infant monitor", "smart baby monitor"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # What Are the Best Video Baby Monitors in 2026?

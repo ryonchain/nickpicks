@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Blue Light Blocking Glasses 2026 — Eye Strain Relief for Remote Workers"
 description: "Best blue light blocking glasses for 2026. Eye strain relief for remote workers, screen time protection, top lens options compared, and stylish frames that actually work."
 date: 2026-07-09

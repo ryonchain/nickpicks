@@ -3,7 +3,7 @@ title: "Echelon vs Peloton Exercise Bike 2026: Is the $1,000 Difference Worth It
 description: "Echelon vs Peloton exercise bikes compared — class quality, screen size, resistance levels, subscription costs, build quality, and our verdict on whether Echelon is a real Peloton alternative."
 date: 2026-07-09
 tags: ["exercise bike", "Echelon", "Peloton", "indoor cycling", "home gym", "fitness"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/echelon-vs-peloton-exercise-bike-2026/index.html
 readTime: 10
 faqs:

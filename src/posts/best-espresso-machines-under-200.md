@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Espresso Machines Under $200 (2026): Semi-Auto vs Super-Auto Picks"
 description: "Top espresso machines under $200 for 2026. We compare semi-auto vs super-auto, pump pressure, and steam wand quality to find the best home espresso picks."
 date: 2026-07-09

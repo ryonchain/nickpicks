@@ -4,7 +4,7 @@ description: "Best home security cameras of 2025 — indoor and outdoor, wired a
 date: 2026-07-09
 tags: ["home security camera", "security camera", "wireless security camera", "outdoor security camera", "indoor security camera", "smart home security", "best security camera 2025"]
 category: Smart Home
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Home Security Cameras in 2025

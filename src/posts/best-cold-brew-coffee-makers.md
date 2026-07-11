@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Cold Brew Coffee Makers (2026): Toddy vs OXO vs Filtron Compared"
 description: "Compare the best cold brew coffee makers of 2026 — Toddy, OXO, Filtron, and more. Batch size, steep time, taste test notes, and which one to buy."
 date: 2026-07-09

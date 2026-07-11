@@ -4,7 +4,7 @@ description: "Best smart light bulbs under $50 in 2025 — color-changing, sched
 date: 2026-07-09
 tags: ["smart light bulbs", "smart bulb", "color changing light bulb", "Philips Hue", "Kasa smart bulb", "smart home lighting", "voice controlled lights"]
 category: Smart Home
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Smart Light Bulbs Under $50 in 2025

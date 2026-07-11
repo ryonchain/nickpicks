@@ -4,7 +4,7 @@ description: "Best smart home hubs of 2025 compared — Amazon Echo, Google Home
 date: 2026-07-09
 tags: ["smart home hub", "Amazon Echo", "Google Home", "Apple HomePod mini", "smart speaker", "smart home", "voice assistant", "home automation hub"]
 category: Smart Home
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Smart Home Hubs in 2025

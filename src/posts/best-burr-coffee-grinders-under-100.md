@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Burr Coffee Grinders Under $100 (2026): Conical vs Flat Burr Compared"
 description: "Top burr coffee grinders under $100 for 2026. Conical vs flat burr explained, grind consistency tested, capacity compared — find the right grinder for your brew method."
 date: 2026-07-09

@@ -4,7 +4,7 @@ description: "Top smart locks of 2025 reviewed — keypad, fingerprint, and auto
 date: 2026-07-09
 tags: ["smart lock", "keypad lock", "fingerprint lock", "best smart lock 2025", "keyless entry", "smart home security", "door lock"]
 category: Smart Home
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Smart Locks in 2025

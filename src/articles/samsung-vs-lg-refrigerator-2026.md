@@ -3,7 +3,7 @@ title: "Samsung vs LG Refrigerator 2026: Which Brand Should You Buy?"
 description: "Samsung vs LG refrigerators — French door, side-by-side, and counter-depth models compared on reliability, features, ice makers, and price. Make the right $1,000+ buying decision."
 date: 2026-07-09
 tags: ["refrigerator", "Samsung", "LG", "French door refrigerator", "kitchen appliances"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/samsung-vs-lg-refrigerator-2026/index.html
 readTime: 11
 faqs:

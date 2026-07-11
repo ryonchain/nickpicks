@@ -4,7 +4,7 @@ description: "Best smart thermostats under $200 in 2025 — Nest, Ecobee, and Ho
 date: 2026-07-09
 tags: ["smart thermostat", "Nest thermostat", "Ecobee thermostat", "Honeywell thermostat", "best thermostat 2025", "programmable thermostat", "smart home HVAC"]
 category: Smart Home
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Smart Thermostats Under $200 in 2025

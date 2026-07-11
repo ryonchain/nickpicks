@@ -4,7 +4,7 @@ description: "The best smart kitchen gadgets under $50 in 2026. Wi-Fi scales, sm
 date: 2026-07-02
 tags: ["best smart kitchen gadgets under 50", "smart kitchen gadgets 2026", "kitchen tech under 50", "best kitchen gadgets Amazon", "smart cooking tools 2026"]
 canonicalUrl: "https://nickpicks.com/kitchen/best-smart-kitchen-gadgets-under-50-2026/"
-layout: layouts/article.njk
+layout: article.njk
 ogTitle: "Best Smart Kitchen Gadgets Under $50 (2026)"
 ogDescription: "Kitchen 2.0 on a budget. The best smart kitchen gadgets under $50 that genuinely improve cooking — Wi-Fi thermometers, app-connected scales, smart timers, and more."
 ogImage: "https://nickpicks.com/images/smart-kitchen-gadgets-under-50.jpg"

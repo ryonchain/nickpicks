@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Strategy Board Games 2026 — Catan, Ticket to Ride Alternatives"
 description: "Best strategy board games for 2026. Catan and Ticket to Ride alternatives for experienced players — worker placement, engine building, and area control games ranked."
 date: 2026-07-09

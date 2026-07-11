@@ -4,7 +4,7 @@ description: "Best smart plugs and power strips of 2025 — energy monitoring, s
 date: 2026-07-09
 tags: ["smart plug", "smart power strip", "energy monitoring plug", "Kasa smart plug", "Amazon smart plug", "voice control outlet", "smart home"]
 category: Smart Home
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Smart Plugs and Power Strips in 2025

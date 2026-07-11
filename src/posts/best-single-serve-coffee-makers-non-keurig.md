@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Single-Serve Coffee Makers (Non-Keurig) 2026: Nespresso, Breville & More"
 description: "The best single-serve coffee makers that aren't Keurig — Nespresso Vertuo, Breville, Hamilton Beach, and more compared by brew quality, pod cost, and convenience."
 date: 2026-07-09

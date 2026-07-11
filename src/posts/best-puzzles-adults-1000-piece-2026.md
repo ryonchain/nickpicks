@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Puzzles for Adults 2026 — 1000+ Piece Challenges"
 description: "Best adult jigsaw puzzles for 2026. 1000+ piece options ranked by image quality, piece fit, and challenge level. Find the right puzzle for solo or shared sessions."
 date: 2026-07-09

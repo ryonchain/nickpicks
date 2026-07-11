@@ -3,7 +3,7 @@ title: "Best Desk Organization Products for Dorm Rooms 2026: Cable Management, S
 description: "The best dorm room desk setup products in 2026. Cable management, monitor risers, storage boxes, and small desk solutions that transform a cramped dorm desk into a productive study space."
 date: 2026-07-02
 tags: ["dorm room desk setup", "dorm room organization", "desk organization", "cable management", "dorm essentials 2026"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Desk Organization Products for Dorm Rooms 2026

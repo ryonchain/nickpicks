@@ -3,7 +3,7 @@ title: "Best Air Fryers for Large Families 2026: 6 Qt and Bigger"
 description: "Best large air fryers for families of 4–6+ — 6 qt, 8 qt, and XL dual-basket models compared on cooking capacity, ease of use, and whether they replace your oven."
 date: 2026-07-09
 tags: ["air fryer", "large air fryer", "family air fryer", "6 quart air fryer", "kitchen appliances"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/best-air-fryers-for-large-families-2026/index.html
 readTime: 10
 faqs:

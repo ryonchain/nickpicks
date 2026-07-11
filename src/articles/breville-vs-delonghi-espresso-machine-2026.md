@@ -3,7 +3,7 @@ title: "Breville vs De'Longhi Espresso Machine 2026: Which Brand Makes Better Es
 description: "Breville vs De'Longhi espresso machine comparison — build quality, extraction pressure, steam wand performance, price, and our pick for home baristas at every budget."
 date: 2026-07-09
 tags: ["espresso machine", "Breville", "De'Longhi", "coffee", "home barista"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/breville-vs-delonghi-espresso-machine-2026/index.html
 readTime: 11
 faqs:

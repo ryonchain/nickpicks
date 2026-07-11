@@ -1,6 +1,6 @@
 ```markdown
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Office Chairs for Back Pain 2026 — Ergonomic Lumbar Support Picks"
 description: "Best ergonomic office chairs for back pain in 2026. Lumbar support compared, seat depth guide, mesh vs foam analysis, and top picks for all-day sitting comfort."
 date: 2026-07-09

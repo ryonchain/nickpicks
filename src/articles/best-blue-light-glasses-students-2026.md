@@ -3,7 +3,7 @@ title: "Best Blue Light Glasses for Students 2026: Computer Glasses & Eye Strain
 description: "The best blue light glasses for students in 2026. We compare top-rated computer glasses for reducing digital eye strain during long study sessions and late-night screen time."
 date: 2026-07-02
 tags: ["best blue light glasses students", "blue light glasses", "computer glasses", "eye strain glasses", "digital eye strain 2026"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Blue Light Glasses for Students 2026

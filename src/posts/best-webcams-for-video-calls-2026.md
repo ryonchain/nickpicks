@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Webcams for Video Calls 2026 — 1080p and 4K Options"
 description: "Best webcams for video calls in 2026. 1080p and 4K options compared by image quality, autofocus, low-light performance, and field of view for professional Zoom and Teams calls."
 date: 2026-07-09

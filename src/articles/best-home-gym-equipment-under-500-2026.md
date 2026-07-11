@@ -3,7 +3,7 @@ title: "Best Home Gym Equipment Under $500 in 2026: Build a Full Setup on a Budg
 description: "Best home gym equipment under $500 — adjustable dumbbells, resistance bands, pull-up bar, kettlebell, and yoga mat picks that cover a full-body workout without a gym membership."
 date: 2026-07-09
 tags: ["home gym", "workout equipment", "dumbbells", "resistance bands", "fitness equipment under $500"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/best-home-gym-equipment-under-500-2026/index.html
 readTime: 11
 faqs:

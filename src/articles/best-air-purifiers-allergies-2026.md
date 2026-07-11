@@ -3,7 +3,7 @@ title: "Best Air Purifiers for Allergies 2026: HEPA Picks for Dust, Pet Dander &
 description: "Find the best air purifier for allergies in 2026. We compare HEPA air purifiers for dust, pet dander, smoke, and pollen — including quiet and large-room models."
 date: 2026-07-02
 tags: ["air purifier", "allergies", "HEPA", "pet dander", "home air quality"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Air Purifiers for Allergies in 2026

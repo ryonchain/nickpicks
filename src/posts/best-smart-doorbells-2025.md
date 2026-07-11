@@ -4,7 +4,7 @@ description: "Top smart doorbells of 2025 compared — Ring, Eufy, Arlo, and Goo
 date: 2026-07-09
 tags: ["smart doorbell", "video doorbell", "Ring doorbell", "Eufy doorbell", "Arlo doorbell", "Google Nest doorbell", "smart home security"]
 category: Smart Home
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Smart Doorbells in 2025

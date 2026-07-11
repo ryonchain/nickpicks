@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Pour-Over Coffee Kits Under $50 (2026): Hario V60, Chemex, Kalita Wave"
 description: "Best pour-over coffee kits under $50 for beginners. Hario V60, Chemex, and Kalita Wave compared — starter sets, filters, and what you actually need to start."
 date: 2026-07-09

@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Desk Organizers and Cable Management 2026 — Clean Home Office Setup"
 description: "Best desk organizers and cable management solutions for 2026. Declutter your home office with top-rated cable boxes, wire organizers, desk trays, and organization systems."
 date: 2026-07-09

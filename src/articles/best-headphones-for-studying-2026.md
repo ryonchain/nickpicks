@@ -3,7 +3,7 @@ title: "Best Noise-Canceling Headphones for Studying 2026: Sony WH-1000XM5 vs. B
 description: "The best headphones for studying in 2026. We compare Sony WH-1000XM5, Bose QuietComfort 45, and top budget options to find the best noise-canceling headphones for focus and concentration."
 date: 2026-07-02
 tags: ["best headphones for studying", "noise canceling headphones", "Sony WH-1000XM5", "Bose QC45", "study headphones 2026"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Noise-Canceling Headphones for Studying 2026

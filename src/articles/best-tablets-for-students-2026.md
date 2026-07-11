@@ -3,7 +3,7 @@ title: "Best Tablets for Students 2026: iPad vs. Samsung Galaxy Tab vs. Surface 
 description: "The best tablets for students in 2026. We compare iPad Air, Samsung Galaxy Tab S10, and Microsoft Surface Go for note-taking, studying, and class use. Find the right tablet for your budget."
 date: 2026-07-02
 tags: ["best tablet for students", "iPad for students", "Samsung Galaxy Tab", "Surface Go", "student tablet 2026"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Tablets for Students 2026

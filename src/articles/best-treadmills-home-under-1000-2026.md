@@ -3,7 +3,7 @@ title: "Best Treadmills for Home Under $1,000 in 2026: Foldable, Compact & Quiet
 description: "Looking for the best home treadmill under $1,000? We reviewed compact, foldable, and quiet treadmills for small apartments and home gyms in 2026."
 date: 2026-07-02
 tags: ["treadmill", "home gym", "fitness equipment", "foldable treadmill"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Treadmills for Home Under $1,000 in 2026

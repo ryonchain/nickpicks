@@ -3,7 +3,7 @@ title: "Lodge vs Le Creuset Cast Iron 2026: Is the Price Difference Worth It?"
 description: "Lodge vs Le Creuset cast iron cookware — material quality, heat distribution, enamel coating, seasoning requirements, and whether the $200 price gap is justified for home cooks."
 date: 2026-07-09
 tags: ["cast iron", "Lodge", "Le Creuset", "Dutch oven", "cookware"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/lodge-vs-le-creuset-cast-iron-2026/index.html
 readTime: 9
 faqs:

@@ -3,7 +3,7 @@ title: "Best Baby Monitors 2026: WiFi, Non-WiFi, and Audio-Only Options Compared
 description: "Best baby monitors of 2026 — Nanit Pro, Owlet, VTech, and Motorola compared for image quality, sleep tracking, range, and whether you need a WiFi or dedicated frequency monitor."
 date: 2026-07-09
 tags: ["baby monitor", "video baby monitor", "Nanit", "Owlet", "baby gear", "newborn essentials"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/best-baby-monitors-2026-buying-guide/index.html
 readTime: 11
 faqs:

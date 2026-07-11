@@ -220,13 +220,13 @@ module.exports = function(eleventyConfig) {
 
   // Collections
   eleventyConfig.addCollection("articlesByDate", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("src/articles/*.md")
+    return collectionApi.getFilteredByGlob(["src/articles/**/*.md", "src/posts/**/*.md"])
       .sort((a, b) => b.date - a.date);
   });
 
   eleventyConfig.addCollection("wellnessArticles", function(collectionApi) {
     const wellnessKeywords = ["ergonomic", "standing-desk", "standing desk", "massage", "treadmill", "sleep"];
-    return collectionApi.getFilteredByGlob("src/articles/*.md")
+    return collectionApi.getFilteredByGlob(["src/articles/**/*.md", "src/posts/**/*.md"])
       .filter(article => {
         const category = article.data.category;
         if (category === "fitness") return true;

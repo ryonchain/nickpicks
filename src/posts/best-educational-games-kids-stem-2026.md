@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Educational Games for Kids 2026 — STEM and Learning"
 description: "Best educational games for kids in 2026. STEM and learning games that don't feel like homework — coding, math, science, and critical thinking picks for ages 5–12."
 date: 2026-07-09

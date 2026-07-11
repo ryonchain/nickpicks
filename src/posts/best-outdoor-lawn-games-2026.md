@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Outdoor Lawn Games 2026 — Cornhole, Bocce, and More"
 description: "Best outdoor lawn games for 2026. Cornhole, bocce, spike ball, and more ranked by build quality, portability, and fun factor for backyard parties and tailgates."
 date: 2026-07-09

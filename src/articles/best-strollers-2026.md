@@ -3,7 +3,7 @@ title: "Best Strollers 2026: Lightweight, Jogging & Double Stroller Reviews"
 description: "Find the best stroller in 2026 for your lifestyle — lightweight travel strollers, jogging strollers, double strollers, and convertible options reviewed and compared."
 date: 2026-07-02
 tags: ["stroller", "baby gear", "jogging stroller", "double stroller", "lightweight stroller"]
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Strollers in 2026

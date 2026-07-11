@@ -4,7 +4,7 @@ description: "The easiest way to start your smart home under $100. Best smart pl
 date: 2026-07-02
 tags: ["best smart home starter kit", "smart home under 100", "smart plugs bulbs 2026", "smart home beginners", "best smart home devices 2026"]
 canonicalUrl: "https://nickpicks.com/smart-home/best-smart-home-starter-kits-2026/"
-layout: layouts/article.njk
+layout: article.njk
 ogTitle: "Best Smart Home Starter Kits 2026 (Under $100)"
 ogDescription: "The easiest way to start your smart home under $100. Smart plugs, bulbs, and hubs that are ready in 15 minutes — no electrician required."
 ogImage: "https://nickpicks.com/images/smart-home-starter-kits-2026.jpg"

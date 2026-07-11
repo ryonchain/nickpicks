@@ -3,7 +3,7 @@ title: "EGO vs GreenWorks Electric Lawn Tools 2026: Which Brand Is Worth It?"
 description: "EGO vs GreenWorks cordless lawn mowers, leaf blowers, and string trimmers compared — battery runtime, power, price, and which brand is the better investment in 2026."
 date: 2026-07-09
 tags: ["electric lawn mower", "EGO", "GreenWorks", "cordless lawn tools", "outdoor power equipment"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/ego-vs-greenworks-electric-lawn-tools-2026/index.html
 readTime: 10
 faqs:

@@ -4,7 +4,7 @@ description: "Best WiFi video baby monitors of 2025 with app access, night visio
 date: 2026-07-09
 tags: ["video baby monitor", "WiFi baby monitor", "baby monitor with app", "baby monitor night vision", "smart baby monitor", "baby monitor two-way audio", "best baby monitor 2025"]
 category: Smart Home
-layout: layouts/article.njk
+layout: article.njk
 ---
 
 # Best Video Baby Monitors with WiFi App Access in 2025

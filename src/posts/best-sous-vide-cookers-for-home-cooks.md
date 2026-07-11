@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Sous Vide Cookers for Home Cooks (2026): Joule vs Anova vs Inkbird"
 description: "Best sous vide immersion circulators for home cooks in 2026. Joule, Anova, and Inkbird compared on precision, app integration, wattage, and price."
 date: 2026-07-09

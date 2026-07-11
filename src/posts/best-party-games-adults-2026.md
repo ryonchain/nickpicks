@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Party Games for Adults 2026 — Card Games and Quick Play"
 description: "Best adult party games for 2026. Card games and quick-play options for groups of 4–10+ — ranked by laugh factor, setup speed, and replay value."
 date: 2026-07-09

@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Laptop Stands 2026 — Portable and Adjustable for Any Desk"
 description: "Best laptop stands for 2026. Portable and adjustable options for MacBook and Windows laptops. Neck pain prevention, desk space optimization, and top picks for any setup."
 date: 2026-07-09

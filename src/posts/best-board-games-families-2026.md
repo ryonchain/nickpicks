@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Board Games for Families 2026 — Ages 8 and Up Picks"
 description: "Best family board games for 2026. Ages 8 and up picks that adults love too — strategy, cooperation, and fast-play options compared. Find the right game for your family game night."
 date: 2026-07-09

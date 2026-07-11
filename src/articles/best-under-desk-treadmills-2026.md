@@ -3,7 +3,7 @@ title: "Best Under-Desk Treadmills 2026: Walk While You Work Without Disruption"
 description: "Best under-desk treadmills for 2026 — noise level, speed range, weight capacity, and which walking treadmills actually fit under standard standing desks without wobbling."
 date: 2026-07-09
 tags: ["under desk treadmill", "walking treadmill", "home office fitness", "treadmill desk", "WFH health"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/best-under-desk-treadmills-2026/index.html
 readTime: 10
 faqs:

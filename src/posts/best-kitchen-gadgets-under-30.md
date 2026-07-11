@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Kitchen Gadgets Under $30 (2026): Spatulas, Scales, Garlic Presses & More"
 description: "Best kitchen gadgets under $30 for 2026 — silicone spatulas, avocado slicers, garlic presses, kitchen scales, and other small tools that genuinely improve cooking."
 date: 2026-07-09

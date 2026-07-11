@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Noise-Canceling Headphones for Work 2026 — Concentration Boosters"
 description: "Best noise-canceling headphones for work in 2026. ANC performance, call quality, battery life, and comfort compared for remote workers who need to focus and sound professional on calls."
 date: 2026-07-09

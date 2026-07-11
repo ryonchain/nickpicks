@@ -3,7 +3,7 @@ title: "Best Robot Vacuums for Hardwood Floors 2026: Top Picks That Won't Scratc
 description: "Best robot vacuums for hardwood floors — rubberized brushrolls, mopping combo units, and quiet models that won't damage wood or spread debris. Tested picks for 2026."
 date: 2026-07-09
 tags: ["robot vacuum", "hardwood floors", "Roomba", "robot vacuum hardwood", "floor care"]
-layout: layouts/article.njk
+layout: article.njk
 permalink: /articles/best-robot-vacuums-for-hardwood-floors-2026/index.html
 readTime: 10
 faqs:

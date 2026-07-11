@@ -4,7 +4,7 @@ description: "The best packing cubes for carry-on travel in 2026. We compare com
 date: 2026-07-02
 tags: ["best packing cubes carry-on 2026", "packing cubes travel", "carry-on packing cubes", "compression packing cubes", "travel organization packing cubes"]
 canonicalUrl: "https://nickpicks.com/travel/best-packing-cubes-carry-on-2026/"
-layout: layouts/article.njk
+layout: article.njk
 ogTitle: "Best Packing Cubes for Carry-On Travel 2026"
 ogDescription: "Stop checking bags. The best packing cubes for carry-on travel, tested for compression, durability, and how well they actually fit a 5-day trip into a single bag."
 ogImage: "https://nickpicks.com/images/packing-cubes-carry-on.jpg"

@@ -4,7 +4,7 @@ description: "The best pet tech in 2026. Automatic feeders, GPS pet trackers, sm
 date: 2026-07-02
 tags: ["best pet tech 2026", "automatic pet feeder", "GPS pet tracker 2026", "smart pet toys", "best dog cat gadgets 2026"]
 canonicalUrl: "https://nickpicks.com/pets/best-pet-tech-essentials-2026/"
-layout: layouts/article.njk
+layout: article.njk
 ogTitle: "Best Pet Tech Essentials 2026 — Tech That Keeps Your Pet Happy and Safe"
 ogDescription: "Tech that keeps your pet happy and safe. Automatic feeders, GPS trackers, pet cameras, and smart toys — the pet tech that actually earns its place in 2026."
 ogImage: "https://nickpicks.com/images/best-pet-tech-essentials-2026.jpg"

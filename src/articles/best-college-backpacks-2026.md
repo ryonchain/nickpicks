@@ -3,7 +3,7 @@ title: "Best Backpacks for College Students 2026: Anti-Theft, USB Charging & Lap
 description: "The best college backpacks in 2026. We review top-rated anti-theft, USB charging, and laptop backpacks for students who carry everything from MacBooks to textbooks daily."
 date: 2026-07-02
 tags: ["best college backpack 2026", "college backpack", "anti-theft backpack", "USB charging backpack", "laptop backpack"]
-layout: layouts/article.njk
+layout: article.njk
 faqs:
   - question: 'What is the best backpack for college students in 2026?'
     answer: 'The Samsonite Tectonic Lifestyle ($80) is the best overall college backpack — it has a dedicated 15.6" laptop compartment, thick padding, and a tablet pocket, with Samsonite''s durable build quality. For students on tight budgets, the Matein Travel Laptop Backpack ($45) provides excellent features at an accessible price point. For a premium investment, the TUMI Alpha Bravo ($300) will last through college and into your first decade of professional life.'

@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Air Fryers Under $100 (2026): Basket vs Oven Style, Top Picks Compared"
 description: "Best air fryers under $100 for 2026. Basket vs oven-style compared, capacity guide, preset features explained, and cleanup ease ranked. Find the right size for your kitchen."
 date: 2026-07-09

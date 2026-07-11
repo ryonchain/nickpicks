@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Tabletop RPG Starter Sets 2026 — Dungeons & Dragons and Beyond"
 description: "Best tabletop RPG starter sets for 2026. D&D, Pathfinder, Call of Cthulhu, and more beginner-friendly RPG boxes ranked for ease of entry and long-term engagement."
 date: 2026-07-09

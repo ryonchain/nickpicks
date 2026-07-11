@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: article.njk
 title: "Best Video Game Accessories 2026 — Controllers, Headsets, Charging Docks"
 description: "Best video game accessories for 2026. Controllers, headsets, and charging docks for PS5, Xbox, and Nintendo Switch ranked by performance, comfort, and value."
 date: 2026-07-09
