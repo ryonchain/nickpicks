@@ -56,7 +56,7 @@ For sleeping, gathered-end hammocks are overwhelmingly preferred. The key is dia
 
 ### 1. ENO DoubleNest Hammock
 
-[Buy on Amazon →](https://www.amazon.com/s?k=ENO+DoubleNest+Camping+Hammock&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=ENO+DoubleNest+Camping+Hammock&tag=nickpicks-20)
 
 **Why we love it:** ENO (Eagles Nest Outfitters) invented the modern camping hammock category, and the DoubleNest remains the benchmark. The 70D ripstop nylon construction is one of the most durable fabrics in the hammock category—our test unit survived 200+ hang sessions without a seam failure. The DoubleNest packs into its own attached pouch to the size of a large orange.
 
@@ -76,7 +76,7 @@ Caution: ENO carabiners work, but upgrade to ENO Atlas Straps or Slap Straps for
 
 ### 2. Kammock Roo Double Hammock
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Kammock+Roo+Double+Hammock&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Kammock+Roo+Double+Hammock&tag=nickpicks-20)
 
 **Why we love it:** Kammock's Roo uses 20D Airo-Mesh nylon—a breathable lattice fabric that releases body heat significantly better than standard nylon. In warm conditions (above 70°F), standard nylon hammocks trap heat against your back uncomfortably. The Roo's breathable construction makes summer overnight use genuinely comfortable without a sleeping pad underneath.
 
@@ -96,7 +96,7 @@ The 500 lb capacity means the double configuration genuinely handles two average
 
 ### 3. Grand Trunk Nano 7 Ultralight Hammock
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Grand+Trunk+Nano+7+Ultralight+Hammock&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Grand+Trunk+Nano+7+Ultralight+Hammock&tag=nickpicks-20)
 
 **Why we love it:** The Nano 7 is the most packable performance hammock available at under $100. It weighs 7 ounces (including carabiners) and compresses to the size of a baseball. For thru-hikers and ultralight backpackers where every ounce is counted, the Nano 7 is the correct choice.
 
@@ -116,7 +116,7 @@ The single-person 300 lb capacity and 57" width are appropriate for solo use onl
 
 ### 4. Wise Owl Outfitters Single Hammock
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Wise+Owl+Outfitters+Single+Camping+Hammock&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Wise+Owl+Outfitters+Single+Camping+Hammock&tag=nickpicks-20)
 
 **Why we love it:** At under $30, the Wise Owl Outfitters hammock is the best-value entry point into camping hammocks. It includes the hammock, carabiners, and two tree straps in one package—everything needed for a first hang. The 210T polyester fabric is less premium than nylon but perfectly functional for backyard and car camping use.
 
@@ -136,7 +136,7 @@ For the price, it's hard to find a better complete-kit value. Every necessary co
 
 ### 5. Onewind 11ft Camping Hammock (Double)
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Onewind+11ft+Camping+Hammock+Double&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Onewind+11ft+Camping+Hammock+Double&tag=nickpicks-20)
 
 **Why we love it:** The Onewind 11ft is the longest hammock in this review—extra length makes diagonal lying easier and provides more foot room for tall campers. The 40D nylon fabric sits between ultralight and heavy-duty in the weight/durability spectrum, and the hammock includes a ridgeline pre-tied for hanging a bug net or tarp.
 

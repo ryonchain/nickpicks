@@ -56,7 +56,7 @@ Always confirm USAPA (USA Pickleball) approval if purchasing for rated play or t
 
 ### 1. Joola Hyperion CFS 16 — Best Overall
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Joola+Hyperion+CFS+16+Pickleball+Paddle&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Joola+Hyperion+CFS+16+Pickleball+Paddle&tag=nickpicks-20)
 
 **Why we love it:** The Hyperion CFS 16 is the paddle that competitive pickleball gravitated toward in 2025 and remains dominant in 2026. The Carbon Friction Surface (CFS) face is Joola's proprietary raw carbon texture—generating 2,100–2,300 RPM of topspin in testing. The 16mm polypropylene honeycomb core hits the ideal power-control balance. Weighs 7.8–8.2 oz.
 
@@ -76,7 +76,7 @@ The Hyperion CFS generates more consistent spin than any thermoformed paddle at 
 
 ### 2. Selkirk Vanguard Power Air Invikta — Best for Power Players
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Selkirk+Vanguard+Power+Air+Invikta+Pickleball&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Selkirk+Vanguard+Power+Air+Invikta+Pickleball&tag=nickpicks-20)
 
 **Why we love it:** Selkirk's Vanguard Power Air uses their SuperCore technology—a proprietary foam edge system that creates a more elastic face interaction than standard polymer cores. The result is 15–20% more pop at the same swing speed versus traditional construction. The elongated Invikta shape adds reach for baseline defense.
 
@@ -95,7 +95,7 @@ The Vanguard Power Air is fast. Drives from the baseline carry noticeably more p
 
 ### 3. Paddletek Bantam TS-5 Pro — Best for Control and Touch
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Paddletek+Bantam+TS-5+Pro+Pickleball+Paddle&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Paddletek+Bantam+TS-5+Pro+Pickleball+Paddle&tag=nickpicks-20)
 
 **Why we love it:** Paddletek's Bantam TS-5 Pro uses a Smart Response Technology (SRT) polymer core at 16mm with a fiberglass face. The design philosophy prioritizes shot precision over raw power: dinks are predictable, resets are quiet, drops are consistent. Tournament players who build games around the kitchen line favor this paddle.
 
@@ -114,7 +114,7 @@ The Bantam TS-5 Pro has the most predictable soft-game response of any paddle te
 
 ### 4. Engage Poach Advantage — Best for 3.5–4.0
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Engage+Poach+Advantage+Pickleball+Paddle&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Engage+Poach+Advantage+Pickleball+Paddle&tag=nickpicks-20)
 
 **Why we love it:** Engage Pickleball's Poach Advantage uses their ControlPro+ skin—a textured polymer face that generates usable spin without the sharp edge-degradation problem of budget carbon fiber paddles. For intermediate players (3.5–4.0 rated), this paddle rewards improvement: as your soft game develops, the ControlPro+ skin responds better.
 
@@ -133,7 +133,7 @@ The Poach Advantage is the most honest intermediate paddle on the market. It doe
 
 ### 5. Amazin' Aces Signature — Best Beginner Paddle
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Amazin+Aces+Signature+Pickleball+Paddle+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Amazin+Aces+Signature+Pickleball+Paddle+Set&tag=nickpicks-20)
 
 **Why we love it:** The Amazin' Aces Signature set (2 paddles + 4 balls) is the correct introduction to pickleball. The composite face generates enough spin for beginners to learn how spin affects ball trajectory; the 13mm core is forgiving on off-center hits. The set format means you can immediately play with a partner without buying separately.
 

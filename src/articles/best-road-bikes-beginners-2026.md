@@ -48,7 +48,7 @@ Road cycling is one of the most efficient ways to build cardiovascular fitness, 
 
 ### 1. Giant Contend 3 — Best Overall Beginner Road Bike
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Giant+Contend+3+road+bike&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Giant+Contend+3+road+bike&tag=nickpicks-20)
 
 Giant is the world's largest bicycle manufacturer, which gives them supply chain advantages that translate to significantly more bike per dollar than smaller brands. The Contend 3 is their entry road bike, and it's genuinely excellent at the price.
 
@@ -67,7 +67,7 @@ Giant is the world's largest bicycle manufacturer, which gives them supply chain
 
 ### 2. Trek Domane AL 2 — Best Endurance Geometry
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Trek+Domane+AL+2&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Trek+Domane+AL+2&tag=nickpicks-20)
 
 Trek designed the Domane line specifically for endurance riding: longer rides, rough roads, and all-day comfort. The AL 2 entry model brings that philosophy to beginners without the premium price of the carbon versions.
 
@@ -86,7 +86,7 @@ Trek designed the Domane line specifically for endurance riding: longer rides, r
 
 ### 3. Cannondale Synapse 2 — Best Ride Comfort
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Cannondale+Synapse+2&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Cannondale+Synapse+2&tag=nickpicks-20)
 
 Cannondale's Synapse is the benchmark endurance road bike, and the aluminum AL 2 version brings the same geometry and vibration-dampening principles to a beginner-appropriate price point.
 
@@ -104,7 +104,7 @@ Cannondale's Synapse is the benchmark endurance road bike, and the aluminum AL 2
 
 ### 4. Specialized Allez — Best Performance Feel
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Specialized+Allez+road+bike&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Specialized+Allez+road+bike&tag=nickpicks-20)
 
 Specialized's Allez is the entry point to a lineup that goes all the way to professional racing bikes. The base Allez inherits the race-derived E5 Premium aluminum frame—stiffer and lighter than the competition at this price—making it feel noticeably more "sporty" than the endurance-focused alternatives.
 
@@ -122,7 +122,7 @@ Specialized's Allez is the entry point to a lineup that goes all the way to prof
 
 ### 5. Fuji Sportif 2.3 — Best Value
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Fuji+Sportif+road+bike&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Fuji+Sportif+road+bike&tag=nickpicks-20)
 
 For cyclists on a strict budget who want a legitimate beginner road bike without compromising on essential components, Fuji's Sportif line consistently offers more per dollar than the major brands at this price.
 

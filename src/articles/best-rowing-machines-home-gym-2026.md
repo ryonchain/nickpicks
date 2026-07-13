@@ -59,7 +59,7 @@ After six weeks of rowing on ten different machines—tracking calories burned, 
 
 ### 1. Sunny Health & Fitness SF-RW5515
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Sunny+Health+Fitness+SF-RW5515+Rowing+Machine&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Sunny+Health+Fitness+SF-RW5515+Rowing+Machine&tag=nickpicks-20)
 
 **Why we love it:** For under $300, the SF-RW5515 delivers a quiet magnetic rower with eight resistance levels, a large LCD monitor, and a 250-lb user capacity. It folds vertically for storage in apartments and bedrooms where floor space is limited.
 
@@ -79,7 +79,7 @@ The rowing motion is smooth for the price. Resistance levels 4–6 challenge mos
 
 ### 2. Concept2 Model D
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Concept2+Model+D+Rowing+Machine&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Concept2+Model+D+Rowing+Machine&tag=nickpicks-20)
 
 **Why we love it:** The Concept2 Model D is the gold standard of rowing machines—used by Olympic training centers, CrossFit gyms, and competitive rowing clubs worldwide. The PM5 performance monitor is the most accurate rowing computer ever made and connects to Concept2's online logbook for tracking personal records.
 
@@ -99,7 +99,7 @@ The Model D stores vertically on its frame and separates into two pieces for tra
 
 ### 3. WaterRower Club
 
-[Buy on Amazon →](https://www.amazon.com/s?k=WaterRower+Club+Rowing+Machine&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=WaterRower+Club+Rowing+Machine&tag=nickpicks-20)
 
 **Why we love it:** The WaterRower Club is built from solid ash or cherry wood and designed as furniture as much as fitness equipment. The water tank produces a soft, rhythmic splash that most users find meditative rather than disruptive—unique in the category.
 
@@ -119,7 +119,7 @@ For living rooms, home offices, or anywhere aesthetics matter, no other rowing m
 
 ### 4. NordicTrack RW900
 
-[Buy on Amazon →](https://www.amazon.com/s?k=NordicTrack+RW900+Rowing+Machine&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=NordicTrack+RW900+Rowing+Machine&tag=nickpicks-20)
 
 **Why we love it:** The RW900 is the best connected rowing machine for iFit subscribers. The 22" HD touchscreen swivels 180° to use as a yoga, strength, or workout screen when you're not rowing. iFit coaches row scenic waterways worldwide while the machine automatically adjusts resistance to match the terrain.
 
@@ -139,7 +139,7 @@ The auto-resistance adjustment during iFit workouts is a genuine differentiator�
 
 ### 5. Hydrow Wave
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Hydrow+Wave+Rowing+Machine&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Hydrow+Wave+Rowing+Machine&tag=nickpicks-20)
 
 **Why we love it:** Hydrow's original rower launched the "Peloton for rowing" category. The Wave is the more compact, lower-cost version with the same live and on-demand class library featuring Olympic and world-champion rowers coaching on real water.
 

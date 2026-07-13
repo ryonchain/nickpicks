@@ -49,7 +49,7 @@ The under-eye area is the most structurally delicate skin on the face: thinner, 
 
 ### 1. Peter Thomas Roth 24K Gold Pure Luxury Lift & Firm Eye Patches
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Peter+Thomas+Roth+24K+Gold+Eye+Patches&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Peter+Thomas+Roth+24K+Gold+Eye+Patches&tag=nickpicks-20)
 
 **Why we love it:** PTR's 24K Gold Eye Patches are the best-performing instant-result eye treatment in the category. The hydrogel patches are loaded with a colloidal gold and adenosine complex that reduces puffiness and the appearance of fine lines within 10 minutes of application. These are the eye patches backstage at fashion shows and photo shoots for a reason — the immediate visible result is genuinely remarkable for an OTC product.
 
@@ -69,7 +69,7 @@ Adenosine is the performance driver: it's a clinically validated ingredient for 
 
 ### 2. Tatcha Silk Peony Melting Eye Cream
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tatcha+Silk+Peony+Melting+Eye+Cream&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tatcha+Silk+Peony+Melting+Eye+Cream&tag=nickpicks-20)
 
 **Why we love it:** Tatcha Silk Peony is a daily eye cream formulated around Japanese peony root extract — a botanical with clinical data supporting collagen synthesis and ceramide production in thin skin. The cream uses a unique "melting" texture that starts as a balm and transforms to a silk-like oil on contact with skin temperature, ensuring deep penetration without dragging or tugging the delicate eye area.
 
@@ -89,7 +89,7 @@ Tatcha's melting texture is particularly important for the eye area: rubbing any
 
 ### 3. COSRX Advanced Snail 96 Mucin Eye Cream
 
-[Buy on Amazon →](https://www.amazon.com/s?k=COSRX+Advanced+Snail+96+Mucin+Eye+Cream&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=COSRX+Advanced+Snail+96+Mucin+Eye+Cream&tag=nickpicks-20)
 
 **Why we love it:** Snail mucin (snail secretion filtrate) has become one of the most clinically validated K-beauty ingredients for skin barrier repair and hydration. COSRX's formula uses 96% snail secretion filtrate — the highest concentration in any eye cream at any price. Snail mucin contains glycoproteins, proteoglycans, and glycolic acid that collectively deliver intense hydration and gentle exfoliation without irritation.
 
@@ -109,7 +109,7 @@ The clinical case for snail mucin is growing: recent independent studies have de
 
 ### 4. Charlotte Tilbury Magic Eye Rescue
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Charlotte+Tilbury+Magic+Eye+Rescue+Eye+Cream&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Charlotte+Tilbury+Magic+Eye+Rescue+Eye+Cream&tag=nickpicks-20)
 
 **Why we love it:** Charlotte Tilbury Magic Eye Rescue is the only eye cream on this list specifically formulated to address the luminosity deficit that causes most dark circles to appear. The formula uses a peptide complex alongside light-reflecting minerals and retinol to simultaneously treat the underlying cause (thin skin allowing vascular show-through) and optically correct the appearance (light reflection from mineral particles).
 
@@ -129,7 +129,7 @@ The optical correction component is unusual in the eye cream category: suspended
 
 ### 5. Neutrogena Rapid Wrinkle Repair Eye Cream
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Neutrogena+Rapid+Wrinkle+Repair+Eye+Cream&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Neutrogena+Rapid+Wrinkle+Repair+Eye+Cream&tag=nickpicks-20)
 
 **Why we love it:** Neutrogena Rapid Wrinkle Repair Eye Cream uses Accelerated Retinol SA — the same retinol complex from their face cream — in a formula ophthalmologist-tested for eye area safety. At this price, it's the most effective drugstore anti-aging eye treatment available. Neutrogena's clinical team has tested the formula specifically on crow's feet and under-eye fine lines with measurable results published in peer-reviewed journals.
 

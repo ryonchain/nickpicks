@@ -55,7 +55,7 @@ Leather scraps and fiber shredded, reconstituted with polyurethane adhesive into
 
 ### 1. Bellroy Slim Sleeve
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Bellroy+Slim+Sleeve+Leather+Wallet&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Bellroy+Slim+Sleeve+Leather+Wallet&tag=nickpicks-20)
 
 **Why we love it:** Bellroy is an Australian accessories brand that conducts genuine design research into how people carry cards and cash. The Slim Sleeve is the result of that research: an exceptionally thin profile (6mm when carrying 4–6 cards) achieved through angled card slots that allow cards to fan out and extract without pinching, a center cash strap that holds bills without folding, and a pull-tab for quick-access card retrieval.
 
@@ -75,7 +75,7 @@ Bellroy's leather certification and sourcing transparency is unusual in the wall
 
 ### 2. Saddleback Leather Slim Bifold
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Saddleback+Leather+Slim+Bifold+Wallet&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Saddleback+Leather+Slim+Bifold+Wallet&tag=nickpicks-20)
 
 **Why we love it:** Saddleback Leather operates on a single promise: 100-year warranty, no questions asked. They back it with full-grain leather of exceptional thickness (3–4oz veg-tan) that is visibly, tangibly heavier and more substantial than any other wallet on this list. Saddleback wallets start stiff and become supple over years of use, developing a rich chestnut patina that documents every adventure.
 
@@ -95,7 +95,7 @@ The break-in period is real — a new Saddleback wallet requires 2–3 weeks of 
 
 ### 3. Dango D01 Dapper Pen Cardholder
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Dango+D01+Dapper+EDC+Wallet&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Dango+D01+Dapper+EDC+Wallet&tag=nickpicks-20)
 
 **Why we love it:** Dango makes the best metal-hybrid wallet for users who want the security of a hard card case with the functionality of a leather wallet. The D01 Dapper uses a machined T6061 aluminum spine with a RFID-blocking money clip on the reverse and an elastic band system for cards. The leather wrap comes in vegetable-tanned leather with a distinctive stitched edge, and the CNC-machined aluminum feels like a precision tool.
 
@@ -115,7 +115,7 @@ For users who carry minimal cards and want RFID protection without a bulky case,
 
 ### 4. Fossil Quinn Slim Bifold
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Fossil+Quinn+Slim+Bifold+Wallet+Men&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Fossil+Quinn+Slim+Bifold+Wallet+Men&tag=nickpicks-20)
 
 **Why we love it:** Fossil has built reliable quality at an accessible price point for 35 years. The Quinn Bifold uses genuine leather (correctly labeled — Fossil doesn't misrepresent their leather grade) in a classic bifold format with 8 card slots, a clear ID window, and a full-length bill compartment. The slim profile and refined stitching look considerably more expensive than the price suggests.
 
@@ -135,7 +135,7 @@ Fossil's quality control is the value story: at this price, most wallets use mat
 
 ### 5. Ettinger Sterling Billfold
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Ettinger+Sterling+Billfold+Wallet&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Ettinger+Sterling+Billfold+Wallet&tag=nickpicks-20)
 
 **Why we love it:** Ettinger is a Royal Warrant holder — meaning they supply wallets to the British Royal Family — and their Sterling collection uses bridle leather (a traditional English leather tanned and grease-waxed for weather resistance and longevity) for the exterior alongside a buttery-soft calf leather lining. Every Ettinger wallet is handmade in their Walsall, England workshop by craftspeople who have been working leather for decades.
 

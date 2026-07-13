@@ -32,7 +32,7 @@ The Baratza Encore is the most-recommended entry-level burr grinder in the coffe
 
 **Repairability:** This matters more than people realize. Baratza's direct-to-consumer parts model means a grinder that breaks 5 years from now costs $20 to fix, not $200 to replace.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=baratza+encore+coffee+grinder&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=baratza+encore+coffee+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Drip, pour-over, AeroPress, French press — the best all-purpose home grinder
 
@@ -46,7 +46,7 @@ The Encore ESP is the Encore redesigned specifically for espresso and stovetop b
 
 **Performance:** Pulls consistent espresso shots when dialed in. This is not a commercial-grade grinder — serious espresso hobbyists eventually move to a $350+ dedicated espresso grinder — but for a Breville Barista Express owner who wants a dedicated grinder, this is the step up.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=baratza+encore+esp&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=baratza+encore+esp&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Espresso and Moka pot users who want Baratza reliability at an accessible price
 
@@ -65,7 +65,7 @@ Fellow's Ode Gen 2 is built for filter coffee (drip, pour-over, French press) wi
 
 **What it doesn't do:** Espresso. Fellow designed the Ode specifically for filter coffee and the grind range stops before true espresso territory. If you want espresso, look elsewhere.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=fellow+ode+gen+2+grinder&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=fellow+ode+gen+2+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Pour-over and drip coffee enthusiasts who want a dedicated filter grinder
 
@@ -79,7 +79,7 @@ OXO's conical burr grinder hits a sweet spot of features and price. 15 grind set
 
 **Build:** More substantial than Baratza — the OXO has an all-metal grinder body and stainless hopper. The controls are clear and intuitive.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=oxo+brew+conical+burr+coffee+grinder&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=oxo+brew+conical+burr+coffee+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Home cooks who want premium build quality and all-purpose flexibility
 
@@ -91,7 +91,7 @@ Under $30, the Mueller offers conical burr grinding with 17 grind settings. The 
 
 **Honest assessment:** For drip coffee in a standard coffee maker, the Mueller produces good results. The step up to a Baratza Encore will improve pour-over quality noticeably, but for automatic drip brewing the difference is smaller.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=mueller+austria+burr+coffee+grinder&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=mueller+austria+burr+coffee+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Budget buyers, drip coffee users, people upgrading from blade grinders
 
@@ -105,7 +105,7 @@ Hand grinders have advantages: no electricity required, quiet operation, and —
 
 **Timemore vs. Comandante:** The Comandante C40 ($200) is the gold standard hand grinder with click-step micro-adjustments and legendary consistency. The Timemore C3S gets 85% of the way there at half the price.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=timemore+c3s+hand+grinder&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=timemore+c3s+hand+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Pour-over enthusiasts, travelers, anyone who wants silent grinding or great value
 

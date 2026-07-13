@@ -49,7 +49,7 @@ True minimalism in watchmaking means:
 
 ### 1. Seiko SARB065 "Cocktail Time" — Best Overall
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Seiko+SARB065+Cocktail+Time&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Seiko+SARB065+Cocktail+Time&tag=nickpicks-20)
 
 The Seiko SARB065, nicknamed "Cocktail Time" by the watch community for its cocktail-inspired dial textures, is one of the most beloved watches in its price range. It blends formal elegance with daily wearability, and the quality-to-price ratio is genuinely exceptional.
 
@@ -70,7 +70,7 @@ The Seiko SARB065, nicknamed "Cocktail Time" by the watch community for its cock
 
 ### 2. NOMOS Glashütte Club Campus — Best Luxury Minimalism
 
-[Buy on Amazon →](https://www.amazon.com/s?k=NOMOS+Glashutte+Club+Campus&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=NOMOS+Glashutte+Club+Campus&tag=nickpicks-20)
 
 NOMOS Glashütte represents the pinnacle of German watchmaking philosophy applied to minimalism: the Bauhaus-influenced designs are studies in proportion, legibility, and restraint. The Club Campus is their most accessible entry point.
 
@@ -91,7 +91,7 @@ NOMOS Glashütte represents the pinnacle of German watchmaking philosophy applie
 
 ### 3. Tissot Everytime Swissmatic — Best Swiss Value
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tissot+Everytime+Swissmatic&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tissot+Everytime+Swissmatic&tag=nickpicks-20)
 
 Tissot, owned by the Swatch Group, leverages Swiss manufacturing at scale to produce genuinely Swiss-made automatic watches at accessible prices. The Everytime Swissmatic is their clean, unpretentious everyday offering.
 
@@ -112,7 +112,7 @@ Tissot, owned by the Swatch Group, leverages Swiss manufacturing at scale to pro
 
 ### 4. Orient Bambino V4 — Best Value Under $200
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Orient+Bambino+V4+automatic+watch&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Orient+Bambino+V4+automatic+watch&tag=nickpicks-20)
 
 Orient is the Japan-based watch manufacturer that punch-above-their-weight reputation is built on: their in-house movements compete with Swiss competitors at two to three times the price, and the Bambino line is their most beloved design series.
 
@@ -131,7 +131,7 @@ Orient is the Japan-based watch manufacturer that punch-above-their-weight reput
 
 ### 5. Junghans Max Bill Automatic — Best Design Heritage
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Junghans+Max+Bill+Automatic&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Junghans+Max+Bill+Automatic&tag=nickpicks-20)
 
 The Junghans Max Bill is one of the most design-historically significant watches available. Designed by Swiss graphic designer and architect Max Bill in the 1960s, it's taught in design schools as an example of perfect dial composition.
 

@@ -54,7 +54,7 @@ Weeks 1–4 typically include flaking, dryness, and sensitivity. This is the ski
 
 ### 1. RoC Retinol Correxion Line Smoothing Cream
 
-[Buy on Amazon →](https://www.amazon.com/s?k=RoC+Retinol+Correxion+Line+Smoothing+Cream&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=RoC+Retinol+Correxion+Line+Smoothing+Cream&tag=nickpicks-20)
 
 **Why we love it:** RoC has the longest market history of any OTC retinol brand — their formulations have been tested in independent clinical trials since the 1990s. The Correxion cream uses a stabilized retinol complex in a rich, occlusive base that doubles as skin barrier support, reducing the irritation and dryness that drives most retinol beginners to quit too early.
 
@@ -73,7 +73,7 @@ The moisturizing base is the key differentiator: using retinol in a cream rather
 
 ### 2. La Roche-Posay Retinol B3 Serum
 
-[Buy on Amazon →](https://www.amazon.com/s?k=La+Roche-Posay+Retinol+B3+Serum&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=La+Roche-Posay+Retinol+B3+Serum&tag=nickpicks-20)
 
 **Why we love it:** La Roche-Posay's Retinol B3 pairs 0.3% pure retinol with 3% niacinamide — the barrier-supporting B vitamin that counteracts retinol's irritation potential. This combination is supported by clinical data: niacinamide reduces the transepidermal water loss that causes retinol-induced dryness while simultaneously brightening and pore-minimizing.
 
@@ -92,7 +92,7 @@ The transparent concentration disclosure alone separates La Roche-Posay from mos
 
 ### 3. SkinMedica Retinol Complex 0.5
 
-[Buy on Amazon →](https://www.amazon.com/s?k=SkinMedica+Retinol+Complex+0.5&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=SkinMedica+Retinol+Complex+0.5&tag=nickpicks-20)
 
 **Why we love it:** SkinMedica is a physician-dispensed brand that sells through Amazon, which means the formulations are calibrated to clinical practice standards. The Retinol Complex 0.5 uses SkinMedica's proprietary retinol complex alongside antioxidants and skin-conditioning ingredients to deliver the results of 0.5% retinol with minimized irritation signature.
 
@@ -111,7 +111,7 @@ At 0.5%, this is a clinically meaningful dose that produces measurable collagen 
 
 ### 4. Neutrogena Rapid Wrinkle Repair Retinol Cream
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Neutrogena+Rapid+Wrinkle+Repair+Retinol+Cream&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Neutrogena+Rapid+Wrinkle+Repair+Retinol+Cream&tag=nickpicks-20)
 
 **Why we love it:** Neutrogena Rapid Wrinkle Repair is the best-selling retinol cream on Amazon, and the sales figures are deserved. The formula uses Neutrogena's Accelerated Retinol SA — a stabilized retinol molecule paired with glucose complex that Neutrogena's internal clinical team has tested extensively. Visible fine-line reduction in 4 weeks is the brand's clinical claim, and independent testing largely validates it.
 
@@ -130,7 +130,7 @@ For users new to retinol who want to test efficacy before committing to premium 
 
 ### 5. Sunday Riley A+ High-Dose Retinoid Serum
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Sunday+Riley+A+Plus+High-Dose+Retinoid+Serum&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Sunday+Riley+A+Plus+High-Dose+Retinoid+Serum&tag=nickpicks-20)
 
 **Why we love it:** Sunday Riley's A+ uses a combination of 6.5% hydroxypinacolone retinoate (HPR) — a next-generation direct retinoic acid ester — alongside 1% encapsulated retinol and 0.5% retinyl sunflowerate. HPR delivers similar activity to tretinoin without the prescription requirement, and substantially faster visible results than standard retinol serums.
 

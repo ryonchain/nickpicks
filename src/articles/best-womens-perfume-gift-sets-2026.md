@@ -59,7 +59,7 @@ Premium gift sets almost always lead with EDP formulas. If a set uses "EDT" to j
 
 ### 1. Chanel Chance Eau Tendre Gift Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Chanel+Chance+Eau+Tendre+Gift+Set+Women&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Chanel+Chance+Eau+Tendre+Gift+Set+Women&tag=nickpicks-20)
 
 **Why we love it:** Chance Eau Tendre is Chanel's most accessible feminine fragrance—a bright, airy floral-fruity that wears comfortably across seasons and demographics. The gift set pairs the 3.4 oz EDT with matching body lotion in the iconic round Chanel bottle, making it one of the most attractive unboxings in any price category.
 
@@ -78,7 +78,7 @@ The "Tendre" version (vs. Eau Fraîche or original Chance) is the best entry poi
 
 ### 2. Viktor & Rolf Flowerbomb Gift Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Viktor+Rolf+Flowerbomb+Gift+Set+Women&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Viktor+Rolf+Flowerbomb+Gift+Set+Women&tag=nickpicks-20)
 
 **Why we love it:** Flowerbomb has been one of the top-selling feminine fragrances globally since its 2005 launch. The grenade-shaped bottle is iconic. The EDP formula—a lush, patchouli-forward floral bomb—is polarizing only in the sense that those who love it love it intensely. Gift sets typically include the 1.7 oz EDP with matching body lotion and sometimes a travel spray.
 
@@ -97,7 +97,7 @@ Flowerbomb is genuinely powerful—a little goes far, which extends the value of
 
 ### 3. Lancôme La Vie Est Belle Gift Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Lancome+La+Vie+Est+Belle+Gift+Set+Women&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Lancome+La+Vie+Est+Belle+Gift+Set+Women&tag=nickpicks-20)
 
 **Why we love it:** La Vie Est Belle ("Life is Beautiful") is one of the world's bestselling women's fragrances. The gift set typically bundles the 1.7 oz EDP with a 2.6 oz body lotion and a mini mascara—Lancôme's signature multi-brand bonus item. The price-to-quality ratio is the best in the luxury mass-market segment.
 
@@ -116,7 +116,7 @@ La Vie Est Belle bridges the gap between department-store classic and modern fra
 
 ### 4. Coach Floral Blush Discovery Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Coach+Floral+Blush+Gift+Set+Women&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Coach+Floral+Blush+Gift+Set+Women&tag=nickpicks-20)
 
 **Why we love it:** Coach Floral Blush is one of the best value propositions in prestige fragrance. The EDP is a clear floral feminine—pink rose, peony, pink pepper—that wears genuinely well without the synthetic shrillness common in the sub-$70 segment. The gift set packages a 3 oz EDP with matching body lotion for under $60.
 
@@ -135,7 +135,7 @@ Coach Floral Blush performs above its price point in two measurable ways: longev
 
 ### 5. YSL Black Opium Gift Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=YSL+Black+Opium+Gift+Set+Women&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=YSL+Black+Opium+Gift+Set+Women&tag=nickpicks-20)
 
 **Why we love it:** Black Opium is the coffee-vanilla gourmand that turned Yves Saint Laurent into a fragrance powerhouse when it launched in 2014. The gift set bundles the 1.6 oz EDP with a travel spray—ideal for someone who wears it daily and needs to refresh throughout the day.
 

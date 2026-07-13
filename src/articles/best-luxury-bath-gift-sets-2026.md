@@ -48,7 +48,7 @@ The best bath products leave skin with a perceptible difference—softness from 
 
 ### 1. Molton Brown Festive Bauble Gift Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Molton+Brown+Festive+Bauble+Gift+Set+Bath&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Molton+Brown+Festive+Bauble+Gift+Set+Bath&tag=nickpicks-20)
 
 **Why we love it:** Molton Brown is the luxury bath brand used in five-star hotels globally—Brown's Hotel, Claridge's, The Ritz—and the quality standard shows in every formula. The Festive Bauble Gift Set collects three of Molton Brown's signature scents (the specific selection rotates seasonally) in the brand's iconic bauble packaging: round glass bottles with silk-screened labels.
 
@@ -67,7 +67,7 @@ Molton Brown's signature strength is fragrance longevity—their gels leave a de
 
 ### 2. Jo Malone Peony & Blush Suede Trio
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Jo+Malone+Peony+Blush+Suede+Bath+Gift+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Jo+Malone+Peony+Blush+Suede+Bath+Gift+Set&tag=nickpicks-20)
 
 **Why we love it:** Jo Malone builds entire product collections around single fragrance concepts—the Peony & Blush Suede Trio includes body wash, body lotion, and hand wash in a unified fragrance experience. The result is a coherent scent journey from shower to post-bath routine: the same peony-raspberry-suede accord across every product means layering extends fragrance wear time beyond 6 hours.
 
@@ -86,7 +86,7 @@ Jo Malone's formulations are among the cleanest in prestige bath: no sulfates in
 
 ### 3. ELEMIS Frangipani Monoi Body Collection
 
-[Buy on Amazon →](https://www.amazon.com/s?k=ELEMIS+Frangipani+Monoi+Body+Collection+Gift+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=ELEMIS+Frangipani+Monoi+Body+Collection+Gift+Set&tag=nickpicks-20)
 
 **Why we love it:** ELEMIS is the professional spa brand behind many four and five-star hotel spa menus globally. The Frangipani Monoi collection uses genuine Tahitian Monoi oil (macerated gardenia flowers in cold-pressed coconut oil) as a base for bath oil, body lotion, and hand treatment. The aromatherapy effect is measurable—frangipani essential oil has clinical data supporting anxiolytic (anxiety-reducing) effects at concentrations above 1%.
 
@@ -105,7 +105,7 @@ The ELEMIS bath oil is the standout product in this set—genuine oil (not oil-i
 
 ### 4. L'Occitane Lavender Collection Gift Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=L'Occitane+Lavender+Collection+Gift+Set+Bath&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=L'Occitane+Lavender+Collection+Gift+Set+Bath&tag=nickpicks-20)
 
 **Why we love it:** L'Occitane sources lavender essential oil from their own certified-organic lavender fields in Provence, France. The Lavender Collection (shower gel, hand cream, and body milk) uses a lavender oil concentration sufficient to deliver genuine relaxation effects—the aromatherapy literature supports lavender at 1.5%+ for cortisol reduction and sleep quality improvement.
 
@@ -124,7 +124,7 @@ L'Occitane sits at a price point accessible enough to be a plausible gift across
 
 ### 5. Whish Beauty Trio Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Whish+Beauty+Bath+Gift+Set+Luxury&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Whish+Beauty+Bath+Gift+Set+Luxury&tag=nickpicks-20)
 
 **Why we love it:** Whish is the best clean beauty luxury bath brand at an accessible price. Formulations are sulfate-free, paraben-free, vegan, and cruelty-free across the entire product range, without sacrificing lather, fragrance, or skin feel. The Trio sets pair a body wash, body butter, and bath fizz in a coherent fragrance experience.
 

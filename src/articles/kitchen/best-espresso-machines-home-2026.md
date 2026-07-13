@@ -32,7 +32,7 @@ The Barista Express is the gold standard beginner-to-intermediate espresso machi
 
 **What to watch:** It takes practice to dial in the grind and dose. Expect 2–3 weeks before your shots are consistently good. This is a feature, not a bug — you're learning to make real espresso.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=breville+barista+express&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=breville+barista+express&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Coffee enthusiasts who want real espresso at home and are willing to learn
 
@@ -48,7 +48,7 @@ The Barista Pro improves on the Express with a faster ThermoJet heating system (
 - Improved steam wand response
 - Quieter grinder
 
-[Check price on Amazon →](https://www.amazon.com/s?k=breville+barista+pro&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=breville+barista+pro&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Daily users who want speed and precision
 
@@ -62,7 +62,7 @@ The Stilosa proves that $100 can produce drinkable espresso. It uses a manual fr
 
 **What's missing:** No built-in grinder. Temperature stability is good but not as precise as the Breville. The frother takes more practice.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=delonghi+stilosa+espresso&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=delonghi+stilosa+espresso&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Beginners who want to try espresso before investing more
 
@@ -76,7 +76,7 @@ The Gaggia Classic Pro is the cult machine among espresso hobbyists. It's a comm
 
 **Learning curve:** Steeper than the Breville. No integrated grinder. You need a good standalone burr grinder ($100–$200 minimum). But the ceiling is much higher.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=gaggia+classic+pro&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=gaggia+classic+pro&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Espresso enthusiasts who want to develop their craft and are ready to pair it with a quality grinder
 
@@ -90,7 +90,7 @@ For users who want excellent espresso without any technique, the Magnifica Evo i
 
 **Trade-off:** Less control than semi-automatics. The extraction is optimized for convenience, not peak quality. Shot-by-shot customization is limited. But for a household where multiple people want coffee without learning technique, this is unbeatable.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=delonghi+magnifica+evo&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=delonghi+magnifica+evo&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Busy households, non-enthusiasts who just want good coffee fast
 
@@ -104,7 +104,7 @@ Nespresso's Vertuo system uses centrifusion technology — the pod spins at 7,00
 
 **Trade-off:** Proprietary pods. You're locked into Nespresso's ecosystem. Cost per cup is $0.90–$1.50, which beats the coffee shop but won't match home grinding.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=nespresso+vertuo+next&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=nespresso+vertuo+next&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Convenience-first users, offices, households where not everyone wants to learn espresso
 
@@ -120,7 +120,7 @@ For the Gaggia Classic Pro or any machine without a built-in grinder:
 
 **Best mid-range grinder:** Eureka Mignon Silenzio ($350) — whisper quiet, excellent grind consistency, built for espresso
 
-[See espresso grinders on Amazon →](https://www.amazon.com/s?k=espresso+burr+grinder&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[See espresso grinders on Amazon →](https://www.amazon.com/s?k=espresso+burr+grinder&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Espresso Machine Buying Guide
 

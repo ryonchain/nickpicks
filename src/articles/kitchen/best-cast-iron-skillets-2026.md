@@ -36,7 +36,7 @@ The Lodge Logic skillet is the benchmark for home cast iron. Made in South Pitts
 
 **What you should know:** New cast iron requires 5–10 uses before it's optimally seasoned. The first few uses: cook bacon, fry chicken, or do anything with fat. By the 10th use, you'll have a noticeably different surface.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=lodge+10.25+cast+iron+skillet&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=lodge+10.25+cast+iron+skillet&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Almost everyone — the definitive cast iron value
 
@@ -48,7 +48,7 @@ The 12" handles everything the 10.25" does, plus a full rack of ribs flat, four 
 
 **When to choose 12" over 10.25":** You regularly cook for 4+ people, you want to sear larger cuts, or you bake skillet desserts (the larger skillet makes better presentation for sharing).
 
-[Check price on Amazon →](https://www.amazon.com/s?k=lodge+12+inch+cast+iron+skillet&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=lodge+12+inch+cast+iron+skillet&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Families, frequent entertainers, people who want maximum versatility
 
@@ -64,7 +64,7 @@ Le Creuset's enameled skillet is the benchmark for this category. The exterior e
 
 **What you sacrifice:** The naturally non-stick surface of properly seasoned bare iron. Enameled cast iron is not as non-stick as a well-seasoned Lodge — you'll use more fat.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=le+creuset+skillet+cast+iron&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=le+creuset+skillet+cast+iron&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Those who want enameled cast iron — the premium option with lifetime warranty
 
@@ -76,7 +76,7 @@ Traditional Lodge skillets are heavy — the 10.25" is 5.4 lbs, the 12" is 8 lbs
 
 **Trade-off:** Slightly less heat retention than standard Lodge (the mass is part of the physics). But for most home cooking — scrambled eggs, sautéed vegetables, everyday searing — the Blacklock performs excellently and is much easier to handle.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=lodge+blacklock+skillet&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=lodge+blacklock+skillet&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Anyone who finds traditional cast iron too heavy; people with wrist or arm limitations
 
@@ -88,7 +88,7 @@ At roughly half the price of a Lodge, the AmazonBasics cast iron skillet deliver
 
 **Honest assessment:** After 10 uses, it's hard to tell the difference between a well-seasoned AmazonBasics skillet and a Lodge. The cost savings are real, and cast iron forgives rougher initial quality through use.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=amazon+basics+cast+iron+skillet&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=amazon+basics+cast+iron+skillet&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Budget buyers, students, first-time cast iron users
 
@@ -98,11 +98,11 @@ At roughly half the price of a Lodge, the AmazonBasics cast iron skillet deliver
 
 **Silicone handle cover:** Cast iron handles get extremely hot. A silicone grip cover costs $5–$8 and prevents burns.
 
-[See handle covers →](https://www.amazon.com/s?k=cast+iron+handle+silicone+cover&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[See handle covers →](https://www.amazon.com/s?k=cast+iron+handle+silicone+cover&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Cast iron scrubber:** The chainmail scrubber is the best tool for cleaning cast iron without damaging seasoning. Better than metal scrubbers (too harsh) or nothing (leaves residue).
 
-[See cast iron scrubbers →](https://www.amazon.com/s?k=cast+iron+chainmail+scrubber&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[See cast iron scrubbers →](https://www.amazon.com/s?k=cast+iron+chainmail+scrubber&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Flaxseed oil for seasoning:** After cleaning, apply a thin layer of high-smoke-point oil before storing. Many seasoning guides recommend flaxseed oil for building initial layers.
 

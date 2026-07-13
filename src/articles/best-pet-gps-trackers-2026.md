@@ -54,7 +54,7 @@ We attached five trackers to test dogs and cats across urban, suburban, and rura
 
 ### 1. Whistle Go Explore
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Whistle+Go+Explore+GPS+Pet+Tracker&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Whistle+Go+Explore+GPS+Pet+Tracker&tag=nickpicks-20)
 
 **Why we love it:** Whistle combines GPS location tracking with comprehensive health monitoring—tracking daily activity minutes, calories burned, sleep quality, and licking/scratching/sleeping behaviors. Veterinarians can review Whistle data to detect early health changes before visible symptoms appear.
 
@@ -75,7 +75,7 @@ The 20-day battery life is the best in the GPS tracker category for dogs. Real-t
 
 ### 2. Tractive GPS Dog LTE
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tractive+GPS+Dog+LTE+Tracker&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tractive+GPS+Dog+LTE+Tracker&tag=nickpicks-20)
 
 **Why we love it:** Tractive offers the fastest location updates in the category—real-time live tracking mode updates every 2–3 seconds. When your dog is actively running away, the difference between a 2-second and 60-second update is the difference between catching them at the fence and three blocks away.
 
@@ -96,7 +96,7 @@ The app includes a heat map showing your dog's most frequently visited spots and
 
 ### 3. Fi Series 3 Smart Dog Collar
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Fi+Series+3+Dog+Collar+GPS&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Fi+Series+3+Dog+Collar+GPS&tag=nickpicks-20)
 
 **Why we love it:** Fi integrates GPS directly into a smart collar rather than adding a separate attachment. The Series 3 collar is built for active, large dogs—the nylon is tear-resistant, the hardware is stainless steel, and the battery lasts up to 3 months in standard tracking mode.
 
@@ -117,7 +117,7 @@ The Fi community network leverages other Fi collar wearers to report sightings o
 
 ### 4. Jiobit Home Smart Pet Tag
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Jiobit+Pet+Tracker&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Jiobit+Pet+Tracker&tag=nickpicks-20)
 
 **Why we love it:** Jiobit is the smallest and lightest GPS tracker in the category—19 grams, roughly the size of a stack of four quarters. It's the only tracker that works reliably on cats (most GPS collars are too heavy for feline comfort) and small dog breeds where bulky attachments are inappropriate.
 
@@ -138,7 +138,7 @@ The 1–2 day battery is the tradeoff for the small size. Charging is a daily ro
 
 ### 5. Tile Mate Bluetooth Pet Tracker
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tile+Mate+Pet+Tracker&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tile+Mate+Pet+Tracker&tag=nickpicks-20)
 
 **Why we love it:** Tile Mate is included as the honest budget option. It's not a real-time GPS tracker—it uses Bluetooth to ping location when near your phone or near any Tile app user's phone. In areas with high Tile network density (cities, suburbs), this crowdsourced detection can locate a lost pet. In rural areas, it's nearly useless.
 

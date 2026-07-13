@@ -47,7 +47,7 @@ The prestige shift toward scalp health follows skincare logic: treat the foundat
 
 ### 1. Olaplex Bond Building Hair Repair Kit
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Olaplex+Gift+Set+Hair+Repair+Kit&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Olaplex+Gift+Set+Hair+Repair+Kit&tag=nickpicks-20)
 
 **Why we love it:** Olaplex's multi-step system is the most clinically validated bond repair program available outside professional salons. The home kit (typically No.0 + No.3 + No.4 + No.5 + No.8) provides a complete intake, treatment, maintenance, and mask regimen. Real results on chemically processed or heat-damaged hair within 2–3 uses.
 
@@ -66,7 +66,7 @@ In independent lab testing, Olaplex-treated hair showed a 68% reduction in break
 
 ### 2. Kérastase Discipline Fluidissime Complete Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Kerastase+Discipline+Gift+Set+Frizz+Control&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Kerastase+Discipline+Gift+Set+Frizz+Control&tag=nickpicks-20)
 
 **Why we love it:** Kérastase's Discipline line is the professional benchmark for frizz control in humidity. The Fluidissime Complete Set pairs the Pre-Shampoo Treatment with the matching shampoo, conditioner, and the iconic Fluidissime Spray—a heat protectant that simultaneously seals the cuticle against humidity infiltration during blowout.
 
@@ -85,7 +85,7 @@ Kérastase is formulated at L'Oréal's Advanced Research facility in Paris—the
 
 ### 3. Briogeo Don't Despair, Repair! Deep Conditioning Bundle
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Briogeo+Don't+Despair+Repair+Gift+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Briogeo+Don't+Despair+Repair+Gift+Set&tag=nickpicks-20)
 
 **Why we love it:** Briogeo built a clean beauty hair care brand with genuine efficacy. The Don't Despair, Repair! bundle centers on their cult Deep Conditioning Mask—a biotin, rosehip oil, and algae formula that outperforms most masks twice its price in absorption and shine delivery. The bundle adds the matching shampoo and superfood serum.
 
@@ -104,7 +104,7 @@ Briogeo's clean formula works particularly well on natural hair textures—4A/4B
 
 ### 4. Moroccanoil Travel Kit + Restorative Hair Mask Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Moroccanoil+Gift+Set+Hair+Treatment&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Moroccanoil+Gift+Set+Hair+Treatment&tag=nickpicks-20)
 
 **Why we love it:** Moroccanoil Treatment Oil is the product that popularized argan oil in hair care—the original, not a knockoff. The treatment oil penetrates the hair shaft with fatty acids that reduce friction between strands, delivering immediate softness and 24-hour shine. The gift set pairs it with matching shampoo, conditioner, and the Intense Hydrating Mask.
 
@@ -123,7 +123,7 @@ The argan oil formula is immediately apparent in the texture—hair dried with M
 
 ### 5. Ouai Fine Hair + Scalp Serum Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Ouai+Fine+Hair+Gift+Set+Scalp&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Ouai+Fine+Hair+Gift+Set+Scalp&tag=nickpicks-20)
 
 **Why we love it:** Ouai (founded by celebrity stylist Jen Atkin) addresses fine hair with intelligence: volume without dryness, cleanse without strip, thicken without weigh-down. The Fine Hair set pairs their lightweight volumizing shampoo and conditioner with the Scalp Serum—a niacinamide and adaptogen formula for improving scalp health and reducing oiliness that causes flat hair.
 

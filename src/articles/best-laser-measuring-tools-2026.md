@@ -57,7 +57,7 @@ All laser measurers in this comparison include:
 
 ### 1. Bosch GLM400CL — Best Overall
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Bosch+GLM400CL+Laser+Measure&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Bosch+GLM400CL+Laser+Measure&tag=nickpicks-20)
 
 **Why we love it:** The Bosch GLM400CL is the most capable mid-range laser measurer available. The built-in color camera with live view allows outdoor measurement at up to 400 feet—the display shows the laser dot on-screen even when it's invisible to the naked eye in daylight. Full-color 3.2" touchscreen, Bluetooth connectivity with the MeasureOn app, and floor plan capture make it the choice for contractors, real estate professionals, and serious DIYers.
 
@@ -80,7 +80,7 @@ In outdoor sunlight testing at 200 feet, the GLM400CL's camera view clearly show
 
 ### 2. Leica DISTO D2 — Best for Professional Accuracy
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Leica+DISTO+D2+Laser+Distance+Measurer&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Leica+DISTO+D2+Laser+Distance+Measurer&tag=nickpicks-20)
 
 **Why we love it:** Leica Geosystems built the first commercial laser distance measurer in 1993 and remains the accuracy benchmark. The DISTO D2 delivers ±1/16" accuracy at 330 feet in a tool that meets IP54 dust/splash protection. Bluetooth integration with Leica's DISTO Plan app transfers measurements directly to scale floor plans. Swiss manufacture means tolerances that field-use competitors can't match.
 
@@ -102,7 +102,7 @@ In accuracy testing, the Leica DISTO D2 measured ±0.8mm (under spec) consistent
 
 ### 3. Bosch GLM50-27CG — Best Value Mid-Range
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Bosch+GLM50-27CG+Laser+Measure&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Bosch+GLM50-27CG+Laser+Measure&tag=nickpicks-20)
 
 **Why we love it:** The Bosch GLM50-27CG hits the sweet spot between capability and price at under $100. The green laser is visible in bright indoor conditions and overcast outdoor use (not bright direct sunlight). Accuracy holds at ±1/16" up to 165 feet. The tilt sensor allows indirect height measurement without a helper holding the other end. Full 2-year Bosch warranty.
 
@@ -124,7 +124,7 @@ The GLM50-27CG is the tool most homeowners and DIYers actually need: 165-foot ra
 
 ### 4. DeWalt DW03050 — Best for Job Site / Outdoor Use
 
-[Buy on Amazon →](https://www.amazon.com/s?k=DeWalt+DW03050+Laser+Distance+Measurer&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=DeWalt+DW03050+Laser+Distance+Measurer&tag=nickpicks-20)
 
 **Why we love it:** The DeWalt DW03050 is built specifically for job site durability. Drop-rated to 6.5 feet, IP54 dust/splash protection, and an IP65-rated laser module that handles construction dust, moisture, and rough handling. The 165-foot range is adequate for most framing and layout tasks; the bright laser performs in overcast outdoor conditions. Standard DeWalt 3-year warranty.
 
@@ -146,7 +146,7 @@ The DW03050 is the correct choice for rough job site conditions where tools get 
 
 ### 5. Tacklife HD60 Classic — Best Budget Option
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tacklife+HD60+Classic+Laser+Measure&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tacklife+HD60+Classic+Laser+Measure&tag=nickpicks-20)
 
 **Why we love it:** The Tacklife HD60 delivers acceptable accuracy (±1/16" stated; holds within ±2mm at up to 60 feet in testing) at under $35. It covers typical home use cases—furniture placement, room dimensions, mounting heights—without the cost of a professional tool. Includes Pythagorean calculation, area, volume, and a bubble level for horizontal alignment.
 

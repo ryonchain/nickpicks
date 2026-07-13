@@ -56,7 +56,7 @@ The best creams layer multiple categories for synergistic results.
 
 ### 1. Estée Lauder Advanced Night Repair Synchronized Multi-Recovery Complex
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Estee+Lauder+Advanced+Night+Repair&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Estee+Lauder+Advanced+Night+Repair&tag=nickpicks-20)
 
 **Why we love it:** This iconic serum-meets-cream hybrid has earned its cult status over decades of reformulation. The 2026 version features ChronoluxCB Technology that synchronizes with your skin's natural nighttime repair cycle, delivering hyaluronic acid, linoleic acid, and a powerful antioxidant complex.
 
@@ -75,7 +75,7 @@ In our testing panel of 15 women ages 35–60, 87% reported visibly reduced fine
 
 ### 2. RoC Retinol Correxion Line Smoothing Cream
 
-[Buy on Amazon →](https://www.amazon.com/s?k=RoC+Retinol+Correxion+Night+Cream&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=RoC+Retinol+Correxion+Night+Cream&tag=nickpicks-20)
 
 **Why we love it:** RoC pioneered consumer retinol skincare, and their Correxion formula remains the benchmark for drugstore retinol efficacy. Dermatologists consistently recommend it as a first retinol product.
 
@@ -96,7 +96,7 @@ Unlike many competitors that use retinol derivatives, RoC uses pure retinol—th
 
 ### 3. Olay Regenerist Micro-Sculpting Cream
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Olay+Regenerist+Micro-Sculpting+Cream+Night&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Olay+Regenerist+Micro-Sculpting+Cream+Night&tag=nickpicks-20)
 
 **Why we love it:** When Consumer Reports tested night creams for firming and hydration against much more expensive competitors, Olay Regenerist consistently outperformed products costing 5–10x more. That's remarkable value.
 
@@ -117,7 +117,7 @@ Olay's amino-peptide complex penetrates to the surface skin layers (a peer-revie
 
 ### 4. La Mer Crème de la Mer (Night Use)
 
-[Buy on Amazon →](https://www.amazon.com/s?k=La+Mer+Creme+de+la+Mer&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=La+Mer+Creme+de+la+Mer&tag=nickpicks-20)
 
 **Why we love it:** La Mer's cult cream is an indulgence—and occasionally, an indulgence is worth it. The Miracle Broth (a fermented sea kelp complex) at its core has legitimate skin barrier-repair benefits, and the rich, balm-like texture is genuinely therapeutic for dry or compromised skin.
 
@@ -136,7 +136,7 @@ This isn't the cream we'd recommend as your sole anti-aging product—it lacks r
 
 ### 5. No7 Future Renew Damage Reverse Night Cream
 
-[Buy on Amazon →](https://www.amazon.com/s?k=No7+Future+Renew+Night+Cream&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=No7+Future+Renew+Night+Cream&tag=nickpicks-20)
 
 **Why we love it:** No7 made headlines when their clinical trials—published in peer-reviewed journals—showed measurable wrinkle reduction comparable to much pricier luxury brands. The Future Renew range builds on that reputation with an updated peptide technology.
 

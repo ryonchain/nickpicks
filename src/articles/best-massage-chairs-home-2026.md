@@ -54,7 +54,7 @@ Look for air bags in the shoulders, arms, hips, calves, and feet—not just one 
 
 ### 1. Real Relax Favor-03 Plus
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Real+Relax+Favor-03+Plus+Massage+Chair&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Real+Relax+Favor-03+Plus+Massage+Chair&tag=nickpicks-20)
 
 **Why we love it:** The Favor-03 Plus is the best massage chair under $500, period. It delivers features that cost $800–$1,000 just two years ago: full-body air compression, heat therapy, Bluetooth speakers, and zero-gravity reclining with four preset programs.
 
@@ -74,7 +74,7 @@ The S-track rollers cover your neck, upper back, and lumbar with convincing shia
 
 ### 2. Osaki OS-4000T
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Osaki+OS-4000T+Massage+Chair&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Osaki+OS-4000T+Massage+Chair&tag=nickpicks-20)
 
 **Why we love it:** Osaki's 4000T is the sweet spot between value and full-body coverage. The L-track design extends through the glutes, which is where most Americans carry stress—and most budget chairs miss entirely.
 
@@ -94,7 +94,7 @@ The compression system is particularly strong in the shoulder wrap—it mimics a
 
 ### 3. Daiwa Supreme Hybrid
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Daiwa+Supreme+Hybrid+Massage+Chair&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Daiwa+Supreme+Hybrid+Massage+Chair&tag=nickpicks-20)
 
 **Why we love it:** The Supreme Hybrid combines an L-track spine system with a separate arm roller mechanism—addressing the one weak point in most chairs (arm and hand massage). The triple zero-gravity position is the flattest angle in this tier, producing the deepest roller pressure we measured.
 
@@ -112,7 +112,7 @@ Sitting in the Supreme Hybrid at full recline with the 3D rollers on medium inte
 
 ### 4. Kahuna LM6800
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Kahuna+LM6800+Massage+Chair&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Kahuna+LM6800+Massage+Chair&tag=nickpicks-20)
 
 **Why we love it:** Kahuna's LM6800 is the best chair for full-body stretch programs. The automatic stretching sequence uses the footrest and shoulder pads to gently decompress the spine—something most chairs don't attempt. For people with chronic back tightness from sitting, this feature alone justifies the price.
 
@@ -130,7 +130,7 @@ The LM6800's stretch program creates enough spinal traction to feel a genuine de
 
 ### 5. Luraco i9 Max
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Luraco+i9+Max+Massage+Chair&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Luraco+i9+Max+Massage+Chair&tag=nickpicks-20)
 
 **Why we love it:** Luraco is the only major massage chair brand that manufactures in the United States, and the i9 Max shows what happens when medical-grade engineering meets consumer design. The chair measures your heart rate, blood pressure (via wrist sensor), and body temperature, then adjusts massage intensity accordingly.
 

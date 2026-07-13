@@ -46,7 +46,7 @@ Fragrance selection is more science than art once you understand a few key conce
 
 ### 1. Chanel No. 5 Eau de Parfum
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Chanel+No+5+Eau+de+Parfum&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Chanel+No+5+Eau+de+Parfum&tag=nickpicks-20)
 
 **The icon, still earned.** Created in 1921, Chanel No. 5 remains the world's best-selling fragrance for a reason: it simply works. The 2026 EDP formulation maintains Ernest Beaux's original vision—that pioneering use of aldehydes layered over May rose and jasmine—while delivering modern longevity and silage.
 
@@ -65,7 +65,7 @@ The Chanel Chance or Coco Mademoiselle are excellent alternatives if No. 5's ald
 
 ### 2. Maison Margiela Replica "Flower Market"
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Maison+Margiela+Replica+Flower+Market&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Maison+Margiela+Replica+Flower+Market&tag=nickpicks-20)
 
 **Fresh, luminous, universally likeable.** The Replica line from Maison Margiela captures specific sensory memories—Flower Market evokes wandering through Amsterdam's Bloemenmarkt on a crisp morning. It's accessible luxury that punches above its price point.
 
@@ -84,7 +84,7 @@ This is arguably the best all-occasion luxury fragrance in the $100–150 price 
 
 ### 3. Jo Malone Peony & Blush Suede
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Jo+Malone+Peony+Blush+Suede&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Jo+Malone+Peony+Blush+Suede&tag=nickpicks-20)
 
 **Romantic, feminine, distinctly modern.** Jo Malone has built its empire on clean, ingredient-focused British luxury, and Peony & Blush Suede is one of their most beloved creations. The soft suede base gives classic peony a contemporary, tactile quality.
 
@@ -103,7 +103,7 @@ Jo Malone's signature is restraint—these fragrances never shout. Peony & Blush
 
 ### 4. Guerlain Mon Guerlain Eau de Parfum
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Guerlain+Mon+Guerlain+Eau+de+Parfum&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Guerlain+Mon+Guerlain+Eau+de+Parfum&tag=nickpicks-20)
 
 **Dreamy lavender meets French vanilla.** Guerlain's house has over 180 years of fragrance history, and Mon Guerlain represents their contemporary interpretation: a gourmand-floral that feels comforting rather than sugary.
 
@@ -122,7 +122,7 @@ The longevity here is exceptional for a floral-gourmand: expect 10+ hours on the
 
 ### 5. Dior Miss Dior Blooming Bouquet
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Dior+Miss+Dior+Blooming+Bouquet&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Dior+Miss+Dior+Blooming+Bouquet&tag=nickpicks-20)
 
 **Light, cheerful, endlessly wearable.** Miss Dior Blooming Bouquet is the breeziest, most approachable fragrance in the Miss Dior family—a garden party in a bottle that works from graduation to brunch to a casual Friday at the office.
 

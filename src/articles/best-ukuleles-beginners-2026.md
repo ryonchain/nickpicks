@@ -59,7 +59,7 @@ Ukuleles come in four main sizes. The right choice depends on your body size and
 
 ### 1. Kala KA-15S — Best Overall Beginner Soprano
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Kala+KA-15S+ukulele&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Kala+KA-15S+ukulele&tag=nickpicks-20)
 
 Kala is the most trusted name in beginner ukuleles, and the KA-15S is their entry soprano—the model that's introduced more players to ukulele than any other in the last decade.
 
@@ -80,7 +80,7 @@ Kala is the most trusted name in beginner ukuleles, and the KA-15S is their entr
 
 ### 2. Fender Dhani Harrison Tenor — Best for Guitar Players
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Fender+Dhani+Harrison+Tenor+Ukulele&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Fender+Dhani+Harrison+Tenor+Ukulele&tag=nickpicks-20)
 
 Fender designed the Dhani Harrison signature tenor with guitarists in mind. The wider neck, larger frets, and tenor scale length feel more natural to guitar players than the cramped soprano. The Fender aesthetic is also unmistakable.
 
@@ -101,7 +101,7 @@ Fender designed the Dhani Harrison signature tenor with guitarists in mind. The 
 
 ### 3. Luna Tattoo Concert — Best Design + Playability
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Luna+Tattoo+Concert+Ukulele&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Luna+Tattoo+Concert+Ukulele&tag=nickpicks-20)
 
 Luna has carved a niche in the instrument market through combining excellent playability with distinctive visual art. The Tattoo Concert features genuine Hawaiian laser-etched art on a quality mahogany body—an instrument that looks as good as it sounds.
 
@@ -122,7 +122,7 @@ Luna has carved a niche in the instrument market through combining excellent pla
 
 ### 4. Kala KA-T Mahogany Tenor — Best Sound for Size
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Kala+KA-T+Mahogany+Tenor+ukulele&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Kala+KA-T+Mahogany+Tenor+ukulele&tag=nickpicks-20)
 
 If sound quality is the priority and you want the most resonant, full-bodied ukulele in the beginner range, Kala's KA-T Mahogany Tenor is the answer. Tenor ukuleles produce more sound than smaller sizes—this is Kala's most capable beginner model.
 
@@ -143,7 +143,7 @@ If sound quality is the priority and you want the most resonant, full-bodied uku
 
 ### 5. Oscar Schmidt OU2 Concert — Best Under $60
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Oscar+Schmidt+OU2+concert+ukulele&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Oscar+Schmidt+OU2+concert+ukulele&tag=nickpicks-20)
 
 Oscar Schmidt has been manufacturing string instruments since 1871, and the OU2 is their best value offering—a concert ukulele with real tonewoods that beats instruments twice its price from lesser-known brands.
 

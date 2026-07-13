@@ -50,7 +50,7 @@ Latest technology—a flat panel projector creates high-definition flame visuals
 
 ### 1. Dimplex Revillusion 20" Built-In Electric Fireplace
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Dimplex+Revillusion+Built-In+Electric+Fireplace&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Dimplex+Revillusion+Built-In+Electric+Fireplace&tag=nickpicks-20)
 
 **Why we love it:** Dimplex's Revillusion technology uses actual water vapor lit with LED to create genuine 3D flames. At three feet, it is visually indistinguishable from a natural gas insert flame. No other technology at this price point comes close.
 
@@ -70,7 +70,7 @@ The smaller 20" size works for bedroom niches, office accent walls, and smaller 
 
 ### 2. ClassicFlame 36" Built-In Electric Fireplace Insert
 
-[Buy on Amazon →](https://www.amazon.com/s?k=ClassicFlame+36+Built-In+Electric+Fireplace+Insert&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=ClassicFlame+36+Built-In+Electric+Fireplace+Insert&tag=nickpicks-20)
 
 **Why we love it:** ClassicFlame's 36" insert is designed for wall installation in a custom entertainment center or fireplace mantel cutout. The 3D Effect technology creates convincing depth flame visuals, and the 1,500W heater produces enough warmth to be the primary heat source in rooms up to 400 square feet.
 
@@ -90,7 +90,7 @@ The smart thermostat setting maintains room temperature automatically—set it t
 
 ### 3. PuraFlame 33" Western Electric Fireplace
 
-[Buy on Amazon →](https://www.amazon.com/s?k=PuraFlame+Western+33+Electric+Fireplace&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=PuraFlame+Western+33+Electric+Fireplace&tag=nickpicks-20)
 
 **Why we love it:** PuraFlame's Western is the best plug-and-play electric fireplace for renters and apartment dwellers. It arrives fully assembled, plugs into a standard 120V outlet, and requires no installation. The wood surround mantel design looks like a traditional fireplace insert from across the room.
 
@@ -110,7 +110,7 @@ For renters who can't install a built-in unit, the Western provides the warmth a
 
 ### 4. Touchstone Sideline 50" Recessed Electric Fireplace
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Touchstone+Sideline+50+Electric+Fireplace&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Touchstone+Sideline+50+Electric+Fireplace&tag=nickpicks-20)
 
 **Why we love it:** The Sideline 50" is the best modern linear electric fireplace for media wall installations. It recesses flush into drywall with no protruding hardware, making it ideal for mounting a TV above on a feature wall. The 50" width creates a wide, low flame ribbon that photographs as well in person as in Instagram design accounts.
 
@@ -130,7 +130,7 @@ Installation requires cutting a wall cavity—not a weekend beginner project, bu
 
 ### 5. Napoleon Allure 50" Linear Electric Fireplace
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Napoleon+Allure+50+Electric+Fireplace&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Napoleon+Allure+50+Electric+Fireplace&tag=nickpicks-20)
 
 **Why we love it:** Napoleon is the premium option in electric fireplaces—imported from Canada where the company also makes high-end gas and wood-burning inserts. The Allure 50" features the most refined remote control in the category, app connectivity, and a NIGHT LIGHT mode that provides soft ambient illumination with no flame effect.
 

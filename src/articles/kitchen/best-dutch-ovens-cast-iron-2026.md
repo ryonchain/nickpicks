@@ -34,7 +34,7 @@ Lodge's enameled Dutch oven delivers the core Dutch oven experience — even hea
 
 **Capacity:** 6 quarts handles 4–6 servings comfortably. Large enough for a whole chicken, a 3-4 lb pot roast, or a big batch of chili.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=lodge+6+quart+enameled+dutch+oven&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=lodge+6+quart+enameled+dutch+oven&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Most home cooks — excellent quality at a sensible price
 
@@ -48,7 +48,7 @@ Le Creuset is the Hermès of Dutch ovens. That's not just marketing — the qual
 
 **What you're paying for:** Craftsmanship, enamel quality, color range (dozens of options), and a warranty that actually means something. Not a 3× better cooking outcome on any single dish.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=le+creuset+5.5+quart+dutch+oven&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=le+creuset+5.5+quart+dutch+oven&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Serious home cooks who will use it daily for decades; gift buyers
 
@@ -66,7 +66,7 @@ Staub's cocotte is the other premium option, and in some ways superior to Le Cre
 
 **Performance:** Outstanding. The condensation cycling from the lid spikes keeps meats moist through 3-4 hour braises without any basting.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=staub+5.5+quart+cocotte&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=staub+5.5+quart+cocotte&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Serious home cooks choosing between premium brands — especially good for braised meats
 
@@ -78,7 +78,7 @@ For under $50, you can get a functional enameled Dutch oven that makes acceptabl
 
 **Honest assessment:** This is not a heirloom piece. After 5 years of regular use, expect the enamel to show wear. But for someone testing Dutch oven cooking before committing to Lodge or Le Creuset, it does the job.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=amazon+basics+enameled+dutch+oven&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=amazon+basics+enameled+dutch+oven&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Beginners, renters, those testing the category before upgrading
 
@@ -90,7 +90,7 @@ For bread baking specifically, bare cast iron has advantages over enameled. The 
 
 **Why this works for bread:** Bread baking requires a sealed, high-heat environment. The heavy lid traps steam in the first 20 minutes (critical for crust development), then venting allows color to develop. The raw cast iron contributes nothing that would harm the bread.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=lodge+cast+iron+dutch+oven+7+quart&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=lodge+cast+iron+dutch+oven+7+quart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** No-knead bread bakers who want maximum oven performance
 

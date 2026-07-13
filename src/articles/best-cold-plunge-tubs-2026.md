@@ -59,7 +59,7 @@ Cold water alone doesn't sanitize. All systems require:
 
 ### 1. Renu Therapy Cold Rush — Best Overall
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Renu+Therapy+Cold+Rush+Cold+Plunge&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Renu+Therapy+Cold+Rush+Cold+Plunge&tag=nickpicks-20)
 
 **Why we love it:** The Cold Rush is the most capable mid-range chiller system on the market. It cools to 39°F (vs. competitors that bottom out at 50°F), includes a built-in ozone filtration system (water stays sanitary for 2+ weeks), and operates whisper-quietly (47 dB). The stainless steel interior is antimicrobial and easy to clean.
 
@@ -80,7 +80,7 @@ The Cold Rush achieves temperatures that trigger the cold shock protein response
 
 ### 2. Ice Barrel 400 — Best for Outdoor / Patio Use
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Ice+Barrel+400+Cold+Plunge&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Ice+Barrel+400+Cold+Plunge&tag=nickpicks-20)
 
 **Why we love it:** The Ice Barrel 400 is a vertical plunge barrel designed specifically for outdoor use. The upright position requires less space than horizontal tubs and delivers full body immersion in significantly less water volume. The UV-stabilized HDPE barrel is rated for outdoor use year-round; the insulated lid maintains temperature for 48–72 hours without a chiller.
 
@@ -101,7 +101,7 @@ The upright position is the Ice Barrel's key advantage: you sit with water to sh
 
 ### 3. Plunge All-In — Best Premium All-In-One System
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Plunge+All-In+Cold+Plunge+Tub&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Plunge+All-In+Cold+Plunge+Tub&tag=nickpicks-20)
 
 **Why we love it:** The Plunge All-In is the category leader for all-inclusive home cold therapy. It includes a powerful chiller/heater (yes—it also heats to 103°F for hot therapy), UV + ozone filtration, a Bluetooth-connected app for temperature scheduling, and a high-end fiberglass interior. The dual hot/cold capability makes it a full hydrotherapy system.
 
@@ -122,7 +122,7 @@ The All-In's combination of cold plunge and hot therapy in one unit is the categ
 
 ### 4. Edge Theory Evolve — Best for Indoor / Apartment Use
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Edge+Theory+Evolve+Cold+Plunge&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Edge+Theory+Evolve+Cold+Plunge&tag=nickpicks-20)
 
 **Why we love it:** Edge Theory Labs built the Evolve for indoor placement—it fits through standard 30" doorways, doesn't require 220V, and includes a compact self-contained chiller that operates on a standard 110V outlet. The insulated shell prevents condensation on exterior surfaces, making it safe for hardwood and tile floors without mats.
 
@@ -142,7 +142,7 @@ For apartment dwellers or those without outdoor space, the Evolve solves the pla
 
 ### 5. Polar Monkeys Portable Ice Bath Tub — Best Budget Option
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Polar+Monkeys+Portable+Ice+Bath+Tub&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Polar+Monkeys+Portable+Ice+Bath+Tub&tag=nickpicks-20)
 
 **Why we love it:** The Polar Monkeys tub is the best entry point for testing cold water immersion before committing to a chiller system. The reinforced TPU barrel holds water to shoulder level, sets up in minutes, and collapses for storage. No electricity, no filtration—just fill, add ice, and plunge.
 

@@ -55,7 +55,7 @@ Spring hinges ($15 addition to manufacturing cost) extend the life of a frame si
 
 ### 1. Ray-Ban Aviator RB3025 Classic
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Ray-Ban+Aviator+RB3025+Sunglasses&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Ray-Ban+Aviator+RB3025+Sunglasses&tag=nickpicks-20)
 
 **Why we love it:** The Ray-Ban Aviator was designed in 1937 for US Army Air Corps pilots and has remained essentially unchanged because the design is functionally perfect. The teardrop lens shape covers the full visual field for flying (and driving); the thin metal frame is lightweight for all-day wear; the double bridge adds structural stability without visual heaviness. No sunglasses design is more universally flattering across face shapes.
 
@@ -75,7 +75,7 @@ The G-15 lens glass is the specific quality marker: Ray-Ban's classic Aviator us
 
 ### 2. Maui Jim Peahi Polarized
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Maui+Jim+Peahi+Polarized+Sunglasses&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Maui+Jim+Peahi+Polarized+Sunglasses&tag=nickpicks-20)
 
 **Why we love it:** Maui Jim is the best polarized lens brand in the world — and the Peahi is the brand's performance flagship. The PolarizedPlus2 technology doesn't just eliminate glare; it enhances color vibrance by blocking specific wavelengths that wash out color in bright conditions. Looking at ocean water through Maui Jim Peahi lenses reveals visible color depth invisible to the naked eye or through standard polarized lenses.
 
@@ -95,7 +95,7 @@ The optical difference is measurable: independent testing confirms Maui Jim's le
 
 ### 3. Oliver Peoples Cary Grant
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Oliver+Peoples+Cary+Grant+Sunglasses+OV5413SU&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Oliver+Peoples+Cary+Grant+Sunglasses+OV5413SU&tag=nickpicks-20)
 
 **Why we love it:** Oliver Peoples is an LA-based brand with Italian manufacturing — their frames use Mazzucchelli acetate (the highest-grade Italian acetate in eyewear) and are assembled in facilities that supply the most expensive eyewear in the world. The Cary Grant style reproduces a keyhole bridge and rounded lens shape rooted in 1960s Hollywood — a genuinely vintage silhouette executed in 2026 premium materials.
 
@@ -115,7 +115,7 @@ The Mazzucchelli acetate is the material story: it has a depth and three-dimensi
 
 ### 4. Persol PO3019S
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Persol+PO3019S+Sunglasses&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Persol+PO3019S+Sunglasses&tag=nickpicks-20)
 
 **Why we love it:** Persol is a Turin-based Italian brand founded in 1917 with a distinctive design heritage: their signature Supreme Arrow hinge (patented) allows the temples to flex in two directions without a spring mechanism, and the Meflecto system uses a flexible mineral acetate temple that curves to the head without a rigid fit. Steve McQueen wore Persol 714s in The Thomas Crown Affair; the design DNA is unchanged.
 
@@ -135,7 +135,7 @@ The Supreme Arrow hinge is what makes Persol technically distinctive: it provide
 
 ### 5. Warby Parker Haskell
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Warby+Parker+Haskell+Sunglasses&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Warby+Parker+Haskell+Sunglasses&tag=nickpicks-20)
 
 **Why we love it:** Warby Parker disrupted the eyewear market by eliminating the Luxottica middleman and manufacturing direct-to-consumer. The Haskell is a large, bold rectangular frame in Warby's proprietary acetate — a genuine Italian acetate at a fraction of the price competitors charge. Polarized lenses are available at a modest upcharge, bringing the total well under what comparable Luxottica-owned brand frames cost.
 

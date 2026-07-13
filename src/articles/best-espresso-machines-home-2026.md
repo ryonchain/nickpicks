@@ -60,7 +60,7 @@ Home espresso has never been more accessible—or more confusing. The category s
 
 ### 1. Breville Barista Express Impress — Best Overall
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Breville+Barista+Express+Impress+Espresso+Machine&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Breville+Barista+Express+Impress+Espresso+Machine&tag=nickpicks-20)
 
 **Why we love it:** The Barista Express Impress bundles Breville's best conical burr grinder directly into the machine—eliminating the separate grinder purchase that makes espresso setups expensive. The "Impress Puck System" uses a built-in tamping platform so you get consistent 30-lb tamp pressure every shot without technique. Dual boiler delivers independent brew (200°F) and steam temperatures.
 
@@ -83,7 +83,7 @@ The steam wand produces genuine microfoam—small bubbles, silky texture—which
 
 ### 2. De'Longhi La Specialista Arte — Best Semi-Auto for Beginners
 
-[Buy on Amazon →](https://www.amazon.com/s?k=DeLonghi+La+Specialista+Arte+Espresso+Machine&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=DeLonghi+La+Specialista+Arte+Espresso+Machine&tag=nickpicks-20)
 
 **Why we love it:** De'Longhi's La Specialista Arte is designed specifically for the espresso beginner who wants to develop genuine skill. The integrated conical burr grinder has 8 settings; the portafilter includes a "My Latte Art" sensor that detects when steaming is complete and alerts you to perfect consistency. The Smart Tamping Station handles pressure consistency automatically.
 
@@ -103,7 +103,7 @@ The Arte differs from the Breville system in one key way: the sensor-guided stea
 
 ### 3. Gaggia Classic Pro — Best for Learning Espresso Craft
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Gaggia+Classic+Pro+Espresso+Machine&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Gaggia+Classic+Pro+Espresso+Machine&tag=nickpicks-20)
 
 **Why we love it:** The Gaggia Classic Pro is the benchmark entry-level machine for serious espresso development. It requires a separate grinder (the Baratza Encore or Breville Smart Grinder Pro pair well), manual tamping, and genuine temperature surfing skill—but it teaches you everything about how espresso works. The 58mm portafilter accepts commercial baskets; the steam wand produces genuine commercial-quality microfoam.
 
@@ -123,7 +123,7 @@ The Gaggia's 58mm commercial portafilter is the detail that separates it from si
 
 ### 4. De'Longhi Magnifica Evo — Best Super-Automatic
 
-[Buy on Amazon →](https://www.amazon.com/s?k=DeLonghi+Magnifica+Evo+Super+Automatic+Espresso&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=DeLonghi+Magnifica+Evo+Super+Automatic+Espresso&tag=nickpicks-20)
 
 **Why we love it:** The Magnifica Evo is the most complete bean-to-cup super-automatic in its price range. Grind whole beans, press one button, receive a double espresso, cappuccino, or flat white. The LatteCrema system produces genuinely excellent milk foam—comparable to many manual machines—for automatic lattes and cappuccinos. The bean-to-cup cycle takes under 30 seconds.
 
@@ -143,7 +143,7 @@ For households where multiple people want different drinks without learning tech
 
 ### 5. Nespresso Vertuo Next — Best Convenience Machine
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Nespresso+Vertuo+Next+Espresso+Machine&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Nespresso+Vertuo+Next+Espresso+Machine&tag=nickpicks-20)
 
 **Why we love it:** The Nespresso Vertuo Next uses centrifusion technology—spinning the capsule at 7,000 RPM to extract pressure from the centrifugal force rather than a traditional pump. This produces a dense, crema-covered shot from a capsule with zero technique required. The machine heats up in 30 seconds; a shot completes in 25 seconds.
 

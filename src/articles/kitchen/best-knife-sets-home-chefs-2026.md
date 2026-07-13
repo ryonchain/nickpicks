@@ -34,7 +34,7 @@ Victorinox makes the Swiss Army knife and the knives used in professional kitche
 
 **Performance:** The 8" chef's knife is one of the best values in kitchenware. It's used in the Culinary Institute of America curriculum. The edge retention between sharpenings is excellent for the price.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=victorinox+fibrox+pro+set&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=victorinox+fibrox+pro+set&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Home cooks, culinary students, anyone who wants professional performance without professional prices
 
@@ -50,7 +50,7 @@ Wüsthof has made knives in Solingen, Germany since 1814. The Classic line is th
 
 **Honest take:** At $300–$400, this is a real investment. But compared to buying Wüsthof pieces individually (an 8" Classic chef's knife alone is $150+), the set price is fair. Buy once, use for 30 years.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=wusthof+classic+7+piece+block&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=wusthof+classic+7+piece+block&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Serious home cooks ready to invest in lifetime quality
 
@@ -66,7 +66,7 @@ Global's G-series knives have a distinctive all-steel construction with dimpled 
 
 **Performance:** The Global 8" chef's knife out-slices most Western knives for precision tasks. The edge holds longer between honing. But it requires a softer whetstone appropriate for Japanese steel and cannot be used on a regular honing steel.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=global+g-4+knife+set&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=global+g-4+knife+set&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Home cooks who do lots of vegetable prep and want precision cutting; people who enjoy maintaining knives
 
@@ -82,7 +82,7 @@ The Amazon Basics set isn't trying to be a professional knife — it's trying to
 
 **The right context:** For a first apartment, a rental property outfitting, or a starter kit before you know what you want — this delivers the basics.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=amazon+basics+14+piece+knife+block&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=amazon+basics+14+piece+knife+block&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** First-time buyers, budget kitchens, rental properties
 
@@ -94,7 +94,7 @@ If you're buying a single knife, buy this one. The Victorinox Fibrox chef's knif
 
 A single great chef's knife does more work than an entire block set of mediocre ones. Master one knife before buying more.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=victorinox+fibrox+pro+8+chef+knife&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=victorinox+fibrox+pro+8+chef+knife&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Anyone who wants one exceptional knife before building out their collection
 
@@ -104,7 +104,7 @@ A single great chef's knife does more work than an entire block set of mediocre 
 
 Steak knives are frequently bought badly. People spend $300 on a chef's knife set and then buy $15 steak knives that can't cut steak. The Victorinox Swiss Classic steak knives solve this with quality Swiss steel at a reasonable price — serrated edges that cut cleanly without a sawing motion.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=victorinox+swiss+classic+steak+knives+6+pack&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=victorinox+swiss+classic+steak+knives+6+pack&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Anyone upgrading their table knives
 
@@ -138,7 +138,7 @@ Knives need maintenance. The sharpening steel that comes with most sets is for h
 - **Electric sharpener ($50–$150):** Consistent, fast, higher quality than pull-through. Work Sharp and Chef'sChoice make excellent models.
 - **Professional sharpening ($5–$15/knife):** Take your knives to a local sharpener once a year. Between visits, maintain with a honing steel.
 
-[See knife sharpeners on Amazon →](https://www.amazon.com/s?k=knife+sharpener+whetstone&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[See knife sharpeners on Amazon →](https://www.amazon.com/s?k=knife+sharpener+whetstone&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Knife Care Basics
 

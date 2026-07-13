@@ -50,7 +50,7 @@ Gift sets typically bundle an EDT or EDP with matching aftershave, deodorant, or
 
 ### 1. Versace Eros 3-Piece Gift Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Versace+Eros+Gift+Set+Men&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Versace+Eros+Gift+Set+Men&tag=nickpicks-20)
 
 **Why we love it:** Eros is one of the most-discussed flankers in men's fragrance—the fresh mint, green apple, and vanilla base layer has broad appeal from casual to formal. The 3-piece set bundles the 3.4 oz EDT with matching aftershave balm and shower gel for complete layering.
 
@@ -69,7 +69,7 @@ Eros performs above its price class. The fresh-spicy opening transitions through
 
 ### 2. Paco Rabanne 1 Million Gift Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Paco+Rabanne+1+Million+Gift+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Paco+Rabanne+1+Million+Gift+Set&tag=nickpicks-20)
 
 **Why we love it:** 1 Million has been a top-five bestselling men's fragrance globally for over a decade. The gold bar bottle alone is a statement piece, and the spicy-sweet cinnamon-leather core is universally flattering. The gift set adds a matching shower gel and deodorant stick.
 
@@ -88,7 +88,7 @@ Eros performs above its price class. The fresh-spicy opening transitions through
 
 ### 3. Dior Sauvage Duo Gift Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Dior+Sauvage+Gift+Set+Men&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Dior+Sauvage+Gift+Set+Men&tag=nickpicks-20)
 
 **Why we love it:** Sauvage is the best-selling men's fragrance in the world. The Dior duo set pairs the iconic 3.4 oz EDT with a full-size deodorant spray—both in signature Dior packaging that makes unboxing feel genuinely premium.
 
@@ -109,7 +109,7 @@ The EDT version has noticeably better performance than many EDP formulas from ot
 
 ### 4. Jo Malone Men's Cologne Discovery Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Jo+Malone+Cologne+Discovery+Set+Men&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Jo+Malone+Cologne+Discovery+Set+Men&tag=nickpicks-20)
 
 **Why we love it:** Jo Malone's discovery sets are the intelligent way to shop for luxury fragrance. This curated men's set includes six 9ml travel spray vials representing different fragrance families—from the iconic Wood Sage & Sea Salt to the rich Oud & Bergamot. Each vial equates to roughly 30–40 wears.
 
@@ -130,7 +130,7 @@ The layering concept—applying two Jo Malone colognes simultaneously—produces
 
 ### 5. Creed Aventus Sample Coffret
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Creed+Aventus+Sample+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Creed+Aventus+Sample+Set&tag=nickpicks-20)
 
 **Why we love it:** Creed Aventus is the most discussed masculine fragrance of the last two decades. The Coffret includes a full-size 100ml flacon of Aventus—arguably the most copied and imitated fragrance in history—along with sample vials of related Creed offerings.
 

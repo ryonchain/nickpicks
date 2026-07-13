@@ -58,7 +58,7 @@ For most home offices printing under 100 pages/month, inkjet total cost of owner
 
 ### 1. Brother MFC-J4335DW — Best Overall Home Office Printer
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Brother+MFC-J4335DW&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Brother+MFC-J4335DW&tag=nickpicks-20)
 
 Brother has quietly become the reliability benchmark in home office printing, and the MFC-J4335DW represents their current peak: an all-in-one (print/scan/copy/fax) with genuine business-grade wireless reliability at a consumer price.
 
@@ -79,7 +79,7 @@ Brother has quietly become the reliability benchmark in home office printing, an
 
 ### 2. HP LaserJet Pro 3001dw — Best Monochrome Laser
 
-[Buy on Amazon →](https://www.amazon.com/s?k=HP+LaserJet+Pro+3001dw&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=HP+LaserJet+Pro+3001dw&tag=nickpicks-20)
 
 If you print documents more than anything else and want the fastest, cheapest-per-page option available, the HP LaserJet Pro 3001dw is the current standard. It's a pure monochrome laser—no color, no scanning—and that focus makes it excellent at what it does.
 
@@ -100,7 +100,7 @@ If you print documents more than anything else and want the fastest, cheapest-pe
 
 ### 3. Canon PIXMA TR8620a — Best for Photo + Document Printing
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Canon+PIXMA+TR8620a&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Canon+PIXMA+TR8620a&tag=nickpicks-20)
 
 Canon's PIXMA line has long been the answer when photo quality matters. The TR8620a is their current all-in-one recommendation for home offices that need to print both professional documents and high-quality photos from the same machine.
 
@@ -119,7 +119,7 @@ Canon's PIXMA line has long been the answer when photo quality matters. The TR86
 
 ### 4. Epson EcoTank ET-4850 — Best Low Cost-Per-Page
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Epson+EcoTank+ET-4850&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Epson+EcoTank+ET-4850&tag=nickpicks-20)
 
 If you print a lot and are tired of expensive cartridges, the Epson EcoTank ET-4850 is the answer. Instead of cartridges, you pour ink directly into large tanks—the included ink alone is equivalent to about 90 cartridges. Once filled, cost per page drops to $0.01–0.02.
 
@@ -140,7 +140,7 @@ If you print a lot and are tired of expensive cartridges, the Epson EcoTank ET-4
 
 ### 5. Brother HL-L2460DW — Best Budget Laser
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Brother+HL-L2460DW&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Brother+HL-L2460DW&tag=nickpicks-20)
 
 When budget is the primary constraint and you primarily need reliable text document printing, the Brother HL-L2460DW delivers laser quality at a beginner price. It's print-only (no scan/copy), which keeps the price low and the mechanism simple.
 

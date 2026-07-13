@@ -50,7 +50,7 @@ Not all oils clog pores equally. Key guidance:
 
 ### 1. Biossance 100% Squalane Oil
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Biossance+100%25+Squalane+Oil&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Biossance+100%25+Squalane+Oil&tag=nickpicks-20)
 
 **Why we love it:** Squalane is the single most universally compatible face oil. It's a saturated, stable derivative of squalene — a lipid that human skin naturally produces (and produces less of with age). Biossance uses sugarcane-derived squalane (not shark liver, the older source), which is molecularly identical to skin-produced squalane. Comedogenic rating: 0. Compatible with every skin type, including acne-prone and rosacea.
 
@@ -69,7 +69,7 @@ Biossance's squalane is cosmetically elegant — it applies like silk, absorbs w
 
 ### 2. Sunday Riley Luna Sleeping Night Oil
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Sunday+Riley+Luna+Sleeping+Night+Oil&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Sunday+Riley+Luna+Sleeping+Night+Oil&tag=nickpicks-20)
 
 **Why we love it:** Luna is a blue retinoid treatment oil — blue Tansy essential oil gives the distinctive color while tranexamic acid and 0.5% retinol derivatives provide anti-aging activity. Sunday Riley designed Luna specifically as an overnight oil treatment: the thicker texture and higher oil concentration lock in actives during the 7–8 hours of skin repair that happen during sleep.
 
@@ -88,7 +88,7 @@ Luna delivers visible skin texture improvement in 4–6 weeks that a standard re
 
 ### 3. The Ordinary Rosehip Seed Oil
 
-[Buy on Amazon →](https://www.amazon.com/s?k=The+Ordinary+100%25+Organic+Rosehip+Seed+Oil&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=The+Ordinary+100%25+Organic+Rosehip+Seed+Oil&tag=nickpicks-20)
 
 **Why we love it:** Rosehip seed oil is one of the few plant oils with clinically demonstrated brightening and scar-fading activity. It contains naturally occurring retinoic acid precursors (tretinoin-like molecules at low concentrations) and high concentrations of vitamin A and C in oil-soluble forms. The Ordinary's 100% organic cold-pressed version costs a fraction of boutique rosehip oils — same botanical, same activity.
 
@@ -107,7 +107,7 @@ The Ordinary's supply chain transparency makes this purchase trustworthy: they p
 
 ### 4. Josie Maran 100% Pure Argan Oil
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Josie+Maran+100%25+Pure+Argan+Oil&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Josie+Maran+100%25+Pure+Argan+Oil&tag=nickpicks-20)
 
 **Why we love it:** Josie Maran pioneered argan oil in mass beauty and maintains the most rigorous sourcing standards in the category. Their argan is cold-pressed from organically grown Moroccan argan trees by women's cooperatives, tested for purity (no filler oils), and packaged in amber glass to prevent oxidation. Argan oil is exceptional for dry and mature skin: the oleic/linoleic acid balance matches aged skin's natural lipid composition.
 
@@ -126,7 +126,7 @@ Josie Maran argan oil provides the most immediate visible luminosity improvement
 
 ### 5. Tatcha Camellia Beauty Oil
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tatcha+Camellia+Beauty+Oil+Face&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tatcha+Camellia+Beauty+Oil+Face&tag=nickpicks-20)
 
 **Why we love it:** Tatcha's Camellia Beauty Oil is built around Japanese camellia (tsubaki) oil — the traditional Japanese beauty oil used by geishas for centuries. Camellia oil has an unusually high oleic acid content (~86%) and a molecular structure close to human sebum, which means exceptional absorption speed and compatibility with all skin types. Tatcha layers camellia with rice bran, rosehip, and evening primrose oils for a blended formula targeting luminosity across multiple mechanisms.
 

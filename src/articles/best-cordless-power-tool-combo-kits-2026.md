@@ -50,7 +50,7 @@ This is the most important decision you'll make in power tools. Batteries repres
 
 ### 1. DEWALT DCK240C2 20V MAX Drill & Driver Combo
 
-[Buy on Amazon →](https://www.amazon.com/s?k=DEWALT+DCK240C2+combo+kit&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=DEWALT+DCK240C2+combo+kit&tag=nickpicks-20)
 
 **Why we love it:** The DCK240C2 is the ideal starter kit for homeowners. It includes a 20V MAX drill/driver and impact driver—the two tools that handle 90% of everyday home repair and improvement tasks. Two 1.5Ah batteries and a charger are included.
 
@@ -70,7 +70,7 @@ Both tools are compact enough to fit in tight spaces (under cabinets, inside wal
 
 ### 2. Milwaukee M18 FUEL 3-Tool Combo Kit
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Milwaukee+M18+FUEL+3+Tool+Combo+Kit&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Milwaukee+M18+FUEL+3+Tool+Combo+Kit&tag=nickpicks-20)
 
 **Why we love it:** Milwaukee's FUEL designation marks their brushless motor line—more power, longer runtime, longer tool life than brushed alternatives. The 3-tool FUEL combo bundles the M18 FUEL Drill, M18 FUEL Impact Driver, and M18 FUEL Circular Saw with two 5.0Ah REDLITHIUM batteries.
 
@@ -89,7 +89,7 @@ The circular saw handles full 2×6 crosscuts and rips efficiently at 5,400 RPM. 
 
 ### 3. RIDGID 18V 5-Tool Combo Kit
 
-[Buy on Amazon →](https://www.amazon.com/s?k=RIDGID+18V+5+Tool+Combo+Kit&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=RIDGID+18V+5+Tool+Combo+Kit&tag=nickpicks-20)
 
 **Why we love it:** Ridgid's 5-tool kit includes a drill, circular saw, reciprocating saw, oscillating tool, and LED work light—covering demolition, cutting, drilling, and detail work in one purchase. The Lifetime Service Agreement (LSA) on batteries is unprecedented in the category: Ridgid replaces worn batteries free of charge, forever.
 
@@ -108,7 +108,7 @@ The tools themselves perform at mid-tier professional level—not Milwaukee FUEL
 
 ### 4. DEWALT DCK694P2 20V MAX 6-Tool Combo Kit
 
-[Buy on Amazon →](https://www.amazon.com/s?k=DEWALT+DCK694P2+6+Tool+Combo+Kit&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=DEWALT+DCK694P2+6+Tool+Combo+Kit&tag=nickpicks-20)
 
 **Why we love it:** This is the most comprehensive beginner-to-intermediate kit available. Six tools—drill, impact driver, circular saw, reciprocating saw, oscillating tool, and work light—cover every common residential renovation scenario. Two 5.0Ah batteries provide all-day runtime without worry.
 
@@ -127,7 +127,7 @@ For a serious DIY homeowner undertaking a bathroom renovation, deck build, or fi
 
 ### 5. Makita XT505 18V LXT 5-Tool Combo Kit
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Makita+XT505+5+Tool+Combo+Kit&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Makita+XT505+5+Tool+Combo+Kit&tag=nickpicks-20)
 
 **Why we love it:** Makita's XT505 is optimized for finish and trim work where precision matters more than brute force. The set includes the 18V LXT drill, impact driver, circular saw, reciprocating saw, and flashlight—but the real differentiation is Makita's brushless motor precision and the company's 40-year reputation for quality control that rivals Japanese manufacturing standards.
 

@@ -36,7 +36,7 @@ Anova is the brand that made home sous vide mainstream. The Precision Cooker Pro
 
 **What to consider:** If you're cooking for 2–3 people in a 6–8 quart pot, the standard Anova Precision Cooker at lower wattage reaches temperature just as well. The Pro's advantages matter more for large vessels and big batch cooks.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=anova+precision+cooker+pro&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=anova+precision+cooker+pro&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Power users, large batch cooks, anyone who wants the best Anova
 
@@ -56,7 +56,7 @@ The Joule Turbo is the smallest and most powerful sous vide circulator in its cl
 
 **App quality:** The Breville app is excellent — guided recipes, remote monitoring, notifications when food reaches temperature. The visual doneness guides (showing beef from rare to well-done) are genuinely helpful for beginners.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=breville+joule+turbo+sous+vide&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=breville+joule+turbo+sous+vide&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Space-constrained kitchens, app-first users, anyone who wants the smallest capable device
 
@@ -70,7 +70,7 @@ The Nano brings Anova quality to a lower price point. It's 750W (vs 1000-1200W f
 
 **What you keep:** The same 0.1°F accuracy. The same Anova app. The same sous vide results.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=anova+precision+cooker+nano&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=anova+precision+cooker+nano&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** First-time sous vide buyers, small households, anyone wanting to try sous vide inexpensively
 
@@ -84,7 +84,7 @@ If you want to spend even less, the Inkbird delivers core sous vide performance 
 
 **Risk:** Budget circulators have shorter product lifespans and less robust customer support than Anova or Breville. But at this price, the math still works even if it lasts 3–4 years.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=inkbird+wifi+sous+vide&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=inkbird+wifi+sous+vide&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Skeptics who want to try sous vide before committing to a premium model
 
@@ -96,15 +96,15 @@ The circulator is just one part of the setup:
 
 **Container:** A dedicated container (not a pot) makes large cooks easier. Lipavi and Camwear make food-safe polycarbonate containers with lids that work well.
 
-[See sous vide containers →](https://www.amazon.com/s?k=sous+vide+container+12+quart&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[See sous vide containers →](https://www.amazon.com/s?k=sous+vide+container+12+quart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Vacuum sealer:** While zip-lock bags work for most applications, a vacuum sealer removes more air and keeps bags fully submerged. The Anova Precision Vacuum Sealer Pro is designed to work with the app for guided cooks.
 
-[See vacuum sealers →](https://www.amazon.com/s?k=vacuum+sealer+food&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[See vacuum sealers →](https://www.amazon.com/s?k=vacuum+sealer+food&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Finishing cast iron or torch:** After sous vide, food needs a sear. A cast iron skillet (preheated as hot as possible) or a culinary butane torch for quick browning creates the crust that completes the dish.
 
-[See culinary torches →](https://www.amazon.com/s?k=culinary+torch+searing&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[See culinary torches →](https://www.amazon.com/s?k=culinary+torch+searing&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Temperature and Time Guide
 

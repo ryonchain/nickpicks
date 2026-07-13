@@ -54,7 +54,7 @@ Dress watches use **polished finishing only** or **mixed polish/satin**. The alt
 
 ### 1. Seiko Presage Cocktail Time (SPB Series)
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Seiko+Presage+Cocktail+Time+Dress+Watch&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Seiko+Presage+Cocktail+Time+Dress+Watch&tag=nickpicks-20)
 
 **Why we love it:** The Seiko Presage Cocktail Time is the best value automatic dress watch in the world at its price. The Cocktail Time collection features dials inspired by classic cocktails — urushi lacquer, mother-of-pearl, and enamel-inspired sunray dials that are produced using techniques more commonly found on watches costing $2,000+. The 4R35 automatic movement is accurate, reliable, and hand-windable.
 
@@ -74,7 +74,7 @@ The Cocktail Time dial quality is the standout: the sunray-textured dials in blu
 
 ### 2. Tissot Le Locle Automatic
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tissot+Le+Locle+Automatic+Dress+Watch&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tissot+Le+Locle+Automatic+Dress+Watch&tag=nickpicks-20)
 
 **Why we love it:** Tissot Le Locle is named for the Swiss watchmaking town where Tissot has manufactured since 1853. The Le Locle Automatic houses an ETA 2824-2 movement — the same workhorse Swiss caliber used in watches sold at 5–10× the price. The exhibition caseback showing the movement, the applied Roman numeral indices, and the 39.3mm case size hit every note the dress watch category demands.
 
@@ -94,7 +94,7 @@ The ETA 2824-2 is one of the most serviced movements in the world — any watchm
 
 ### 3. Frederique Constant Slimline Moonphase
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Frederique+Constant+Slimline+Dress+Watch&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Frederique+Constant+Slimline+Dress+Watch&tag=nickpicks-20)
 
 **Why we love it:** Frederique Constant is a Geneva-based manufacture that punches above its price in terms of design refinement. The Slimline collection achieves a genuinely slim profile (7.2mm case depth) that clears suit cuffs without resistance. The case finishing uses proper Swiss techniques: alternating brushed and polished surfaces on the lugs, a highly polished bezel, and dial printing at a standard typical of watches at twice the price.
 
@@ -114,7 +114,7 @@ Frederique Constant's slim case depth is the specific technical achievement here
 
 ### 4. Hamilton Jazzmaster Viewmatic
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Hamilton+Jazzmaster+Viewmatic+Dress+Watch&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Hamilton+Jazzmaster+Viewmatic+Dress+Watch&tag=nickpicks-20)
 
 **Why we love it:** Hamilton is an American brand manufactured in Switzerland (the brand was acquired by Swatch Group, which owns ETA). The Jazzmaster Viewmatic has an exhibition caseback, a classic sunray dial in silver or black, and a case size (40mm) that reads as contemporary without being oversized. The ETA 2824-2 movement inside is the same reliable caliber as the Tissot Le Locle — two very different aesthetics, same mechanical foundation.
 
@@ -134,7 +134,7 @@ Hamilton's American history is genuinely interesting — the brand made watches 
 
 ### 5. Longines Elegant Collection
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Longines+Elegant+Collection+Watch+Men&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Longines+Elegant+Collection+Watch+Men&tag=nickpicks-20)
 
 **Why we love it:** Longines is a genuine Swiss luxury brand — founded in Saint-Imier in 1832, one of the oldest watch brands in continuous production. The Elegant Collection uses a Longines L595 caliber (a Swiss automatic movement) in a 26mm/29mm case designed specifically for slim profile wear. The price creeps toward $500 but buys something no other pick on this list can match: a genuine Swiss luxury brand that appreciates in brand recognition.
 

@@ -34,7 +34,7 @@ The Duo remains the benchmark. It's the unit that made electric pressure cooking
 
 **What to watch:** The sealing ring absorbs odors — keep a separate ring for sweet vs. savory cooking if you make yogurt and pulled pork in the same week.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+6+quart&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+6+quart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Families, meal preppers, anyone new to pressure cooking
 
@@ -52,7 +52,7 @@ The Pro adds steam-release valve improvements, a more comfortable handle, and a 
 
 **Performance:** Same speed as the Duo but with finer control. The high/medium/low sauté temps let you properly brown meat before pressure cooking — a step many beginners skip that makes a huge flavor difference.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+pro+6+quart&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+pro+6+quart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Regular cooks who use the appliance 3+ times per week
 
@@ -64,7 +64,7 @@ Same Duo quality, half the footprint. Ideal for singles, couples, dorm rooms, or
 
 **Trade-off:** The smaller volume means no large batch cooking. A whole chicken doesn't fit. But soups, risottos, grains, and 2-person meals are handled perfectly.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+mini+3+quart&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+mini+3+quart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Singles, couples, small apartments
 
@@ -76,7 +76,7 @@ Feed 6–10 people in one go. The 8-quart is the right choice for large families
 
 **Key consideration:** The 8-quart takes longer to come to pressure (15–18 minutes) because of the larger volume. Plan accordingly when timing meals.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+8+quart&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+duo+8+quart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Families of 6+, meal preppers who batch cook for the week
 
@@ -90,7 +90,7 @@ The Foodi does something no standard Instant Pot can: air fry. The crisping lid 
 
 **Trade-off:** It's larger, heavier, and more expensive. Two lids to store. But if you already own (or want) an air fryer, the combo eliminates one appliance.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=ninja+foodi+pressure+cooker+air+fryer&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=ninja+foodi+pressure+cooker+air+fryer&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** People who want pressure cooking + air frying in one unit
 
@@ -100,7 +100,7 @@ The Foodi does something no standard Instant Pot can: air fry. The crisping lid 
 
 The Lux drops the yogurt maker function and a few smart programs but delivers the core pressure cooker experience for significantly less money. If you just want to cook beans fast, make soups, and pressure cook chicken — the Lux does all of it.
 
-[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+lux+6+quart&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[Check price on Amazon →](https://www.amazon.com/s?k=instant+pot+lux+6+quart&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 **Best for:** Budget buyers, first-time pressure cooker users
 
@@ -127,7 +127,7 @@ A few accessories dramatically expand what you can do:
 - **Extra sealing rings** — one for savory, one for sweet/dairy
 - **Tempered glass lid** — for slow cooking mode (the pressure lid isn't designed for this)
 
-[See Instant Pot accessories on Amazon →](https://www.amazon.com/s?k=instant+pot+accessories&tag=YOURTAG-20){rel="nofollow sponsored" target="_blank"}
+[See Instant Pot accessories on Amazon →](https://www.amazon.com/s?k=instant+pot+accessories&tag=nickpicks-20){rel="nofollow sponsored" target="_blank"}
 
 ## Common Beginner Mistakes
 

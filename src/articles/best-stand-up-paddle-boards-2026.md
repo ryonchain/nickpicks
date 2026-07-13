@@ -67,7 +67,7 @@ Dual-layer fusion construction (vs. glued double-layer) is now standard on quali
 
 ### 1. iROCKER ULTRA Inflatable — Best Inflatable Overall
 
-[Buy on Amazon →](https://www.amazon.com/s?k=iROCKER+ULTRA+Inflatable+Paddle+Board&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=iROCKER+ULTRA+Inflatable+Paddle+Board&tag=nickpicks-20)
 
 **Why we love it:** The iROCKER ULTRA is built with the most advanced inflatable construction available in the consumer market: carbon-reinforced rails and a woven fusion drop-stitch core that achieves 2.3mm total deflection under a 180 lb paddler at 18 PSI—comparable to entry-level hard boards. At 17.2 lbs (10'6" version), it's significantly lighter than competing inflatables at similar stiffness.
 
@@ -90,7 +90,7 @@ In side-by-side testing against the Red Paddle Co Ride and standard 6" inflatabl
 
 ### 2. Tower Adventurer 2 — Best Budget Inflatable
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tower+Adventurer+2+Inflatable+Paddle+Board&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tower+Adventurer+2+Inflatable+Paddle+Board&tag=nickpicks-20)
 
 **Why we love it:** Tower Paddleboards popularized high-quality inflatables in the US market and remains the best value option. The Adventurer 2 (10'4") uses dual-layer PVC construction over a drop-stitch core—not the fusion construction of the iROCKER, but substantially more rigid than single-layer budget boards. At under $600 with paddle, pump, and bag included, it's the most complete package at a genuine entry price.
 
@@ -112,7 +112,7 @@ At 18 PSI, the Adventurer 2 deflects 8–10mm under a 180 lb paddler—more than
 
 ### 3. Starboard Astro Touring — Best for Distance Paddling
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Starboard+Astro+Touring+Inflatable+SUP&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Starboard+Astro+Touring+Inflatable+SUP&tag=nickpicks-20)
 
 **Why we love it:** Starboard is the dominant brand in competitive SUP racing and touring. The Astro Touring inflatable translates the company's hard-board expertise into an inflatable touring design: a narrower nose (pointed rather than round), longer waterline, and displacement hull profile that tracks straighter and moves faster for a given paddler effort than recreational shapes.
 
@@ -134,7 +134,7 @@ The Astro Touring is inappropriate for beginners—30" width requires balance th
 
 ### 4. Red Paddle Co Ride 10'8" — Best Durability / Build Quality
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Red+Paddle+Co+Ride+10'8+Inflatable+SUP&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Red+Paddle+Co+Ride+10'8+Inflatable+SUP&tag=nickpicks-20)
 
 **Why we love it:** Red Paddle Co's MSL (Monocoque Structural Laminate) construction is the most durable inflatable board material available—a military-grade fusion technology that eliminates the glue layer between drop-stitch and outer PVC. The Ride 10'8" has been drop-tested, rock-dragged, and salt-water abused in independent testing with zero delamination across 200+ hours. The board comes with Red Paddle's Titan pump, which inflates to 15 PSI in approximately 50% fewer strokes than standard pumps.
 
@@ -156,7 +156,7 @@ Red Paddle Co charges a premium and delivers it in durability and longevity. Use
 
 ### 5. Bote Flood Aero — Best for Fishing and Multi-Use
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Bote+Flood+Aero+Inflatable+Paddle+Board&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Bote+Flood+Aero+Inflatable+Paddle+Board&tag=nickpicks-20)
 
 **Why we love it:** The Bote Flood Aero is purpose-designed for SUP fishing. The wide nose (35") provides a stable casting platform; integrated AeroBOTE mounting rails accept BOTE's accessory ecosystem (cooler, tackle organizer, seating, cup holders). A 6" ultra-thick core at only 10'6" length creates maximum stability for stationary fishing without sacrificing portability. Includes a kayak seat conversion strap for paddle-less fishing.
 

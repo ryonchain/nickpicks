@@ -46,7 +46,7 @@ We evaluated sets across ten luxury houses, reviewing ingredient quality, effica
 
 ### 1. La Mer The Treatment Collection
 
-[Buy on Amazon →](https://www.amazon.com/s?k=La+Mer+Treatment+Collection+Gift+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=La+Mer+Treatment+Collection+Gift+Set&tag=nickpicks-20)
 
 **Why we love it:** La Mer's miracle broth—fermented sea kelp aged for three to four months—is the foundation of every product in this collection. The Treatment Collection bundles the iconic Crème de la Mer with the Concentrated Eye Cream, Renewal Oil, and Soft Fluid UV Foundation in signature La Mer packaging.
 
@@ -67,7 +67,7 @@ The Renewal Oil layers seamlessly beneath the Crème, locking in moisture while 
 
 ### 2. Sunday Riley C.E.O. Glow Kit
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Sunday+Riley+CEO+Gift+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Sunday+Riley+CEO+Gift+Set&tag=nickpicks-20)
 
 **Why we love it:** Sunday Riley's C.E.O. line is built around stabilized vitamin C (15-percent ascorbic acid with tetrahexyldecyl ascorbate)—one of the highest concentrations available in a consumer brightening product. The Glow Kit includes the C.E.O. Brightening Serum, the Vitamin C Brightening Eye Cream, and the moisturizing C.E.O. Afterglow Moisturizer.
 
@@ -88,7 +88,7 @@ Users in our review panel noticed measurable improvement in hyperpigmentation sp
 
 ### 3. Tatcha Dewy Skin Collection
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tatcha+Dewy+Skin+Collection+Gift+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tatcha+Dewy+Skin+Collection+Gift+Set&tag=nickpicks-20)
 
 **Why we love it:** Tatcha's philosophy draws on Japanese Hadasei-3—a trinity of green tea, rice bran, and algae—to create the signature "glassy skin" look coveted in Korean and Japanese beauty culture. The Dewy Skin Collection includes the Water Cream moisturizer, The Dewy Skin Mist, and the Luminous Dewy Skin Mask.
 
@@ -109,7 +109,7 @@ Tatcha's commitment to Hadasei-3 across every product in the line means cumulati
 
 ### 4. Clinique Moisture Surge Holiday Kit
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Clinique+Moisture+Surge+Gift+Set&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Clinique+Moisture+Surge+Gift+Set&tag=nickpicks-20)
 
 **Why we love it:** Clinique's Moisture Surge 100H Auto-Replenishing Hydrator is among the most dermatologist-recommended moisturizers for sensitive skin globally. The Holiday Kit bundles the full-size Moisture Surge 100H with travel sizes of the All About Clean Face Wash, the Moisture Surge Eye 96-Hour Gel and the Fan Fan Fan lip balm.
 
@@ -128,7 +128,7 @@ For teenagers transitioning to adult skincare, first-time luxury skincare recipi
 
 ### 5. SK-II Skin Power Couple Set
 
-[Buy on Amazon →](https://www.amazon.com/s?k=SK-II+Gift+Set+Pitera&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=SK-II+Gift+Set+Pitera&tag=nickpicks-20)
 
 **Why we love it:** SK-II built its legacy on Pitera—a naturally derived by-product of yeast fermentation discovered when Japanese sake brewery workers had remarkably young-looking hands. The Skin Power Couple Set pairs the iconic Facial Treatment Essence (90ml—the "miracle water") with the R.N.A.POWER Airy Milky Lotion.
 

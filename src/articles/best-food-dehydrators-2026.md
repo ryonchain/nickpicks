@@ -72,7 +72,7 @@ A built-in timer lets you set the dehydrator overnight without monitoring. Essen
 
 ### 1. Cosori CP267-FD Premium Food Dehydrator (10-Tray)
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Cosori+CP267+Food+Dehydrator+10+Tray&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Cosori+CP267+Food+Dehydrator+10+Tray&tag=nickpicks-20)
 
 **Why we love it:** The Cosori CP267 is the best food dehydrator under $200 for serious home use. The 10-tray capacity holds 17 square feet of drying space—enough for a 5-pound jerky batch or 15 pounds of fresh fruit. The rear-mounted fan and 600W heating system maintain temperature variance under ±2°F across all trays.
 
@@ -92,7 +92,7 @@ In testing, jerky dried uniformly across all 10 trays without rotation. Outer ed
 
 ### 2. Excalibur 9-Tray Digital Dehydrator (EXC900)
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Excalibur+9+Tray+EXC900+Food+Dehydrator&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Excalibur+9+Tray+EXC900+Food+Dehydrator&tag=nickpicks-20)
 
 **Why we love it:** Excalibur is the professional standard in food dehydrators—used by homesteaders, hunters, and cottage food businesses. The Parallax Horizontal Airflow system, combined with the 9-tray Poly Screen design, creates the most uniform drying environment in the category.
 
@@ -112,7 +112,7 @@ The removable door enables moisture escape during drying without creating hot sp
 
 ### 3. Nesco FD-75A Snackmaster Pro
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Nesco+FD-75A+Snackmaster+Pro+Dehydrator&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Nesco+FD-75A+Snackmaster+Pro+Dehydrator&tag=nickpicks-20)
 
 **Why we love it:** The Nesco Snackmaster Pro is the best entry-level dehydrator for occasional users. At under $100, it includes five trays (expandable to 12 with optional add-ons), an opaque exterior that blocks light-damage to nutrients, and Nesco's patented CONVERGA-FLOW system that forces heated air down the exterior and inward.
 
@@ -132,7 +132,7 @@ The compact stackable design stores in a kitchen cabinet without difficulty. For
 
 ### 4. BioChef Arizona Sol 6-Tray Food Dehydrator
 
-[Buy on Amazon →](https://www.amazon.com/s?k=BioChef+Arizona+Sol+6+Tray+Dehydrator&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=BioChef+Arizona+Sol+6+Tray+Dehydrator&tag=nickpicks-20)
 
 **Why we love it:** The BioChef Arizona Sol is the best stackable dehydrator for beginners who want more capacity than the Nesco without the size of a full box dehydrator. Six trays with a rear-mounted fan (unusual for stackable design) produce more uniform drying than top/bottom-fan competitors.
 
@@ -150,7 +150,7 @@ The 24-hour timer is BioChef's key advantage over Nesco—you can set it overnig
 
 ### 5. Magic Mill Commercial Food Dehydrator (10-Tray)
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Magic+Mill+Commercial+Food+Dehydrator+10+Tray&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Magic+Mill+Commercial+Food+Dehydrator+10+Tray&tag=nickpicks-20)
 
 **Why we love it:** The Magic Mill is the best choice for large families, hunting households, or cottage food businesses processing 10+ pounds per batch. Stainless steel construction (exterior and trays) provides commercial durability, and the adjustable dividers create flexible tray configurations for oddly-shaped items.
 

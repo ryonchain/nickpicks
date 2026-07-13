@@ -60,7 +60,7 @@ Regular skin has 15–20 layers of stratum corneum cells providing a robust barr
 
 ### 1. Laneige Lip Sleeping Mask
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Laneige+Lip+Sleeping+Mask+Berry&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Laneige+Lip+Sleeping+Mask+Berry&tag=nickpicks-20)
 
 **Why we love it:** Laneige Lip Sleeping Mask is the best-selling lip product on Amazon and among the most-repurchased beauty items globally. The formula uses Laneige's MOIST-WRAP technology — a hyaluronic acid and berry extract complex in a thick, glossy base that creates a seal over lips during sleep, allowing 7–8 hours of continuous moisture delivery. Morning lip condition after one use is measurably different from any standard overnight balm.
 
@@ -80,7 +80,7 @@ The texture is the specific achievement: most overnight lip treatments are simpl
 
 ### 2. Summer Fridays Lip Butter Balm
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Summer+Fridays+Lip+Butter+Balm&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Summer+Fridays+Lip+Butter+Balm&tag=nickpicks-20)
 
 **Why we love it:** Summer Fridays Lip Butter Balm is the crossover product between skincare treatment and luxury lip gloss. The formula uses a peptide complex alongside shea butter, cocoa butter, and jojoba oil to hydrate and plump simultaneously. The texture is thick and glossy without the stickiness of standard glosses — it applies like a balm, wears like a treatment, and looks like a sophisticated clear gloss.
 
@@ -100,7 +100,7 @@ The peptide inclusion is what separates Summer Fridays from standard butter balm
 
 ### 3. Sara Happ The Lip Slip
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Sara+Happ+The+Lip+Slip+One+Luxe+Gloss&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Sara+Happ+The+Lip+Slip+One+Luxe+Gloss&tag=nickpicks-20)
 
 **Why we love it:** Sara Happ is a cult luxury lip brand with devoted followers in the beauty industry. The Lip Slip uses a shea butter and vitamin E base in a high-gloss formula that's thicker than a standard gloss and more cosmetically elegant than a medical-grade occlusive. Celebrity makeup artists routinely use The Lip Slip as a prep treatment before filming — the product creates the optimal lip canvas for any lip product applied after it.
 
@@ -120,7 +120,7 @@ What The Lip Slip achieves that balms don't is a plumping optical effect through
 
 ### 4. Tatcha Kissu Lip Mask
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tatcha+Kissu+Lip+Mask&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tatcha+Kissu+Lip+Mask&tag=nickpicks-20)
 
 **Why we love it:** Tatcha's Kissu Lip Mask uses a Japanese botanical complex featuring squalane, hyaluronic acid, and Japanese wild rose extract in a clear, fragrance-free formula. The squalane delivers the same non-comedogenic barrier sealing that works on facial skin — on lips, it creates a breathable moisture seal without the occlusive heaviness of petroleum-based alternatives.
 
@@ -140,7 +140,7 @@ Tatcha's formulation philosophy is apparent in the Kissu: no fragrance, no color
 
 ### 5. Fresh Sugar Advanced Therapy Lip Treatment
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Fresh+Sugar+Advanced+Therapy+Lip+Treatment+SPF&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Fresh+Sugar+Advanced+Therapy+Lip+Treatment+SPF&tag=nickpicks-20)
 
 **Why we love it:** Fresh Sugar is the only lip treatment on this list that includes meaningful SPF protection — lips have zero natural UV protection, making them among the highest-risk areas for UV-induced premature aging and skin cancer. The Sugar Advanced Therapy formula balances SPF 15 protection with a genuine moisturizing treatment base of meadowfoam seed oil, shea butter, and Vitamin E.
 

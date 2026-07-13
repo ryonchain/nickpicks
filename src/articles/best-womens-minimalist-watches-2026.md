@@ -56,7 +56,7 @@ The minimalist aesthetic requires restraint in case size. The standard for women
 
 ### 1. Daniel Wellington Classic Petite
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Daniel+Wellington+Classic+Petite+Women+Watch&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Daniel+Wellington+Classic+Petite+Women+Watch&tag=nickpicks-20)
 
 **Why we love it:** Daniel Wellington defined the contemporary minimalist watch aesthetic. The Classic Petite (28mm) and Classic (32mm) feature ultra-clean dials with no text other than the brand name, elegant dauphine hands, and a slim case profile that sits flat under cuffs. The interchangeable strap system is genuinely useful — one watch case, unlimited strap combinations for different outfits.
 
@@ -76,7 +76,7 @@ The DW Classic Petite has become a watch wardrobe staple because the aesthetic w
 
 ### 2. Nordgreen Native
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Nordgreen+Native+Women+Watch&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Nordgreen+Native+Women+Watch&tag=nickpicks-20)
 
 **Why we love it:** Nordgreen is a Danish brand designed by Jakob Wagner (the industrial designer behind some of Bang & Olufsen's most celebrated products). The Native's signature feature is the minimalist arrow hand — a design that simultaneously indicates time and decorates the dial without adding visual clutter. At this price range, the sapphire crystal is exceptional value.
 
@@ -96,7 +96,7 @@ The sapphire crystal is the standout value proposition at Nordgreen's price. Mos
 
 ### 3. MVMT Women's Bloom Series
 
-[Buy on Amazon →](https://www.amazon.com/s?k=MVMT+Bloom+Women+Watch+Minimalist&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=MVMT+Bloom+Women+Watch+Minimalist&tag=nickpicks-20)
 
 **Why we love it:** MVMT launched as a DTC watch brand targeting young professionals who wanted fashion-forward minimalism without luxury watch pricing. The Bloom series achieves a distinctive aesthetic: rose-gold or gold tones with sunray-textured dials that catch light differently throughout the day, giving a sophisticated shimmer without any additional decoration. The 36mm case reads modern and gender-neutral.
 
@@ -116,7 +116,7 @@ MVMT's design language is more fashion-forward than DW or Nordgreen — the sunr
 
 ### 4. Tissot Everytime Small
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Tissot+Everytime+Small+Women+Watch&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Tissot+Everytime+Small+Women+Watch&tag=nickpicks-20)
 
 **Why we love it:** Tissot is Swiss watchmaking at the most accessible entry point — and the Everytime Small (30mm) delivers genuine Swiss heritage and manufacturing quality. The movement is a Swiss ETA quartz caliber, more accurate and more serviceable than Japanese alternatives. The dial uses applied hour markers (raised indices, not printed) which catch light and look substantially more expensive than the price suggests.
 
@@ -136,7 +136,7 @@ MVMT's design language is more fashion-forward than DW or Nordgreen — the sunr
 
 ### 5. Larsson & Jennings Lugano
 
-[Buy on Amazon →](https://www.amazon.com/s?k=Larsson+%26+Jennings+Lugano+Women+Watch&tag=YOURTAG-20)
+[Buy on Amazon →](https://www.amazon.com/s?k=Larsson+%26+Jennings+Lugano+Women+Watch&tag=nickpicks-20)
 
 **Why we love it:** Larsson & Jennings is a Swedish-British brand that has built a devoted following through exceptional strap quality and quiet luxury design. The Lugano features an ultra-slim case, a lacquered dial with a depth that photographs can't fully capture, and a strap construction that — unusually for watches at this price — uses full-grain leather with visible grain and natural variation.
 
