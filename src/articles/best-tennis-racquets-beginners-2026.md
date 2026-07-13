@@ -9,7 +9,7 @@ author: Nick
 affiliate: amazon
 category: fitness
 tags: [tennis-racquet, beginner-tennis-racquet, wilson-tennis, babolat-tennis, best-tennis-racquet-2026, sports-gear, tennis-for-beginners]
-canonical: https://nickpicks.com/articles/best-tennis-racquets-beginners-2026/
+canonical: https://nickpicks.net/articles/best-tennis-racquets-beginners-2026/
 permalink: /articles/best-tennis-racquets-beginners-2026/index.html
 ---
 

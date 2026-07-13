@@ -3,11 +3,11 @@ title: "Best Blue Light Blocking Glasses for Remote Workers 2026"
 description: "The best blue light blocking glasses for remote workers in 2026. Beat digital eye strain, headaches, and disrupted sleep from all-day screen work with these top-rated picks."
 date: 2026-07-02
 tags: ["best blue light blocking glasses remote workers", "blue light glasses", "computer glasses remote work", "eye strain home office", "digital eye strain 2026"]
-canonicalUrl: "https://nickpicks.com/wellness/best-blue-light-blocking-glasses-remote-workers-2026/"
+canonicalUrl: "https://nickpicks.net/wellness/best-blue-light-blocking-glasses-remote-workers-2026/"
 layout: article.njk
 ogTitle: "Best Blue Light Blocking Glasses for Remote Workers 2026"
 ogDescription: "Beat digital eye strain and sleep disruption from 8-12 hour screen days. Our top blue light glasses picks for remote workers, ranked by lens quality, comfort, and value."
-ogImage: "https://nickpicks.com/images/blue-light-glasses-remote-workers.jpg"
+ogImage: "https://nickpicks.net/images/blue-light-glasses-remote-workers.jpg"
 ---
 
 # Best Blue Light Blocking Glasses for Remote Workers 2026

@@ -9,7 +9,7 @@ author: Nick
 affiliate: amazon
 category: fitness
 tags: [swim-tracker, waterproof-fitness-tracker, swim-watch, garmin-swim, swimming-wearable, lap-counter, best-swim-tracker-2026]
-canonical: https://nickpicks.com/articles/best-swim-fitness-trackers-2026/
+canonical: https://nickpicks.net/articles/best-swim-fitness-trackers-2026/
 permalink: /articles/best-swim-fitness-trackers-2026/index.html
 ---
 

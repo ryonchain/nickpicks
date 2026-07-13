@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Portable Car GPS 2026",
   "description": "Top-rated portable car GPS navigation systems for 2026.",
-  "url": "https://nickpicks.com/car-accessories/best-portable-car-gps-navigation-systems-2026",
+  "url": "https://nickpicks.net/car-accessories/best-portable-car-gps-navigation-systems-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

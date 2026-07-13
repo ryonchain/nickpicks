@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Car Seat Covers 2026",
   "description": "Top-rated car seat covers and cushions for 2026 including leather, neoprene, and memory foam options.",
-  "url": "https://nickpicks.com/car-accessories/best-car-seat-covers-cushions-2026",
+  "url": "https://nickpicks.net/car-accessories/best-car-seat-covers-cushions-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

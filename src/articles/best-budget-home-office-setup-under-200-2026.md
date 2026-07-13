@@ -3,11 +3,11 @@ title: "Best Budget Home Office Setup Under $200 (2026)"
 description: "Transform your desk for under $200. The best desk accessories, monitor risers, cable management, and ergonomic upgrades to build a productive home office on a budget."
 date: 2026-07-02
 tags: ["budget home office setup under 200", "home office desk accessories 2026", "best desk lamp 2026", "monitor riser home office", "cable management desk 2026"]
-canonicalUrl: "https://nickpicks.com/home-office/best-budget-home-office-setup-under-200-2026/"
+canonicalUrl: "https://nickpicks.net/home-office/best-budget-home-office-setup-under-200-2026/"
 layout: article.njk
 ogTitle: "Best Budget Home Office Setup Under $200 (2026)"
 ogDescription: "Transform your desk for under $200. Monitor risers, desk lamps, cable management, mouse pads, and chair cushions — the complete budget desk upgrade guide."
-ogImage: "https://nickpicks.com/images/budget-home-office-setup-under-200.jpg"
+ogImage: "https://nickpicks.net/images/budget-home-office-setup-under-200.jpg"
 ---
 
 # Best Budget Home Office Setup Under $200 (2026)

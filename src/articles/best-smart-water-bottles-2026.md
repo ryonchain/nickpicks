@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Smart Water Bottles 2026",
   "description": "Top-rated smart water bottles of 2026 reviewed for hydration tracking, temperature display, app integration, and battery life.",
-  "url": "https://nickpicks.com/best-smart-water-bottles-2026",
+  "url": "https://nickpicks.net/best-smart-water-bottles-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Jump Starters 2026",
   "description": "Top-rated portable lithium jump starters and emergency car kits for 2026.",
-  "url": "https://nickpicks.com/car-accessories/best-jump-starters-emergency-car-kits-2026",
+  "url": "https://nickpicks.net/car-accessories/best-jump-starters-emergency-car-kits-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

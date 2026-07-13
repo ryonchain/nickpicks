@@ -3,11 +3,11 @@ title: "Best Budget Trackers and Finance Apps for Freelancers 2026"
 description: "The best budget trackers and finance apps for freelancers in 2026. Track irregular income, manage quarterly taxes, invoice clients, and stay on top of business expenses — all in one place."
 date: 2026-07-02
 tags: ["best finance apps freelancers", "budget tracker freelancer 2026", "freelance accounting app", "self-employed finance tools", "quarterly tax tracker freelancer"]
-canonicalUrl: "https://nickpicks.com/finance/best-budget-trackers-finance-apps-freelancers-2026/"
+canonicalUrl: "https://nickpicks.net/finance/best-budget-trackers-finance-apps-freelancers-2026/"
 layout: article.njk
 ogTitle: "Best Budget Trackers and Finance Apps for Freelancers 2026"
 ogDescription: "Irregular income, quarterly taxes, client invoicing — freelancers need different financial tools than employees. Here are the best apps for self-employed money management."
-ogImage: "https://nickpicks.com/images/freelancer-finance-apps.jpg"
+ogImage: "https://nickpicks.net/images/freelancer-finance-apps.jpg"
 ---
 
 # Best Budget Trackers and Finance Apps for Freelancers 2026

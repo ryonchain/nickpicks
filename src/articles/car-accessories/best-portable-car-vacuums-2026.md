@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Portable Car Vacuums 2026",
   "description": "Top-rated portable car vacuums for 2026 including cordless and corded options.",
-  "url": "https://nickpicks.com/car-accessories/best-portable-car-vacuums-2026",
+  "url": "https://nickpicks.net/car-accessories/best-portable-car-vacuums-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

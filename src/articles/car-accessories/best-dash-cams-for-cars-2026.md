@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Dash Cams for Cars 2026",
   "description": "Top-rated dash cams for cars in 2026 with 4K video, dual channels, and parking mode.",
-  "url": "https://nickpicks.com/car-accessories/best-dash-cams-for-cars-2026",
+  "url": "https://nickpicks.net/car-accessories/best-dash-cams-for-cars-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

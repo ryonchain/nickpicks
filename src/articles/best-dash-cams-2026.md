@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Dash Cams 2026",
   "description": "Top-rated dash cams of 2026 with 4K resolution, front and rear coverage, parking mode, and cloud backup.",
-  "url": "https://nickpicks.com/best-dash-cams-2026",
+  "url": "https://nickpicks.net/best-dash-cams-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

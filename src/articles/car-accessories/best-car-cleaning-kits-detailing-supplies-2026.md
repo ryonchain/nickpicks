@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Car Cleaning Kits 2026",
   "description": "Top-rated car cleaning kits and detailing supplies for 2026.",
-  "url": "https://nickpicks.com/car-accessories/best-car-cleaning-kits-detailing-supplies-2026",
+  "url": "https://nickpicks.net/car-accessories/best-car-cleaning-kits-detailing-supplies-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

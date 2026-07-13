@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Indoor Plant Grow Lights 2026",
   "description": "Top-rated full-spectrum LED grow lights for indoor plants, reviewed for spectrum quality, coverage, and timer features.",
-  "url": "https://nickpicks.com/best-indoor-plant-grow-lights-2026",
+  "url": "https://nickpicks.net/best-indoor-plant-grow-lights-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

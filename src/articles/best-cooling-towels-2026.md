@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Cooling Towels 2026",
   "description": "Top-rated cooling towels of 2026 reviewed for athletes, hot weather use, material quality, and reusability.",
-  "url": "https://nickpicks.com/best-cooling-towels-2026",
+  "url": "https://nickpicks.net/best-cooling-towels-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

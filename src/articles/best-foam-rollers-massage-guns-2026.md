@@ -9,7 +9,7 @@ author: Nick
 affiliate: amazon
 category: fitness
 tags: [foam-roller, massage-gun, theragun, hyperice, recovery-tools, muscle-recovery-2026, myofascial-release, athlete-recovery]
-canonical: https://nickpicks.com/articles/best-foam-rollers-massage-guns-2026/
+canonical: https://nickpicks.net/articles/best-foam-rollers-massage-guns-2026/
 permalink: /articles/best-foam-rollers-massage-guns-2026/index.html
 ---
 

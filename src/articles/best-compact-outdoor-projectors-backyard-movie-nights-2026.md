@@ -3,11 +3,11 @@ title: "Best Compact Outdoor Projectors for Backyard Movie Nights 2026"
 description: "The best compact outdoor projectors for backyard movie nights in 2026. We compare brightness, portability, battery life, and picture quality for summer outdoor cinema setups."
 date: 2026-07-02
 tags: ["best outdoor projectors backyard", "compact outdoor projector 2026", "backyard movie night projector", "portable projector outdoor", "best projector under 500"]
-canonicalUrl: "https://nickpicks.com/outdoor/best-compact-outdoor-projectors-backyard-2026/"
+canonicalUrl: "https://nickpicks.net/outdoor/best-compact-outdoor-projectors-backyard-2026/"
 layout: article.njk
 ogTitle: "Best Compact Outdoor Projectors for Backyard Movie Nights 2026"
 ogDescription: "Turn your backyard into a summer cinema. Top compact outdoor projectors ranked by brightness, portability, and picture quality — from $100 to $500."
-ogImage: "https://nickpicks.com/images/outdoor-projectors-backyard.jpg"
+ogImage: "https://nickpicks.net/images/outdoor-projectors-backyard.jpg"
 ---
 
 # Best Compact Outdoor Projectors for Backyard Movie Nights 2026

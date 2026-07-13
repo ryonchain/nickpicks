@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Car Phone Mounts 2026",
   "description": "Top-rated car phone mounts and holders for 2026 including MagSafe and wireless charging options.",
-  "url": "https://nickpicks.com/car-accessories/best-car-phone-mounts-holders-2026",
+  "url": "https://nickpicks.net/car-accessories/best-car-phone-mounts-holders-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

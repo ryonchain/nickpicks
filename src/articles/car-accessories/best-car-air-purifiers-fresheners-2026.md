@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Car Air Purifiers 2026",
   "description": "Top-rated car air purifiers and fresheners for 2026 including HEPA and ionizer models.",
-  "url": "https://nickpicks.com/car-accessories/best-car-air-purifiers-fresheners-2026",
+  "url": "https://nickpicks.net/car-accessories/best-car-air-purifiers-fresheners-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

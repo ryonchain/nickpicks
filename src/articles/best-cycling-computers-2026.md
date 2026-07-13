@@ -9,7 +9,7 @@ author: Nick
 affiliate: amazon
 category: fitness
 tags: [cycling-computer, gps-bike-computer, garmin-edge, wahoo-elemnt, bike-gps, cycling-gear-2026, best-cycling-computer]
-canonical: https://nickpicks.com/articles/best-cycling-computers-2026/
+canonical: https://nickpicks.net/articles/best-cycling-computers-2026/
 permalink: /articles/best-cycling-computers-2026/index.html
 ---
 

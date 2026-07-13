@@ -14,7 +14,7 @@ affiliate: amazon
   "@type": "ItemList",
   "name": "Best Tire Inflators 2026",
   "description": "Top-rated tire inflators and portable air compressors for 2026.",
-  "url": "https://nickpicks.com/car-accessories/best-tire-inflators-portable-air-compressors-2026",
+  "url": "https://nickpicks.net/car-accessories/best-tire-inflators-portable-air-compressors-2026",
   "itemListElement": [
     {
       "@type": "ListItem",

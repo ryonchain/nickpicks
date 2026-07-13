@@ -3,11 +3,11 @@ title: "Best Baby & Toddler Tech 2026 — Gear That Actually Makes Parenting Eas
 description: "The best baby and toddler tech gear in 2026. Baby monitors, white noise machines, and smart baby gadgets that genuinely make the early years less exhausting."
 date: 2026-07-02
 tags: ["best baby tech 2026", "best baby monitor 2026", "toddler tech gear", "white noise machine baby", "smart baby gear 2026"]
-canonicalUrl: "https://nickpicks.com/baby/best-baby-toddler-tech-gear-2026/"
+canonicalUrl: "https://nickpicks.net/baby/best-baby-toddler-tech-gear-2026/"
 layout: article.njk
 ogTitle: "Best Baby & Toddler Tech 2026 — Gear That Actually Makes Parenting Easier"
 ogDescription: "Gear that actually makes parenting easier. Baby monitors, white noise machines, smart baby gadgets — picks that solve real problems in the first years."
-ogImage: "https://nickpicks.com/images/best-baby-toddler-tech-2026.jpg"
+ogImage: "https://nickpicks.net/images/best-baby-toddler-tech-2026.jpg"
 ---
 
 # Best Baby & Toddler Tech 2026 — Gear That Actually Makes Parenting Easier

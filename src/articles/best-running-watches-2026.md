@@ -9,7 +9,7 @@ author: Nick
 affiliate: amazon
 category: fitness
 tags: [running-watch, gps-running-watch, garmin-forerunner, heart-rate-monitor, running-gear, sports-watch-2026, best-running-watch]
-canonical: https://nickpicks.com/articles/best-running-watches-2026/
+canonical: https://nickpicks.net/articles/best-running-watches-2026/
 permalink: /articles/best-running-watches-2026/index.html
 ---
 

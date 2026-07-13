@@ -3,11 +3,11 @@ title: "Best Garden & Outdoor Gadgets 2026 — Smarter Ways to Spend Time Outsid
 description: "The best garden and outdoor gadgets in 2026. Solar lights, smart sprinklers, outdoor speakers, and more — tech that makes your outdoor space easier to maintain and more enjoyable."
 date: 2026-07-02
 tags: ["best garden gadgets 2026", "smart garden outdoor tech", "solar garden lights", "smart sprinkler 2026", "outdoor gadgets Amazon"]
-canonicalUrl: "https://nickpicks.com/garden/best-garden-outdoor-gadgets-2026/"
+canonicalUrl: "https://nickpicks.net/garden/best-garden-outdoor-gadgets-2026/"
 layout: article.njk
 ogTitle: "Best Garden & Outdoor Gadgets 2026 — Smarter Ways to Spend Time Outside"
 ogDescription: "Smarter ways to spend time outside. Solar lights, smart sprinklers, outdoor speakers, and garden tech that genuinely improves how your yard looks and functions."
-ogImage: "https://nickpicks.com/images/best-garden-outdoor-gadgets-2026.jpg"
+ogImage: "https://nickpicks.net/images/best-garden-outdoor-gadgets-2026.jpg"
 ---
 
 # Best Garden & Outdoor Gadgets 2026 — Smarter Ways to Spend Time Outside
