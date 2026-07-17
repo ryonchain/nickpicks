@@ -8,7 +8,7 @@ amazonTag: "nickpicks-20"
 faqs:
   - question: "What makes a space heater good for a home office?"
     answer: "For home office use, four things matter: noise level (quiet operation that doesn't disrupt calls or focus), size (compact enough to sit on or under a desk without taking up workspace), precise thermostat control (maintain a comfortable temp without overheating the room), and energy efficiency. Office heaters also benefit from safety features like auto-shutoff when tipped over or overheated."
-  - question: "Are under-desk space heaters safe?",
+  - question: "Are under-desk space heaters safe?"
     answer: "Under-desk heaters designed for that purpose (like the Vornado MVH or the Lifesmart flat panel) are safe when positioned correctly: maintain 3 feet of clearance from office chair casters, power strips, cables, and paper. Never run cords under a rug or carpet to reach the heater. Don't leave running when you leave the desk area. Under-desk electric heaters without open flames or heating elements are significantly safer than portable ceramic heaters near cable-heavy desks."
   - question: "How much does it cost to run a desk space heater?",
     answer: "A typical 750W desk heater costs about 7–10 cents per hour at average US electricity rates. An 8-hour workday = $0.56–$0.80/day, or $14–$20/month. Compare to raising your thermostat 5–10°F for the whole house — typically $30–$60/month per zone. Heating only your office with a portable heater at lower thermostat settings saves $10–$40/month."
