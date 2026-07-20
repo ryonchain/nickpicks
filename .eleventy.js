@@ -5,7 +5,7 @@ async function imageShortcode(src, alt, sizes) {
     widths: [400, 800, 1200],
     formats: ["webp", "jpeg"],
     outputDir: "./_site/images/optimized/",
-    urlPath: "/nickpicks/images/optimized/",
+    urlPath: "/images/optimized/",
   });
   return Image.generateHTML(metadata, {
     alt: alt || "",
@@ -241,10 +241,10 @@ module.exports = function(eleventyConfig) {
   });
 
   // Global data
-  eleventyConfig.addGlobalData("siteUrl", "https://ryonchain.github.io/nickpicks");
+  eleventyConfig.addGlobalData("siteUrl", "https://nickpicks.net");
 
   return {
-    pathPrefix: "/nickpicks/",
+    pathPrefix: "/",
     dir: {
       input: "src",
       output: "_site",
